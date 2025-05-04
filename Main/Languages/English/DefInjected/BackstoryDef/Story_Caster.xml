@@ -6,34 +6,31 @@
   <!-- EN: 切尔诺伯格事件幸存者 -->
   <AK_BackStory_Absinthe_Child.title>Chernobog Survivor</AK_BackStory_Absinthe_Child.title>
   <!-- EN: 幸存者 -->
-  <AK_BackStory_Absinthe_Child.titleShort>Base</AK_BackStory_Absinthe_Child.titleShort>
+  <AK_BackStory_Absinthe_Child.titleShort>Core</AK_BackStory_Absinthe_Child.titleShort>
   
   <!-- EN: 罗德岛的公开领袖，在内部拥有最高执行权。 -->
   <AK_BackStory_Amiya_Child.description>Not much is known about her earlier life, but {PAWN_nameDef} is the current public leader of Rhode Island and that's all that matters now.</AK_BackStory_Amiya_Child.description>
   <!-- EN: 罗德岛领导人 -->
-  <AK_BackStory_Amiya_Child.title>罗德岛领导人</AK_BackStory_Amiya_Child.title>
+  <AK_BackStory_Amiya_Child.title>R.I. Leadership</AK_BackStory_Amiya_Child.title>
   <!-- EN: 领导人 -->
-  <AK_BackStory_Amiya_Child.titleShort>领导人</AK_BackStory_Amiya_Child.titleShort>
+  <AK_BackStory_Amiya_Child.titleShort>Core</AK_BackStory_Amiya_Child.titleShort>
   
   <!-- EN: 莱茵生命能量科研究员，{PAWN_nameDef}。在罗德岛驻留期间则使用其原名作为代号以示区分。\n使用自制法杖以极具特色的源石技艺制衡敌人，但比起前线作战，本人更希望在后方承接专业研究及器械维护方面的工作。 -->
-  <AK_BackStory_Astgenne_Adult.description>莱茵生命能量科研究员，{PAWN_nameDef}。在罗德岛驻留期间则使用其原名作为代号以示区分。
-使用自制法杖以极具特色的源石技艺制衡敌人，但比起前线作战，本人更希望在后方承接专业研究及器械维护方面的工作。</AK_BackStory_Astgenne_Adult.description>
+  <AK_BackStory_Astgenne_Adult.description>After earning two Ph.D. degrees, {PAWN_nameDef} found employment in Rhine Lab. However, an Originium leak caused {PAWN_pronoun} to contract Oripathy along with {PAWN_pronoun} twin. The pair have come to Rhode Island for treatment. </AK_BackStory_Astgenne_Adult.description>
   <!-- EN: 莱茵生命能量科研究员 -->
-  <AK_BackStory_Astgenne_Adult.title>莱茵生命能量科研究员</AK_BackStory_Astgenne_Adult.title>
+  <AK_BackStory_Astgenne_Adult.title>Rhine Lab</AK_BackStory_Astgenne_Adult.title>
   <!-- EN: 能量科研究员 -->
-  <AK_BackStory_Astgenne_Adult.titleShort>能量科研究员</AK_BackStory_Astgenne_Adult.titleShort>
+  <AK_BackStory_Astgenne_Adult.titleShort>Core</AK_BackStory_Astgenne_Adult.titleShort>
   
   <!-- EN: 作为星极的妹妹，{PAWN_nameDef}本来应该成为和{PAWN_pronoun}姐姐一样优秀的星相学家。\n但{PAWN_pronoun}最后选择了被家人视为歪门邪道的科学，并因此最后脱离了家庭。 -->
-  <AK_BackStory_Astgenne_Child.description>作为星极的妹妹，{PAWN_nameDef}本来应该成为和{PAWN_pronoun}姐姐一样优秀的星相学家。
-但{PAWN_pronoun}最后选择了被家人视为歪门邪道的科学，并因此最后脱离了家庭。</AK_BackStory_Astgenne_Child.description>
+  <AK_BackStory_Astgenne_Child.description>The younger of sister of Astesia, {PAWN_nameDef} was pressured into studying astrology. This caused a schism, forcing {PAWN_nameDef} to leave home.。</AK_BackStory_Astgenne_Child.description>
   <!-- EN: 倔强的孩子 -->
-  <AK_BackStory_Astgenne_Child.title>倔强的孩子</AK_BackStory_Astgenne_Child.title>
+  <AK_BackStory_Astgenne_Child.title>Stubborn Child</AK_BackStory_Astgenne_Child.title>
   <!-- EN: 倔强的孩子 -->
-  <AK_BackStory_Astgenne_Child.titleShort>倔强的孩子</AK_BackStory_Astgenne_Child.titleShort>
+  <AK_BackStory_Astgenne_Child.titleShort>Core</AK_BackStory_Astgenne_Child.titleShort>
   
   <!-- EN: {PAWN_nameDef}小姐联系罗德岛，是为了寻找先其一步离开部族，外出游历的姐姐。\n来自黄沙中的孩子还没有各种为人处世的经验。 -->
-  <AK_BackStory_Beeswax_Child.description>{PAWN_nameDef}小姐联系罗德岛，是为了寻找先其一步离开部族，外出游历的姐姐。
-来自黄沙中的孩子还没有各种为人处世的经验。</AK_BackStory_Beeswax_Child.description>
+  <AK_BackStory_Beeswax_Child.description>Miss {PAWN_nameDef} contacted Rhodes Island in order to find a blood relative who had left the tribe first on a journey.\n The child from the deserts has no experience of the outside world.</AK_BackStory_Beeswax_Child.description>
   <!-- EN: 寻亲的孩子 -->
   <AK_BackStory_Beeswax_Child.title>寻亲的孩子</AK_BackStory_Beeswax_Child.title>
   <!-- EN: 寻亲的孩子 -->
