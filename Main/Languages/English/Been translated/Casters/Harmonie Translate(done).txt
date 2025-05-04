@@ -1,0 +1,92 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXMEDESC -->
+  <AK_Recruit_Harmonie.description>Ex-double agent Harmonie, now taking your orders.\nIt's true, she does hold no ill will toward anyone.</AK_Recruit_Harmonie.description>
+  <!-- EN: Harmonie -->
+  <AK_Recruit_Harmonie.name>Rosalie</AK_Recruit_Harmonie.name>
+  <!-- EN: Harmonie -->
+  <AK_Recruit_Harmonie.nickname>Harmonie</AK_Recruit_Harmonie.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Harmonie.surname>Caster</AK_Recruit_Harmonie.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 看样子{PAWN_pronoun}对自身情报的保密做的很好 -->
+  <AK_BackStory_Harmonie_Child.baseDesc>Looks like {PAWN_pronoun} did a great coverup on her own info.</AK_BackStory_Harmonie_Child.baseDesc>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Harmonie_Child.title>Resume Lost</AK_BackStory_Harmonie_Child.title>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Harmonie_Child.titleShort>Resume Lost</AK_BackStory_Harmonie_Child.titleShort>
+  
+  - EN: {PAWN_nameDef}，前维多利亚军方情报人员，现深池势力高级军官，以威灵顿公爵的外交使臣身份驻留罗德岛，协助罗德岛在维多利亚境内的部分事务。 -->
+  <AK_BackStory_Harmonie_Adult.baseDesc>{PAWN_nameDef}, ex-Victorian military intelligence officer, current high ranking officer of Dublinn. {PAWN_pronoun} is staying in Rhode Island as a diplomat on the behalf of Duke Wellington, helping with the day to day affairs involving Victoria.</AK_BackStory_Harmonie_Adult.baseDesc>
+  <!-- EN: 双面间谍 -->
+  <AK_BackStory_Harmonie_Adult.title>Double Agent</AK_BackStory_Harmonie_Adult.title>
+  <!-- EN: 双面间谍 -->
+  <AK_BackStory_Harmonie_Adult.titleShort>Double Agent</AK_BackStory_Harmonie_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 散漫？ -->
+  <AK_Trait_Harmonie.degreeDatas.0.label>Nonchalant?</AK_Trait_Harmonie.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}参加的数次外勤任务里，{PAWN_possessive}队友时常会在报告中形容{PAWN_pronoun}“严苛”“雷厉风行”，而被{PAWN_pronoun}帮助过的队友则说，总觉得自己好像做错了什么事，但对方也没有明说，只是继续按部就班地执行命令，完成任务。\n当然，{PAWN_pronoun}本人的报告还是和{PAWN_pronoun}平时的态度一样散漫。\n				 -->
+  <AK_Trait_Harmonie.degreeDatas.0.description>In the numerous field missions {PAWN_pronoun} has undertaken, {PAWN_possessive}'s teammates frequently describe her in their reports as "unforgiving" along with "swift and decisive," while those {PAWN_pronoun}'s helped out are often left feeling like they've made some kind of mistake–not that she actually tells them as such; she simply continues to carry out her orders, completing her mission in a rote manner. \nIt goes without saying, but just as Harmonie herself is typically lax, her own reports are every bit as sloppy.</AK_Trait_Harmonie.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +8
+  
+  <!-- EN: 双面间谍 -->
+  <AK_Trait_HarmonieSecond.degreeDatas.0.label>Double Agent</AK_Trait_HarmonieSecond.degreeDatas.0.label>
+  <!-- EN: 一名公爵使者驻舰可能给罗德岛带来多大的危险，我已经不愿意预测了。维多利亚的势力错综复杂，我们不断在调查中发现各位干员身份背景里的潜在风险......似乎大家都逐渐适应这种事情了。\n				 -->
+  <AK_Trait_HarmonieSecond.degreeDatas.0.description>I'm loathed to imagine the risk Rhodes Island is put in by accepting a duke's envoy aboard. Victoria's powers are a tangled web, and the more we investigate the more danger we find hidden in our operators' histories... It seems we've all grown accustomed to it, bit by bit.</AK_Trait_HarmonieSecond.degreeDatas.0.description>
+  Effect:
+  -Social impact +30%
+  -Trade price improvement +30%
+  
+  <!-- EN: 和弦 -->
+  <AK_Trait_HarmonieThird.degreeDatas.0.label>Harmonie</AK_Trait_HarmonieThird.degreeDatas.0.label>
+  <!-- EN: 在通过档案审核和入职测试后，{PAWN_nameDef}就不再提起自己的身份，既不以维多利亚公爵的使臣自居，也不表现出与深池或是维多利亚军方的任何关联。对于绝大多数干员来说，{PAWN_pronoun}只是罗德岛新来的一名活泼且颇有教养的维多利亚人。\n				 -->
+  <AK_Trait_HarmonieThird.degreeDatas.0.description>Since passing her file review and employment test, {PAWN_nameDef} has ceased to make mention of her identity, neither touting herself as a Victorian ducal emissary, nor displaying any ties to Dublinn or the Victorian Army. To the vast majority of operators, {PAWN_pronoun}'s just a new Victorian Rhodes Island arrival with a brisk step and a rather cultured upbringing. </AK_Trait_HarmonieThird.degreeDatas.0.description>
+  Effect:
+  -none
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 和弦 -->
+  <AK_Thought_Trait_Harmonie.stages.0.label>Harmonie</AK_Thought_Trait_Harmonie.stages.0.label>
+  <!-- EN: 我喜欢做的事，只是把人推到他们该去的地方，让那些互不相容的东西能演奏出一个协调的和弦罢了。 -->
+  <AK_Thought_Trait_Harmonie.stages.0.description>What I like to do is simply to place people where they should be, letting all the incoherent sounds to become a well orchestrated harmonious orchestra.</AK_Thought_Trait_Harmonie.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 和弦的法杖 -->
+  <AK_Weapon_Harmonie.label>Harmonie's Weapon</AK_Weapon_Harmonie.label>
+  <!-- EN: 一把结构简单的法杖，能够发挥出略低于使用者潜能的源石技艺，很难想象作为深池高层的和弦用的武器只有这个 -->
+  <AK_Weapon_Harmonie.description>A simply constructed staff capable of utilizing a originium technique slightly below the user's potential. It is hard to imagine that this is the only weapon used by a high-ranking member of the Dublinn forces such as Harmonie.</AK_Weapon_Harmonie.description>

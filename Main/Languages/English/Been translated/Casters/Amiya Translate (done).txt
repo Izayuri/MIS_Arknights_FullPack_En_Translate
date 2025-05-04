@@ -1,0 +1,77 @@
+OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: Keep fighting, Doctor.\nAmiya, leader of Rhodes Island, will fight alongside you. -->
+  <AK_Recruit_Amiya.description>TODO</AK_Recruit_Amiya.description>
+  <!-- EN: Amiya -->
+  <AK_Recruit_Amiya.name>TODO</AK_Recruit_Amiya.name>
+  <!-- EN: Amiya -->
+  <AK_Recruit_Amiya.nickname>TODO</AK_Recruit_Amiya.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Amiya.surname>Caster</AK_Recruit_Amiya.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 罗德岛的公开领袖，在内部拥有最高执行权。 -->
+  <AK_BackStory_Amiya_Child.baseDesc>Not much is known about her earlier life, but {PAWN_nameDef} is the current public leader of Rhode Island and that's all that matters now.</AK_BackStory_Amiya_Child.baseDesc>
+  <!-- EN: 罗德岛领导人 -->
+  <AK_BackStory_Amiya_Child.title>R.I. Leadership</AK_BackStory_Amiya_Child.title>
+  <!-- EN: 领导人 -->
+  <AK_BackStory_Amiya_Child.titleShort>Leader</AK_BackStory_Amiya_Child.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 救世的魔王 -->
+  <AK_Trait_Amiya.degreeDatas.0.label>Der Erlkonig</AK_Trait_Amiya.degreeDatas.0.label>
+  <!-- EN: “总有一天你会理解我的选择......原谅我。” -->
+  <AK_Trait_Amiya.degreeDatas.0.description>"One day you will understand my choice... forgive me."</AK_Trait_Amiya.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +15
+  -Mental break threshold -100%
+	<!-- EN: 奇美拉 -->
+  <AK_Trait_AmiyaSecond.degreeDatas.0.label>Chimera</AK_Trait_AmiyaSecond.degreeDatas.0.label>
+  <!-- EN: Due to her strange heritage, {PAWN_nameDef} displays shockingly powerful Arts for someone {PAWN_pronoun} age. There's no doubt she will make something of them in the future.-->
+  <AK_Trait_AmiyaSecond.degreeDatas.0.description>Due to her strange heritage, {PAWN_nameDef} displays shockingly powerful Arts for someone {PAWN_pronoun} age. There's no doubt she will make something of them in the future.</AK_Trait_AmiyaSecond.degreeDatas.0.description>
+  Effect:
+  -Psychic sensitivity +100%
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+ <!-- EN: 救世的魔王 -->
+  <AK_Thought_Trait_Amiya.stages.0.label>Der Erlkonig</AK_Thought_Trait_Amiya.stages.0.label>
+  <!-- EN: 那一天所看到的光景，想要呐喊却无法发出声音的绝望......希望能把这些，永远藏在记忆的最深处...... -->
+  <AK_Thought_Trait_Amiya.stages.0.description>The scene I saw that day, the despair of wanting to shout but unable to make a sound... I hope to hide these in the deepest part of my memory forever.</AK_Thought_Trait_Amiya.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 蓝色的戒指 -->
+  <AK_Weapon_Amiya.label>The blue ring</AK_Weapon_Amiya.label>
+  <!-- EN: 一串蓝色的戒指，内部有黑色的能量在涌动 -->
+  <AK_Weapon_Amiya.description>A series of blue rings, with black energy surging inside. Some of them have hairline fractures.</AK_Weapon_Amiya.description>

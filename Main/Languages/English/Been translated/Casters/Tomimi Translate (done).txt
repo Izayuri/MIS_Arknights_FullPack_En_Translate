@@ -1,0 +1,80 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXMEDESC -->
+  <AK_Recruit_Tomimi.description>Tomimi, Caster Operator, is currently undergoing special training in Rhodes Island.
+The purpose of the special training is to become an excellent Caster Operator!</AK_Recruit_Tomimi.description>
+  <!-- EN: Tomimi -->
+  <AK_Recruit_Tomimi.name>TODO</AK_Recruit_Tomimi.name>
+  <!-- EN: Tomimi -->
+  <AK_Recruit_Tomimi.nickname>TODO</AK_Recruit_Tomimi.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Tomimi.surname>Caster</AK_Recruit_Tomimi.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_nameDef}从小与嘉维尔就是朋友，在谁打架更厉害谁就是头头的萨尔贡部落里，嘉维尔毫无疑问是孩子王与所有孩子的崇拜对象，这也让与{PAWN_objective}朝夕相处的{PAWN_pronoun}对嘉维尔产生了几乎狂热的崇拜。\n{PAWN_pronoun}把飞行器轰下来可能只是因为很久没见的嘉维尔。 -->
+  <AK_BackStory_Tomimi_Child.baseDesc>{PAWN_nameDef} was friends with Gavial from a very young age. In Sargonese tribes whoever could fight the best was naturally the leader, and therefore Gavial was looked up upon by all the kids within the tribe. This also made {PAWN_nameDef}, who spent most of her time besides Gavial, to worship her fiercely.</AK_BackStory_Tomimi_Child.baseDesc>
+  <!-- EN: 嘉维尔的狂热粉丝 -->
+  <AK_BackStory_Tomimi_Child.title>Gavial's Number One Fan</AK_BackStory_Tomimi_Child.title>
+  <!-- EN: 嘉维尔的狂热粉丝 -->
+  <AK_BackStory_Tomimi_Child.titleShort>Gavial's Number One Fan</AK_BackStory_Tomimi_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，萨尔贡阿卡胡拉地区的阿达克利斯人，嘉维尔的同伴与支持者，曾试图以激进手段阻止嘉维尔返回罗德岛，未果，随后便同其一起来到罗德岛。\n承担术师干员职责，但经常会忘记，鉴于在战场上表现尚佳，暂不考虑改变{PAWN_possessive}干员定位。 -->
+  <AK_BackStory_Tomimi_Adult.baseDesc>{PAWN_nameDef}, an Archosauria from the Acahualla region of Sargon, is a friend and supporter to Gavial. She tried all sorts of radical ways to prevent Gavial from returning to Rhodes Island, but upon her failure, instead accompanied Gavial back to Rhodes Island. \nShe assumes the responsibilities of a Caster but often forgets that given her excellent performance on the battlefield, there are no plans to have her switch operator roles.</AK_BackStory_Tomimi_Adult.baseDesc>
+  <!-- EN: 阿达克利斯术士 -->
+  <AK_BackStory_Tomimi_Adult.title>Archosauria Caster</AK_BackStory_Tomimi_Adult.title>
+  <!-- EN: 阿达克利斯术士 -->
+  <AK_BackStory_Tomimi_Adult.titleShort>Archosauria Caster</AK_BackStory_Tomimi_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 粗尾巴 -->
+  <AK_Trait_Tomimi.degreeDatas.0.label>Thick Tail</AK_Trait_Tomimi.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的尾巴不知道为什么，它似乎正在越长越粗，已经到了妨碍日常生活的程度了，到底是保持原样，还是咬咬牙把尾巴瘦下去，{PAWN_pronoun}自己都拿不定主意。\n				 -->
+  <AK_Trait_Tomimi.degreeDatas.0.description>For some reason, {PAWN_nameDef}'s tail has been getting thicker and thicker to a point of being a nuisance in everyday activity. Whether to let it be or to try and go on a diet to make it thinner, {PAWN_nameDef} cant make up her mind.</AK_Trait_Tomimi.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -5
+  -Move speed -15%
+  -Global work speed -15%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 粗尾巴 -->
+  <AK_Thought_Trait_Tomimi.stages.0.label>粗尾巴</AK_Thought_Trait_Tomimi.stages.0.label>
+  <!-- EN: 尾巴，又长了啊，再这样长下去，真的会被人嫌弃的啊，呜呜......好烦恼。 -->
+  <AK_Thought_Trait_Tomimi.stages.0.description>The tail got thicker again, if it keeps on growing it will cause people to dislike me... what do I do...</AK_Thought_Trait_Tomimi.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 特米米的法杖 -->
+  <AK_Weapon_Tomimi.label>Tomimi's Weapon</AK_Weapon_Tomimi.label>
+  <!-- EN: 特米米的法杖，外形根据他们故乡的捕梦网做成。\n特米米对源石技艺的运用毫无章法且粗糙，而她的肉搏欲望也完全和对术师干员的需求背道而驰。 -->
+  <AK_Weapon_Tomimi.description>Tomimi's staff, it is shaped according to dream catchers utilized by Tomimi's tribe back home. \nTomimi's Originium arts is unorganized and crude, and her desires to engage in melee combat runs direcly against her role as a caster operator.</AK_Weapon_Tomimi.description>

@@ -1,0 +1,79 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXMEDESC -->
+  <AK_Recruit_Kjera.description>Saintess's Attendant Kjera, from the summit of the snowy mount she came.
+When troubles come knocking, seek a word or two from her—she'll comfort you.</AK_Recruit_Kjera.description>
+  <!-- EN: Kjera -->
+  <AK_Recruit_Kjera.name>Kjeragandr</AK_Recruit_Kjera.name>
+  <!-- EN: Kjera -->
+  <AK_Recruit_Kjera.nickname>TODO</AK_Recruit_Kjera.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Kjera.surname>Caster</AK_Recruit_Kjera.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_pronoun}在诞生时，以为天地间只有这片雪山，和生活在这片雪原上的人，{PAWN_pronoun}自然而然地对他们产生了亲近之感。{PAWN_pronoun}从未离开过谢拉格，{PAWN_pronoun}知道的，只有谢拉格这片土地，认识的，也只有生活在这片土地上的人。谢拉格人以为自己在依靠{PAWN_pronoun}，实际上，是不是{PAWN_pronoun}也在依靠谢拉格人呢？ -->
+  <AK_BackStory_Kjera_Child.baseDesc>When {PAWN_pronoun} was born, She thought there was only the snowcapped mountain between heaven and earth, and the people living on the snowfields, and She automatically felt close to those people. She had never left Kjerag before, and She only knew a land by that name, and was only acquainted with the people who lived upon it. The Kjerag people believed they were relying on Her, but in actuality, wasn't She relying on them too?</AK_BackStory_Kjera_Child.baseDesc>
+  <!-- EN: 耶拉冈德 -->
+  <AK_BackStory_Kjera_Child.title>Kjeragandr</AK_BackStory_Kjera_Child.title>
+  <!-- EN: 耶拉冈德 -->
+  <AK_BackStory_Kjera_Child.titleShort>Kjeragandr</AK_BackStory_Kjera_Child.titleShort>
+  
+  <!-- EN: 谢拉格圣女，恩雅·希瓦艾什，也就是干员初雪的侍女长，作为圣女的代表加入罗德岛。\n负责初雪秘密访问罗德岛的诸多对接事宜，除此之外，本人也十分享受干员生活，现作为术师干员活跃于各种任务中。 -->
+  <AK_BackStory_Kjera_Adult.baseDesc>Kjerag Saintess, Enya Silverash, Head Maid of Enya Silverash, joins Rhode Island as the representative of the Karlan Saintesses. \n{PAWN_pronoun} is responsible for the details of Enya's secret visit to Rhode Island, besides that she herself also enjoys the life of an operator very much.</AK_BackStory_Kjera_Adult.baseDesc>
+  <!-- EN: 侍女长 -->
+  <AK_BackStory_Kjera_Adult.title>Head Maid</AK_BackStory_Kjera_Adult.title>
+  <!-- EN: 侍女长 -->
+  <AK_BackStory_Kjera_Adult.titleShort>Head Maid</AK_BackStory_Kjera_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 耶拉冈德 -->
+  <AK_Trait_Kjera.degreeDatas.0.label>Kjeragandr</AK_Trait_Kjera.degreeDatas.0.label>
+  <!-- EN: {PAWN_pronoun}为什么会降生在这个世界上？如果守护谢拉格不是{PAWN_possessive}使命，那{PAWN_possessive}生命有何意义？\n{PAWN_pronoun}想要找到这个答案。\n				 -->
+  <AK_Trait_Kjera.degreeDatas.0.description>Why was{PAWN_pronoun} born in this world? If to protect Kjerag is not her life's mission, then what meaning does she have? \n{PAWN_pronoun} wants to find the answer to her questions.</AK_Trait_Kjera.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +10
+  -Mental break threshold -40%
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 耶拉冈德 -->
+  <AK_Thought_Trait_Kjera.stages.0.label>Kjeragandr</AK_Thought_Trait_Kjera.stages.0.label>
+  <!-- EN: 祈祷便能有回报，诚心便能得所求......要是真的存在这么方便的东西，我也想见一见呢。 -->
+  <AK_Thought_Trait_Kjera.stages.0.description>If one prays sincerely, he will get what he desires ...... \nIf something like this really exists, I'd like to see it.</AK_Thought_Trait_Kjera.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 耶拉冈德的浮游单元 -->
+  <AK_Weapon_Kjera.label>Kjera's Weapon</AK_Weapon_Kjera.label>
+  <!-- EN: 心随意动 -->
+  <AK_Weapon_Kjera.description>To the heart's desires</AK_Weapon_Kjera.description>

@@ -1,0 +1,85 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: Summon your courage to talk to her before she loses interest!\nComing on a whim, the great painter, Dusk, puts only the finishing touches on all jobs. -->
+  <AK_Recruit_Dusk.description>TODO</AK_Recruit_Dusk.description>
+  <!-- EN: Dusk -->
+  <AK_Recruit_Dusk.name>TODO</AK_Recruit_Dusk.name>
+  <!-- EN: Dusk -->
+  <AK_Recruit_Dusk.nickname>TODO</AK_Recruit_Dusk.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Dusk.surname>Caster</AK_Recruit_Dusk.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 其形亦伪 其物亦伪\n笔缀卷阖 如醉似痴 一夕烬尽 -->
+  <AK_BackStory_Dusk_Child.baseDesc>Their form is false. Their matter false.\nHalt brush, wind scroll: Foolish as wine. One dusk, to ash.</AK_BackStory_Dusk_Child.baseDesc>
+  <!-- EN: 神明碎片（其十一） -->
+  <AK_BackStory_Dusk_Child.title>The eleventh piece of fragment of a deity</AK_BackStory_Dusk_Child.title>
+  <!-- EN: 碎片 -->
+  <AK_BackStory_Dusk_Child.titleShort>fragment</AK_BackStory_Dusk_Child.titleShort>
+  
+  <!-- EN: 虽然{PAWN_nameDef}谢绝来客，但{PAWN_pronoun}说{PAWN_pronoun}偶然兴起还是会画画的。也有些干员说自己见过那些画，接下来就一直在说从没见过啦太美啦之类的没营养的话。\n然而根据嵯峨所言，{PAWN_pronoun}会满不在乎地把那些让人惊叹的作品随性地毁掉。 -->
+  <AK_BackStory_Dusk_Adult.baseDesc>While {PAWN_nameDef} refuses to see visitors, {PAWN_nameDef} has said {PAWN_pronoun} will continue to paint, occasionally. Some of our staff have seen her work, and find themselves struggling to express anything more interesting than "wow" or "so pretty." Saga, however, did say once that {PAWN_nameDef} is known to casually destroy those breathtaking pictures.</AK_BackStory_Dusk_Adult.baseDesc>
+  <!-- EN: 大画家 -->
+  <AK_BackStory_Dusk_Adult.title>Great Painter</AK_BackStory_Dusk_Adult.title>
+  <!-- EN: 大画家 -->
+  <AK_BackStory_Dusk_Adult.titleShort>Great Painter</AK_BackStory_Dusk_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 月隐晦明 -->
+  <AK_Trait_Dusk.degreeDatas.0.label>Hidden Moon</AK_Trait_Dusk.degreeDatas.0.label>
+  <!-- EN: 不以物喜，不以己悲。不会受到心灵干扰影响 -->
+  <AK_Trait_Dusk.degreeDatas.0.description>Unstirred by gain, unmoved by loss.</AK_Trait_Dusk.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -6
+  -Psychic sensitivity -40%
+  
+  <!-- EN: 尽波澜 -->
+  <AK_Trait_DuskSecond.degreeDatas.0.label>Till the Wave Ends</AK_Trait_DuskSecond.degreeDatas.0.label>
+  <!-- EN: 另片天地可比这里迷人太多了。从古至今看得破、离得开、忘得掉的，又有几人呢？ -->
+  <AK_Trait_DuskSecond.degreeDatas.0.description>The world I paint is much more fascinating than this one. How many have been lost, since ancient times, how many have escaped?</AK_Trait_DuskSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold +10%
+  
+    Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 尽波澜 -->
+  <AK_Thought_Trait_Dusk.stages.0.label>Till the Wave Ends</AK_Thought_Trait_Dusk.stages.0.label>
+  <!-- EN: 外面的世界，我不在乎了。不喜欢？我当然喜欢。山川风月，花羽林渊，贩夫走卒，老少男女，画不尽，也看不完，越不过，也走不出。我兴致尽了。 -->
+  <AK_Thought_Trait_Dusk.stages.0.description>I no longer care for the world outside. Do I dislike it? I like it fine. The mountains and rivers, the flowers and feathers, the pools and forests, the common folk, the elderly, I could paint forever, I could watch forever, and yet, I will not go. It does not hold my interest forever.</AK_Thought_Trait_Dusk.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 无题长卷 -->
+  <AK_Weapon_Dusk.label>The Scoll without Questions</AK_Weapon_Dusk.label>
+  <!-- EN: 以有形摹无垠，以无形应天下。 -->
+  <AK_Weapon_Dusk.description>Copy the infinite with the tangible, bring the intangible to life!</AK_Weapon_Dusk.description>

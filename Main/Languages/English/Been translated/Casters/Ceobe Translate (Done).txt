@@ -1,0 +1,101 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: Knocks 'em down one after another, fast and accurate.\nCeobe is always ready to go after the bad guys. -->
+  <AK_Recruit_Ceobe.description>TODO</AK_Recruit_Ceobe.description>
+  <!-- EN: Ceobe -->
+  <AK_Recruit_Ceobe.name>Ceobe</AK_Recruit_Ceobe.name>
+  <!-- EN: Ceobe -->
+  <AK_Recruit_Ceobe.nickname>Ceobe</AK_Recruit_Ceobe.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ceobe.surname>Caster</AK_Recruit_Ceobe.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_possessive}斧头上刻有古米诺斯语写的磨损很严重的字。因为想要知道自己的名字，所以才想要走去米诺斯，但是好像走错路了。{PAWN_pronoun}从玻利瓦尔出发，一路走到东方三国交界处，然后在那里折返，回来的时候又从北方绕了一个大圈，最后在莱塔尼亚被罗德岛救助。 -->
+  <AK_BackStory_Ceobe_Child.baseDesc>Born in Bolivar, Ceobe was born an orphan and wandered a lot in search of her name, picking up a ton of weapons as she grew up. One day, {PAWN_pronoun} was found by Rhodes Island in Lethania.</AK_BackStory_Ceobe_Child.baseDesc>
+  <!-- EN: 流浪者 -->
+  <AK_BackStory_Ceobe_Child.title>The Wanderer</AK_BackStory_Ceobe_Child.title>
+  <!-- EN: 流浪者 -->
+  <AK_BackStory_Ceobe_Child.titleShort>The Wanderer</AK_BackStory_Ceobe_Child.titleShort>
+  
+  <!-- EN: 在成为罗德岛干员后，每天吃好喝好打打坏人，对武器的异样渴求也因为受到医疗维护，矿石病缓和而减少了很多。{PAWN_pronoun}觉得这样的生活很安逸，很舒服，如果可以的话，{PAWN_pronoun}希望这样的时光能永远持续下去。\n只要有人能解开{PAWN_possessive}那把斧子的秘密。 -->
+  <AK_BackStory_Ceobe_Adult.baseDesc>After becoming a fully-fledged member in Rhodes Island, her daily routine of eating, drinking, and fighting, combined with medical treatment of her Oripathy, also alleviated her strange fixation upon collecting weapons.{PAWN_pronoun}has grown accustomed to her comfortable lifestyle, and hopes that her time can last forever if possible...\nAs long as someone can unlock the secret of her axe.</AK_BackStory_Ceobe_Adult.baseDesc>
+  <!-- EN: 吃好喝好打坏人！ -->
+  <AK_BackStory_Ceobe_Adult.title>Eat well, drink well, beat up bad guys well!</AK_BackStory_Ceobe_Adult.title>
+  <!-- EN: 傻狗 -->
+  <AK_BackStory_Ceobe_Adult.titleShort>Dumb Doggo</AK_BackStory_Ceobe_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 独行长路 -->
+  <AK_Trait_Ceobe.degreeDatas.0.label>Solitary Journey</AK_Trait_Ceobe.degreeDatas.0.label>
+  <!-- EN: 荒野之子终究归于荒野 -->
+  <AK_Trait_Ceobe.degreeDatas.0.description>The descendants of the wild belongs to the wilderness.</AK_Trait_Ceobe.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -20%
+  -Global work speed +10%
+  
+  <!-- EN: 傻狗子 -->
+  <AK_Trait_CeobeSecond.degreeDatas.0.label>Dumb Doggo</AK_Trait_CeobeSecond.degreeDatas.0.label>
+  <!-- EN: 可能是因为一直在流浪，远离社会的原因，{PAWN_nameDef}的心智相当低幼，\n尽管在罗德岛待了一段时间后相比以前已经好了许多，\n但是{PAWN_pronoun}依旧有很多东西需要学。 -->
+  <AK_Trait_CeobeSecond.degreeDatas.0.description>Possibly due to the fact that {PAWN_nameDef} had been wandering and was always distant from society, {PAWN_nameDef}'s beahviour is still quite adolescent,\n even though she had gotten much better compared to before due to spending some time in Rhode Island,\n {PAWN_pronoun} still has a long way to go learn.</AK_Trait_CeobeSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +20
+  -Global learning factor -60%
+  
+     Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+ <!-- EN: 傻狗子 -->
+  <AK_Thought_Trait_Ceobe.stages.0.label>Dumb Doggo</AK_Thought_Trait_Ceobe.stages.0.label>
+  <!-- EN: 咬你哦！\n				 -->
+  <AK_Thought_Trait_Ceobe.stages.0.description>I'll bite you!</AK_Thought_Trait_Ceobe.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+	<!-- EN: 刻俄柏的法杖 Ceobe staff --> 
+  <AK_Weapon_CeobeA.label>Ceobe staff</AK_Weapon_CeobeA.label>
+  <!-- EN: 能敲一个两个三个，又快又准。 -->
+  <AK_Weapon_CeobeA.description>Knocks 'em down one after another, fast and accurate.</AK_Weapon_CeobeA.description>
+  
+  <!-- EN: “很重的枪” Heavy Spear --> 
+  <AK_Weapon_CeobeB.label>"Really Heavy Spear"</AK_Weapon_CeobeB.label>
+  <!-- EN: 很重的枪 -->
+  <AK_Weapon_CeobeB.description>Really Heavy Spear</AK_Weapon_CeobeB.description>
+  
+   <!-- EN: “很热的刀” Ceobe knife --> 
+  <AK_Weapon_CeobeC.label>"Really Hot Knives"</AK_Weapon_CeobeC.label>
+  <!-- EN: 很热的刀 -->
+  <AK_Weapon_CeobeC.description>Really Hot Knives</AK_Weapon_CeobeC.description>
+  
+  <!-- EN: “很冰的斧” Ceobe axe --> 
+  <AK_Weapon_CeobeD.label>"Really Cold Axe"</AK_Weapon_CeobeD.label>
+  <!-- EN: 很冰的斧 -->
+  <AK_Weapon_CeobeD.description>Really Cold Axe</AK_Weapon_CeobeD.description>

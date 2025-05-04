@@ -1,0 +1,72 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: She was born to set things on fire, and it has become a hobby of hers.\nIfrit, former test subject of Rhine Lab, will incinerate all of Silence's enemies. -->
+  <AK_Recruit_Ifrit.description>TODO</AK_Recruit_Ifrit.description>
+  <!-- EN: Ifrit -->
+  <AK_Recruit_Ifrit.name>TODO</AK_Recruit_Ifrit.name>
+  <!-- EN: Ifrit -->
+  <AK_Recruit_Ifrit.nickname>TODO</AK_Recruit_Ifrit.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ifrit.surname>Caster</AK_Recruit_Ifrit.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 不要再触碰{PAWN_nameDef}了 -->
+  <AK_BackStory_Ifrit_Child.baseDesc>Dont't touch {PAWN_nameDef} again!</AK_BackStory_Ifrit_Child.baseDesc>
+  <!-- EN: 莱茵生命试验品 -->
+  <AK_BackStory_Ifrit_Child.title>Rhine L.L.C Test Subject</AK_BackStory_Ifrit_Child.title>
+  <!-- EN: 试验品 -->
+  <AK_BackStory_Ifrit_Child.titleShort>Test Subject</AK_BackStory_Ifrit_Child.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 炎魔 -->
+  <AK_Trait_Ifrit.degreeDatas.0.label>Diablo</AK_Trait_Ifrit.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}时常会出现幻觉，{PAWN_pronoun}会看到烧焦的尸体与动物，或者亲密的人烈火焚身。\n每当此时，{PAWN_pronoun}就会变得意识恍惚，因此烧掉一条走廊的事也不是没有。\n但当{PAWN_pronoun}陷入恍惚时，身后那个巨大的幻影是什么？ -->
+  <AK_Trait_Ifrit.degreeDatas.0.description>{PAWN_nameDef} is sensitive to stress and it often causes her to see hallucinations of her loved one's burnt corpses. \n Everytime this happens, {PAWN_nameDef} falls into a trance and sometimes burns down an entire hallway.</AK_Trait_Ifrit.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -12
+  -Mental break threshold +40%
+  -Psychic sensitivity +100%
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 炎魔 -->
+  <AK_Thought_Trait_Ifrit.stages.0.label>Diablo</AK_Thought_Trait_Ifrit.stages.0.label>
+  <!-- EN: \n					{0}时常会出现幻觉，她会看到烧焦的尸体与动物，或者亲密的人烈火焚身。\n					每当此时，她就会变得意识恍惚，因此烧掉一条走廊的事也不是没有。\n				 -->
+  <AK_Thought_Trait_Ifrit.stages.0.description>{PAWN_pronoun}is sensitive to stress and it often causes her to see hallucinations of her loved one's burnt corpses. \n Everytime this happens, {PAWN_nameDef} falls into a trance and sometimes burns down an entire hallway.</AK_Thought_Trait_Ifrit.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: W-0502 -->
+  <AK_Weapon_Ifrit.label>Ifrit's Weapon</AK_Weapon_Ifrit.label>
+  <!-- EN: 莱茵生命的杰作 -->
+  <AK_Weapon_Ifrit.description>A Masterpiece of Rhine LLC</AK_Weapon_Ifrit.description>

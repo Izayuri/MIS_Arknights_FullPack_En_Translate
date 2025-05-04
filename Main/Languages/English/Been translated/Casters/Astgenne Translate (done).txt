@@ -1,0 +1,91 @@
+OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXMEDESC -->
+  <AK_Recruit_Astgenne.description>Elena, Rhine Lab researcher. You may call her Astgenne on Rhodes Island./nShe is a spark of lightning as well as a trumpet by your side.</AK_Recruit_Astgenne.description>
+  <!-- EN: Astgenne -->
+  <AK_Recruit_Astgenne.name>Elena</AK_Recruit_Astgenne.name>
+  <!-- EN: Astgenne -->
+  <AK_Recruit_Astgenne.nickname>Astgenne</AK_Recruit_Astgenne.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Astgenne.surname>Urbica</AK_Recruit_Astgenne.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 作为星极的妹妹，{PAWN_nameDef}本来应该成为和{PAWN_pronoun}姐姐一样优秀的星相学家\n但{PAWN_pronoun}最后选择了被家人视为歪门邪道的科学，并因此最后脱离了家庭。 -->
+  <AK_BackStory_Astgenne_Child.baseDesc>The younger of sister of Astesia, {PAWN_nameDef} was pressured into studying astrology. This caused a schism, forcing {PAWN_nameDef} to leave home.</AK_BackStory_Astgenne_Child.baseDesc>
+  <!-- EN: 倔强的孩子 -->
+  <AK_BackStory_Astgenne_Child.title>Stubborn Child</AK_BackStory_Astgenne_Child.title>
+  <!-- EN: 倔强的孩子 -->
+  <AK_BackStory_Astgenne_Child.titleShort>Stubborn Child</AK_BackStory_Astgenne_Child.titleShort>
+  
+	<!-- EN: 莱茵生命能量科研究员，{PAWN_nameDef}。在罗德岛驻留期间则使用其原名作为代号以示区分。\n使用自制法杖以极具特色的源石技艺制衡敌人，但比起前线作战，本人更希望在后方承接专业研究及器械维护方面的工作。 -->
+  <AK_BackStory_Astgenne_Adult.baseDesc>After earning two Ph.D. degrees, {PAWN_nameDef} found employment in Rhine Lab. However, an Originium leak caused {PAWN_pronoun} to contract Oripathy along with {PAWN_pronoun} twin. The pair have come to Rhode Island for treatment.</AK_BackStory_Astgenne_Adult.baseDesc>
+  <!-- EN: 莱茵生命能量科研究源 -->
+  <AK_BackStory_Astgenne_Adult.title>Rhine Lab LLC Energy Department Researcher</AK_BackStory_Astgenne_Adult.title>
+  <!-- EN: 莱茵生命能量科研究源 -->
+  <AK_BackStory_Astgenne_Adult.titleShort>Rhine Lab LLC Energy Department Researcher</AK_BackStory_Astgenne_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 独立 -->
+  <AK_Trait_Astgenne.degreeDatas.0.label>Independent</AK_Trait_Astgenne.degreeDatas.0.label>
+  <!-- EN: {PAWN_pronoun}才不想做那虚幻飘渺的星，{PAWN_pronoun}想要成为光芒。\n				 -->
+  <AK_Trait_Astgenne.degreeDatas.0.description>{PAWN_nameDef} doesn't want to be an illusory, insignificant star. {PAWN_pronoun} wants to become a shining light.</AK_Trait_Astgenne.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +10
+  -Mental break threshold -15%
+	<!-- EN: Starlight Intersection -->
+  <AK_Trait_AstgenneSecond.degreeDatas.0.label>TODO</AK_Trait_AstgenneSecond.degreeDatas.0.label>
+  <!-- EN: 过去的就让它过去吧，未来，在自己手中\n				 -->
+  <AK_Trait_AstgenneSecond.degreeDatas.0.description>Let the bygones be bygones. The future is in my own hands.</AK_Trait_AstgenneSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +10
+  -Mental break threshold -10%
+  -Social impact +25%
+  
+    Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 星束交汇 -->
+  <AK_Thought_Trait_Astgenne.stages.0.label>Starlight Intersection</AK_Thought_Trait_Astgenne.stages.0.label>
+  <!-- EN: 哥伦比亚的科技日新月异，作为科研人员，我几乎看得到那个值得期待的未来。 -->
+  <AK_Thought_Trait_Astgenne.stages.0.description>Columbia's technology keeps advancing, and as a researcher, I can almost see that future I'm looking for. My dream is right there, and I'm going to make it come true.</AK_Thought_Trait_Astgenne.stages.0.description>
+  
+  <!-- EN: 独立 -->
+  <AK_Thought_Trait_AstgenneSecond.stages.0.label>Independent</AK_Thought_Trait_AstgenneSecond.stages.0.label>
+  <!-- EN: 某些人帮助他人是衷心希望别人能过上更好的生活，而另一些人，只是为了让受助者成为更有用的工具，他们从不在意你的想法，只是享受掌控你的滋味，头疼的很。 -->
+  <AK_Thought_Trait_AstgenneSecond.stages.0.description>There are those who help because they really want people to have a better life, but there are also those who help so they can use people as stepping stones. The latter is the worst.</AK_Thought_Trait_AstgenneSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 法术串联单元 -->
+  <AK_Weapon_Astgenne.label>Astgenne's Weapon</AK_Weapon_Astgenne.label>
+  <!-- EN: 以我电光，闪耀星空吧！ -->
+  <AK_Weapon_Astgenne.description>My lightning will illuminate the starry sky!</AK_Weapon_Astgenne.description>

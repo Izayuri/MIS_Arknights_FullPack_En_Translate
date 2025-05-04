@@ -1,0 +1,70 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXME -->
+  <AK_Recruit_Indigo.description>Caster Indigo, come bearing a light.
+Don't ask for her opinions on Rhodes Island's current lighting systems, unless you're looking forward to a deck-wide lightshow.</AK_Recruit_Indigo.description>
+  <!-- EN: Indigo -->
+  <AK_Recruit_Indigo.name>Aria</AK_Recruit_Indigo.name>
+  <!-- EN: Indigo -->
+  <AK_Recruit_Indigo.nickname>TODO</AK_Recruit_Indigo.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Indigo.surname>Caster</AK_Recruit_Indigo.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_nameDef}在从小就对家乡的灯塔产生了浓重的兴趣，并且在灯塔里遇见了{PAWN_possessive}老师\n家人无法理解{PAWN_possessive}选择，很快，{PAWN_pronoun}搬进了灯塔，陪伴着老师，开始了漫长的守望。 -->
+  <AK_BackStory_Indigo_Child.baseDesc>{PAWN_nameDef} was fascinated by the lighthouse of her home town at a very young age, thus when she met her mentor willing to teach her in the Iberian arts she immedietly acceped to move into a lighthouse d alongside her mentor, beginning her long watch as a lighthouse keeped.</AK_BackStory_Indigo_Child.baseDesc>
+  <!-- EN: 见习看守者 -->
+  <AK_BackStory_Indigo_Child.title>Apprentice Lighthouse Keeper</AK_BackStory_Indigo_Child.title>
+  <!-- EN: 看守者 -->
+  <AK_BackStory_Indigo_Child.titleShort>Lighthouse Keeper</AK_BackStory_Indigo_Child.titleShort>
+  
+  <!-- EN: 在一个风雨夜后，{PAWN_possessive}老师要求{PAWN_pronoun}认识更多人，经历更多事，才有资格回来接替自己。\n就这样，{PAWN_nameDef}踏上了旅途，在游历期间，与正执行外勤任务的蓝毒和格劳克斯相识并加入了罗德岛。 -->
+  <AK_BackStory_Indigo_Adult.baseDesc>In a stormy night {PAWN_nameDef}'s mentor told her that she must travel and learn more about the world inorder to take his place. \nThis is why {PAWN_nameDef} began her journey, which eventually led her to join Blue Poison and Glaucus at Rhode Island.</AK_BackStory_Indigo_Adult.baseDesc>
+  <!-- EN: 流浪术士 -->
+  <AK_BackStory_Indigo_Adult.title>Wandering Caster</AK_BackStory_Indigo_Adult.title>
+  <!-- EN: 流浪术士 -->
+  <AK_BackStory_Indigo_Adult.titleShort>Wandering Caster</AK_BackStory_Indigo_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	Indigo has none.
+	  
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Indigo has none.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 深靛的法杖 -->
+  <AK_Weapon_Indigo.label>Indigo's Weapon</AK_Weapon_Indigo.label>
+  <!-- EN: 深靛的法杖，能够使光从无形变为有形。\n深靛的心志就如她法杖发出来的光一样，或许最初微小，但始终稳定，并且在一点一点、毫无争议地变强。 -->
+  <AK_Weapon_Indigo.description>{PAWN_nameDef}'s staff is capable of changing light from formless to tangible. \n{PAWN_nameDef}'s mind is like the light emanating from her staff, perhaps initially dim, but always stable and getting brighter little by little.</AK_Weapon_Indigo.description>

@@ -1,0 +1,90 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXMEDESC -->
+  <AK_Recruit_Lin.description>The mystery character from Lungmen, helping you amidst the shadows.
+If you opt to trust her, then some questions you'll just have to swallow.</AK_Recruit_Lin.description>
+  <!-- EN: Yühsia -->
+  <AK_Recruit_Lin.name>Yühsia</AK_Recruit_Lin.name>
+  <!-- EN: Lin -->
+  <AK_Recruit_Lin.nickname>TODO</AK_Recruit_Lin.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Lin.surname>Lin</AK_Recruit_Lin.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 本人提供的档案资料信息十分有限，同样存疑。 -->
+  <AK_BackStory_Lin_Child.baseDesc>{PAWN_nameDef} provides little to no information on herself.</AK_BackStory_Lin_Child.baseDesc>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Lin_Child.title>Info Missing</AK_BackStory_Lin_Child.title>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Lin_Child.titleShort>Info Missing</AK_BackStory_Lin_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，本名林雨霞，龙门人。本职工作不明，本人提供的档案资料信息十分有限，同样存疑。\n于“玉门事件”后，主动提出与罗德岛正式建立合作。为罗德岛在龙门收治感染者的工作提供帮助。 -->
+  <AK_BackStory_Lin_Adult.baseDesc>Lin, full name Lin Yühsia, provides very limited information about herself. \nAfter the "Yumen Incident" she actively requested to establish partnership with Rhode Island to help ones in Lungmen infected with Oripathy to get treatment.</AK_BackStory_Lin_Adult.baseDesc>
+  <!-- EN: “灰色的林” -->
+  <AK_BackStory_Lin_Adult.title>Grey Forest</AK_BackStory_Lin_Adult.title>
+  <!-- EN: “灰色的林” -->
+  <AK_BackStory_Lin_Adult.titleShort>Grey Forest</AK_BackStory_Lin_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 计出万全 -->
+  <AK_Trait_Lin.degreeDatas.0.label>Millions of plans, always prepared.</AK_Trait_Lin.degreeDatas.0.label>
+  <!-- EN: 如果你足够幸运，碰巧在{PAWN_pronoun}空闲时获得了与{PAWN_pronoun}交谈的机会，你会惊叹于{PAWN_pronoun}在艺术，文化，商业与社交方面深厚的知识储备。\n				 -->
+  <AK_Trait_Lin.degreeDatas.0.description>If you are lucky enough to have caught {PAWN_pronoun} in a break and get her interested enough to chat with you, you will be astonished by {PAWN_pronoun}'s knowledge on the arts, culture, bussiness, and society.</AK_Trait_Lin.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +12
+  -Smoothing speed +24%
+  -Construction speed +20%
+  -Social impact +50%
+  
+  <!-- EN: 灰色的林 -->
+  <AK_Trait_LinSecond.degreeDatas.0.label>Grey Forest</AK_Trait_LinSecond.degreeDatas.0.label>
+  <!-- EN: “林”无疑是一个分量极重的名字。“鼠王”或者是“灰色的林”，鲜少有人见过{PAWN_possessive}真容，但这个名字本身就象征着一种秩序。\n				 -->
+  <AK_Trait_LinSecond.degreeDatas.0.description>"Lin" without a doubt is a very important name. Very few have seen her face as just her name symbolizes a certain order within Lungmen society.</AK_Trait_LinSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -28%
+  -Trade price improvement +30%
+  -Negotiation ability +300%
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 灰色的林 -->
+  <AK_Thought_Trait_Lin.stages.0.label>Grey Forest</AK_Thought_Trait_Lin.stages.0.label>
+  <!-- EN: “龙门发展日新月异，也依然有霓虹灯无法照亮的角落......” -->
+  <AK_Thought_Trait_Lin.stages.0.description>Although Lungmen's developments changes between day and night, even then there are corners where the neon light cannot reach.</AK_Thought_Trait_Lin.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 琉璃剑 -->
+  <AK_Weapon_Lin.label>Lin's Weapon</AK_Weapon_Lin.label>
+  <!-- EN: 一把做工精致，外表华丽的琉璃剑，虽然外表看上去像是随时都可能会碎裂的艺术品，但是作为林雨霞的佩剑，它拥有着能够逼退赤霄的锋芒 -->
+  <AK_Weapon_Lin.description>A delicately crafted, gorgeous glass sword, although it looked like a work of art that might break at any time,  her sword possesses a sharpness that could force back any threat.</AK_Weapon_Lin.description>
