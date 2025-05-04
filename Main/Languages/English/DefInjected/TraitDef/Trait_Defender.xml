@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 坚垒 -->
+  <AK_Trait_Ashlock.degreeDatas.0.label>坚垒</AK_Trait_Ashlock.degreeDatas.0.label>
+  <!-- EN: 在经历了童年的那些事之后，无论是内心还是外表，{PAWN_nameDef}都表现的坚如堡垒。\n				 -->
+  <AK_Trait_Ashlock.degreeDatas.0.description>在经历了童年的那些事之后，无论是内心还是外表，{PAWN_nameDef}都表现的坚如堡垒。
+				</AK_Trait_Ashlock.degreeDatas.0.description>
+  
+  <!-- EN: 寡言 -->
+  <AK_Trait_AshlockSecond.degreeDatas.0.label>寡言</AK_Trait_AshlockSecond.degreeDatas.0.label>
+  <!-- EN: 虽然性格与肉体已经坚如堡垒，而且在战斗方面已经炉火纯青，但是{PAWN_nameDef}显然对社交很不对付，{PAWN_pronoun}表现的很沉默甚至是...腼腆。\n				 -->
+  <AK_Trait_AshlockSecond.degreeDatas.0.description>虽然性格与肉体已经坚如堡垒，而且在战斗方面已经炉火纯青，但是{PAWN_nameDef}显然对社交很不对付，{PAWN_pronoun}表现的很沉默甚至是...腼腆。
+				</AK_Trait_AshlockSecond.degreeDatas.0.description>
+  
+  <!-- EN: 雪山上的乌萨斯 -->
+  <AK_Trait_Aurora.degreeDatas.0.label>雪山上的乌萨斯</AK_Trait_Aurora.degreeDatas.0.label>
+  <!-- EN: 极光虽然举止得体，性格温柔。但是作为乌萨斯，种族好斗的天性依旧在{PAWN_possessive}血液里流淌 -->
+  <AK_Trait_Aurora.degreeDatas.0.description>极光虽然举止得体，性格温柔。但是作为乌萨斯，种族好斗的天性依旧在{PAWN_possessive}血液里流淌</AK_Trait_Aurora.degreeDatas.0.description>
+  
+  <!-- EN: 超级劳模 -->
+  <AK_Trait_Beagle.degreeDatas.0.label>超级劳模</AK_Trait_Beagle.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}似乎有点太过于乐于助人了，以至于{PAWN_pronoun}不会拒绝别人，即使是一些很奇怪很过分的要求。\n似乎这和{PAWN_pronoun}缺乏自信的性格有关， -->
+  <AK_Trait_Beagle.degreeDatas.0.description>{PAWN_nameDef}似乎有点太过于乐于助人了，以至于{PAWN_pronoun}不会拒绝别人，即使是一些很奇怪很过分的要求。
+似乎这和{PAWN_pronoun}缺乏自信的性格有关，</AK_Trait_Beagle.degreeDatas.0.description>
+  
+  <!-- EN: 超级可爱 -->
+  <AK_Trait_BeagleSecond.degreeDatas.0.label>超级可爱</AK_Trait_BeagleSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的长相不算出众，但是{PAWN_pronoun}实在太可爱了，以至于几乎所有人都受不了{PAWN_pronoun}纯真的眼神。  -->
+  <AK_Trait_BeagleSecond.degreeDatas.0.description>{PAWN_nameDef}的长相不算出众，但是{PAWN_pronoun}实在太可爱了，以至于几乎所有人都受不了{PAWN_pronoun}纯真的眼神。 </AK_Trait_BeagleSecond.degreeDatas.0.description>
+  
+  <!-- EN: 超级力气 -->
+  <AK_Trait_BeagleThird.degreeDatas.0.label>超级力气</AK_Trait_BeagleThird.degreeDatas.0.label>
+  <!-- EN: 如果说{PAWN_nameDef}真的有什么有点的话，就是力气大，非常大，据说{PAWN_pronoun}刚入职就差点破了负重蹲起的记录 -->
+  <AK_Trait_BeagleThird.degreeDatas.0.description>如果说{PAWN_nameDef}真的有什么有点的话，就是力气大，非常大，据说{PAWN_pronoun}刚入职就差点破了负重蹲起的记录</AK_Trait_BeagleThird.degreeDatas.0.description>
+  
+  <!-- EN: 不畏苦暗 -->
+  <AK_Trait_Blemishine.degreeDatas.0.label>不畏苦暗</AK_Trait_Blemishine.degreeDatas.0.label>
+  <!-- EN: 行将绽放的荣光，照耀尘埃也染上明亮。\n时常沐浴着温暖的朝晖，偶尔也踏过照不见影子的苦暗。\n				 -->
+  <AK_Trait_Blemishine.degreeDatas.0.description>行将绽放的荣光，照耀尘埃也染上明亮。
+时常沐浴着温暖的朝晖，偶尔也踏过照不见影子的苦暗。
+				</AK_Trait_Blemishine.degreeDatas.0.description>
+  
+  <!-- EN: 都市少女 -->
+  <AK_Trait_Croissant.degreeDatas.0.label>都市少女</AK_Trait_Croissant.degreeDatas.0.label>
+  <!-- EN: 即使成为了干员，{PAWN_nameDef}小姐也完全不打算放弃{PAWN_pronoun}在日常生活中的兴趣爱好。\n{PAWN_pronoun}知道成为干员后要面临许多前所未有的危险，{PAWN_pronoun}也知道成为干员后会遇到很多笑不出来的事，{PAWN_pronoun}没有忽视这些，而是在此之上，{PAWN_pronoun}依然会是那个精打细算的都市少女。 -->
+  <AK_Trait_Croissant.degreeDatas.0.description>即使成为了干员，{PAWN_nameDef}小姐也完全不打算放弃{PAWN_pronoun}在日常生活中的兴趣爱好。
+{PAWN_pronoun}知道成为干员后要面临许多前所未有的危险，{PAWN_pronoun}也知道成为干员后会遇到很多笑不出来的事，{PAWN_pronoun}没有忽视这些，而是在此之上，{PAWN_pronoun}依然会是那个精打细算的都市少女。</AK_Trait_Croissant.degreeDatas.0.description>
+  
+  <!-- EN: 无忧无虑 -->
+  <AK_Trait_Cuora.degreeDatas.0.label>无忧无虑</AK_Trait_Cuora.degreeDatas.0.label>
+  <!-- EN: 干员{PAWN_nameDef}拥有天真烂漫的性格，即使成为矿石病患者也丝毫未能减损{PAWN_possessive}阳光。 -->
+  <AK_Trait_Cuora.degreeDatas.0.description>干员{PAWN_nameDef}拥有天真烂漫的性格，即使成为矿石病患者也丝毫未能减损{PAWN_possessive}阳光。</AK_Trait_Cuora.degreeDatas.0.description>
+  
+  <!-- EN: 我寻思能行 -->
+  <AK_Trait_Eunectes.degreeDatas.0.label>我寻思能行</AK_Trait_Eunectes.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在大部分事情的观念上远比已经离开家乡数年的嘉维尔正常，但唯独涉及机械方面时有一些奇怪的偏执和想法。 -->
+  <AK_Trait_Eunectes.degreeDatas.0.description>{PAWN_nameDef}在大部分事情的观念上远比已经离开家乡数年的嘉维尔正常，但唯独涉及机械方面时有一些奇怪的偏执和想法。</AK_Trait_Eunectes.degreeDatas.0.description>
+  
+  <!-- EN: 习惯 -->
+  <AK_Trait_Gummy.degreeDatas.0.label>习惯</AK_Trait_Gummy.degreeDatas.0.label>
+  <!-- EN: 相比于其他学生，切尔诺伯格的灾难对{PAWN_nameDef}造成的伤害显然更大，这造成了{PAWN_pronoun}虽然看上去依旧乐观，但是却有了一些奇怪的“小习惯”.\n				 -->
+  <AK_Trait_Gummy.degreeDatas.0.description>相比于其他学生，切尔诺伯格的灾难对{PAWN_nameDef}造成的伤害显然更大，这造成了{PAWN_pronoun}虽然看上去依旧乐观，但是却有了一些奇怪的“小习惯”.
+				</AK_Trait_Gummy.degreeDatas.0.description>
+  
+  <!-- EN: 暴风 -->
+  <AK_Trait_Horn.degreeDatas.0.label>暴风</AK_Trait_Horn.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}可以说是暴风突击队的最佳象征，勇敢，坚韧，顽强，忠诚。\n				 -->
+  <AK_Trait_Horn.degreeDatas.0.description>{PAWN_nameDef}可以说是暴风突击队的最佳象征，勇敢，坚韧，顽强，忠诚。
+				</AK_Trait_Horn.degreeDatas.0.description>
+  
+  <!-- EN: 鸣号 -->
+  <AK_Trait_HornSecond.degreeDatas.0.label>鸣号</AK_Trait_HornSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的精神在小丘郡后已经宛若钢铁，{PAWN_pronoun}也将会背负着死者的信念继续前行，但小丘郡所见证的那些惨剧不是一时半会就能平复的。\n				 -->
+  <AK_Trait_HornSecond.degreeDatas.0.description>{PAWN_nameDef}的精神在小丘郡后已经宛若钢铁，{PAWN_pronoun}也将会背负着死者的信念继续前行，但小丘郡所见证的那些惨剧不是一时半会就能平复的。
+				</AK_Trait_HornSecond.degreeDatas.0.description>
+  
+  <!-- EN: 冷静的鬼 -->
+  <AK_Trait_Hoshiguma.degreeDatas.0.label>冷静的鬼</AK_Trait_Hoshiguma.degreeDatas.0.label>
+  <!-- EN: 在好战方面，{PAWN_nameDef}和其他鬼没有区别，在战场上的{PAWN_pronoun}比任何人都要骁勇善战。\n但{PAWN_pronoun}有着大部分鬼族欠缺的一项特质——冷静。\n从{PAWN_possessive}言行举止中，能感受到思考，在{PAWN_possessive}骁勇善战中，能感受到克制。 -->
+  <AK_Trait_Hoshiguma.degreeDatas.0.description>在好战方面，{PAWN_nameDef}和其他鬼没有区别，在战场上的{PAWN_pronoun}比任何人都要骁勇善战。
+但{PAWN_pronoun}有着大部分鬼族欠缺的一项特质——冷静。
+从{PAWN_possessive}言行举止中，能感受到思考，在{PAWN_possessive}骁勇善战中，能感受到克制。</AK_Trait_Hoshiguma.degreeDatas.0.description>
+  
+  <!-- EN: 流泪猫猫头+ -->
+  <AK_Trait_Liberated.degreeDatas.0.label>流泪猫猫头+</AK_Trait_Liberated.degreeDatas.0.label>
+  <!-- EN: 杰西卡现在表面看起来羞怯软弱，但其实内心执着又坚韧，还具有高度的同理心，可以敏锐地觉察他人的情绪，这种不可多得的品质，使杰西卡能够安抚那些因事故经受创伤的人，却也令{PAWN_pronoun}更易受他人情绪影响，很久才能从痛苦与悲伤中抽离。 -->
+  <AK_Trait_Liberated.degreeDatas.0.description>杰西卡现在表面看起来羞怯软弱，但其实内心执着又坚韧，还具有高度的同理心，可以敏锐地觉察他人的情绪，这种不可多得的品质，使杰西卡能够安抚那些因事故经受创伤的人，却也令{PAWN_pronoun}更易受他人情绪影响，很久才能从痛苦与悲伤中抽离。</AK_Trait_Liberated.degreeDatas.0.description>
+  
+  <!-- EN: 不再懦弱 -->
+  <AK_Trait_LiberatedSecond.degreeDatas.0.label>不再懦弱</AK_Trait_LiberatedSecond.degreeDatas.0.label>
+  <!-- EN: 令人难过的是，{PAWN_pronoun}会固执地选择独自面对一切。而那些在作为佣兵时目睹的景象与经受的挣扎，杰西卡始终不愿告知，我们也不便追问，但通过关注{PAWN_pronoun}现在的行为表现，我们认为{PAWN_possessive}状态已经改善了许多。 -->
+  <AK_Trait_LiberatedSecond.degreeDatas.0.description>令人难过的是，{PAWN_pronoun}会固执地选择独自面对一切。而那些在作为佣兵时目睹的景象与经受的挣扎，杰西卡始终不愿告知，我们也不便追问，但通过关注{PAWN_pronoun}现在的行为表现，我们认为{PAWN_possessive}状态已经改善了许多。</AK_Trait_LiberatedSecond.degreeDatas.0.description>
+  
+  <!-- EN: 死士 -->
+  <AK_Trait_Matterhorn.degreeDatas.0.label>死士</AK_Trait_Matterhorn.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的祖上出身于谢拉格北部，那里环境恶劣，人们终日与自然抗争。为了让他人更好地生存，所有北谢拉格人一旦出战即视自己为死者。正是这份信念，将他们，还有像{PAWN_pronoun}这样的后代，塑造成了战场上最为勇猛的战士。\n				 -->
+  <AK_Trait_Matterhorn.degreeDatas.0.description>{PAWN_nameDef}的祖上出身于谢拉格北部，那里环境恶劣，人们终日与自然抗争。为了让他人更好地生存，所有北谢拉格人一旦出战即视自己为死者。正是这份信念，将他们，还有像{PAWN_pronoun}这样的后代，塑造成了战场上最为勇猛的战士。
+				</AK_Trait_Matterhorn.degreeDatas.0.description>
+  
+  <!-- EN: 沃土磐石之友 -->
+  <AK_Trait_Mudrock.degreeDatas.0.label>沃土磐石之友</AK_Trait_Mudrock.degreeDatas.0.label>
+  <!-- EN: 或许是特殊的源石技艺，{PAWN_nameDef}对于泥土有着一种奇妙的情感。\n{PAWN_pronoun}和泥土之间的关系可能比{PAWN_pronoun}和大部分人都要亲密得多。 -->
+  <AK_Trait_Mudrock.degreeDatas.0.description>或许是特殊的源石技艺，{PAWN_nameDef}对于泥土有着一种奇妙的情感。
+{PAWN_pronoun}和泥土之间的关系可能比{PAWN_pronoun}和大部分人都要亲密得多。</AK_Trait_Mudrock.degreeDatas.0.description>
+  
+  <!-- EN: 耀骑士 -->
+  <AK_Trait_Nearl.degreeDatas.0.label>耀骑士</AK_Trait_Nearl.degreeDatas.0.label>
+  <!-- EN: “所谓骑士，就是照亮整片大地的崇高者” -->
+  <AK_Trait_Nearl.degreeDatas.0.description>“所谓骑士，就是照亮整片大地的崇高者”</AK_Trait_Nearl.degreeDatas.0.description>
+  
+  <!-- EN: 地生五金 -->
+  <AK_Trait_Nian.degreeDatas.0.label>地生五金</AK_Trait_Nian.degreeDatas.0.label>
+  <!-- EN: 伐谋百世 一朝毁之\n国蚀器锈 如梦似电 无踪泡影\n				 -->
+  <AK_Trait_Nian.degreeDatas.0.description>伐谋百世 一朝毁之
+国蚀器锈 如梦似电 无踪泡影
+				</AK_Trait_Nian.degreeDatas.0.description>
+  
+  <!-- EN: 肆无忌惮 -->
+  <AK_Trait_NianSecond.degreeDatas.0.label>肆无忌惮</AK_Trait_NianSecond.degreeDatas.0.label>
+  <!-- EN: "'没有干扰他人工作的习惯'？{PAWN_pronoun}劝诱别人上班打麻将，有没有人阻止一下？" -->
+  <AK_Trait_NianSecond.degreeDatas.0.description>"'没有干扰他人工作的习惯'？{PAWN_pronoun}劝诱别人上班打麻将，有没有人阻止一下？"</AK_Trait_NianSecond.degreeDatas.0.description>
+  
+  <!-- EN: 荆棘环身 -->
+  <AK_Trait_Penance.degreeDatas.0.label>荆棘环身</AK_Trait_Penance.degreeDatas.0.label>
+  <!-- EN: 每个人偶尔都需要点外物的帮助，无论是为了纾解疲乏，还是缓解痛苦。\n				 -->
+  <AK_Trait_Penance.degreeDatas.0.description>每个人偶尔都需要点外物的帮助，无论是为了纾解疲乏，还是缓解痛苦。
+				</AK_Trait_Penance.degreeDatas.0.description>
+  
+  <!-- EN: 法为正典 -->
+  <AK_Trait_PenanceSecond.degreeDatas.0.label>法为正典</AK_Trait_PenanceSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}曾明确展示出法律正义不可侵犯的态度。\n但或许对于这些从事法律工作的人来说，不论就职后曾不得已地做过什么，现在使用着什么样的手段，他们一开始的理想总是相同的：捍卫法律应存的正义。\n				 -->
+  <AK_Trait_PenanceSecond.degreeDatas.0.description>{PAWN_nameDef}曾明确展示出法律正义不可侵犯的态度。
+但或许对于这些从事法律工作的人来说，不论就职后曾不得已地做过什么，现在使用着什么样的手段，他们一开始的理想总是相同的：捍卫法律应存的正义。
+				</AK_Trait_PenanceSecond.degreeDatas.0.description>
+  
+  <!-- EN: 钢铁意志 -->
+  <AK_Trait_Saria.degreeDatas.0.label>钢铁意志</AK_Trait_Saria.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的意志宛如钢铁一般坚韧而又不可撼动，没有任何东西能够动摇{PAWN_possessive}思想。\n但是更多时候则表现的像是脑子转不过弯。 -->
+  <AK_Trait_Saria.degreeDatas.0.description>{PAWN_nameDef}的意志宛如钢铁一般坚韧而又不可撼动，没有任何东西能够动摇{PAWN_possessive}思想。
+但是更多时候则表现的像是脑子转不过弯。</AK_Trait_Saria.degreeDatas.0.description>
+  
+  <!-- EN: 春雷响，万物长 -->
+  <AK_Trait_Shu.degreeDatas.0.label>春雷响，万物长</AK_Trait_Shu.degreeDatas.0.label>
+  <!-- EN: “春雨惊春清谷天，夏满芒夏暑相连。” -->
+  <AK_Trait_Shu.degreeDatas.0.description>“春雨惊春清谷天，夏满芒夏暑相连。”</AK_Trait_Shu.degreeDatas.0.description>
+  
+  <!-- EN: 稻禾厚，顺秋收 -->
+  <AK_Trait_ShuSecond.degreeDatas.0.label>稻禾厚，顺秋收</AK_Trait_ShuSecond.degreeDatas.0.label>
+  <!-- EN: “秋处露秋寒霜降，冬雪雪冬小大寒。” -->
+  <AK_Trait_ShuSecond.degreeDatas.0.description>“秋处露秋寒霜降，冬雪雪冬小大寒。”</AK_Trait_ShuSecond.degreeDatas.0.description>
+  
+  <!-- EN: 少言 -->
+  <AK_Trait_Vulcan.degreeDatas.0.label>少言</AK_Trait_Vulcan.degreeDatas.0.label>
+  <!-- EN: 不知道是因为无人有共同话题或是因为天生如此，{PAWN_nameDef}甚少与人交流，即使是开口说话也通常不超过三句。\n				 -->
+  <AK_Trait_Vulcan.degreeDatas.0.description>不知道是因为无人有共同话题或是因为天生如此，{PAWN_nameDef}甚少与人交流，即使是开口说话也通常不超过三句。
+				</AK_Trait_Vulcan.degreeDatas.0.description>
+  
+  <!-- EN: 铁匠 -->
+  <AK_Trait_VulcanSecond.degreeDatas.0.label>铁匠</AK_Trait_VulcanSecond.degreeDatas.0.label>
+  <!-- EN: 虽然铁匠这个行业事实上也早已摆脱了在火炉边挥汗如雨的印象，而且{PAWN_nameDef}也认为跟不上时代的人理应被淘汰。\n但{PAWN_pronoun}每天都会在锻造台上升起火，找来一块铁锭，敲打一段时间，一如那些古老的铁匠们所做的那样。\n或许，对{PAWN_pronoun}来说，跟不上时代的人固然应该被淘汰，但那些完全抛弃传统的人，也不配再被称为铁匠吧。\n				 -->
+  <AK_Trait_VulcanSecond.degreeDatas.0.description>虽然铁匠这个行业事实上也早已摆脱了在火炉边挥汗如雨的印象，而且{PAWN_nameDef}也认为跟不上时代的人理应被淘汰。
+但{PAWN_pronoun}每天都会在锻造台上升起火，找来一块铁锭，敲打一段时间，一如那些古老的铁匠们所做的那样。
+或许，对{PAWN_pronoun}来说，跟不上时代的人固然应该被淘汰，但那些完全抛弃传统的人，也不配再被称为铁匠吧。
+				</AK_Trait_VulcanSecond.degreeDatas.0.description>
+  
+  <!-- EN: 闲云隐市 -->
+  <AK_Trait_Yu.degreeDatas.0.label>闲云隐市</AK_Trait_Yu.degreeDatas.0.label>
+  <!-- EN: 夜深人静，小店打了烊，余和老姜围在灶台前，把店里剩下的一点食材烧了吃完，锅碗瓢盆洗干净，一天就算是结束了。 -->
+  <AK_Trait_Yu.degreeDatas.0.description>夜深人静，小店打了烊，余和老姜围在灶台前，把店里剩下的一点食材烧了吃完，锅碗瓢盆洗干净，一天就算是结束了。</AK_Trait_Yu.degreeDatas.0.description>
+  
+  <!-- EN: 调众口 -->
+  <AK_Trait_YuSecond.degreeDatas.0.label>调众口</AK_Trait_YuSecond.degreeDatas.0.label>
+  <!-- EN: 我见了形形色色的人，做了五花八门的饭，越做越不懂，也就越做越随性。 -->
+  <AK_Trait_YuSecond.degreeDatas.0.description>我见了形形色色的人，做了五花八门的饭，越做越不懂，也就越做越随性。</AK_Trait_YuSecond.degreeDatas.0.description>
+  
+</LanguageData>

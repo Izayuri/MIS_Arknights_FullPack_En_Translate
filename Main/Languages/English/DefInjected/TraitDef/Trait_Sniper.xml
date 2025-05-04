@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 阳光少女 -->
+  <AK_Trait_April.degreeDatas.0.label>阳光少女</AK_Trait_April.degreeDatas.0.label>
+  <!-- EN: 尽管因为对感染者的天热歧视，{PAWN_nameDef}一时难以接受自己成为感染者的事实，但是{PAWN_pronoun}还是依靠着阳光外向的性格扛了下来。并且慢慢适应罗德岛的生活。 -->
+  <AK_Trait_April.degreeDatas.0.description>尽管因为对感染者的天热歧视，{PAWN_nameDef}一时难以接受自己成为感染者的事实，但是{PAWN_pronoun}还是依靠着阳光外向的性格扛了下来。并且慢慢适应罗德岛的生活。</AK_Trait_April.degreeDatas.0.description>
+  
+  <!-- EN: 虔诚 -->
+  <AK_Trait_Archetto.degreeDatas.0.label>虔诚</AK_Trait_Archetto.degreeDatas.0.label>
+  <!-- EN: 虽说{PAWN_nameDef}比起祷告更愿意拿起武器去捍卫拉特兰，但是对{PAWN_pronoun}来说，生活和信仰早已融为一体，现在{PAWN_possessive}所作所为，只是不想失去信仰罢了。 -->
+  <AK_Trait_Archetto.degreeDatas.0.description>虽说{PAWN_nameDef}比起祷告更愿意拿起武器去捍卫拉特兰，但是对{PAWN_pronoun}来说，生活和信仰早已融为一体，现在{PAWN_possessive}所作所为，只是不想失去信仰罢了。</AK_Trait_Archetto.degreeDatas.0.description>
+  
+  <!-- EN: 毒物 -->
+  <AK_Trait_Bluepoison.degreeDatas.0.label>毒物</AK_Trait_Bluepoison.degreeDatas.0.label>
+  <!-- EN: 针对自己作为毒物的这一事实，{PAWN_nameDef}表现出较为抗拒的态度。\n但如果保证毒物能力能被其他干员所接受，并不再影响他人对蓝毒的态度的话，{PAWN_pronoun}是否能接受自己的毒物能力？ -->
+  <AK_Trait_Bluepoison.degreeDatas.0.description>针对自己作为毒物的这一事实，{PAWN_nameDef}表现出较为抗拒的态度。
+但如果保证毒物能力能被其他干员所接受，并不再影响他人对蓝毒的态度的话，{PAWN_pronoun}是否能接受自己的毒物能力？</AK_Trait_Bluepoison.degreeDatas.0.description>
+  
+  <!-- EN: 戏耍随心 -->
+  <AK_Trait_Caper.degreeDatas.0.label>戏耍随心</AK_Trait_Caper.degreeDatas.0.label>
+  <!-- EN: 跃跃在迄今为止的人生中只有一个追求————乐趣，用她的话说就是“玩”。她喜欢玩具，喜欢笑话，喜欢新鲜刺激的挑战，不过她最爱的还是和人一起玩。 -->
+  <AK_Trait_Caper.degreeDatas.0.description>跃跃在迄今为止的人生中只有一个追求————乐趣，用她的话说就是“玩”。她喜欢玩具，喜欢笑话，喜欢新鲜刺激的挑战，不过她最爱的还是和人一起玩。</AK_Trait_Caper.degreeDatas.0.description>
+  
+  <!-- EN: 乐趣加倍 -->
+  <AK_Trait_CaperSecond.degreeDatas.0.label>乐趣加倍</AK_Trait_CaperSecond.degreeDatas.0.label>
+  <!-- EN: 她理解自己过去的尖锐真相，所以才用行为来勘验新的环境。最重要的是，她一直明白自己追求的是什么————她想要真正的快乐。幸好，这是我们能够给予她的。 -->
+  <AK_Trait_CaperSecond.degreeDatas.0.description>她理解自己过去的尖锐真相，所以才用行为来勘验新的环境。最重要的是，她一直明白自己追求的是什么————她想要真正的快乐。幸好，这是我们能够给予她的。</AK_Trait_CaperSecond.degreeDatas.0.description>
+  
+  <!-- EN: 节约风气 -->
+  <AK_Trait_ChenHolungday.degreeDatas.0.label>节约风气</AK_Trait_ChenHolungday.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}从多索雷斯回来后，不少干员都认为{PAWN_nameDef}有些改变。 -->
+  <AK_Trait_ChenHolungday.degreeDatas.0.description>{PAWN_nameDef}从多索雷斯回来后，不少干员都认为{PAWN_nameDef}有些改变。</AK_Trait_ChenHolungday.degreeDatas.0.description>
+  
+  <!-- EN: 斩龙之剑 -->
+  <AK_Trait_ChenHolungdaySecond.degreeDatas.0.label>斩龙之剑</AK_Trait_ChenHolungdaySecond.degreeDatas.0.label>
+  <!-- EN: “拔刀之招，当破即破。”\n“泪锋之招，当断即断。”\n“泪锋之剑，当弃即弃。”\n“云裂之剑，当立则立。” -->
+  <AK_Trait_ChenHolungdaySecond.degreeDatas.0.description>“拔刀之招，当破即破。”
+“泪锋之招，当断即断。”
+“泪锋之剑，当弃即弃。”
+“云裂之剑，当立则立。”</AK_Trait_ChenHolungdaySecond.degreeDatas.0.description>
+  
+  <!-- EN: 假日余韵 -->
+  <AK_Trait_ChenHolungdayThird.degreeDatas.0.label>假日余韵</AK_Trait_ChenHolungdayThird.degreeDatas.0.label>
+  <!-- EN: 当{PAWN_nameDef}带着{PAWN_pronoun}的特制铳从度假中归来时，所有人都被{PAWN_pronoun}吓了一跳。 -->
+  <AK_Trait_ChenHolungdayThird.degreeDatas.0.description>当{PAWN_nameDef}带着{PAWN_pronoun}的特制铳从度假中归来时，所有人都被{PAWN_pronoun}吓了一跳。</AK_Trait_ChenHolungdayThird.degreeDatas.0.description>
+  
+  <!-- EN: 诗歌的热诚 -->
+  <AK_Trait_Erato.degreeDatas.0.label>诗歌的热诚</AK_Trait_Erato.degreeDatas.0.label>
+  <!-- EN: 以一种温柔的方式，鼓舞人们带着热情去生活。对于爱与美的追求可以成为人们生活的信念，{PAWN_nameDef}小姐对一切事物的兴趣和仿佛永远不会枯竭的热情，或许正来源于此。 -->
+  <AK_Trait_Erato.degreeDatas.0.description>以一种温柔的方式，鼓舞人们带着热情去生活。对于爱与美的追求可以成为人们生活的信念，{PAWN_nameDef}小姐对一切事物的兴趣和仿佛永远不会枯竭的热情，或许正来源于此。</AK_Trait_Erato.degreeDatas.0.description>
+  
+  <!-- EN: 英雄的诞生 -->
+  <AK_Trait_EratoSecond.degreeDatas.0.label>英雄的诞生</AK_Trait_EratoSecond.degreeDatas.0.label>
+  <!-- EN: 对于{PAWN_nameDef}而言，英雄需要他人的支持，需要自身的成长，最终实现理想，这样的英雄来自于人，又回归于人。\n{PAWN_possessive}行动也在努力朝着这个目标靠拢。 -->
+  <AK_Trait_EratoSecond.degreeDatas.0.description>对于{PAWN_nameDef}而言，英雄需要他人的支持，需要自身的成长，最终实现理想，这样的英雄来自于人，又回归于人。
+{PAWN_possessive}行动也在努力朝着这个目标靠拢。</AK_Trait_EratoSecond.degreeDatas.0.description>
+  
+  <!-- EN: “我感到迷惑” -->
+  <AK_Trait_Executor.degreeDatas.0.label>“我感到迷惑”</AK_Trait_Executor.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}作为拉特兰公证所的执行人，有着他人难以比拟的心理素质和战斗能力。\n但是{PAWN_possessive}情商也是无法理解的低 -->
+  <AK_Trait_Executor.degreeDatas.0.description>{PAWN_nameDef}作为拉特兰公证所的执行人，有着他人难以比拟的心理素质和战斗能力。
+但是{PAWN_possessive}情商也是无法理解的低</AK_Trait_Executor.degreeDatas.0.description>
+  
+  <!-- EN: 天使的祝福 -->
+  <AK_Trait_Exusiai.degreeDatas.0.label>天使的祝福</AK_Trait_Exusiai.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}与大多数拉特兰人给人的印象不同，是个彻头彻尾的乐天派。\n精通各种娱乐方式，无论什么时候都能找到让自己高兴的办法，在团队中总是充当活跃气氛的那个人。 -->
+  <AK_Trait_Exusiai.degreeDatas.0.description>{PAWN_nameDef}与大多数拉特兰人给人的印象不同，是个彻头彻尾的乐天派。
+精通各种娱乐方式，无论什么时候都能找到让自己高兴的办法，在团队中总是充当活跃气氛的那个人。</AK_Trait_Exusiai.degreeDatas.0.description>
+  
+  <!-- EN: 翔隼 -->
+  <AK_Trait_Fartooth.degreeDatas.0.label>翔隼</AK_Trait_Fartooth.degreeDatas.0.label>
+  <!-- EN: 即使被金钱暂时埋没，卡西米尔的精神却从未远去，它们等待着再次现身，在天空中翱翔。 -->
+  <AK_Trait_Fartooth.degreeDatas.0.description>即使被金钱暂时埋没，卡西米尔的精神却从未远去，它们等待着再次现身，在天空中翱翔。</AK_Trait_Fartooth.degreeDatas.0.description>
+  
+  <!-- EN: 风息 -->
+  <AK_Trait_FartoothSecond.degreeDatas.0.label>风息</AK_Trait_FartoothSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的思维像风一样迅速又自由，或许{PAWN_pronoun}也会在风中闻到家乡的气息。 -->
+  <AK_Trait_FartoothSecond.degreeDatas.0.description>{PAWN_nameDef}的思维像风一样迅速又自由，或许{PAWN_pronoun}也会在风中闻到家乡的气息。</AK_Trait_FartoothSecond.degreeDatas.0.description>
+  
+  <!-- EN: 陈述苦难 -->
+  <AK_Trait_Fiammetta.degreeDatas.0.label>陈述苦难</AK_Trait_Fiammetta.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}作为拉特兰公证所外派干员经历了许多，现在{PAWN_pronoun}对于守护拉特兰的执念已经十分坚定 -->
+  <AK_Trait_Fiammetta.degreeDatas.0.description>{PAWN_nameDef}作为拉特兰公证所外派干员经历了许多，现在{PAWN_pronoun}对于守护拉特兰的执念已经十分坚定</AK_Trait_Fiammetta.degreeDatas.0.description>
+  
+  <!-- EN: 唯余复仇 -->
+  <AK_Trait_Firewatch.degreeDatas.0.label>唯余复仇</AK_Trait_Firewatch.degreeDatas.0.label>
+  <!-- EN: 你很难在{PAWN_nameDef}的脸上看到笑容，在眼中也很难看到除了复仇以外的其他情感。 -->
+  <AK_Trait_Firewatch.degreeDatas.0.description>你很难在{PAWN_nameDef}的脸上看到笑容，在眼中也很难看到除了复仇以外的其他情感。</AK_Trait_Firewatch.degreeDatas.0.description>
+  
+  <!-- EN: 飞羽的倒影 -->
+  <AK_Trait_Greythroat.degreeDatas.0.label>飞羽的倒影</AK_Trait_Greythroat.degreeDatas.0.label>
+  <!-- EN: 尽管{PAWN_nameDef}对于感染者的态度已经不那么偏激了，但是{PAWN_pronoun}童年的遭遇让{PAWN_pronoun}对感染者有着潜意识的回避，{PAWN_pronoun}显然还没能逃脱出童年的阴影。 -->
+  <AK_Trait_Greythroat.degreeDatas.0.description>尽管{PAWN_nameDef}对于感染者的态度已经不那么偏激了，但是{PAWN_pronoun}童年的遭遇让{PAWN_pronoun}对感染者有着潜意识的回避，{PAWN_pronoun}显然还没能逃脱出童年的阴影。</AK_Trait_Greythroat.degreeDatas.0.description>
+  
+  <!-- EN: 流泪猫猫头 -->
+  <AK_Trait_Jessica.degreeDatas.0.label>流泪猫猫头</AK_Trait_Jessica.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}作为雷神工业的千金，却意外的性格软弱，而且非常爱哭，结果在黑钢国际混的连实习生香草都不如。不过实际上{PAWN_pronoun}比外表看上去更可靠。 -->
+  <AK_Trait_Jessica.degreeDatas.0.description>{PAWN_nameDef}作为雷神工业的千金，却意外的性格软弱，而且非常爱哭，结果在黑钢国际混的连实习生香草都不如。不过实际上{PAWN_pronoun}比外表看上去更可靠。</AK_Trait_Jessica.degreeDatas.0.description>
+  
+  <!-- EN: 怕麻烦 -->
+  <AK_Trait_Kroos.degreeDatas.0.label>怕麻烦</AK_Trait_Kroos.degreeDatas.0.label>
+  <!-- EN: 克洛丝平常总是笑眯眯的，也不喜欢打抱不平和强出头，即使和人争吵也只会笑着避开。\n不过{PAWN_pronoun}有时候确实挺腹黑的。 -->
+  <AK_Trait_Kroos.degreeDatas.0.description>克洛丝平常总是笑眯眯的，也不喜欢打抱不平和强出头，即使和人争吵也只会笑着避开。
+不过{PAWN_pronoun}有时候确实挺腹黑的。</AK_Trait_Kroos.degreeDatas.0.description>
+  
+  <!-- EN: 慢性子 -->
+  <AK_Trait_KroosSecond.degreeDatas.0.label>慢性子</AK_Trait_KroosSecond.degreeDatas.0.label>
+  <!-- EN: 克洛丝做什么事都是慢慢吞吞的，就算被人催着做也只会笑眯眯的敷衍过去。\n不过慢悠悠的性子似乎让{PAWN_pronoun}在某些时候更能冷静的思考问题。 -->
+  <AK_Trait_KroosSecond.degreeDatas.0.description>克洛丝做什么事都是慢慢吞吞的，就算被人催着做也只会笑眯眯的敷衍过去。
+不过慢悠悠的性子似乎让{PAWN_pronoun}在某些时候更能冷静的思考问题。</AK_Trait_KroosSecond.degreeDatas.0.description>
+  
+  <!-- EN: 阿涅赛 -->
+  <AK_Trait_Lunacub.degreeDatas.0.label>阿涅赛</AK_Trait_Lunacub.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}一直声称阿涅塞就在{PAWN_possessive}身边，也确有种种迹象表明，某种存在时常陪伴在子月的周围，但无论借助何种手段，我们暂时都还没有弄清楚，这位“阿涅塞”究竟是什么人，或者，是什么。 -->
+  <AK_Trait_Lunacub.degreeDatas.0.description>{PAWN_nameDef}一直声称阿涅塞就在{PAWN_possessive}身边，也确有种种迹象表明，某种存在时常陪伴在子月的周围，但无论借助何种手段，我们暂时都还没有弄清楚，这位“阿涅塞”究竟是什么人，或者，是什么。</AK_Trait_Lunacub.degreeDatas.0.description>
+  
+  <!-- EN: 狼孩 -->
+  <AK_Trait_LunacubSecond.degreeDatas.0.label>狼孩</AK_Trait_LunacubSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_pronoun}在荒野上长大，荒野养育了{PAWN_pronoun}。 -->
+  <AK_Trait_LunacubSecond.degreeDatas.0.description>{PAWN_pronoun}在荒野上长大，荒野养育了{PAWN_pronoun}。</AK_Trait_LunacubSecond.degreeDatas.0.description>
+  
+  <!-- EN: 独特的萨卡兹 -->
+  <AK_Trait_Meteorite.degreeDatas.0.label>独特的萨卡兹</AK_Trait_Meteorite.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}小姐是萨卡兹中人的异类，{PAWN_pronoun}虽然也因为主流社会的排挤而戴上了冰冷的面具，但面具下那颗尚未冷却的心，是罗德岛中的每个干员都有目共睹的。 -->
+  <AK_Trait_Meteorite.degreeDatas.0.description>{PAWN_nameDef}小姐是萨卡兹中人的异类，{PAWN_pronoun}虽然也因为主流社会的排挤而戴上了冰冷的面具，但面具下那颗尚未冷却的心，是罗德岛中的每个干员都有目共睹的。</AK_Trait_Meteorite.degreeDatas.0.description>
+  
+  <!-- EN: 婀娜虚影 -->
+  <AK_Trait_Narantuya.degreeDatas.0.label>婀娜虚影</AK_Trait_Narantuya.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}，推测年龄二十五岁上下，库兰塔，身材高挑，特征为极其鲜艳的红发。\n“确实每次最先被认出来的都是我，我的红发不好藏嘛，我也不想藏。隐姓埋名活动，那就没办法名扬萨尔贡了。” -->
+  <AK_Trait_Narantuya.degreeDatas.0.description>{PAWN_nameDef}，推测年龄二十五岁上下，库兰塔，身材高挑，特征为极其鲜艳的红发。
+“确实每次最先被认出来的都是我，我的红发不好藏嘛，我也不想藏。隐姓埋名活动，那就没办法名扬萨尔贡了。”</AK_Trait_Narantuya.degreeDatas.0.description>
+  
+  <!-- EN: “梦魇” -->
+  <AK_Trait_NarantuyaSecond.degreeDatas.0.label>“梦魇”</AK_Trait_NarantuyaSecond.degreeDatas.0.label>
+  <!-- EN: 别做梦了。在我面前，没有好梦。 -->
+  <AK_Trait_NarantuyaSecond.degreeDatas.0.description>别做梦了。在我面前，没有好梦。</AK_Trait_NarantuyaSecond.degreeDatas.0.description>
+  
+  <!-- EN: “我见，我得” -->
+  <AK_Trait_NarantuyaThird.degreeDatas.0.label>“我见，我得”</AK_Trait_NarantuyaThird.degreeDatas.0.label>
+  <!-- EN: 扬起鞭子，卷起黄沙，遮蔽日光，然后想要什么，就拿走什么。 -->
+  <AK_Trait_NarantuyaThird.degreeDatas.0.description>扬起鞭子，卷起黄沙，遮蔽日光，然后想要什么，就拿走什么。</AK_Trait_NarantuyaThird.degreeDatas.0.description>
+  
+  <!-- EN: 安于现状 -->
+  <AK_Trait_Pinecone.degreeDatas.0.label>安于现状</AK_Trait_Pinecone.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}没有什么远大的理想，{PAWN_pronoun}只希望能够有一个稳定的工作，踏踏实实过日子。对于目前的生活状态，{PAWN_pronoun}本人还算感到满意。 -->
+  <AK_Trait_Pinecone.degreeDatas.0.description>{PAWN_nameDef}没有什么远大的理想，{PAWN_pronoun}只希望能够有一个稳定的工作，踏踏实实过日子。对于目前的生活状态，{PAWN_pronoun}本人还算感到满意。</AK_Trait_Pinecone.degreeDatas.0.description>
+  
+  <!-- EN: 悠闲自在 -->
+  <AK_Trait_Platinum.degreeDatas.0.label>悠闲自在</AK_Trait_Platinum.degreeDatas.0.label>
+  <!-- EN: 尽管{PAWN_nameDef}身为无胄盟的白金大位，但是{PAWN_pronoun}依旧保持着一颗少女心，而且{PAWN_pronoun}对自己的工作似乎也并不上心。 -->
+  <AK_Trait_Platinum.degreeDatas.0.description>尽管{PAWN_nameDef}身为无胄盟的白金大位，但是{PAWN_pronoun}依旧保持着一颗少女心，而且{PAWN_pronoun}对自己的工作似乎也并不上心。</AK_Trait_Platinum.degreeDatas.0.description>
+  
+  <!-- EN: 鸿雪 -->
+  <AK_Trait_Pozyomka.degreeDatas.0.label>鸿雪</AK_Trait_Pozyomka.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}对绝大多数非杜林族干员保持着强烈的警惕性，在过分礼貌之余拒绝透露任何非必要的信息。\n从际崖城回来的干员们似乎听鸿雪讲过内情，但大家默契地三缄其口。 -->
+  <AK_Trait_Pozyomka.degreeDatas.0.description>{PAWN_nameDef}对绝大多数非杜林族干员保持着强烈的警惕性，在过分礼貌之余拒绝透露任何非必要的信息。
+从际崖城回来的干员们似乎听鸿雪讲过内情，但大家默契地三缄其口。</AK_Trait_Pozyomka.degreeDatas.0.description>
+  
+  <!-- EN: 锐笔 -->
+  <AK_Trait_PozyomkaSecond.degreeDatas.0.label>锐笔</AK_Trait_PozyomkaSecond.degreeDatas.0.label>
+  <!-- EN: 作为“文学代表”，{PAWN_nameDef}在际崖城承担了大量广告标语和文案包装之类的工作。\n与际崖城杜林人散漫的语言组织方式不同，{PAWN_possessive}广告词总能别出心裁，在商业写作之余，鸿雪也在进行文学创作——诗歌、小说、剧作。 -->
+  <AK_Trait_PozyomkaSecond.degreeDatas.0.description>作为“文学代表”，{PAWN_nameDef}在际崖城承担了大量广告标语和文案包装之类的工作。
+与际崖城杜林人散漫的语言组织方式不同，{PAWN_possessive}广告词总能别出心裁，在商业写作之余，鸿雪也在进行文学创作——诗歌、小说、剧作。</AK_Trait_PozyomkaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 踏入荒野之人 -->
+  <AK_Trait_Provence.degreeDatas.0.label>踏入荒野之人</AK_Trait_Provence.degreeDatas.0.label>
+  <!-- EN: 作为天灾信使能够保持乐观并不容易，但是{PAWN_nameDef}显然是其中的特例，{PAWN_pronoun}不但在天灾信使的工作上游刃有余，也很注重自己和大家的生活质量。 -->
+  <AK_Trait_Provence.degreeDatas.0.description>作为天灾信使能够保持乐观并不容易，但是{PAWN_nameDef}显然是其中的特例，{PAWN_pronoun}不但在天灾信使的工作上游刃有余，也很注重自己和大家的生活质量。</AK_Trait_Provence.degreeDatas.0.description>
+  
+  <!-- EN: “得见光芒” -->
+  <AK_Trait_Ray.degreeDatas.0.label>“得见光芒”</AK_Trait_Ray.degreeDatas.0.label>
+  <!-- EN: 黑暗不会再追上我，我已经有了家，有了必须活下去的理由。 -->
+  <AK_Trait_Ray.degreeDatas.0.description>黑暗不会再追上我，我已经有了家，有了必须活下去的理由。</AK_Trait_Ray.degreeDatas.0.description>
+  
+  <!-- EN: 资深探井人 -->
+  <AK_Trait_RaySecond.degreeDatas.0.label>资深探井人</AK_Trait_RaySecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}常年作为探井人工作，在日积月累中成为了一名安保好手，反应迅捷，对各种矿物也十分了解，但长期独来独往，让{PAWN_pronoun}没那么擅长与人交流。 -->
+  <AK_Trait_RaySecond.degreeDatas.0.description>{PAWN_nameDef}常年作为探井人工作，在日积月累中成为了一名安保好手，反应迅捷，对各种矿物也十分了解，但长期独来独往，让{PAWN_pronoun}没那么擅长与人交流。</AK_Trait_RaySecond.degreeDatas.0.description>
+  
+  <!-- EN: 自由职业者 -->
+  <AK_Trait_RayThird.degreeDatas.0.label>自由职业者</AK_Trait_RayThird.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}经常在探井之余做一些杂活，涉猎各个方面，同时还驯养了一只非常难以驯服的沙地兽，同时在闲暇时也经常会去看书。 -->
+  <AK_Trait_RayThird.degreeDatas.0.description>{PAWN_nameDef}经常在探井之余做一些杂活，涉猎各个方面，同时还驯养了一只非常难以驯服的沙地兽，同时在闲暇时也经常会去看书。</AK_Trait_RayThird.degreeDatas.0.description>
+  
+  <!-- EN: 学生会主席 -->
+  <AK_Trait_Rosa.degreeDatas.0.label>学生会主席</AK_Trait_Rosa.degreeDatas.0.label>
+  <!-- EN: “虽然我还是一介学生，但你知道，学生会长总是能够提前接触到一些成人社会的东西。” -->
+  <AK_Trait_Rosa.degreeDatas.0.description>“虽然我还是一介学生，但你知道，学生会长总是能够提前接触到一些成人社会的东西。”</AK_Trait_Rosa.degreeDatas.0.description>
+  
+  <!-- EN: 前路迷茫 -->
+  <AK_Trait_RosaSecond.degreeDatas.0.label>前路迷茫</AK_Trait_RosaSecond.degreeDatas.0.label>
+  <!-- EN: 在失去了过去的一切之后，{PAWN_nameDef}苦苦地寻觅着自己新的前进的方向，请给{PAWN_pronoun}一点时间。 -->
+  <AK_Trait_RosaSecond.degreeDatas.0.description>在失去了过去的一切之后，{PAWN_nameDef}苦苦地寻觅着自己新的前进的方向，请给{PAWN_pronoun}一点时间。</AK_Trait_RosaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 迷迭香之拥 -->
+  <AK_Trait_Rosmontis.degreeDatas.0.label>迷迭香之拥</AK_Trait_Rosmontis.degreeDatas.0.label>
+  <!-- EN: “谁来审判？” -->
+  <AK_Trait_Rosmontis.degreeDatas.0.description>“谁来审判？”</AK_Trait_Rosmontis.degreeDatas.0.description>
+  
+  <!-- EN: 被封印的记忆 -->
+  <AK_Trait_RosmontisSecond.degreeDatas.0.label>被封印的记忆</AK_Trait_RosmontisSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}不是真的忘了，只是会把记忆封存起来。{PAWN_pronoun}会懊恼自己为什么又忘了，很焦虑，很迷茫。{PAWN_pronoun}还是会自责。 -->
+  <AK_Trait_RosmontisSecond.degreeDatas.0.description>{PAWN_nameDef}不是真的忘了，只是会把记忆封存起来。{PAWN_pronoun}会懊恼自己为什么又忘了，很焦虑，很迷茫。{PAWN_pronoun}还是会自责。</AK_Trait_RosmontisSecond.degreeDatas.0.description>
+  
+  <!-- EN: “记事” -->
+  <AK_Trait_RosmontisThird.degreeDatas.0.label>“记事”</AK_Trait_RosmontisThird.degreeDatas.0.label>
+  <!-- EN: 如果我变坏的话.....不，无论未来我会变成什么样子。我会记录，会审视。\n我评判的最后一个人将会是我自己。\n你就是{PAWN_pronoun}的大地。你怎么对待{PAWN_pronoun}，{PAWN_pronoun}就会怎么对待这片大地。——Whitesmith -->
+  <AK_Trait_RosmontisThird.degreeDatas.0.description>如果我变坏的话.....不，无论未来我会变成什么样子。我会记录，会审视。
+我评判的最后一个人将会是我自己。
+你就是{PAWN_pronoun}的大地。你怎么对待{PAWN_pronoun}，{PAWN_pronoun}就会怎么对待这片大地。——Whitesmith</AK_Trait_RosmontisThird.degreeDatas.0.description>
+  
+  <!-- EN: 阴影里生存的人 -->
+  <AK_Trait_Schwarz.degreeDatas.0.label>阴影里生存的人</AK_Trait_Schwarz.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}只有在锡兰小姐身边时，才会收敛自己的本性。\n{PAWN_possessive}冷酷无情与漠视生命，才更接近{PAWN_pronoun}本性的一部分。那是刻在{PAWN_pronoun}灵魂中的东西。\n{PAWN_pronoun}灵魂中的邪恶仍然需要被驯服。 -->
+  <AK_Trait_Schwarz.degreeDatas.0.description>{PAWN_nameDef}只有在锡兰小姐身边时，才会收敛自己的本性。
+{PAWN_possessive}冷酷无情与漠视生命，才更接近{PAWN_pronoun}本性的一部分。那是刻在{PAWN_pronoun}灵魂中的东西。
+{PAWN_pronoun}灵魂中的邪恶仍然需要被驯服。</AK_Trait_Schwarz.degreeDatas.0.description>
+  
+  <!-- EN: 执拗 -->
+  <AK_Trait_Toddifons.degreeDatas.0.label>执拗</AK_Trait_Toddifons.degreeDatas.0.label>
+  <!-- EN: “{PAWN_nameDef}的性格其实很好琢磨，{PAWN_pronoun}本身是个不听劝的石头，但你对{PAWN_pronoun}温和，{PAWN_pronoun}也会适当地......不那么，尖锐。但你要想强制{PAWN_pronoun}做些什么，吼吼，那可就有意思了，你看，{PAWN_pronoun}是个瓦伊凡，还上过军校，比谁拳头大{PAWN_pronoun}可是专业的。‘强扭的驮兽不听话’啊，想要{PAWN_pronoun}做些什么，还是得慢慢来。”——干员点评摘录 -->
+  <AK_Trait_Toddifons.degreeDatas.0.description>“{PAWN_nameDef}的性格其实很好琢磨，{PAWN_pronoun}本身是个不听劝的石头，但你对{PAWN_pronoun}温和，{PAWN_pronoun}也会适当地......不那么，尖锐。但你要想强制{PAWN_pronoun}做些什么，吼吼，那可就有意思了，你看，{PAWN_pronoun}是个瓦伊凡，还上过军校，比谁拳头大{PAWN_pronoun}可是专业的。‘强扭的驮兽不听话’啊，想要{PAWN_pronoun}做些什么，还是得慢慢来。”——干员点评摘录</AK_Trait_Toddifons.degreeDatas.0.description>
+  
+  <!-- EN: 自然秩序 -->
+  <AK_Trait_Typhon.degreeDatas.0.label>自然秩序</AK_Trait_Typhon.degreeDatas.0.label>
+  <!-- EN: 对于提丰来说，没有任何一栋房子能被称之为“家”，只有广阔的萨米大地才能被称为“家”，对于猎人来说，整个萨米的自然环境才是{PAWN_pronoun}真正的归属。\n{PAWN_pronoun}生于自然，自然会用自己的一切回馈自然。 -->
+  <AK_Trait_Typhon.degreeDatas.0.description>对于提丰来说，没有任何一栋房子能被称之为“家”，只有广阔的萨米大地才能被称为“家”，对于猎人来说，整个萨米的自然环境才是{PAWN_pronoun}真正的归属。
+{PAWN_pronoun}生于自然，自然会用自己的一切回馈自然。</AK_Trait_Typhon.degreeDatas.0.description>
+  
+  <!-- EN: 永恒狩猎 -->
+  <AK_Trait_TyphonSecond.degreeDatas.0.label>永恒狩猎</AK_Trait_TyphonSecond.degreeDatas.0.label>
+  <!-- EN: 日复一日，{PAWN_pronoun}与危机四伏的冻原搏斗，在摸爬滚打中积累生存知识与狩猎技巧，与哪些看不见的影子和仇敌进行着永恒的战斗和狩猎。 -->
+  <AK_Trait_TyphonSecond.degreeDatas.0.description>日复一日，{PAWN_pronoun}与危机四伏的冻原搏斗，在摸爬滚打中积累生存知识与狩猎技巧，与哪些看不见的影子和仇敌进行着永恒的战斗和狩猎。</AK_Trait_TyphonSecond.degreeDatas.0.description>
+  
+  <!-- EN: 猎手 -->
+  <AK_Trait_Vermeil.degreeDatas.0.label>猎手</AK_Trait_Vermeil.degreeDatas.0.label>
+  <!-- EN: “若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。” -->
+  <AK_Trait_Vermeil.degreeDatas.0.description>“若是有实在难以决断的事就凭直觉去选择，身体是不会骗人的，这可是资深猎手的经验。”</AK_Trait_Vermeil.degreeDatas.0.description>
+  
+  <!-- EN: 索然无味 -->
+  <AK_Trait_W.degreeDatas.0.label>索然无味</AK_Trait_W.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的脑子就像卡兹戴尔外面的野草，一年比一年长得疯。 -->
+  <AK_Trait_W.degreeDatas.0.description>{PAWN_nameDef}的脑子就像卡兹戴尔外面的野草，一年比一年长得疯。</AK_Trait_W.degreeDatas.0.description>
+  
+  <!-- EN: 何以为我 -->
+  <AK_Trait_Wisadel.degreeDatas.0.label>何以为我</AK_Trait_Wisadel.degreeDatas.0.label>
+  <!-- EN: 杀人如麻、疯疯癫癫的雇佣兵，成为那位殿下的继承者，下一位巴别塔的议长——听起来的确缺乏可信度，对吧？但这里是卡兹戴尔，这话说出来，还真不算荒唐。 -->
+  <AK_Trait_Wisadel.degreeDatas.0.description>杀人如麻、疯疯癫癫的雇佣兵，成为那位殿下的继承者，下一位巴别塔的议长——听起来的确缺乏可信度，对吧？但这里是卡兹戴尔，这话说出来，还真不算荒唐。</AK_Trait_Wisadel.degreeDatas.0.description>
+  
+</LanguageData>

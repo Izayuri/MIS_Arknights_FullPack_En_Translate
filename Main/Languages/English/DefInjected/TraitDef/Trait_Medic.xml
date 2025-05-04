@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 学者 -->
+  <AK_Trait_Ceylon.degreeDatas.0.label>学者</AK_Trait_Ceylon.degreeDatas.0.label>
+  <!-- EN: 锡兰小姐虽然才从大学毕业，但是{PAWN_pronoun}本身的知识储备以及对于源石研究的热情是令人赞叹的，完全可以想见{PAWN_pronoun}在学校中付出了怎样的努力。这样优秀人才的加入，对于罗德岛来说，不得不说是一个意外之喜。 -->
+  <AK_Trait_Ceylon.degreeDatas.0.description>锡兰小姐虽然才从大学毕业，但是{PAWN_pronoun}本身的知识储备以及对于源石研究的热情是令人赞叹的，完全可以想见{PAWN_pronoun}在学校中付出了怎样的努力。这样优秀人才的加入，对于罗德岛来说，不得不说是一个意外之喜。</AK_Trait_Ceylon.degreeDatas.0.description>
+  
+  <!-- EN: 大小姐 -->
+  <AK_Trait_CeylonSecond.degreeDatas.0.label>大小姐</AK_Trait_CeylonSecond.degreeDatas.0.label>
+  <!-- EN: 之所以用“大小姐”而不是“研究者”去概括，是因为{PAWN_pronoun}“大小姐”的印象过于强烈。\n因为由无数成功培养出来的自信感无时无刻不体现在{PAWN_possessive}言行之中，在大部分时候，{PAWN_pronoun}总是对的。而如果{PAWN_pronoun}错了，{PAWN_pronoun}从不会吝啬“对不起”。 -->
+  <AK_Trait_CeylonSecond.degreeDatas.0.description>之所以用“大小姐”而不是“研究者”去概括，是因为{PAWN_pronoun}“大小姐”的印象过于强烈。
+因为由无数成功培养出来的自信感无时无刻不体现在{PAWN_possessive}言行之中，在大部分时候，{PAWN_pronoun}总是对的。而如果{PAWN_pronoun}错了，{PAWN_pronoun}从不会吝啬“对不起”。</AK_Trait_CeylonSecond.degreeDatas.0.description>
+  
+  <!-- EN: 一步，又一步 -->
+  <AK_Trait_EyjafjallaHvitAska.degreeDatas.0.label>一步，又一步</AK_Trait_EyjafjallaHvitAska.degreeDatas.0.label>
+  <!-- EN: “我跟在他们的后面，踩着他们曾留下的脚印，想向大地寻求一个答案，而后人的脚步最终会覆盖上如今我们的，他们将继续走下去。\n“这就是我们生命的意义。” -->
+  <AK_Trait_EyjafjallaHvitAska.degreeDatas.0.description>“我跟在他们的后面，踩着他们曾留下的脚印，想向大地寻求一个答案，而后人的脚步最终会覆盖上如今我们的，他们将继续走下去。
+“这就是我们生命的意义。”</AK_Trait_EyjafjallaHvitAska.degreeDatas.0.description>
+  
+  <!-- EN: 想要留住的声音 -->
+  <AK_Trait_EyjafjallaHvitAskaSecond.degreeDatas.0.label>想要留住的声音</AK_Trait_EyjafjallaHvitAskaSecond.degreeDatas.0.label>
+  <!-- EN: 若有机会，我还想再录更多——熔岩声，风雨声，还有身边人的声音。 -->
+  <AK_Trait_EyjafjallaHvitAskaSecond.degreeDatas.0.description>若有机会，我还想再录更多——熔岩声，风雨声，还有身边人的声音。</AK_Trait_EyjafjallaHvitAskaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 生命之歌 -->
+  <AK_Trait_EyjafjallaHvitAskaThird.degreeDatas.0.label>生命之歌</AK_Trait_EyjafjallaHvitAskaThird.degreeDatas.0.label>
+  <!-- EN: 一块又小又轻的火山石，投入水中后会上下翻滚，嗞嗞的气泡声轻响不绝。这即是生命之歌。 -->
+  <AK_Trait_EyjafjallaHvitAskaThird.degreeDatas.0.description>一块又小又轻的火山石，投入水中后会上下翻滚，嗞嗞的气泡声轻响不绝。这即是生命之歌。</AK_Trait_EyjafjallaHvitAskaThird.degreeDatas.0.description>
+  
+  <!-- EN: 生命之火 -->
+  <AK_Trait_FlameShadow.degreeDatas.0.label>生命之火</AK_Trait_FlameShadow.degreeDatas.0.label>
+  <!-- EN: 我的身份，我无法逃避。塔拉人，我是；深池，我是；德拉克，我是。\n深池的领袖，我可以是。\n我想让他们也看到生命所应有的样子，而如果那份责任选择了我，我不会再逃跑。 -->
+  <AK_Trait_FlameShadow.degreeDatas.0.description>我的身份，我无法逃避。塔拉人，我是；深池，我是；德拉克，我是。
+深池的领袖，我可以是。
+我想让他们也看到生命所应有的样子，而如果那份责任选择了我，我不会再逃跑。</AK_Trait_FlameShadow.degreeDatas.0.description>
+  
+  <!-- EN: 红龙之血 -->
+  <AK_Trait_FlameShadowSecond.degreeDatas.0.label>红龙之血</AK_Trait_FlameShadowSecond.degreeDatas.0.label>
+  <!-- EN: 德拉克的血脉被认为早已绝迹，如今两滴鲜血再次出现在了维多利亚的土地上，也许再过不久火焰就会点燃维多利亚的土地。 -->
+  <AK_Trait_FlameShadowSecond.degreeDatas.0.description>德拉克的血脉被认为早已绝迹，如今两滴鲜血再次出现在了维多利亚的土地上，也许再过不久火焰就会点燃维多利亚的土地。</AK_Trait_FlameShadowSecond.degreeDatas.0.description>
+  
+  <!-- EN: 使徒 -->
+  <AK_Trait_Follower.degreeDatas.0.label>使徒</AK_Trait_Follower.degreeDatas.0.label>
+  <!-- EN: “那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了”\n“从此以后，有公义的冠冕为我存留”\n“就是按着公义审判的主到了那日要赐给我的”\n“不但赐给我，也赐给凡爱慕他显现的人”  -->
+  <AK_Trait_Follower.degreeDatas.0.description>“那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了”
+“从此以后，有公义的冠冕为我存留”
+“就是按着公义审判的主到了那日要赐给我的”
+“不但赐给我，也赐给凡爱慕他显现的人” </AK_Trait_Follower.degreeDatas.0.description>
+  
+  <!-- EN: 奇特的医师 -->
+  <AK_Trait_Gavial.degreeDatas.0.label>奇特的医师</AK_Trait_Gavial.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}经常会被怀疑手中的魔杖是用来敲人而非使用治疗法术的。\n但在{PAWN_pronoun}口中，成为医生而被族人排挤也好，感染矿石病后遭受的冷眼也好，似乎都是不值一提的小事。\n{PAWN_pronoun}现在在这里，{PAWN_pronoun}为每个人疗伤，对{PAWN_pronoun}来说，这样就足够了。\n这样的{PAWN_pronoun}，是值得每个人去尊敬和学习的。 -->
+  <AK_Trait_Gavial.degreeDatas.0.description>{PAWN_nameDef}经常会被怀疑手中的魔杖是用来敲人而非使用治疗法术的。
+但在{PAWN_pronoun}口中，成为医生而被族人排挤也好，感染矿石病后遭受的冷眼也好，似乎都是不值一提的小事。
+{PAWN_pronoun}现在在这里，{PAWN_pronoun}为每个人疗伤，对{PAWN_pronoun}来说，这样就足够了。
+这样的{PAWN_pronoun}，是值得每个人去尊敬和学习的。</AK_Trait_Gavial.degreeDatas.0.description>
+  
+  <!-- EN: 旧日之影 -->
+  <AK_Trait_Kaltsit.degreeDatas.0.label>旧日之影</AK_Trait_Kaltsit.degreeDatas.0.label>
+  <!-- EN: 魔王死了\n巴别塔倒塌了。 -->
+  <AK_Trait_Kaltsit.degreeDatas.0.description>魔王死了
+巴别塔倒塌了。</AK_Trait_Kaltsit.degreeDatas.0.description>
+  
+  <!-- EN: 无所不知 -->
+  <AK_Trait_KaltsitSecond.degreeDatas.0.label>无所不知</AK_Trait_KaltsitSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在在冶金工业、社会学、源石技艺、考古学、历史系谱学、经济学、植物学、地质学等领域皆拥有渊博学识。就像是无所不知一般。 -->
+  <AK_Trait_KaltsitSecond.degreeDatas.0.description>{PAWN_nameDef}在在冶金工业、社会学、源石技艺、考古学、历史系谱学、经济学、植物学、地质学等领域皆拥有渊博学识。就像是无所不知一般。</AK_Trait_KaltsitSecond.degreeDatas.0.description>
+  
+  <!-- EN: 平安祈愿 -->
+  <AK_Trait_Mulberry.degreeDatas.0.label>平安祈愿</AK_Trait_Mulberry.degreeDatas.0.label>
+  <!-- EN: 再严格的事前防护准备，也会有百密一疏的时候。常年在天灾频发区域活动，救助受灾人员，有时甚至需要直面突发的二次灾害，感染矿石病对于救助员这一高危职业来说，是十分难以避免的。\n可以说，在选择了这一职业的同时，就等于已经将自己的安危置之度外。\n{PAWN_nameDef}当然也是如此。 -->
+  <AK_Trait_Mulberry.degreeDatas.0.description>再严格的事前防护准备，也会有百密一疏的时候。常年在天灾频发区域活动，救助受灾人员，有时甚至需要直面突发的二次灾害，感染矿石病对于救助员这一高危职业来说，是十分难以避免的。
+可以说，在选择了这一职业的同时，就等于已经将自己的安危置之度外。
+{PAWN_nameDef}当然也是如此。</AK_Trait_Mulberry.degreeDatas.0.description>
+  
+  <!-- EN: 提灯女神 -->
+  <AK_Trait_Nightingale.degreeDatas.0.label>提灯女神</AK_Trait_Nightingale.degreeDatas.0.label>
+  <!-- EN: AND THEY WERE DANCING, ***\nTHE BOARD FLOOR SLAMMING UNDER THE HOOVES AND THE SWORDS SHINING HIDEOUSLY OVER THEIR BLOODSTAINED CLOAKS. ***\nHE SAYS HE WILL WIPE ALL THEM OUT FROM SARKAZ. HE NEVER RESTS, HE SAYS. HE SAYS THAT HE WILL NEVER DIE. -->
+  <AK_Trait_Nightingale.degreeDatas.0.description>AND THEY WERE DANCING, ***
+THE BOARD FLOOR SLAMMING UNDER THE HOOVES AND THE SWORDS SHINING HIDEOUSLY OVER THEIR BLOODSTAINED CLOAKS. ***
+HE SAYS HE WILL WIPE ALL THEM OUT FROM SARKAZ. HE NEVER RESTS, HE SAYS. HE SAYS THAT HE WILL NEVER DIE.</AK_Trait_Nightingale.degreeDatas.0.description>
+  
+  <!-- EN: 封闭的希望 -->
+  <AK_Trait_NightingaleSecond.degreeDatas.0.label>封闭的希望</AK_Trait_NightingaleSecond.degreeDatas.0.label>
+  <!-- EN: “笼中的晶光，即使笼门开着，即使光芒能洒在别人身上，晶石本身还是固定在笼中。\n因为它没有移动的能力，被固定在了那里。” -->
+  <AK_Trait_NightingaleSecond.degreeDatas.0.description>“笼中的晶光，即使笼门开着，即使光芒能洒在别人身上，晶石本身还是固定在笼中。
+因为它没有移动的能力，被固定在了那里。”</AK_Trait_NightingaleSecond.degreeDatas.0.description>
+  
+  <!-- EN: 博览古卷 -->
+  <AK_Trait_Papyrus.degreeDatas.0.label>博览古卷</AK_Trait_Papyrus.degreeDatas.0.label>
+  <!-- EN: 她只能当一个抽离出去的记录者，一个旁观者，而不是一个真情实意的践行者，一个亲历者。 -->
+  <AK_Trait_Papyrus.degreeDatas.0.description>她只能当一个抽离出去的记录者，一个旁观者，而不是一个真情实意的践行者，一个亲历者。</AK_Trait_Papyrus.degreeDatas.0.description>
+  
+  <!-- EN: 手有余香 -->
+  <AK_Trait_Perfumer.degreeDatas.0.label>手有余香</AK_Trait_Perfumer.degreeDatas.0.label>
+  <!-- EN: 就职于疗养庭园期间，{PAWN_nameDef}展现出的温柔，耐心和十足的修养，以及足以令人沉醉其中的调制香薰，使{PAWN_pronoun}在干员之间颇受欢迎。 -->
+  <AK_Trait_Perfumer.degreeDatas.0.description>就职于疗养庭园期间，{PAWN_nameDef}展现出的温柔，耐心和十足的修养，以及足以令人沉醉其中的调制香薰，使{PAWN_pronoun}在干员之间颇受欢迎。</AK_Trait_Perfumer.degreeDatas.0.description>
+  
+  <!-- EN: 另一个声音 -->
+  <AK_Trait_Ptilopsis.degreeDatas.0.label>另一个声音</AK_Trait_Ptilopsis.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}脑中出现了另一个声音，一个不属于已知语言范畴的声音，这东西会给{PAWN_possessive}精神造成极大负担。\n只有使用机械性语言逻辑才能减轻这种痛苦。 -->
+  <AK_Trait_Ptilopsis.degreeDatas.0.description>{PAWN_nameDef}脑中出现了另一个声音，一个不属于已知语言范畴的声音，这东西会给{PAWN_possessive}精神造成极大负担。
+只有使用机械性语言逻辑才能减轻这种痛苦。</AK_Trait_Ptilopsis.degreeDatas.0.description>
+  
+  <!-- EN: 人形知识库 -->
+  <AK_Trait_PtilopsisSecond.degreeDatas.0.label>人形知识库</AK_Trait_PtilopsisSecond.degreeDatas.0.label>
+  <!-- EN: 作为数据维护员的{PAWN_nameDef}，脑子里装载着数量难以想象的知识，这会对{PAWN_possessive}工作和学习起到巨大的帮助。 -->
+  <AK_Trait_PtilopsisSecond.degreeDatas.0.description>作为数据维护员的{PAWN_nameDef}，脑子里装载着数量难以想象的知识，这会对{PAWN_possessive}工作和学习起到巨大的帮助。</AK_Trait_PtilopsisSecond.degreeDatas.0.description>
+  
+  <!-- EN: 慈悲 -->
+  <AK_Trait_Shining.degreeDatas.0.label>慈悲</AK_Trait_Shining.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的眼神中仿佛永久带着慈悲，虽然{PAWN_pronoun}拥有着{PAWN_pronoun}人无可比拟的剑术，但是{PAWN_pronoun}在绝大多数时候拒绝使用暴力。 -->
+  <AK_Trait_Shining.degreeDatas.0.description>{PAWN_nameDef}的眼神中仿佛永久带着慈悲，虽然{PAWN_pronoun}拥有着{PAWN_pronoun}人无可比拟的剑术，但是{PAWN_pronoun}在绝大多数时候拒绝使用暴力。</AK_Trait_Shining.degreeDatas.0.description>
+  
+  <!-- EN: 真正的学者 -->
+  <AK_Trait_Silence.degreeDatas.0.label>真正的学者</AK_Trait_Silence.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}拥有敏锐的洞察力以及极强的执行力。{PAWN_pronoun}就像一台精密的机器，不会出现一丝一毫的错误。{PAWN_pronoun}手下的科研小组也耳濡目染，整个组的氛围都显得有些忙碌和紧凑。 -->
+  <AK_Trait_Silence.degreeDatas.0.description>{PAWN_nameDef}拥有敏锐的洞察力以及极强的执行力。{PAWN_pronoun}就像一台精密的机器，不会出现一丝一毫的错误。{PAWN_pronoun}手下的科研小组也耳濡目染，整个组的氛围都显得有些忙碌和紧凑。</AK_Trait_Silence.degreeDatas.0.description>
+  
+  <!-- EN: 道德淡泊 -->
+  <AK_Trait_Warfarin.degreeDatas.0.label>道德淡泊</AK_Trait_Warfarin.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的道德感相当的淡泊，{PAWN_pronoun}只要想到了什么点子，就会立刻去实践，而且完全不会顾及天理伦常。\n即使是被多次说教也毫无用处，说到底，{PAWN_pronoun}大概也根本没在反省就是了。 -->
+  <AK_Trait_Warfarin.degreeDatas.0.description>{PAWN_nameDef}的道德感相当的淡泊，{PAWN_pronoun}只要想到了什么点子，就会立刻去实践，而且完全不会顾及天理伦常。
+即使是被多次说教也毫无用处，说到底，{PAWN_pronoun}大概也根本没在反省就是了。</AK_Trait_Warfarin.degreeDatas.0.description>
+  
+  <!-- EN: 血先生 -->
+  <AK_Trait_WarfarinSecond.degreeDatas.0.label>血先生</AK_Trait_WarfarinSecond.degreeDatas.0.label>
+  <!-- EN: 尽管{PAWN_nameDef}有着各种天马行空的想法和淡泊的道德，但是{PAWN_pronoun}还是维持了一个医生与淑女基础的素养。\n而且{PAWN_possessive}医术真的很高超，并也在尽力克服{PAWN_possessive}种群本能。 -->
+  <AK_Trait_WarfarinSecond.degreeDatas.0.description>尽管{PAWN_nameDef}有着各种天马行空的想法和淡泊的道德，但是{PAWN_pronoun}还是维持了一个医生与淑女基础的素养。
+而且{PAWN_possessive}医术真的很高超，并也在尽力克服{PAWN_possessive}种群本能。</AK_Trait_WarfarinSecond.degreeDatas.0.description>
+  
+  <!-- EN: 生物性退行 -->
+  <AK_Trait_Whisperain.degreeDatas.0.label>生物性退行</AK_Trait_Whisperain.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的身体虚弱到了难以理解的程度，体检报告的数值表明，{PAWN_nameDef}小姐的各项身体指标皆低于健康人体的平均水准，其在免疫系统方面更是达到了一个需要被特殊关照的危险境地。 -->
+  <AK_Trait_Whisperain.degreeDatas.0.description>{PAWN_nameDef}的身体虚弱到了难以理解的程度，体检报告的数值表明，{PAWN_nameDef}小姐的各项身体指标皆低于健康人体的平均水准，其在免疫系统方面更是达到了一个需要被特殊关照的危险境地。</AK_Trait_Whisperain.degreeDatas.0.description>
+  
+  <!-- EN: 生物性分化 -->
+  <AK_Trait_WhisperainSecond.degreeDatas.0.label>生物性分化</AK_Trait_WhisperainSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}虽然性格温柔，善于与人共情，但是因为{PAWN_pronoun}很容易在重生后失去一切记忆，{PAWN_pronoun}恐惧与人交流，对于一些干员的主动接触，絮雨小姐通常以回避作为回应。 -->
+  <AK_Trait_WhisperainSecond.degreeDatas.0.description>{PAWN_nameDef}虽然性格温柔，善于与人共情，但是因为{PAWN_pronoun}很容易在重生后失去一切记忆，{PAWN_pronoun}恐惧与人交流，对于一些干员的主动接触，絮雨小姐通常以回避作为回应。</AK_Trait_WhisperainSecond.degreeDatas.0.description>
+  
+</LanguageData>

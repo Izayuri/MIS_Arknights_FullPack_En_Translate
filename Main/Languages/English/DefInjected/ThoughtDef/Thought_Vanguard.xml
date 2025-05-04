@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 农家女孩 -->
+  <AK_Thought_Trait_Bagpipe.stages.0.label>农家女孩</AK_Thought_Trait_Bagpipe.stages.0.label>
+  <!-- EN: 阳光，麦田，成群的牧兽......我也想种点什么了，要么就土豆好了？种土豆，我可是很有经验的！ -->
+  <AK_Thought_Trait_Bagpipe.stages.0.description>阳光，麦田，成群的牧兽......我也想种点什么了，要么就土豆好了？种土豆，我可是很有经验的！</AK_Thought_Trait_Bagpipe.stages.0.description>
+  
+  <!-- EN: 小小的领袖 -->
+  <AK_Thought_Trait_Flametail.stages.0.label>小小的领袖</AK_Thought_Trait_Flametail.stages.0.label>
+  <!-- EN: 不知道小灰她们在干嘛呢。 -->
+  <AK_Thought_Trait_Flametail.stages.0.description>不知道小灰她们在干嘛呢。</AK_Thought_Trait_Flametail.stages.0.description>
+  
+  <!-- EN: “独影归途” -->
+  <AK_Thought_Trait_Ines.stages.0.label>“独影归途”</AK_Thought_Trait_Ines.stages.0.label>
+  <!-- EN: “不是每一次，都会有人来救你的。” -->
+  <AK_Thought_Trait_Ines.stages.0.description>“不是每一次，都会有人来救你的。”</AK_Thought_Trait_Ines.stages.0.description>
+  
+  <!-- EN: 水精灵 -->
+  <AK_Thought_Trait_Muelsyse.stages.0.label>水精灵</AK_Thought_Trait_Muelsyse.stages.0.label>
+  <!-- EN: “露水滴在叶片上，可就只能被太阳烤干了。我们是多么想融进叶脉，回归大地啊……唔，我是说露水，是露水想要——啊，嗯……唉……” -->
+  <AK_Thought_Trait_Muelsyse.stages.0.description>“露水滴在叶片上，可就只能被太阳烤干了。我们是多么想融进叶脉，回归大地啊……唔，我是说露水，是露水想要——啊，嗯……唉……”</AK_Thought_Trait_Muelsyse.stages.0.description>
+  
+  <!-- EN: 大将军 -->
+  <AK_Thought_Trait_Myrtle.stages.0.label>大将军</AK_Thought_Trait_Myrtle.stages.0.label>
+  <!-- EN: "我一开始就说了嘛，我可是挺厉害的呢！嗯——哼！" -->
+  <AK_Thought_Trait_Myrtle.stages.0.description>"我一开始就说了嘛，我可是挺厉害的呢！嗯——哼！"</AK_Thought_Trait_Myrtle.stages.0.description>
+  
+  <!-- EN: 生命之火 -->
+  <AK_Thought_Trait_Reed.stages.0.label>生命之火</AK_Thought_Trait_Reed.stages.0.label>
+  <!-- EN: 罪恶感？……我们的生命都一样廉价。所以我，没有罪恶感。 -->
+  <AK_Thought_Trait_Reed.stages.0.description>罪恶感？……我们的生命都一样廉价。所以我，没有罪恶感。</AK_Thought_Trait_Reed.stages.0.description>
+  
+  <!-- EN: 大智若愚 -->
+  <AK_Thought_Trait_Saga.stages.0.label>大智若愚</AK_Thought_Trait_Saga.stages.0.label>
+  <!-- EN: 腌萝卜......哈！小僧在！ -->
+  <AK_Thought_Trait_Saga.stages.0.description>腌萝卜......哈！小僧在！</AK_Thought_Trait_Saga.stages.0.description>
+  
+  <!-- EN: 入世 -->
+  <AK_Thought_Trait_SagaSecond.stages.0.label>入世</AK_Thought_Trait_SagaSecond.stages.0.label>
+  <!-- EN: 离开庙里时，小僧还以为入世无非是收拾几个蟊贼，除几个恶霸，不曾想世道竟如此变幻莫测，小僧有时甚至不知自己该为何而挥刀。 -->
+  <AK_Thought_Trait_SagaSecond.stages.0.description>离开庙里时，小僧还以为入世无非是收拾几个蟊贼，除几个恶霸，不曾想世道竟如此变幻莫测，小僧有时甚至不知自己该为何而挥刀。</AK_Thought_Trait_SagaSecond.stages.0.description>
+  
+  <!-- EN: 感染力 -->
+  <AK_Thought_Trait_SaileachSecond.stages.0.label>感染力</AK_Thought_Trait_SaileachSecond.stages.0.label>
+  <!-- EN: 愿我的旗帜，能守护我所见的每一个无辜之人。 -->
+  <AK_Thought_Trait_SaileachSecond.stages.0.description>愿我的旗帜，能守护我所见的每一个无辜之人。</AK_Thought_Trait_SaileachSecond.stages.0.description>
+  
+  <!-- EN: 狮心王 -->
+  <AK_Thought_Trait_Siege.stages.0.label>狮心王</AK_Thought_Trait_Siege.stages.0.label>
+  <!-- EN: 我做了个梦......那是太阳升起的地方。视线无法触及之处，我的祖国就在那里......我或许，再也回不去了。 -->
+  <AK_Thought_Trait_Siege.stages.0.description>我做了个梦......那是太阳升起的地方。视线无法触及之处，我的祖国就在那里......我或许，再也回不去了。</AK_Thought_Trait_Siege.stages.0.description>
+  
+  <!-- EN: 过去的影子 -->
+  <AK_Thought_Trait_Texas.stages.0.label>过去的影子</AK_Thought_Trait_Texas.stages.0.label>
+  <!-- EN: 无论怎么逃，我的过去总有一天会追上我。 -->
+  <AK_Thought_Trait_Texas.stages.0.description>无论怎么逃，我的过去总有一天会追上我。</AK_Thought_Trait_Texas.stages.0.description>
+  
+  <!-- EN: 吵闹的生活 -->
+  <AK_Thought_Trait_TexasSecond.stages.0.label>吵闹的生活</AK_Thought_Trait_TexasSecond.stages.0.label>
+  <!-- EN: 自由的生活，吵闹的伙伴，虽然总给我带来麻烦，不过......我现在觉得这样也不坏。 -->
+  <AK_Thought_Trait_TexasSecond.stages.0.description>自由的生活，吵闹的伙伴，虽然总给我带来麻烦，不过......我现在觉得这样也不坏。</AK_Thought_Trait_TexasSecond.stages.0.description>
+  
+  <!-- EN: 自信 -->
+  <AK_Thought_Trait_WildSecond.stages.0.label>自信</AK_Thought_Trait_WildSecond.stages.0.label>
+  <!-- EN: 敢不敢和我比划比划？ -->
+  <AK_Thought_Trait_WildSecond.stages.0.description>敢不敢和我比划比划？</AK_Thought_Trait_WildSecond.stages.0.description>
+  
+  <!-- EN: 砥石 -->
+  <AK_Thought_Trait_Yato.stages.0.label>砥石</AK_Thought_Trait_Yato.stages.0.label>
+  <!-- EN: 永远不要停止打磨你的技术，这是通往高效的唯一途径。想当然行动不可取，凡事或许皆有侥幸，但幸运不会时常眷顾你。 -->
+  <AK_Thought_Trait_Yato.stages.0.description>永远不要停止打磨你的技术，这是通往高效的唯一途径。想当然行动不可取，凡事或许皆有侥幸，但幸运不会时常眷顾你。</AK_Thought_Trait_Yato.stages.0.description>
+  
+</LanguageData>

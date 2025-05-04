@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 年轻的信使 -->
+  <AK_Trait_Angelina.degreeDatas.0.label>年轻的信使</AK_Trait_Angelina.degreeDatas.0.label>
+  <!-- EN: 即便已经知晓了感染者的结局，{PAWN_nameDef}却并不甘心。\n作为信使，作为感染者，也作为一个普通的高中生，{PAWN_pronoun}正在努力地生活下去，无论未来会变成什么模样。 -->
+  <AK_Trait_Angelina.degreeDatas.0.description>即便已经知晓了感染者的结局，{PAWN_nameDef}却并不甘心。
+作为信使，作为感染者，也作为一个普通的高中生，{PAWN_pronoun}正在努力地生活下去，无论未来会变成什么模样。</AK_Trait_Angelina.degreeDatas.0.description>
+  
+  <!-- EN: 文明的存续 -->
+  <AK_Trait_CivilightEterna.degreeDatas.0.label>文明的存续</AK_Trait_CivilightEterna.degreeDatas.0.label>
+  <!-- EN: 特蕾西娅已经永远离开了，现在留在这里的我，只是一个存在于“魔王”之中的程序。因为阿米娅的情感，我才会以这副模样显现。不要将我当作特蕾西娅，尽管我记得过去的一切。 -->
+  <AK_Trait_CivilightEterna.degreeDatas.0.description>特蕾西娅已经永远离开了，现在留在这里的我，只是一个存在于“魔王”之中的程序。因为阿米娅的情感，我才会以这副模样显现。不要将我当作特蕾西娅，尽管我记得过去的一切。</AK_Trait_CivilightEterna.degreeDatas.0.description>
+  
+  <!-- EN: “未完的故事” -->
+  <AK_Trait_CivilightEternaSecond.degreeDatas.0.label>“未完的故事”</AK_Trait_CivilightEternaSecond.degreeDatas.0.label>
+  <!-- EN: 我知道，还有许多人需要我。不用着急，这一次我不会离开了。 -->
+  <AK_Trait_CivilightEternaSecond.degreeDatas.0.description>我知道，还有许多人需要我。不用着急，这一次我不会离开了。</AK_Trait_CivilightEternaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 真正的魔王 -->
+  <AK_Trait_CivilightEternaThird.degreeDatas.0.label>真正的魔王</AK_Trait_CivilightEternaThird.degreeDatas.0.label>
+  <!-- EN: 这就是你选择的“希望”吗 -->
+  <AK_Trait_CivilightEternaThird.degreeDatas.0.description>这就是你选择的“希望”吗</AK_Trait_CivilightEternaThird.degreeDatas.0.description>
+  
+  <!-- EN: Ishar-mla -->
+  <AK_Trait_CorruptingHeart.degreeDatas.Isharmla.label>Ishar-mla</AK_Trait_CorruptingHeart.degreeDatas.Isharmla.label>
+  <!-- EN: /检索中\n/错误！未查询到相关档案\n/检索中（2）\n/错误！未查询到相关档案\n/检索中（3）\n/错误！未查询到相关档案\n\n严重错误！三次查询目标档案失败，请联系PRTS管理员补充相关信息。 -->
+  <AK_Trait_CorruptingHeart.degreeDatas.Isharmla.description>/检索中
+/错误！未查询到相关档案
+/检索中（2）
+/错误！未查询到相关档案
+/检索中（3）
+/错误！未查询到相关档案
+
+严重错误！三次查询目标档案失败，请联系PRTS管理员补充相关信息。</AK_Trait_CorruptingHeart.degreeDatas.Isharmla.description>
+  
+  <!-- EN: 塞壬海妖 -->
+  <AK_Trait_CorruptingHeartSecond.degreeDatas.0.label>塞壬海妖</AK_Trait_CorruptingHeartSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_pronoun}在歌唱，{PAWN_pronoun}是如此美丽。 -->
+  <AK_Trait_CorruptingHeartSecond.degreeDatas.0.description>{PAWN_pronoun}在歌唱，{PAWN_pronoun}是如此美丽。</AK_Trait_CorruptingHeartSecond.degreeDatas.0.description>
+  
+  <!-- EN: 江河的尽头 -->
+  <AK_Trait_Deepcolor.degreeDatas.0.label>江河的尽头</AK_Trait_Deepcolor.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}描述的海洋究竟是什么？{PAWN_pronoun}使用的蓝色为何会让人感到不安？{PAWN_pronoun}在绘画时那令人不适的杂音又从何而来？\n管它呢，探听别人的机密可不好。 -->
+  <AK_Trait_Deepcolor.degreeDatas.0.description>{PAWN_nameDef}描述的海洋究竟是什么？{PAWN_pronoun}使用的蓝色为何会让人感到不安？{PAWN_pronoun}在绘画时那令人不适的杂音又从何而来？
+管它呢，探听别人的机密可不好。</AK_Trait_Deepcolor.degreeDatas.0.description>
+  
+  <!-- EN: 冷漠学者 -->
+  <AK_Trait_Gnosis.degreeDatas.0.label>冷漠学者</AK_Trait_Gnosis.degreeDatas.0.label>
+  <!-- EN: 他的本名，诺希斯，意为知识、洞察。\n而{PAWN_pronoun}本人也如同这个名字的含义一般，极具洞察力，并且对于知识有着无穷的渴望。不近人情，言语刻薄。 -->
+  <AK_Trait_Gnosis.degreeDatas.0.description>他的本名，诺希斯，意为知识、洞察。
+而{PAWN_pronoun}本人也如同这个名字的含义一般，极具洞察力，并且对于知识有着无穷的渴望。不近人情，言语刻薄。</AK_Trait_Gnosis.degreeDatas.0.description>
+  
+  <!-- EN: 深度思考 -->
+  <AK_Trait_GnosisSecond.degreeDatas.0.label>深度思考</AK_Trait_GnosisSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}对于研究的热衷正是来自家学渊源。作为研究者来说，{PAWN_pronoun}可以说是十分理想的类型。\n{PAWN_pronoun}几乎没有物欲，对于研究之外的事物几乎不抱有兴趣。{PAWN_pronoun}具备将自己的想法转化为现实的行动力与能力。而一旦他将精神集中到研究之上时，{PAWN_pronoun}就会化身成一台精密的仪器——在他参与过的诸多实验中，{PAWN_pronoun}从没有犯过一点错误。 -->
+  <AK_Trait_GnosisSecond.degreeDatas.0.description>{PAWN_nameDef}对于研究的热衷正是来自家学渊源。作为研究者来说，{PAWN_pronoun}可以说是十分理想的类型。
+{PAWN_pronoun}几乎没有物欲，对于研究之外的事物几乎不抱有兴趣。{PAWN_pronoun}具备将自己的想法转化为现实的行动力与能力。而一旦他将精神集中到研究之上时，{PAWN_pronoun}就会化身成一台精密的仪器——在他参与过的诸多实验中，{PAWN_pronoun}从没有犯过一点错误。</AK_Trait_GnosisSecond.degreeDatas.0.description>
+  
+  <!-- EN: 才华横溢 -->
+  <AK_Trait_Heidi.degreeDatas.0.label>才华横溢</AK_Trait_Heidi.degreeDatas.0.label>
+  <!-- EN: 不论是社交，战术规划还是文学，{PAWN_nameDef}展露出的才华远非常人能及。\n不过对{PAWN_pronoun}来说这些只不过是伪装的幕布 -->
+  <AK_Trait_Heidi.degreeDatas.0.description>不论是社交，战术规划还是文学，{PAWN_nameDef}展露出的才华远非常人能及。
+不过对{PAWN_pronoun}来说这些只不过是伪装的幕布</AK_Trait_Heidi.degreeDatas.0.description>
+  
+  <!-- EN: 真理 -->
+  <AK_Trait_Istina.degreeDatas.0.label>真理</AK_Trait_Istina.degreeDatas.0.label>
+  <!-- EN: 与同龄的学生不一样，{PAWN_nameDef}喜欢安静读书，并在书籍中学到了如何重新理解一切。 -->
+  <AK_Trait_Istina.degreeDatas.0.description>与同龄的学生不一样，{PAWN_nameDef}喜欢安静读书，并在书籍中学到了如何重新理解一切。</AK_Trait_Istina.degreeDatas.0.description>
+  
+  <!-- EN: 纵情快意 -->
+  <AK_Trait_Ling.degreeDatas.0.label>纵情快意</AK_Trait_Ling.degreeDatas.0.label>
+  <!-- EN: 悲长梦，醉挑灯。他年长风今犹在，旧时铁甲踏新声。 -->
+  <AK_Trait_Ling.degreeDatas.0.description>悲长梦，醉挑灯。他年长风今犹在，旧时铁甲踏新声。</AK_Trait_Ling.degreeDatas.0.description>
+  
+  <!-- EN: 乐逍遥 -->
+  <AK_Trait_LingSecond.degreeDatas.0.label>乐逍遥</AK_Trait_LingSecond.degreeDatas.0.label>
+  <!-- EN: 长河远上，埋骸其下，吾自逍遥。 -->
+  <AK_Trait_LingSecond.degreeDatas.0.description>长河远上，埋骸其下，吾自逍遥。</AK_Trait_LingSecond.degreeDatas.0.description>
+  
+  <!-- EN: 圣女 -->
+  <AK_Trait_Pramanix.degreeDatas.0.label>圣女</AK_Trait_Pramanix.degreeDatas.0.label>
+  <!-- EN: 圣女是整个谢拉格地方宗教至高无上的权首，身为经历残酷选拔而上位的圣女，{PAWN_nameDef}对信仰的虔诚与体能都是无可挑剔的，但是{PAWN_pronoun}似乎不喜欢这一圣洁的职位，貌似是因为职务太多了。 -->
+  <AK_Trait_Pramanix.degreeDatas.0.description>圣女是整个谢拉格地方宗教至高无上的权首，身为经历残酷选拔而上位的圣女，{PAWN_nameDef}对信仰的虔诚与体能都是无可挑剔的，但是{PAWN_pronoun}似乎不喜欢这一圣洁的职位，貌似是因为职务太多了。</AK_Trait_Pramanix.degreeDatas.0.description>
+  
+  <!-- EN: 看了一次星星 -->
+  <AK_Trait_Proviso.degreeDatas.0.label>看了一次星星</AK_Trait_Proviso.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}太过聪明，也太过于绝对，这是{PAWN_pronoun}与多数学生最大的不同。\n{PAWN_pronoun}对于用法律寻找真理的执着支撑着{PAWN_pronoun}取得如斯优秀的成绩，但{PAWN_pronoun}还没有做好“找不到答案”的准备。 -->
+  <AK_Trait_Proviso.degreeDatas.0.description>{PAWN_nameDef}太过聪明，也太过于绝对，这是{PAWN_pronoun}与多数学生最大的不同。
+{PAWN_pronoun}对于用法律寻找真理的执着支撑着{PAWN_pronoun}取得如斯优秀的成绩，但{PAWN_pronoun}还没有做好“找不到答案”的准备。</AK_Trait_Proviso.degreeDatas.0.description>
+  
+  <!-- EN: 职业律师 -->
+  <AK_Trait_ProvisoSecond.degreeDatas.0.label>职业律师</AK_Trait_ProvisoSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}干员此前就职于卡西米尔顶尖的精英律所——长缰律所，有过非诉讼律师和诉讼律师的工作经验，在工作这几年内经手案子数量相当可观，拥有辩护不败的惊人战绩。 -->
+  <AK_Trait_ProvisoSecond.degreeDatas.0.description>{PAWN_nameDef}干员此前就职于卡西米尔顶尖的精英律所——长缰律所，有过非诉讼律师和诉讼律师的工作经验，在工作这几年内经手案子数量相当可观，拥有辩护不败的惊人战绩。</AK_Trait_ProvisoSecond.degreeDatas.0.description>
+  
+  <!-- EN: 利己者 -->
+  <AK_Trait_ProvisoThird.degreeDatas.0.label>利己者</AK_Trait_ProvisoThird.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}干员对待交到{PAWN_pronoun}手上的案件，往往不会在意结果正义与否，完全只是为了辩护人能获得最终胜利而行动，具体的办案手段也多有暧昧不明之处。 -->
+  <AK_Trait_ProvisoThird.degreeDatas.0.description>{PAWN_nameDef}干员对待交到{PAWN_pronoun}手上的案件，往往不会在意结果正义与否，完全只是为了辩护人能获得最终胜利而行动，具体的办案手段也多有暧昧不明之处。</AK_Trait_ProvisoThird.degreeDatas.0.description>
+  
+  <!-- EN: 高多汀的德鲁伊 -->
+  <AK_Trait_Quercus.degreeDatas.0.label>高多汀的德鲁伊</AK_Trait_Quercus.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}虽然不是感染者，但有对感染者一视同仁的医者仁心，而且有着相当娴熟、专业的战斗技巧。 -->
+  <AK_Trait_Quercus.degreeDatas.0.description>{PAWN_nameDef}虽然不是感染者，但有对感染者一视同仁的医者仁心，而且有着相当娴熟、专业的战斗技巧。</AK_Trait_Quercus.degreeDatas.0.description>
+  
+  <!-- EN: 风声 -->
+  <AK_Trait_QuercusSecond.degreeDatas.0.label>风声</AK_Trait_QuercusSecond.degreeDatas.0.label>
+  <!-- EN: ......{PAWN_pronoun}是不是有点太喜欢热闹了？就好像冷清的环境会让{PAWN_pronoun}感到恐惧似的。  -->
+  <AK_Trait_QuercusSecond.degreeDatas.0.description>......{PAWN_pronoun}是不是有点太喜欢热闹了？就好像冷清的环境会让{PAWN_pronoun}感到恐惧似的。 </AK_Trait_QuercusSecond.degreeDatas.0.description>
+  
+  <!-- EN: 话多 -->
+  <AK_Trait_Roberta.degreeDatas.0.label>话多</AK_Trait_Roberta.degreeDatas.0.label>
+  <!-- EN: “表面肌电追踪自填充粉底遮瑕！”\n“高能源石虫酸液萃取定型喷雾！”\n“颅颌面全结构自成像修容高光！”\n“干湿用环境色自适应唇彩腮红！” -->
+  <AK_Trait_Roberta.degreeDatas.0.description>“表面肌电追踪自填充粉底遮瑕！”
+“高能源石虫酸液萃取定型喷雾！”
+“颅颌面全结构自成像修容高光！”
+“干湿用环境色自适应唇彩腮红！”</AK_Trait_Roberta.degreeDatas.0.description>
+  
+  <!-- EN: 化妆师 -->
+  <AK_Trait_RobertaSecond.degreeDatas.0.label>化妆师</AK_Trait_RobertaSecond.degreeDatas.0.label>
+  <!-- EN: “上届学院奖颁奖典礼我是从头到尾看下来的，拿到最佳化妆与发型设计的那部电影，领头的化妆师不正是叫这个名字、长着这张脸吗？！我没记错的话，近五年来，大大小小的电影奖，{PAWN_pronoun}拿到的提名次数一只手根本数不过来吧？” -->
+  <AK_Trait_RobertaSecond.degreeDatas.0.description>“上届学院奖颁奖典礼我是从头到尾看下来的，拿到最佳化妆与发型设计的那部电影，领头的化妆师不正是叫这个名字、长着这张脸吗？！我没记错的话，近五年来，大大小小的电影奖，{PAWN_pronoun}拿到的提名次数一只手根本数不过来吧？”</AK_Trait_RobertaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 慢 -->
+  <AK_Trait_Scene.degreeDatas.0.label>慢</AK_Trait_Scene.degreeDatas.0.label>
+  <!-- EN: 或许是因为种族特性的缘故，{PAWN_nameDef}不论是思考还是做任何事情都极度缓慢，真——的——很——慢——哦—— -->
+  <AK_Trait_Scene.degreeDatas.0.description>或许是因为种族特性的缘故，{PAWN_nameDef}不论是思考还是做任何事情都极度缓慢，真——的——很——慢——哦——</AK_Trait_Scene.degreeDatas.0.description>
+  
+  <!-- EN: 缓慢但坚定 -->
+  <AK_Trait_SceneSecond.degreeDatas.0.label>缓慢但坚定</AK_Trait_SceneSecond.degreeDatas.0.label>
+  <!-- EN: 也许是天生的不敏感——又或许有其他原因——{PAWN_nameDef}没有被他人的言语所击败。\n{PAWN_pronoun}相信自己的伙伴，{PAWN_pronoun}也相信自己的父母。\n{PAWN_pronoun}相信，通过自己的双眼与镜头，{PAWN_pronoun}能帮助更多像自己一样比起语言对图像更敏感的人，而{PAWN_pronoun}自己也能看到更多，更多。\n虽然{PAWN_pronoun}不说，但也许{PAWN_pronoun}现在也很幸福。 -->
+  <AK_Trait_SceneSecond.degreeDatas.0.description>也许是天生的不敏感——又或许有其他原因——{PAWN_nameDef}没有被他人的言语所击败。
+{PAWN_pronoun}相信自己的伙伴，{PAWN_pronoun}也相信自己的父母。
+{PAWN_pronoun}相信，通过自己的双眼与镜头，{PAWN_pronoun}能帮助更多像自己一样比起语言对图像更敏感的人，而{PAWN_pronoun}自己也能看到更多，更多。
+虽然{PAWN_pronoun}不说，但也许{PAWN_pronoun}现在也很幸福。</AK_Trait_SceneSecond.degreeDatas.0.description>
+  
+  <!-- EN: 阳光偶像 -->
+  <AK_Trait_Sora.degreeDatas.0.label>阳光偶像</AK_Trait_Sora.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的表演以其可爱活泼，充满朝气的风格著名，可以说{PAWN_pronoun}就是“阳光少女”的代名词。 -->
+  <AK_Trait_Sora.degreeDatas.0.description>{PAWN_nameDef}的表演以其可爱活泼，充满朝气的风格著名，可以说{PAWN_pronoun}就是“阳光少女”的代名词。</AK_Trait_Sora.degreeDatas.0.description>
+  
+  <!-- EN: 好孩子 -->
+  <AK_Trait_Suzuran.degreeDatas.0.label>好孩子</AK_Trait_Suzuran.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}给所有人的印象都是“听话的好孩子”事实也的确如此。 -->
+  <AK_Trait_Suzuran.degreeDatas.0.description>{PAWN_nameDef}给所有人的印象都是“听话的好孩子”事实也的确如此。</AK_Trait_Suzuran.degreeDatas.0.description>
+  
+  <!-- EN: 独眼巨人 -->
+  <AK_Trait_Valarqvin.degreeDatas.0.label>独眼巨人</AK_Trait_Valarqvin.degreeDatas.0.label>
+  <!-- EN: 几乎每个独眼巨人都曾挑战过自己眼中的命运，想要阻止一场灾难或一次死亡，但最后往往发现自己的行动只是在推波助澜，让厄运更早降临。 -->
+  <AK_Trait_Valarqvin.degreeDatas.0.description>几乎每个独眼巨人都曾挑战过自己眼中的命运，想要阻止一场灾难或一次死亡，但最后往往发现自己的行动只是在推波助澜，让厄运更早降临。</AK_Trait_Valarqvin.degreeDatas.0.description>
+  
+  <!-- EN: 隐居者 -->
+  <AK_Trait_ValarqvinSecond.degreeDatas.0.label>隐居者</AK_Trait_ValarqvinSecond.degreeDatas.0.label>
+  <!-- EN: 在千年之间，隐居各地的独眼巨人缓慢地逐一前往北方，离开众人的视野，仅有历史残章的只言片语，透露出这一族群为某种共同使命而迁徙的事实。 -->
+  <AK_Trait_ValarqvinSecond.degreeDatas.0.description>在千年之间，隐居各地的独眼巨人缓慢地逐一前往北方，离开众人的视野，仅有历史残章的只言片语，透露出这一族群为某种共同使命而迁徙的事实。</AK_Trait_ValarqvinSecond.degreeDatas.0.description>
+  
+  <!-- EN: 远见未来 -->
+  <AK_Trait_ValarqvinThird.degreeDatas.0.label>远见未来</AK_Trait_ValarqvinThird.degreeDatas.0.label>
+  <!-- EN: {PAWN_pronoun}其实已经见到许多景象，许多可能。而{PAWN_pronoun}将永远对此保持缄默。 -->
+  <AK_Trait_ValarqvinThird.degreeDatas.0.description>{PAWN_pronoun}其实已经见到许多景象，许多可能。而{PAWN_pronoun}将永远对此保持缄默。</AK_Trait_ValarqvinThird.degreeDatas.0.description>
+  
+  <!-- EN: 塑心 -->
+  <AK_Trait_Virtuosa.degreeDatas.0.label>塑心</AK_Trait_Virtuosa.degreeDatas.0.label>
+  <!-- EN: 她不能让悲伤的人欢笑，不能让暴虐的人变得慈悲。她的源石技艺所展现出来的强大力量，也是人们被唤醒的自我与音乐的共鸣。塑心小姐早已知晓，她从未尝试以自己的音乐扭转他人的本性，不是出于无奈，而是出于明智。 -->
+  <AK_Trait_Virtuosa.degreeDatas.0.description>她不能让悲伤的人欢笑，不能让暴虐的人变得慈悲。她的源石技艺所展现出来的强大力量，也是人们被唤醒的自我与音乐的共鸣。塑心小姐早已知晓，她从未尝试以自己的音乐扭转他人的本性，不是出于无奈，而是出于明智。</AK_Trait_Virtuosa.degreeDatas.0.description>
+  
+  <!-- EN: 感受自我 -->
+  <AK_Trait_VirtuosaSecond.degreeDatas.0.label>感受自我</AK_Trait_VirtuosaSecond.degreeDatas.0.label>
+  <!-- EN: 他们在评议会上的猜想是对的。塑心小姐的源石技艺能够唤醒人们内心深处最特别的记忆，这些记忆会激发某种情绪，从而形成情感。但她不能凭自己的意志来改变人们在听到她的音乐之后重现的记忆。 -->
+  <AK_Trait_VirtuosaSecond.degreeDatas.0.description>他们在评议会上的猜想是对的。塑心小姐的源石技艺能够唤醒人们内心深处最特别的记忆，这些记忆会激发某种情绪，从而形成情感。但她不能凭自己的意志来改变人们在听到她的音乐之后重现的记忆。</AK_Trait_VirtuosaSecond.degreeDatas.0.description>
+  
+</LanguageData>

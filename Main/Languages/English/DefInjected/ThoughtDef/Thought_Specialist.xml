@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 登山家的热情 -->
+  <AK_Thought_Trait_Cliffheart.stages.0.label>登山家的热情</AK_Thought_Trait_Cliffheart.stages.0.label>
+  <!-- EN: 好，干劲涌上来了！一口气登上最高峰吧！ -->
+  <AK_Thought_Trait_Cliffheart.stages.0.description>好，干劲涌上来了！一口气登上最高峰吧！</AK_Thought_Trait_Cliffheart.stages.0.description>
+  
+  <!-- EN: 让所有人都幸福 -->
+  <AK_Thought_Trait_Dorothy.stages.0.label>让所有人都幸福</AK_Thought_Trait_Dorothy.stages.0.label>
+  <!-- EN: 有时候半夜在实验室醒来，我会觉得......害怕。\n我怕做了这么多，最后大家还是离开了我，而且......带着恨意。\n我该怎么办？我只是想让他们更幸福...... -->
+  <AK_Thought_Trait_Dorothy.stages.0.description>有时候半夜在实验室醒来，我会觉得......害怕。
+我怕做了这么多，最后大家还是离开了我，而且......带着恨意。
+我该怎么办？我只是想让他们更幸福......</AK_Thought_Trait_Dorothy.stages.0.description>
+  
+  <!-- EN: 装乖 -->
+  <AK_Thought_Trait_Kafka.stages.0.label>装乖</AK_Thought_Trait_Kafka.stages.0.label>
+  <!-- EN: 大家竭力隐藏的秘密，就像在静静潜伏在阴影里，伺机而动的怪物一样美丽而危险。\n所以我才要努力把它们变成我的收藏品啊。 -->
+  <AK_Thought_Trait_Kafka.stages.0.description>大家竭力隐藏的秘密，就像在静静潜伏在阴影里，伺机而动的怪物一样美丽而危险。
+所以我才要努力把它们变成我的收藏品啊。</AK_Thought_Trait_Kafka.stages.0.description>
+  
+  <!-- EN: 折纸生花 -->
+  <AK_Thought_Trait_Kazemaru.stages.0.label>折纸生花</AK_Thought_Trait_Kazemaru.stages.0.label>
+  <!-- EN: 她很清楚如今自己要做的究竟是什么。 -->
+  <AK_Thought_Trait_Kazemaru.stages.0.description>她很清楚如今自己要做的究竟是什么。</AK_Thought_Trait_Kazemaru.stages.0.description>
+  
+  <!-- EN: 砺火成锋 -->
+  <AK_Thought_Trait_Kirin.stages.0.label>砺火成锋</AK_Thought_Trait_Kirin.stages.0.label>
+  <!-- EN: 以胜利做砥石，才能保持锋芒。 -->
+  <AK_Thought_Trait_Kirin.stages.0.description>以胜利做砥石，才能保持锋芒。</AK_Thought_Trait_Kirin.stages.0.description>
+  
+  <!-- EN: 腼腆 -->
+  <AK_Thought_Trait_Manticore.stages.0.label>腼腆</AK_Thought_Trait_Manticore.stages.0.label>
+  <!-- EN: 我……一直交不到朋友。一个没法被注意到的朋友，谁会想要呢…… -->
+  <AK_Thought_Trait_Manticore.stages.0.description>我……一直交不到朋友。一个没法被注意到的朋友，谁会想要呢……</AK_Thought_Trait_Manticore.stages.0.description>
+  
+  <!-- EN: 极端洁癖 -->
+  <AK_Thought_Trait_Weedy.stages.0.label>极端洁癖</AK_Thought_Trait_Weedy.stages.0.label>
+  <!-- EN: 我知道我别无选择，但是如果可以我还是想要一间仔细消毒过的房间 -->
+  <AK_Thought_Trait_Weedy.stages.0.description>我知道我别无选择，但是如果可以我还是想要一间仔细消毒过的房间</AK_Thought_Trait_Weedy.stages.0.description>
+  
+</LanguageData>

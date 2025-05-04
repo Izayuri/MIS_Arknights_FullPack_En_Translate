@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 整合运动术士 -->
+  <AK_Reunion_Caster.degreeDatas.0.label>整合运动术士</AK_Reunion_Caster.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是操控源石技艺的成员。 -->
+  <AK_Reunion_Caster.degreeDatas.0.description>{PAWN_nameDef}是操控源石技艺的成员。</AK_Reunion_Caster.degreeDatas.0.description>
+  
+  <!-- EN: 整合运动干部 -->
+  <AK_Reunion_Leader.degreeDatas.0.label>整合运动干部</AK_Reunion_Leader.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef} 是从一般人中脱颖而出的特殊成员。 -->
+  <AK_Reunion_Leader.degreeDatas.0.description>{PAWN_nameDef} 是从一般人中脱颖而出的特殊成员。</AK_Reunion_Leader.degreeDatas.0.description>
+  
+  <!-- EN: 整合运动成员 -->
+  <AK_Reunion_Member.degreeDatas.0.label>整合运动成员</AK_Reunion_Member.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是一个组织的成员，一腔热血却跟错了人。 -->
+  <AK_Reunion_Member.degreeDatas.0.description>{PAWN_nameDef}是一个组织的成员，一腔热血却跟错了人。</AK_Reunion_Member.degreeDatas.0.description>
+  
+  <!-- EN: 盾卫 -->
+  <AK_Reunion_Shield.degreeDatas.0.label>盾卫</AK_Reunion_Shield.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是穿着厚重的成员。 -->
+  <AK_Reunion_Shield.degreeDatas.0.description>{PAWN_nameDef}是穿着厚重的成员。</AK_Reunion_Shield.degreeDatas.0.description>
+  
+  <!-- EN: 整合运动弩手 -->
+  <AK_Reunion_Sniper.degreeDatas.0.label>整合运动弩手</AK_Reunion_Sniper.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是拿着远程武器的成员。 -->
+  <AK_Reunion_Sniper.degreeDatas.0.description>{PAWN_nameDef}是拿着远程武器的成员。</AK_Reunion_Sniper.degreeDatas.0.description>
+  
+  <!-- EN: 整合运动领袖 -->
+  <AK_Reunion_TLL.degreeDatas.0.label>整合运动领袖</AK_Reunion_TLL.degreeDatas.0.label>
+  <!-- EN: 美好的理想，错误的行动。 -->
+  <AK_Reunion_TLL.degreeDatas.0.description>美好的理想，错误的行动。</AK_Reunion_TLL.degreeDatas.0.description>
+  
+  <!-- EN: 雪怪小队成员 -->
+  <AK_Reunion_Yeti.degreeDatas.0.label>雪怪小队成员</AK_Reunion_Yeti.degreeDatas.0.label>
+  <!-- EN: 游荡在雪原的小队，有着特殊的技艺。 -->
+  <AK_Reunion_Yeti.degreeDatas.0.description>游荡在雪原的小队，有着特殊的技艺。</AK_Reunion_Yeti.degreeDatas.0.description>
+  
+  <!-- EN: 雪怪小队队长 -->
+  <AK_Reunion_Yeti_Leader.degreeDatas.0.label>雪怪小队队长</AK_Reunion_Yeti_Leader.degreeDatas.0.label>
+  <!-- EN: “大姊，我们永远跟随你” -->
+  <AK_Reunion_Yeti_Leader.degreeDatas.0.description>“大姊，我们永远跟随你”</AK_Reunion_Yeti_Leader.degreeDatas.0.description>
+  
+  <!-- EN: 术士干员 -->
+  <AK_Trait_Agent_Caster.degreeDatas.0.label>术士干员</AK_Trait_Agent_Caster.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是掌握源石技艺的特殊干员，拥有完全不输狙击干员的能力。\n“术士大部分都是研究方面的专家，但是不要因此小瞧一个术士的破坏力” -->
+  <AK_Trait_Agent_Caster.degreeDatas.0.description>{PAWN_nameDef}是掌握源石技艺的特殊干员，拥有完全不输狙击干员的能力。
+“术士大部分都是研究方面的专家，但是不要因此小瞧一个术士的破坏力”</AK_Trait_Agent_Caster.degreeDatas.0.description>
+  
+  <!-- EN: 重装干员 -->
+  <AK_Trait_Agent_Defender.degreeDatas.0.label>重装干员</AK_Trait_Agent_Defender.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}有着最好的身体素质，保护是{PAWN_possessive}座右铭。\n“群山迭起，重装永不后退” -->
+  <AK_Trait_Agent_Defender.degreeDatas.0.description>{PAWN_nameDef}有着最好的身体素质，保护是{PAWN_possessive}座右铭。
+“群山迭起，重装永不后退”</AK_Trait_Agent_Defender.degreeDatas.0.description>
+  
+  <!-- EN: “博士” -->
+  <AK_Trait_Agent_Doc.degreeDatas.0.label>“博士”</AK_Trait_Agent_Doc.degreeDatas.0.label>
+  <!-- EN: 他现是博士，是执棋之人，他曾是恶灵，是无情的指挥，他学识渊博，却又与人和善，而现在，他是谁？取决于你 -->
+  <AK_Trait_Agent_Doc.degreeDatas.0.description>他现是博士，是执棋之人，他曾是恶灵，是无情的指挥，他学识渊博，却又与人和善，而现在，他是谁？取决于你</AK_Trait_Agent_Doc.degreeDatas.0.description>
+  
+  <!-- EN: 精英狙击干员 -->
+  <AK_Trait_Agent_Elite_Caster.degreeDatas.0.label>精英狙击干员</AK_Trait_Agent_Elite_Caster.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是一名罗德岛的资深精英狙击干员。\n“他强大的火力会为你指明前行的道路” -->
+  <AK_Trait_Agent_Elite_Caster.degreeDatas.0.description>{PAWN_nameDef}是一名罗德岛的资深精英狙击干员。
+“他强大的火力会为你指明前行的道路”</AK_Trait_Agent_Elite_Caster.degreeDatas.0.description>
+  
+  <!-- EN: 近卫干员 -->
+  <AK_Trait_Agent_Guard.degreeDatas.0.label>近卫干员</AK_Trait_Agent_Guard.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是您的利刃。{PAWN_pronoun}将所向披靡。\n“利刃出鞘，狭路相逢” -->
+  <AK_Trait_Agent_Guard.degreeDatas.0.description>{PAWN_nameDef}是您的利刃。{PAWN_pronoun}将所向披靡。
+“利刃出鞘，狭路相逢”</AK_Trait_Agent_Guard.degreeDatas.0.description>
+  
+  <!-- EN: 医疗干员 -->
+  <AK_Trait_Agent_Medic.degreeDatas.0.label>医疗干员</AK_Trait_Agent_Medic.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是罗德岛的核心，就任于凯尔希所领导的部门。\n“仁慈，勇敢，智慧，还有一些运气，这些就是挽救生命的法宝” -->
+  <AK_Trait_Agent_Medic.degreeDatas.0.description>{PAWN_nameDef}是罗德岛的核心，就任于凯尔希所领导的部门。
+“仁慈，勇敢，智慧，还有一些运气，这些就是挽救生命的法宝”</AK_Trait_Agent_Medic.degreeDatas.0.description>
+  
+  <!-- EN: 领袖 -->
+  <AK_Trait_Agent_OtherLeader.degreeDatas.0.label>领袖</AK_Trait_Agent_OtherLeader.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是某个主要组织的领袖。 -->
+  <AK_Trait_Agent_OtherLeader.degreeDatas.0.description>{PAWN_nameDef}是某个主要组织的领袖。</AK_Trait_Agent_OtherLeader.degreeDatas.0.description>
+  
+  <!-- EN: 预备术士干员 -->
+  <AK_Trait_Agent_Reserve_Caster.degreeDatas.0.label>预备术士干员</AK_Trait_Agent_Reserve_Caster.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是一名预备的术士干员。\n技艺尚未成熟，理论尚未掌握，但也可 -->
+  <AK_Trait_Agent_Reserve_Caster.degreeDatas.0.description>{PAWN_nameDef}是一名预备的术士干员。
+技艺尚未成熟，理论尚未掌握，但也可</AK_Trait_Agent_Reserve_Caster.degreeDatas.0.description>
+  
+  <!-- EN: 狙击干员 -->
+  <AK_Trait_Agent_Sniper.degreeDatas.0.label>狙击干员</AK_Trait_Agent_Sniper.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是后方的特殊干员，漏掉的敌人就放心交给{PAWN_objective}吧。\n“背后支援，火力掩护，轰击重要目标，狙击样样都行” -->
+  <AK_Trait_Agent_Sniper.degreeDatas.0.description>{PAWN_nameDef}是后方的特殊干员，漏掉的敌人就放心交给{PAWN_objective}吧。
+“背后支援，火力掩护，轰击重要目标，狙击样样都行”</AK_Trait_Agent_Sniper.degreeDatas.0.description>
+  
+  <!-- EN: 特种干员 -->
+  <AK_Trait_Agent_Specialist.degreeDatas.0.label>特种干员</AK_Trait_Agent_Specialist.degreeDatas.0.label>
+  <!-- EN: 空降，支援，斩首，暗杀是{PAWN_possessive}职责。\n“特种，就是特别有种的干员” -->
+  <AK_Trait_Agent_Specialist.degreeDatas.0.description>空降，支援，斩首，暗杀是{PAWN_possessive}职责。
+“特种，就是特别有种的干员”</AK_Trait_Agent_Specialist.degreeDatas.0.description>
+  
+  <!-- EN: 辅助干员 -->
+  <AK_Trait_Agent_Supporter.degreeDatas.0.label>辅助干员</AK_Trait_Agent_Supporter.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}喜欢并肩作战，{PAWN_pronoun}会义无反顾地支援你。\n“你所缺少的那一点，辅助会帮助您” -->
+  <AK_Trait_Agent_Supporter.degreeDatas.0.description>{PAWN_nameDef}喜欢并肩作战，{PAWN_pronoun}会义无反顾地支援你。
+“你所缺少的那一点，辅助会帮助您”</AK_Trait_Agent_Supporter.degreeDatas.0.description>
+  
+  <!-- EN: 先锋干员 -->
+  <AK_Trait_Agent_Vanguard.degreeDatas.0.label>先锋干员</AK_Trait_Agent_Vanguard.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是敌人来临时首当其冲的干员之一。\n“最先进入战场，最快歼灭敌人” -->
+  <AK_Trait_Agent_Vanguard.degreeDatas.0.description>{PAWN_nameDef}是敌人来临时首当其冲的干员之一。
+“最先进入战场，最快歼灭敌人”</AK_Trait_Agent_Vanguard.degreeDatas.0.description>
+  
+</LanguageData>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 可爱 -->
+  <AK_Trait_Almond.degreeDatas.0.label>可爱</AK_Trait_Almond.degreeDatas.0.label>
+  <!-- EN: 听说{PAWN_nameDef}讲话时脸红扑扑的，很想让人捏一把。 -->
+  <AK_Trait_Almond.degreeDatas.0.description>听说{PAWN_nameDef}讲话时脸红扑扑的，很想让人捏一把。</AK_Trait_Almond.degreeDatas.0.description>
+  
+  <!-- EN: 话多 -->
+  <AK_Trait_AlmondSecond.degreeDatas.0.label>话多</AK_Trait_AlmondSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的语速很快，吐字清晰，表达非常自信。在项目经费和工程安全的相关讨论中，{PAWN_possessive}话量会激增至平时的两倍（讲废话时则是四倍）。阐述意见时{PAWN_pronoun}会将结论前置，随后分条展开解释与论述，任何人都能够明确理解{PAWN_pronoun}要传达的内容，而{PAWN_possessive}观点往往切中肯綮。但出乎意料的是，{PAWN_pronoun}讲话时神情专注的模样也在部分干员中间颇具讨论度。 -->
+  <AK_Trait_AlmondSecond.degreeDatas.0.description>{PAWN_nameDef}的语速很快，吐字清晰，表达非常自信。在项目经费和工程安全的相关讨论中，{PAWN_possessive}话量会激增至平时的两倍（讲废话时则是四倍）。阐述意见时{PAWN_pronoun}会将结论前置，随后分条展开解释与论述，任何人都能够明确理解{PAWN_pronoun}要传达的内容，而{PAWN_possessive}观点往往切中肯綮。但出乎意料的是，{PAWN_pronoun}讲话时神情专注的模样也在部分干员中间颇具讨论度。</AK_Trait_AlmondSecond.degreeDatas.0.description>
+  
+  <!-- EN: 独刃 -->
+  <AK_Trait_Ascalon.degreeDatas.0.label>独刃</AK_Trait_Ascalon.degreeDatas.0.label>
+  <!-- EN: 只有融入黑暗的人才知道，有多少寒意想要冷却黎明时的天光。{PAWN_nameDef}一直在做这样的事情——她和她的阴影游走在黑暗里，过滤一切危险。她不需要重归天光。 -->
+  <AK_Trait_Ascalon.degreeDatas.0.description>只有融入黑暗的人才知道，有多少寒意想要冷却黎明时的天光。{PAWN_nameDef}一直在做这样的事情——她和她的阴影游走在黑暗里，过滤一切危险。她不需要重归天光。</AK_Trait_Ascalon.degreeDatas.0.description>
+  
+  <!-- EN: 噬光残影 -->
+  <AK_Trait_AscalonSecond.degreeDatas.0.label>噬光残影</AK_Trait_AscalonSecond.degreeDatas.0.label>
+  <!-- EN: 烟雾是我，也是我的刀刃，方便隐匿，也能抢占先机。 -->
+  <AK_Trait_AscalonSecond.degreeDatas.0.description>烟雾是我，也是我的刀刃，方便隐匿，也能抢占先机。</AK_Trait_AscalonSecond.degreeDatas.0.description>
+  
+  <!-- EN: 登山家的热情 -->
+  <AK_Trait_Cliffheart.degreeDatas.0.label>登山家的热情</AK_Trait_Cliffheart.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}是天生的探险家和攀登者，{PAWN_possessive}反射神经与耐力远超大多数人的想象，借助简单的道具，{PAWN_pronoun}能够跨越令常人止步的天堑。 -->
+  <AK_Trait_Cliffheart.degreeDatas.0.description>{PAWN_nameDef}是天生的探险家和攀登者，{PAWN_possessive}反射神经与耐力远超大多数人的想象，借助简单的道具，{PAWN_pronoun}能够跨越令常人止步的天堑。</AK_Trait_Cliffheart.degreeDatas.0.description>
+  
+  <!-- EN: 让所有人都幸福 -->
+  <AK_Trait_Dorothy.degreeDatas.0.label>让所有人都幸福</AK_Trait_Dorothy.degreeDatas.0.label>
+  <!-- EN: 借助科技与理想的力量，{PAWN_pronoun}希望人与人之间的差距可以被消除，弱小之人，能得到来自{PAWN_possessive}庇护。 -->
+  <AK_Trait_Dorothy.degreeDatas.0.description>借助科技与理想的力量，{PAWN_pronoun}希望人与人之间的差距可以被消除，弱小之人，能得到来自{PAWN_possessive}庇护。</AK_Trait_Dorothy.degreeDatas.0.description>
+  
+  <!-- EN: 装乖 -->
+  <AK_Trait_Kafka.degreeDatas.0.label>装乖</AK_Trait_Kafka.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}事实上完全不在乎有人因为这副面具而讨厌{PAWN_pronoun}，不如说{PAWN_pronoun}乐得如此，{PAWN_pronoun}不想被很多人喜欢，也不想去喜欢很多人，这种刻意的装乖就是{PAWN_pronoun}认为的，和其他人保持距离感的最佳工具。 -->
+  <AK_Trait_Kafka.degreeDatas.0.description>{PAWN_nameDef}事实上完全不在乎有人因为这副面具而讨厌{PAWN_pronoun}，不如说{PAWN_pronoun}乐得如此，{PAWN_pronoun}不想被很多人喜欢，也不想去喜欢很多人，这种刻意的装乖就是{PAWN_pronoun}认为的，和其他人保持距离感的最佳工具。</AK_Trait_Kafka.degreeDatas.0.description>
+  
+  <!-- EN: 折纸生花 -->
+  <AK_Trait_Kazemaru.degreeDatas.0.label>折纸生花</AK_Trait_Kazemaru.degreeDatas.0.label>
+  <!-- EN: “{PAWN_pronoun}们一直以为{PAWN_nameDef}没有比自己大上几岁，可爱又天真的孩子们呀……” -->
+  <AK_Trait_Kazemaru.degreeDatas.0.description>“{PAWN_pronoun}们一直以为{PAWN_nameDef}没有比自己大上几岁，可爱又天真的孩子们呀……”</AK_Trait_Kazemaru.degreeDatas.0.description>
+  
+  <!-- EN: 专业训练 -->
+  <AK_Trait_KazemaruSecond.degreeDatas.0.label>专业训练</AK_Trait_KazemaruSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}系统地接受过作为东国忍者死士的作战训练，虽然方式奇特，但招招致命。 -->
+  <AK_Trait_KazemaruSecond.degreeDatas.0.description>{PAWN_nameDef}系统地接受过作为东国忍者死士的作战训练，虽然方式奇特，但招招致命。</AK_Trait_KazemaruSecond.degreeDatas.0.description>
+  
+  <!-- EN: 砺火成锋 -->
+  <AK_Trait_Kirin.degreeDatas.0.label>砺火成锋</AK_Trait_Kirin.degreeDatas.0.label>
+  <!-- EN: 值得庆幸的是，即使预见了未来，像夜刀这样的战士仍选择站在我们这边。他们放下自己的过去，以坚强的意志肩负重担，以巨大的勇气继续战斗，贯彻我们一致的使命。他们也许会倒下，但不会退缩。正是他们的存在绘就罗德岛的底色，也铸成了我们坚不可摧的铠甲。 -->
+  <AK_Trait_Kirin.degreeDatas.0.description>值得庆幸的是，即使预见了未来，像夜刀这样的战士仍选择站在我们这边。他们放下自己的过去，以坚强的意志肩负重担，以巨大的勇气继续战斗，贯彻我们一致的使命。他们也许会倒下，但不会退缩。正是他们的存在绘就罗德岛的底色，也铸成了我们坚不可摧的铠甲。</AK_Trait_Kirin.degreeDatas.0.description>
+  
+  <!-- EN: 苍蓝星 -->
+  <AK_Trait_KirinSecond.degreeDatas.0.label>苍蓝星</AK_Trait_KirinSecond.degreeDatas.0.label>
+  <!-- EN: 在一切的磨难之后，自无数次从深渊中崛起。有过愧疚，有过遗憾，也有过伤感。我们也许会倒下，但绝不会退缩!指引前路的苍蓝星啊!请带领我们走向闪耀的明天! -->
+  <AK_Trait_KirinSecond.degreeDatas.0.description>在一切的磨难之后，自无数次从深渊中崛起。有过愧疚，有过遗憾，也有过伤感。我们也许会倒下，但绝不会退缩!指引前路的苍蓝星啊!请带领我们走向闪耀的明天!</AK_Trait_KirinSecond.degreeDatas.0.description>
+  
+  <!-- EN: 隐匿的杀手 -->
+  <AK_Trait_Manticore.degreeDatas.0.label>隐匿的杀手</AK_Trait_Manticore.degreeDatas.0.label>
+  <!-- EN: 干员{PAWN_nameDef}出身于萨尔贡，因其提供的绝大部分履历均未能具备一定的有效性，因此{PAWN_nameDef}的活动活动经历仍处于不明朗的状态。目前已知的是，{PAWN_nameDef}已经接受过一套较为完善的特别行动训练，并已经具备至少一年左右的行动经验。 -->
+  <AK_Trait_Manticore.degreeDatas.0.description>干员{PAWN_nameDef}出身于萨尔贡，因其提供的绝大部分履历均未能具备一定的有效性，因此{PAWN_nameDef}的活动活动经历仍处于不明朗的状态。目前已知的是，{PAWN_nameDef}已经接受过一套较为完善的特别行动训练，并已经具备至少一年左右的行动经验。</AK_Trait_Manticore.degreeDatas.0.description>
+  
+  <!-- EN: 腼腆 -->
+  <AK_Trait_ManticoreSecond.degreeDatas.0.label>腼腆</AK_Trait_ManticoreSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}温柔、腼腆，甚至有时给人的感觉有些怯懦。断断续续的，采用试探性口气的说话方式是{PAWN_pronoun}语言中的最大特征。 -->
+  <AK_Trait_ManticoreSecond.degreeDatas.0.description>{PAWN_nameDef}温柔、腼腆，甚至有时给人的感觉有些怯懦。断断续续的，采用试探性口气的说话方式是{PAWN_pronoun}语言中的最大特征。</AK_Trait_ManticoreSecond.degreeDatas.0.description>
+  
+  <!-- EN: 创伤性癔症 -->
+  <AK_Trait_Mizuki.degreeDatas.0.label>创伤性癔症</AK_Trait_Mizuki.degreeDatas.0.label>
+  <!-- EN: “为何人们会四处向自己的同胞散播痛苦？是出于族类生命形式的软弱？还是在族类个体之间缺乏真正的桥接与沟通？又或是植于族类基底中的劣根性？\n我们究竟又该怎么做，才能让自己变得更善更美，来脱离这一切？” -->
+  <AK_Trait_Mizuki.degreeDatas.0.description>“为何人们会四处向自己的同胞散播痛苦？是出于族类生命形式的软弱？还是在族类个体之间缺乏真正的桥接与沟通？又或是植于族类基底中的劣根性？
+我们究竟又该怎么做，才能让自己变得更善更美，来脱离这一切？”</AK_Trait_Mizuki.degreeDatas.0.description>
+  
+  <!-- EN: 深蓝之籽 -->
+  <AK_Trait_MizukiSecond.degreeDatas.0.label>深蓝之籽</AK_Trait_MizukiSecond.degreeDatas.0.label>
+  <!-- EN: 每一棵大树，在起初都只是一粒渺小的种子。 -->
+  <AK_Trait_MizukiSecond.degreeDatas.0.description>每一棵大树，在起初都只是一粒渺小的种子。</AK_Trait_MizukiSecond.degreeDatas.0.description>
+  
+  <!-- EN: 使者的馈赠 -->
+  <AK_Trait_MizukiThird.degreeDatas.0.label>使者的馈赠</AK_Trait_MizukiThird.degreeDatas.0.label>
+  <!-- EN: 我本以为这个孩子早晚会泯然众人。但这一次，我或许能找到人类的希望。 -->
+  <AK_Trait_MizukiThird.degreeDatas.0.description>我本以为这个孩子早晚会泯然众人。但这一次，我或许能找到人类的希望。</AK_Trait_MizukiThird.degreeDatas.0.description>
+  
+  <!-- EN: 猎狼人 -->
+  <AK_Trait_Red.degreeDatas.0.label>猎狼人</AK_Trait_Red.degreeDatas.0.label>
+  <!-- EN: 目前而言，{PAWN_nameDef}切实地展现出了无法被解释的辨别能力，尽管目前而言这种认知差已经被大多数人接受，但是尽量还是要避免{PAWN_pronoun}与其他鲁珀族干员的接触。 -->
+  <AK_Trait_Red.degreeDatas.0.description>目前而言，{PAWN_nameDef}切实地展现出了无法被解释的辨别能力，尽管目前而言这种认知差已经被大多数人接受，但是尽量还是要避免{PAWN_pronoun}与其他鲁珀族干员的接触。</AK_Trait_Red.degreeDatas.0.description>
+  
+  <!-- EN: 深海猎人——幽灵鲨 -->
+  <AK_Trait_SpecterUnchained.degreeDatas.0.label>深海猎人——幽灵鲨</AK_Trait_SpecterUnchained.degreeDatas.0.label>
+  <!-- EN: 既然文明遇上了害兽，那么，{PAWN_nameDef}很乐意成为一位屠夫。\n以它们的死亡，铸就阿戈尔的生存。 -->
+  <AK_Trait_SpecterUnchained.degreeDatas.0.description>既然文明遇上了害兽，那么，{PAWN_nameDef}很乐意成为一位屠夫。
+以它们的死亡，铸就阿戈尔的生存。</AK_Trait_SpecterUnchained.degreeDatas.0.description>
+  
+  <!-- EN: 未竟之美 -->
+  <AK_Trait_SpecterUnchainedSecond.degreeDatas.0.label>未竟之美</AK_Trait_SpecterUnchainedSecond.degreeDatas.0.label>
+  <!-- EN: “{PAWN_pronoun}正在斗争中创造属于{PAWN_pronoun}的美。如你所说那般，兴致勃勃。” -->
+  <AK_Trait_SpecterUnchainedSecond.degreeDatas.0.description>“{PAWN_pronoun}正在斗争中创造属于{PAWN_pronoun}的美。如你所说那般，兴致勃勃。”</AK_Trait_SpecterUnchainedSecond.degreeDatas.0.description>
+  
+  <!-- EN: 拥抱自我 -->
+  <AK_Trait_SpecterUnchainedThird.degreeDatas.0.label>拥抱自我</AK_Trait_SpecterUnchainedThird.degreeDatas.0.label>
+  <!-- EN: {PAWN_pronoun}从唱片箱中掏出一枚锯片轻轻擦拭，同时换上了一张新的唱片继续播放。或许，正如伊比利亚人用各种方式记录了他们的黄金时代一样，{PAWN_pronoun}也可以试着重新捡回她曾经最爱做的事——雕塑。 -->
+  <AK_Trait_SpecterUnchainedThird.degreeDatas.0.description>{PAWN_pronoun}从唱片箱中掏出一枚锯片轻轻擦拭，同时换上了一张新的唱片继续播放。或许，正如伊比利亚人用各种方式记录了他们的黄金时代一样，{PAWN_pronoun}也可以试着重新捡回她曾经最爱做的事——雕塑。</AK_Trait_SpecterUnchainedThird.degreeDatas.0.description>
+  
+  <!-- EN: “金币辉煌” -->
+  <AK_Trait_SwireElegantWit.degreeDatas.0.label>“金币辉煌”</AK_Trait_SwireElegantWit.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}将奖牌收进随身的包里，伸了一个愉快的懒腰。\n“代表龙门的未来，去和他沟通一下。” -->
+  <AK_Trait_SwireElegantWit.degreeDatas.0.description>{PAWN_nameDef}将奖牌收进随身的包里，伸了一个愉快的懒腰。
+“代表龙门的未来，去和他沟通一下。”</AK_Trait_SwireElegantWit.degreeDatas.0.description>
+  
+  <!-- EN: 准龙门近卫局局长 -->
+  <AK_Trait_SwireElegantWitSecond.degreeDatas.0.label>准龙门近卫局局长</AK_Trait_SwireElegantWitSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}捏着这张薄薄的委任状，郑重地收进抽屉里。纸张之轻、之薄，字之简约，在她手中却仿佛重若千钧。 -->
+  <AK_Trait_SwireElegantWitSecond.degreeDatas.0.description>{PAWN_nameDef}捏着这张薄薄的委任状，郑重地收进抽屉里。纸张之轻、之薄，字之简约，在她手中却仿佛重若千钧。</AK_Trait_SwireElegantWitSecond.degreeDatas.0.description>
+  
+  <!-- EN: 变革者-普通人 -->
+  <AK_Trait_TexastheOmertosa.degreeDatas.0.label>变革者-普通人</AK_Trait_TexastheOmertosa.degreeDatas.0.label>
+  <!-- EN: 她的想法很简单，她不属于那个伟大的理想，她只是一个出于良知，对某些事情感到愤怒的普通人，她唯一能向伺夜他们许诺的只有————她会一直战斗下去，直到叙拉古完全改变，直到她自己粉身碎骨 -->
+  <AK_Trait_TexastheOmertosa.degreeDatas.0.description>她的想法很简单，她不属于那个伟大的理想，她只是一个出于良知，对某些事情感到愤怒的普通人，她唯一能向伺夜他们许诺的只有————她会一直战斗下去，直到叙拉古完全改变，直到她自己粉身碎骨</AK_Trait_TexastheOmertosa.degreeDatas.0.description>
+  
+  <!-- EN: 破斩桎梏 -->
+  <AK_Trait_TexastheOmertosaSecond.degreeDatas.0.label>破斩桎梏</AK_Trait_TexastheOmertosaSecond.degreeDatas.0.label>
+  <!-- EN: 我偶尔会想，罗德岛在做的事业很困难，但你们真的在付诸行动。我？我没那么复杂的想法，但很乐意尽力帮忙。我们所寻找的，都是那份平静的生活 -->
+  <AK_Trait_TexastheOmertosaSecond.degreeDatas.0.description>我偶尔会想，罗德岛在做的事业很困难，但你们真的在付诸行动。我？我没那么复杂的想法，但很乐意尽力帮忙。我们所寻找的，都是那份平静的生活</AK_Trait_TexastheOmertosaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 极端洁癖 -->
+  <AK_Trait_Weedy.degreeDatas.0.label>极端洁癖</AK_Trait_Weedy.degreeDatas.0.label>
+  <!-- EN: 就连与{PAWN_pronoun}对话的人的衣服褶皱，{PAWN_nameDef}都会耿耿于怀。\n这种对于洁净难以理解的追求对{PAWN_possessive}生活与工作造成巨大影响。 -->
+  <AK_Trait_Weedy.degreeDatas.0.description>就连与{PAWN_pronoun}对话的人的衣服褶皱，{PAWN_nameDef}都会耿耿于怀。
+这种对于洁净难以理解的追求对{PAWN_possessive}生活与工作造成巨大影响。</AK_Trait_Weedy.degreeDatas.0.description>
+  
+</LanguageData>

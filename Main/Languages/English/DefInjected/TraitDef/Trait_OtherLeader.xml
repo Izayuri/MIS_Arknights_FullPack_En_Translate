@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 管理员 -->
+  <AK_Trait_Administrator.degreeDatas.0.label>管理员</AK_Trait_Administrator.degreeDatas.0.label>
+  <!-- EN: 作为终末地工业的管理员，曾经多次在重大变故后挺身而出，因为其行事手段和神秘的过往留下了大量的传说和留言。\n她现在联系并依靠着你们，不要让她失望。 -->
+  <AK_Trait_Administrator.degreeDatas.0.description>作为终末地工业的管理员，曾经多次在重大变故后挺身而出，因为其行事手段和神秘的过往留下了大量的传说和留言。
+她现在联系并依靠着你们，不要让她失望。</AK_Trait_Administrator.degreeDatas.0.description>
+  
+  <!-- EN: 血魔 -->
+  <AK_Trait_Closure.degreeDatas.0.label>血魔</AK_Trait_Closure.degreeDatas.0.label>
+  <!-- EN: 即使在经常被妖魔化的萨卡兹中，血魔也是最恶名远扬的一支。\n它们在黑夜中穿行，以他人的血液为食，杀人如麻，无恶不作......诸如此类。 -->
+  <AK_Trait_Closure.degreeDatas.0.description>即使在经常被妖魔化的萨卡兹中，血魔也是最恶名远扬的一支。
+它们在黑夜中穿行，以他人的血液为食，杀人如麻，无恶不作......诸如此类。</AK_Trait_Closure.degreeDatas.0.description>
+  
+  <!-- EN: 天才黑客工程师 -->
+  <AK_Trait_ClosureSecond.degreeDatas.0.label>天才黑客工程师</AK_Trait_ClosureSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在加入巴别塔前便是知名黑客，因特蕾西娅寻找人才上门而同意加入巴别塔一直陪伴罗德岛至今。 -->
+  <AK_Trait_ClosureSecond.degreeDatas.0.description>{PAWN_nameDef}在加入巴别塔前便是知名黑客，因特蕾西娅寻找人才上门而同意加入巴别塔一直陪伴罗德岛至今。</AK_Trait_ClosureSecond.degreeDatas.0.description>
+  
+  <!-- EN: 小血魔无人机 -->
+  <AK_Trait_ClosureThird.degreeDatas.0.label>小血魔无人机</AK_Trait_ClosureThird.degreeDatas.0.label>
+  <!-- EN: 一直跟随在{PAWN_nameDef}身边的血魔造型无人机，无论何时，它们都是可露希尔工作中的左膀右臂。 -->
+  <AK_Trait_ClosureThird.degreeDatas.0.description>一直跟随在{PAWN_nameDef}身边的血魔造型无人机，无论何时，它们都是可露希尔工作中的左膀右臂。</AK_Trait_ClosureThird.degreeDatas.0.description>
+  
+  <!-- EN: 铁血公爵 -->
+  <AK_Trait_DukeWindermere.degreeDatas.0.label>铁血公爵</AK_Trait_DukeWindermere.degreeDatas.0.label>
+  <!-- EN: 作为维多利亚世代传承的军事贵族，和其他公爵不同，温德米尔家族依旧有着极强的军事传统和如同军人一样严苛的作息。\n而温德米尔公爵更是其中的佼佼者，她甚至能下令手下为了达成目的不顾自己的安危。 -->
+  <AK_Trait_DukeWindermere.degreeDatas.0.description>作为维多利亚世代传承的军事贵族，和其他公爵不同，温德米尔家族依旧有着极强的军事传统和如同军人一样严苛的作息。
+而温德米尔公爵更是其中的佼佼者，她甚至能下令手下为了达成目的不顾自己的安危。</AK_Trait_DukeWindermere.degreeDatas.0.description>
+  
+  <!-- EN: 温德米尔家族 -->
+  <AK_Trait_DukeWindermereSecond.degreeDatas.0.label>温德米尔家族</AK_Trait_DukeWindermereSecond.degreeDatas.0.label>
+  <!-- EN: 和其他军事贵族一样，温德米尔家族的人除了兵法和战斗，也要学习待人接物和政治斗争的技巧。这让他们有了卓越的远见的同时，也让他们有了自己的局限性。 -->
+  <AK_Trait_DukeWindermereSecond.degreeDatas.0.description>和其他军事贵族一样，温德米尔家族的人除了兵法和战斗，也要学习待人接物和政治斗争的技巧。这让他们有了卓越的远见的同时，也让他们有了自己的局限性。</AK_Trait_DukeWindermereSecond.degreeDatas.0.description>
+  
+  <!-- EN: 焚烧生命 -->
+  <AK_Trait_Eblana.degreeDatas.0.label>焚烧生命</AK_Trait_Eblana.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的源石技艺和{PAWN_possessive}活动无时无刻不在焚烧生命，似乎在{PAWN_possessive}目的达成前，还有多少生命和尸体在烈火中化为灰烬都无关紧要。 -->
+  <AK_Trait_Eblana.degreeDatas.0.description>{PAWN_nameDef}的源石技艺和{PAWN_possessive}活动无时无刻不在焚烧生命，似乎在{PAWN_possessive}目的达成前，还有多少生命和尸体在烈火中化为灰烬都无关紧要。</AK_Trait_Eblana.degreeDatas.0.description>
+  
+  <!-- EN: 领袖 -->
+  <AK_Trait_EblanaSecond.degreeDatas.0.label>领袖</AK_Trait_EblanaSecond.degreeDatas.0.label>
+  <!-- EN: 作为深池的领袖，{PAWN_nameDef}是有着卓越的个人能力和领导力。 -->
+  <AK_Trait_EblanaSecond.degreeDatas.0.description>作为深池的领袖，{PAWN_nameDef}是有着卓越的个人能力和领导力。</AK_Trait_EblanaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 欲望与权术 -->
+  <AK_Trait_EblanaThird.degreeDatas.0.label>欲望与权术</AK_Trait_EblanaThird.degreeDatas.0.label>
+  <!-- EN: 作为政治与权力的工具被培养长大的{PAWN_nameDef}，天生对着权力有极强的敏感和渴求，虽说贪婪的红龙终将露出{PAWN_possessive}獠牙，但是{PAWN_possessive}最终目的到底是何物还是个谜。 -->
+  <AK_Trait_EblanaThird.degreeDatas.0.description>作为政治与权力的工具被培养长大的{PAWN_nameDef}，天生对着权力有极强的敏感和渴求，虽说贪婪的红龙终将露出{PAWN_possessive}獠牙，但是{PAWN_possessive}最终目的到底是何物还是个谜。</AK_Trait_EblanaThird.degreeDatas.0.description>
+  
+  <!-- EN: 白兔子 -->
+  <AK_Trait_FrostNova.degreeDatas.0.label>白兔子</AK_Trait_FrostNova.degreeDatas.0.label>
+  <!-- EN: 但即使身体和法术都比严冬本身更加寒冷，{PAWN_possessive}心却永远炙热。\n正如乌萨斯广袤的雪原本身一样，深邃却又柔情 -->
+  <AK_Trait_FrostNova.degreeDatas.0.description>但即使身体和法术都比严冬本身更加寒冷，{PAWN_possessive}心却永远炙热。
+正如乌萨斯广袤的雪原本身一样，深邃却又柔情</AK_Trait_FrostNova.degreeDatas.0.description>
+  
+  <!-- EN: 冬痕 -->
+  <AK_Trait_FrostNovaSecond.degreeDatas.0.label>冬痕</AK_Trait_FrostNovaSecond.degreeDatas.0.label>
+  <!-- EN: 无论怎样动人的话语在钢铁般的意志面前也显得那么苍白无力。\n大地的凛冽已经有所觉悟，没有任何意志能与之为敌。 -->
+  <AK_Trait_FrostNovaSecond.degreeDatas.0.description>无论怎样动人的话语在钢铁般的意志面前也显得那么苍白无力。
+大地的凛冽已经有所觉悟，没有任何意志能与之为敌。</AK_Trait_FrostNovaSecond.degreeDatas.0.description>
+  
+  <!-- EN: “孤星” -->
+  <AK_Trait_Kristen.degreeDatas.0.label>“孤星”</AK_Trait_Kristen.degreeDatas.0.label>
+  <!-- EN: 不灭。 -->
+  <AK_Trait_Kristen.degreeDatas.0.description>不灭。</AK_Trait_Kristen.degreeDatas.0.description>
+  
+  <!-- EN: 总辖 -->
+  <AK_Trait_KristenSecond.degreeDatas.0.label>总辖</AK_Trait_KristenSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的人格魅力足够吸引几乎所有遇到{PAWN_possessive}人，{PAWN_possessive}口才，煽动力和说服力能让最优秀的谈判者和演说家黯然失色，可以莱茵生命能成为哥伦比亚头部科研公司之一，克里斯腾本人的魅力起了巨大的作用。 -->
+  <AK_Trait_KristenSecond.degreeDatas.0.description>{PAWN_nameDef}的人格魅力足够吸引几乎所有遇到{PAWN_possessive}人，{PAWN_possessive}口才，煽动力和说服力能让最优秀的谈判者和演说家黯然失色，可以莱茵生命能成为哥伦比亚头部科研公司之一，克里斯腾本人的魅力起了巨大的作用。</AK_Trait_KristenSecond.degreeDatas.0.description>
+  
+  <!-- EN: 空前绝后的天才 -->
+  <AK_Trait_KristenThird.degreeDatas.0.label>空前绝后的天才</AK_Trait_KristenThird.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的天分足以让绝大多数人眼红——{PAWN_pronoun}在十三岁时便考入特里蒙理工大学，这在哥伦比亚历史上是绝无仅有的。 -->
+  <AK_Trait_KristenThird.degreeDatas.0.description>{PAWN_nameDef}的天分足以让绝大多数人眼红——{PAWN_pronoun}在十三岁时便考入特里蒙理工大学，这在哥伦比亚历史上是绝无仅有的。</AK_Trait_KristenThird.degreeDatas.0.description>
+  
+  <!-- EN: 战场指挥家 -->
+  <AK_Trait_Perlica.degreeDatas.0.label>战场指挥家</AK_Trait_Perlica.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}有着丰富的指挥经验和冷静的头脑，让{PAWN_nameDef}成为一个天生的战场指挥家。 -->
+  <AK_Trait_Perlica.degreeDatas.0.description>{PAWN_nameDef}有着丰富的指挥经验和冷静的头脑，让{PAWN_nameDef}成为一个天生的战场指挥家。</AK_Trait_Perlica.degreeDatas.0.description>
+  
+  <!-- EN: 终末地工业监督 -->
+  <AK_Trait_PerlicaSecond.degreeDatas.0.label>终末地工业监督</AK_Trait_PerlicaSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}能够充分有效地调动公司资源，使终末地对协议技术的掌握进入了新的阶段，大量科研成果落地并投入使用。 -->
+  <AK_Trait_PerlicaSecond.degreeDatas.0.description>{PAWN_nameDef}能够充分有效地调动公司资源，使终末地对协议技术的掌握进入了新的阶段，大量科研成果落地并投入使用。</AK_Trait_PerlicaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 前人类 -->
+  <AK_Trait_PRTS.degreeDatas.0.label>前人类</AK_Trait_PRTS.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}从前文明而来，作为前文明屈指可数的天才，她对这片大地上科技和文明落后的人类有着深深的偏见。 -->
+  <AK_Trait_PRTS.degreeDatas.0.description>{PAWN_nameDef}从前文明而来，作为前文明屈指可数的天才，她对这片大地上科技和文明落后的人类有着深深的偏见。</AK_Trait_PRTS.degreeDatas.0.description>
+  
+  <!-- EN: 天纵奇才 -->
+  <AK_Trait_PRTSFourth.degreeDatas.0.label>天纵奇才</AK_Trait_PRTSFourth.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}作为“源石”的制造者，纵使前文明也万中无一的天才，对科技研究有着极其强烈的兴趣。 -->
+  <AK_Trait_PRTSFourth.degreeDatas.0.description>{PAWN_nameDef}作为“源石”的制造者，纵使前文明也万中无一的天才，对科技研究有着极其强烈的兴趣。</AK_Trait_PRTSFourth.degreeDatas.0.description>
+  
+  <!-- EN: 群星间的相遇 -->
+  <AK_Trait_PRTSSecond.degreeDatas.0.label>群星间的相遇</AK_Trait_PRTSSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在一次星际旅行中与博士相识，两人畅聊宇宙，相谈甚欢，并和博士养了一只猫。“我可以满足你所有的愿望。” -->
+  <AK_Trait_PRTSSecond.degreeDatas.0.description>{PAWN_nameDef}在一次星际旅行中与博士相识，两人畅聊宇宙，相谈甚欢，并和博士养了一只猫。“我可以满足你所有的愿望。”</AK_Trait_PRTSSecond.degreeDatas.0.description>
+  
+  <!-- EN: 内化宇宙 -->
+  <AK_Trait_PRTSThird.degreeDatas.0.label>内化宇宙</AK_Trait_PRTSThird.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}曾经只存在于内化宇宙中，掌控内化宇宙中的全部信息，长久的孤独加之所处时代人们交流甚少，普瑞赛斯在交流和心理方面出现了一些问题。 -->
+  <AK_Trait_PRTSThird.degreeDatas.0.description>{PAWN_nameDef}曾经只存在于内化宇宙中，掌控内化宇宙中的全部信息，长久的孤独加之所处时代人们交流甚少，普瑞赛斯在交流和心理方面出现了一些问题。</AK_Trait_PRTSThird.degreeDatas.0.description>
+  
+</LanguageData>

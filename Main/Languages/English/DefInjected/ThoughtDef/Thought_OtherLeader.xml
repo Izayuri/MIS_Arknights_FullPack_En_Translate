@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 管理员 -->
+  <AK_Thought_Trait_Administrator.stages.0.label>管理员</AK_Thought_Trait_Administrator.stages.0.label>
+  <!-- EN: 了解，已经做好准备。 -->
+  <AK_Thought_Trait_Administrator.stages.0.description>了解，已经做好准备。</AK_Thought_Trait_Administrator.stages.0.description>
+  
+  <!-- EN: 血魔(白天) -->
+  <AK_Thought_Trait_Closure_DuringTheDay.stages.0.label>血魔(白天)</AK_Thought_Trait_Closure_DuringTheDay.stages.0.label>
+  <!-- EN: 啊....我讨厌太阳 -->
+  <AK_Thought_Trait_Closure_DuringTheDay.stages.0.description>啊....我讨厌太阳</AK_Thought_Trait_Closure_DuringTheDay.stages.0.description>
+  
+  <!-- EN: 血魔(夜晚) -->
+  <AK_Thought_Trait_Closure_DuringTheNight.stages.0.label>血魔(夜晚)</AK_Thought_Trait_Closure_DuringTheNight.stages.0.label>
+  <!-- EN: 嗯。工作效率好像提高了。 -->
+  <AK_Thought_Trait_Closure_DuringTheNight.stages.0.description>嗯。工作效率好像提高了。</AK_Thought_Trait_Closure_DuringTheNight.stages.0.description>
+  
+  <!-- EN: 铁血公爵 -->
+  <AK_Thought_Trait_DukeWindermere.stages.0.label>铁血公爵</AK_Thought_Trait_DukeWindermere.stages.0.label>
+  <!-- EN: 你们要杀死温德米尔的敌人，而非保护温德米尔的性命!温德米尔的军队只会守护维多利亚！ -->
+  <AK_Thought_Trait_DukeWindermere.stages.0.description>你们要杀死温德米尔的敌人，而非保护温德米尔的性命!温德米尔的军队只会守护维多利亚！</AK_Thought_Trait_DukeWindermere.stages.0.description>
+  
+  <!-- EN: 焚烧生命 -->
+  <AK_Thought_Trait_Eblana.stages.0.label>焚烧生命</AK_Thought_Trait_Eblana.stages.0.label>
+  <!-- EN: “高速战舰在塔拉人的呜咽声和建筑的崩塌声中，碾过无数房屋，朝着伦蒂尼姆驶去” -->
+  <AK_Thought_Trait_Eblana.stages.0.description>“高速战舰在塔拉人的呜咽声和建筑的崩塌声中，碾过无数房屋，朝着伦蒂尼姆驶去”</AK_Thought_Trait_Eblana.stages.0.description>
+  
+  <!-- EN: 白兔子 -->
+  <AK_Thought_Trait_FrostNova.stages.0.label>白兔子</AK_Thought_Trait_FrostNova.stages.0.label>
+  <!-- EN: 雪...静静的河水...摇曳的森林...碧绿的苔衣...这片大地，多么美好啊 -->
+  <AK_Thought_Trait_FrostNova.stages.0.description>雪...静静的河水...摇曳的森林...碧绿的苔衣...这片大地，多么美好啊</AK_Thought_Trait_FrostNova.stages.0.description>
+  
+  <!-- EN: “孤星” -->
+  <AK_Thought_Trait_Kristen.stages.0.label>“孤星”</AK_Thought_Trait_Kristen.stages.0.label>
+  <!-- EN: “在我的一生中，仅有两次真正感觉自己活着。\n第一次，塞雷娅，是我带你回到我的家乡，在那个山坡上向你讲述一切的开始。\n第二次，是我在泰拉的卫星轨道上，已然完成父母的梦想。” -->
+  <AK_Thought_Trait_Kristen.stages.0.description>“在我的一生中，仅有两次真正感觉自己活着。
+第一次，塞雷娅，是我带你回到我的家乡，在那个山坡上向你讲述一切的开始。
+第二次，是我在泰拉的卫星轨道上，已然完成父母的梦想。”</AK_Thought_Trait_Kristen.stages.0.description>
+  
+  <!-- EN: 内化宇宙 -->
+  <AK_Thought_Trait_PRTSThird.stages.0.label>内化宇宙</AK_Thought_Trait_PRTSThird.stages.0.label>
+  <!-- EN: 我会等到那一天，我一定会等到那一天。等我，你也要等我! -->
+  <AK_Thought_Trait_PRTSThird.stages.0.description>我会等到那一天，我一定会等到那一天。等我，你也要等我!</AK_Thought_Trait_PRTSThird.stages.0.description>
+  
+</LanguageData>

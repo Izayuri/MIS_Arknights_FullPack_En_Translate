@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 农家女孩 -->
+  <AK_Trait_Bagpipe.degreeDatas.0.label>农家女孩</AK_Trait_Bagpipe.degreeDatas.0.label>
+  <!-- EN: 虽然大家很喜欢作为优秀军人的{PAWN_nameDef}小姐，但在农地挥洒汗水，端着三个炖锅走上桌子，穿着长裙边唱边旋转，说起故乡会发呆的{PAWN_pronoun}......\n大家也一样喜欢。 -->
+  <AK_Trait_Bagpipe.degreeDatas.0.description>虽然大家很喜欢作为优秀军人的{PAWN_nameDef}小姐，但在农地挥洒汗水，端着三个炖锅走上桌子，穿着长裙边唱边旋转，说起故乡会发呆的{PAWN_pronoun}......
+大家也一样喜欢。</AK_Trait_Bagpipe.degreeDatas.0.description>
+  
+  <!-- EN: 真正的士兵 -->
+  <AK_Trait_BagpipeSecond.degreeDatas.0.label>真正的士兵</AK_Trait_BagpipeSecond.degreeDatas.0.label>
+  <!-- EN: 作为维多利亚的士兵，{PAWN_nameDef}拥有大多数干员都无法比拟的超强作战素质。\n不过这也造成{PAWN_pronoun}做事，尤其是摆弄精密电子器具时有点毛手毛脚的。 -->
+  <AK_Trait_BagpipeSecond.degreeDatas.0.description>作为维多利亚的士兵，{PAWN_nameDef}拥有大多数干员都无法比拟的超强作战素质。
+不过这也造成{PAWN_pronoun}做事，尤其是摆弄精密电子器具时有点毛手毛脚的。</AK_Trait_BagpipeSecond.degreeDatas.0.description>
+  
+  <!-- EN: 荒野驯兽师 -->
+  <AK_Trait_Blacknight.degreeDatas.0.label>荒野驯兽师</AK_Trait_Blacknight.degreeDatas.0.label>
+  <!-- EN: “靠近的时候小心一点，交流的时候耐心一点，夸奖的时候用心一点，不就行了吗？”在提到自己训练动物的经验时，{PAWN_nameDef}的语气，就像在描述早上起床是如何刷牙一般轻松自然。 -->
+  <AK_Trait_Blacknight.degreeDatas.0.description>“靠近的时候小心一点，交流的时候耐心一点，夸奖的时候用心一点，不就行了吗？”在提到自己训练动物的经验时，{PAWN_nameDef}的语气，就像在描述早上起床是如何刷牙一般轻松自然。</AK_Trait_Blacknight.degreeDatas.0.description>
+  
+  <!-- EN: 流浪者 -->
+  <AK_Trait_BlacknightSecond.degreeDatas.0.label>流浪者</AK_Trait_BlacknightSecond.degreeDatas.0.label>
+  <!-- EN: 在荒野上，最珍贵的不是水，不是粮食，不是能遮风挡雨的屋舍，而是同伴。 -->
+  <AK_Trait_BlacknightSecond.degreeDatas.0.description>在荒野上，最珍贵的不是水，不是粮食，不是能遮风挡雨的屋舍，而是同伴。</AK_Trait_BlacknightSecond.degreeDatas.0.description>
+  
+  <!-- EN: 急性子 -->
+  <AK_Trait_Fang.degreeDatas.0.label>急性子</AK_Trait_Fang.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}做任何事总是带着一种紧迫感，经常听人说话到一半就会开始行动。 -->
+  <AK_Trait_Fang.degreeDatas.0.description>{PAWN_nameDef}做任何事总是带着一种紧迫感，经常听人说话到一半就会开始行动。</AK_Trait_Fang.degreeDatas.0.description>
+  
+  <!-- EN: 小小的领袖 -->
+  <AK_Trait_Flametail.degreeDatas.0.label>小小的领袖</AK_Trait_Flametail.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}有两点领袖的魅力，思想与笑容。 -->
+  <AK_Trait_Flametail.degreeDatas.0.description>{PAWN_nameDef}有两点领袖的魅力，思想与笑容。</AK_Trait_Flametail.degreeDatas.0.description>
+  
+  <!-- EN: “独影归途” -->
+  <AK_Trait_Ines.degreeDatas.0.label>“独影归途”</AK_Trait_Ines.degreeDatas.0.label>
+  <!-- EN: “我和那个卡普里尼唯一的区别是，我曾经走出了那片桦树林，靠着那片森林教会我的东西活到了今天” -->
+  <AK_Trait_Ines.degreeDatas.0.description>“我和那个卡普里尼唯一的区别是，我曾经走出了那片桦树林，靠着那片森林教会我的东西活到了今天”</AK_Trait_Ines.degreeDatas.0.description>
+  
+  <!-- EN: 影哨 -->
+  <AK_Trait_InesSecond.degreeDatas.0.label>影哨</AK_Trait_InesSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的源石技艺十分特殊，{PAWN_pronoun}能够操纵阴影并从影子中窥探他人的内心。 -->
+  <AK_Trait_InesSecond.degreeDatas.0.description>{PAWN_nameDef}的源石技艺十分特殊，{PAWN_pronoun}能够操纵阴影并从影子中窥探他人的内心。</AK_Trait_InesSecond.degreeDatas.0.description>
+  
+  <!-- EN: 水精灵 -->
+  <AK_Trait_Muelsyse.degreeDatas.0.label>水精灵</AK_Trait_Muelsyse.degreeDatas.0.label>
+  <!-- EN: 作为水精灵，{PAWN_pronoun}与现代社会从社会学到生物学意义上都是不相容的，一方面{PAWN_pronoun}难以融入社会，另一方面在寻常人身上并无大碍的污染或创伤对{PAWN_pronoun}来说是致命的。 -->
+  <AK_Trait_Muelsyse.degreeDatas.0.description>作为水精灵，{PAWN_pronoun}与现代社会从社会学到生物学意义上都是不相容的，一方面{PAWN_pronoun}难以融入社会，另一方面在寻常人身上并无大碍的污染或创伤对{PAWN_pronoun}来说是致命的。</AK_Trait_Muelsyse.degreeDatas.0.description>
+  
+  <!-- EN: 植语者 -->
+  <AK_Trait_MuelsyseSecond.degreeDatas.0.label>植语者</AK_Trait_MuelsyseSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}有一种特殊的能力，这使得{PAWN_pronoun}能够与植物对话并感知它们。 -->
+  <AK_Trait_MuelsyseSecond.degreeDatas.0.description>{PAWN_nameDef}有一种特殊的能力，这使得{PAWN_pronoun}能够与植物对话并感知它们。</AK_Trait_MuelsyseSecond.degreeDatas.0.description>
+  
+  <!-- EN: 大将军 -->
+  <AK_Trait_Myrtle.degreeDatas.0.label>大将军</AK_Trait_Myrtle.degreeDatas.0.label>
+  <!-- EN: 尽管{PAWN_nameDef}外表与性格有孩子气的成分，但在战场上表现出颇强的感染力和相当的指挥水准，十分可靠。 -->
+  <AK_Trait_Myrtle.degreeDatas.0.description>尽管{PAWN_nameDef}外表与性格有孩子气的成分，但在战场上表现出颇强的感染力和相当的指挥水准，十分可靠。</AK_Trait_Myrtle.degreeDatas.0.description>
+  
+  <!-- EN: 认真 -->
+  <AK_Trait_Plume.degreeDatas.0.label>认真</AK_Trait_Plume.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}几乎不会区分工作和生活之间的差别，甚至有时将工作视为一种娱乐，很多时候{PAWN_pronoun}太过认真了以至于显得有点呆。 -->
+  <AK_Trait_Plume.degreeDatas.0.description>{PAWN_nameDef}几乎不会区分工作和生活之间的差别，甚至有时将工作视为一种娱乐，很多时候{PAWN_pronoun}太过认真了以至于显得有点呆。</AK_Trait_Plume.degreeDatas.0.description>
+  
+  <!-- EN: 生命之火 -->
+  <AK_Trait_Reed.degreeDatas.0.label>生命之火</AK_Trait_Reed.degreeDatas.0.label>
+  <!-- EN: “活着的火焰会净化你们污浊的内在。” -->
+  <AK_Trait_Reed.degreeDatas.0.description>“活着的火焰会净化你们污浊的内在。”</AK_Trait_Reed.degreeDatas.0.description>
+  
+  <!-- EN: 大智若愚 -->
+  <AK_Trait_Saga.degreeDatas.0.label>大智若愚</AK_Trait_Saga.degreeDatas.0.label>
+  <!-- EN: 其实放眼全罗德岛，也没有几个人能比{PAWN_nameDef}更加想得通，看得开。{PAWN_possessive}人生智慧是大多数人都没有的。\n只是{PAWN_pronoun}有时候看上去脑子确实不是很好使。 -->
+  <AK_Trait_Saga.degreeDatas.0.description>其实放眼全罗德岛，也没有几个人能比{PAWN_nameDef}更加想得通，看得开。{PAWN_possessive}人生智慧是大多数人都没有的。
+只是{PAWN_pronoun}有时候看上去脑子确实不是很好使。</AK_Trait_Saga.degreeDatas.0.description>
+  
+  <!-- EN: 入世 -->
+  <AK_Trait_SagaSecond.degreeDatas.0.label>入世</AK_Trait_SagaSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在画卷中看到的人和事太多太多了，多到不像{PAWN_pronoun}这个年纪该有的阅历。\n即使是这样，{PAWN_pronoun}也有{PAWN_possessive}迷茫，{PAWN_possessive}迷茫非常质朴，但是唯有{PAWN_pronoun}自己能给出答案 -->
+  <AK_Trait_SagaSecond.degreeDatas.0.description>{PAWN_nameDef}在画卷中看到的人和事太多太多了，多到不像{PAWN_pronoun}这个年纪该有的阅历。
+即使是这样，{PAWN_pronoun}也有{PAWN_possessive}迷茫，{PAWN_possessive}迷茫非常质朴，但是唯有{PAWN_pronoun}自己能给出答案</AK_Trait_SagaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 执旗手 -->
+  <AK_Trait_Saileach.degreeDatas.0.label>执旗手</AK_Trait_Saileach.degreeDatas.0.label>
+  <!-- EN: 信仰不灭，旗帜永在。 -->
+  <AK_Trait_Saileach.degreeDatas.0.description>信仰不灭，旗帜永在。</AK_Trait_Saileach.degreeDatas.0.description>
+  
+  <!-- EN: 感染力 -->
+  <AK_Trait_SaileachSecond.degreeDatas.0.label>感染力</AK_Trait_SaileachSecond.degreeDatas.0.label>
+  <!-- EN: 信仰藏匿于晨光，静候雾的弥散。\n白帆告别流浪，驶向名为守望的港湾。\n温柔的指引，坚定的方向。此刻于此，前进歌唱。 -->
+  <AK_Trait_SaileachSecond.degreeDatas.0.description>信仰藏匿于晨光，静候雾的弥散。
+白帆告别流浪，驶向名为守望的港湾。
+温柔的指引，坚定的方向。此刻于此，前进歌唱。</AK_Trait_SaileachSecond.degreeDatas.0.description>
+  
+  <!-- EN: 狮心王 -->
+  <AK_Trait_Siege.degreeDatas.0.label>狮心王</AK_Trait_Siege.degreeDatas.0.label>
+  <!-- EN: 齿轮开始旋转。腐朽的大钟终会敲响。 -->
+  <AK_Trait_Siege.degreeDatas.0.description>齿轮开始旋转。腐朽的大钟终会敲响。</AK_Trait_Siege.degreeDatas.0.description>
+  
+  <!-- EN: 过去的影子 -->
+  <AK_Trait_Texas.degreeDatas.0.label>过去的影子</AK_Trait_Texas.degreeDatas.0.label>
+  <!-- EN: 即使过去找上门来，现在的{PAWN_nameDef}小姐依然会从容以对。\n但若是{PAWN_possessive}过去扰乱了{PAWN_possessive}现在，那，或许我们能够见到，{PAWN_pronoun}真正愤怒的样子。 -->
+  <AK_Trait_Texas.degreeDatas.0.description>即使过去找上门来，现在的{PAWN_nameDef}小姐依然会从容以对。
+但若是{PAWN_possessive}过去扰乱了{PAWN_possessive}现在，那，或许我们能够见到，{PAWN_pronoun}真正愤怒的样子。</AK_Trait_Texas.degreeDatas.0.description>
+  
+  <!-- EN: 杀人术 -->
+  <AK_Trait_TexasSecond.degreeDatas.0.label>杀人术</AK_Trait_TexasSecond.degreeDatas.0.label>
+  <!-- EN: 可以看得出{PAWN_nameDef}确实十分适应如今的生活，而不是想要在其中逃避什么，平淡的工作，吵闹的同伴，龙门，罗德岛，这就是现在的{PAWN_possessive}一切。 -->
+  <AK_Trait_TexasSecond.degreeDatas.0.description>可以看得出{PAWN_nameDef}确实十分适应如今的生活，而不是想要在其中逃避什么，平淡的工作，吵闹的同伴，龙门，罗德岛，这就是现在的{PAWN_possessive}一切。</AK_Trait_TexasSecond.degreeDatas.0.description>
+  
+  <!-- EN: 隐狐之艺 -->
+  <AK_Trait_Vulpisfoglia.degreeDatas.0.label>隐狐之艺</AK_Trait_Vulpisfoglia.degreeDatas.0.label>
+  <!-- EN: 她为了杀戮而活，长刀出鞘，便要赶尽杀绝 -->
+  <AK_Trait_Vulpisfoglia.degreeDatas.0.description>她为了杀戮而活，长刀出鞘，便要赶尽杀绝</AK_Trait_Vulpisfoglia.degreeDatas.0.description>
+  
+  <!-- EN: 杀手的假期 -->
+  <AK_Trait_VulpisfogliaSecond.degreeDatas.0.label>杀手的假期</AK_Trait_VulpisfogliaSecond.degreeDatas.0.label>
+  <!-- EN: 她摇摇头，干脆弯起手指将那片拼图从桌上弹飞。“这不是休假时该想的事情。”她朝宿舍外走去。预约的理疗时间到了吗？不重要，假期中的杀手可以奢侈地使用她的时间。 -->
+  <AK_Trait_VulpisfogliaSecond.degreeDatas.0.description>她摇摇头，干脆弯起手指将那片拼图从桌上弹飞。“这不是休假时该想的事情。”她朝宿舍外走去。预约的理疗时间到了吗？不重要，假期中的杀手可以奢侈地使用她的时间。</AK_Trait_VulpisfogliaSecond.degreeDatas.0.description>
+  
+  <!-- EN: 自信 -->
+  <AK_Trait_Wild.degreeDatas.0.label>自信</AK_Trait_Wild.degreeDatas.0.label>
+  <!-- EN: 或许是对自己的力量与速度有信心，{PAWN_nameDef}总是表现的极度自信，而且似乎很喜欢用打架来解决问题。 -->
+  <AK_Trait_Wild.degreeDatas.0.description>或许是对自己的力量与速度有信心，{PAWN_nameDef}总是表现的极度自信，而且似乎很喜欢用打架来解决问题。</AK_Trait_Wild.degreeDatas.0.description>
+  
+  <!-- EN: 狂野 -->
+  <AK_Trait_WildSecond.degreeDatas.0.label>狂野</AK_Trait_WildSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}似乎有着超乎寻常的野性与力量，这让{PAWN_pronoun}在骑士竞技场和干体力活时游刃有余，但是对思考却极度欠缺或者说压根不愿意思考。 -->
+  <AK_Trait_WildSecond.degreeDatas.0.description>{PAWN_nameDef}似乎有着超乎寻常的野性与力量，这让{PAWN_pronoun}在骑士竞技场和干体力活时游刃有余，但是对思考却极度欠缺或者说压根不愿意思考。</AK_Trait_WildSecond.degreeDatas.0.description>
+  
+  <!-- EN: 砥石 -->
+  <AK_Trait_Yato.degreeDatas.0.label>砥石</AK_Trait_Yato.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}虽说平日沉默寡言存在感薄弱，但是{PAWN_pronoun}切切实实的完成着每一个被交给自己的任务。而正是无数个像夜刀一样的人，成为了托起了罗德岛的基石。 -->
+  <AK_Trait_Yato.degreeDatas.0.description>{PAWN_nameDef}虽说平日沉默寡言存在感薄弱，但是{PAWN_pronoun}切切实实的完成着每一个被交给自己的任务。而正是无数个像夜刀一样的人，成为了托起了罗德岛的基石。</AK_Trait_Yato.degreeDatas.0.description>
+  
+  <!-- EN: 冬将军 -->
+  <AK_Trait_Zima.degreeDatas.0.label>冬将军</AK_Trait_Zima.degreeDatas.0.label>
+  <!-- EN: 冬将军这个称号是{PAWN_nameDef}在彼得海姆学校就读时就获得的，这也在{PAWN_possessive}战斗与脾性方面有所体现。 -->
+  <AK_Trait_Zima.degreeDatas.0.description>冬将军这个称号是{PAWN_nameDef}在彼得海姆学校就读时就获得的，这也在{PAWN_possessive}战斗与脾性方面有所体现。</AK_Trait_Zima.degreeDatas.0.description>
+  
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 破碎的记忆(想起) -->
+  <AKE_Trait_SurtrChaos0.degreeDatas.0.label>破碎的记忆(想起)</AKE_Trait_SurtrChaos0.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。\n不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历 -->
+  <AKE_Trait_SurtrChaos0.degreeDatas.0.description>{PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。
+不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历</AKE_Trait_SurtrChaos0.degreeDatas.0.description>
+  
+  <!-- EN: 破碎的记忆(遗忘) -->
+  <AKE_Trait_SurtrChaos1.degreeDatas.0.label>破碎的记忆(遗忘)</AKE_Trait_SurtrChaos1.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。\n不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历 -->
+  <AKE_Trait_SurtrChaos1.degreeDatas.0.description>{PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。
+不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历</AKE_Trait_SurtrChaos1.degreeDatas.0.description>
+  
+  <!-- EN: 破碎的记忆(我即是我) -->
+  <AKE_Trait_SurtrChaos2.degreeDatas.0.label>破碎的记忆(我即是我)</AKE_Trait_SurtrChaos2.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。\n不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历 -->
+  <AKE_Trait_SurtrChaos2.degreeDatas.0.description>{PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。
+不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历</AKE_Trait_SurtrChaos2.degreeDatas.0.description>
+  
+  <!-- EN: 破碎的记忆(努力前进) -->
+  <AKE_Trait_SurtrChaos3.degreeDatas.0.label>破碎的记忆(努力前进)</AKE_Trait_SurtrChaos3.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。\n不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历 -->
+  <AKE_Trait_SurtrChaos3.degreeDatas.0.description>{PAWN_nameDef}的脑内充斥着各种各样混乱的记忆。
+不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历</AKE_Trait_SurtrChaos3.degreeDatas.0.description>
+  
+</LanguageData>
