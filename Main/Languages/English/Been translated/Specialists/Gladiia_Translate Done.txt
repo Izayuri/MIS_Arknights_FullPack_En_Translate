@@ -1,0 +1,69 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Rhodes Island Ægir Affairs Officer-in-Charge Gladiia, now inclined to divulge some information to you. /n Etiquette in spoken language and vileness of personality have little to do with each other. -->
+  <AK_Recruit_Gladiia.description>Rhodes Island Ægir Affairs Officer-in-Charge Gladiia, now inclined to divulge some information to you. /n Etiquette in spoken language and vileness of personality have little to do with each other.</AK_Recruit_Gladiia.description>
+  <!-- EN: Gladiia -->
+  <AK_Recruit_Gladiia.name>Gladiia</AK_Recruit_Gladiia.name>
+  <!-- EN: Gladiia -->
+  <AK_Recruit_Gladiia.nickname>Gladiia</AK_Recruit_Gladiia.nickname>
+  <!-- EN: Hookmaster -->
+  <AK_Recruit_Gladiia.surname>Hookmaster</AK_Recruit_Gladiia.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: Her mother had left the house, a noise Gladiia could recognise. She pulls a small, vanity hand mirror from beneath her pillow. Under typical circumstance, she wouldn't be awake at such time. Though, tonight, she needed to look at herself, she needed to choose. In the eyes of others, she is the daughter of key Academy of Sciences personnel, winner of all youth competitions, a family girl, and a young success story. But, through the eyes of herself, she saw little more than a carbon-based robot. She believed her mother sought accomplishment from her, so she compelled herself to greater and greater lengths, and accomplishments. But, regardless of her efforts, she remained secondary to the eyes of her mother, never able to pry feedback of any sort. The only conclusion she could reach is that this household was an accident with no reason to exist. It was for this that Gladiia had made a decision; she will search for it. Search for a place to call "Home," search for Ægir to call "family."。 -->
+  <AK_BackStory_Gladiia_Child.baseDesc>Her mother had left the house, a noise Gladiia could recognise. She pulls a small, vanity hand mirror from beneath her pillow. Under typical circumstance, she wouldn't be awake at such time. Though, tonight, she needed to look at herself, she needed to choose. In the eyes of others, she is the daughter of key Academy of Sciences personnel, winner of all youth competitions, a family girl, and a young success story. But, through the eyes of herself, she saw little more than a carbon-based robot. She believed her mother sought accomplishment from her, so she compelled herself to greater and greater lengths, and accomplishments. But, regardless of her efforts, she remained secondary to the eyes of her mother, never able to pry feedback of any sort. The only conclusion she could reach is that this household was an accident with no reason to exist. It was for this that Gladiia had made a decision; she will search for it. Search for a place to call "Home," search for Ægir to call "family."</AK_BackStory_Gladiia_Child.baseDesc>
+  <!-- EN: Consul's hand mirror -->
+  <AK_BackStory_Gladiia_Child.title>Consul's Hand Mirror</AK_BackStory_Gladiia_Child.title>
+  <!-- EN: Carbon-based Robot -->
+  <AK_BackStory_Gladiia_Child.titleShort>Carbon-based Robot</AK_BackStory_Gladiia_Child.titleShort>
+   
+  <!-- EN: She had found it; what she was looking for. The Abyssal Hunters, Ægir she can call family. But indeed, she has lost it all. There is an embitterment, a discontent. But she must uphold her basic honour and dignity, moving forward with her head held high. Gladiia does not know how many she can still save beyond Skadi and Specter, or if those who survived have yet to be crushed by the weight of their agony. Even still, she needs no hope, simply focusing on possibilities, feasibilities and results. She can still return to Ægir. She can still recover her Hunters, as long as the possibility is not zero。 -->
+  <AK_BackStory_Gladiia_Adult.baseDesc>She had found it; what she was looking for. The Abyssal Hunters, Ægir she can call family. But indeed, she has lost it all. There is an embitterment, a discontent. But she must uphold her basic honour and dignity, moving forward with her head held high. Gladiia does not know how many she can still save beyond Skadi and Specter, or if those who survived have yet to be crushed by the weight of their agony. Even still, she needs no hope, simply focusing on possibilities, feasibilities and results. She can still return to Ægir. She can still recover her Hunters, as long as the possibility is not zero.</AK_BackStory_Gladiia_Adult.baseDesc>
+  <!-- EN: Ægir Technological Consul -->
+  <AK_BackStory_Gladiia_Adult.title>Ægir Technological Consul</AK_BackStory_Gladiia_Adult.title>
+  <!-- EN: Consul -->
+  <AK_BackStory_Gladiia_Adult.titleShort>Hookmaster</AK_BackStory_Gladiia_Adult.titleShort>
+
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	Gladiia does not have this.
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Gladiia does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: Blood-ridden Lance -->
+  <AK_Weapon_Gladiia.label>Blood-ridden Lance</AK_Weapon_Gladiia.label>
+  <!-- EN: A long lance. Its alloy is one previously unseen to dry land, and its engineering is non-replicable. The lance is not for stabbing, but for hacking, like a sickle or an axe. Always, it leaves behind a bloody mess on the ground。 -->
+  <AK_Weapon_Gladiia.description>A long lance. Its alloy is one previously unseen to dry land, and its engineering is non-replicable. The lance is not for stabbing, but for hacking, like a sickle or an axe. Always, it leaves behind a bloody mess on the ground.</AK_Weapon_Gladiia.description>

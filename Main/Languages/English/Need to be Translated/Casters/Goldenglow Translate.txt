@@ -1,0 +1,85 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXME -->
+  <AK_Recruit_Goldenglow.description>TODO</AK_Recruit_Goldenglow.description>
+  <!-- EN: Goldenglow -->
+  <AK_Recruit_Goldenglow.name>TODO</AK_Recruit_Goldenglow.name>
+  <!-- EN: Goldenglow -->
+  <AK_Recruit_Goldenglow.nickname>TODO</AK_Recruit_Goldenglow.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Goldenglow.surname>TODO</AK_Recruit_Goldenglow.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_nameDef}出生在一个贫穷且多子的家庭，虽然在源石技艺方面天赋异禀，但为了填补家庭经济了漏洞，{PAWN_pronoun}不得不放弃学习源石技艺，早早外出谋生。\n在{PAWN_pronoun}父亲死后，{PAWN_pronoun}接下了一份信使的工作并且在工作中不幸染上矿石病，随后前往卡拉顿工作并定居。 -->
+  <AK_BackStory_Goldenglow_Child.baseDesc>TODO</AK_BackStory_Goldenglow_Child.baseDesc>
+  <!-- EN: 拮据的感染者 -->
+  <AK_BackStory_Goldenglow_Child.title>TODO</AK_BackStory_Goldenglow_Child.title>
+  <!-- EN: 拮据的感染者 -->
+  <AK_BackStory_Goldenglow_Child.titleShort>TODO</AK_BackStory_Goldenglow_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在卡拉顿工作数年之后，用自己的积蓄购置了一家名为“绿意火花”的酒吧。\n不幸的是，酒吧在卡拉顿城的动荡中被烧毁，收到强烈刺激的{PAWN_pronoun}几度尝试自杀，但是被劝下。\n最后{PAWN_pronoun}在整合运动与罗德岛部分干员的努力下选择加入罗德岛。 -->
+  <AK_BackStory_Goldenglow_Adult.baseDesc>TODO</AK_BackStory_Goldenglow_Adult.baseDesc>
+  <!-- EN: 感染者工人 -->
+  <AK_BackStory_Goldenglow_Adult.title>TODO</AK_BackStory_Goldenglow_Adult.title>
+  <!-- EN: 感染者工人 -->
+  <AK_BackStory_Goldenglow_Adult.titleShort>TODO</AK_BackStory_Goldenglow_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 静电 -->
+  <AK_Trait_Goldenglow.degreeDatas.0.label>TODO</AK_Trait_Goldenglow.degreeDatas.0.label>
+  <!-- EN: 尽管{PAWN_nameDef}在感染矿石病之初就体现出了不断释放静电的能力，但是在经历了卡拉顿的一系列事件后，{PAWN_possessive}静电开始进入了不稳定的状态。{PAWN_possessive}静电现在仿佛带有了情绪。\n				 -->
+  <AK_Trait_Goldenglow.degreeDatas.0.description>TODO</AK_Trait_Goldenglow.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold +10%
+  -Social impact -5%
+  
+  <!-- EN: 随和 -->
+  <AK_Trait_GoldenglowSecond.degreeDatas.0.label>TODO</AK_Trait_GoldenglowSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的性格相当受人欢迎，开朗，随和。勤恳做事，认真生活。\n尽管{PAWN_pronoun}有着良好的源石技艺适应性，但是{PAWN_possessive}目标却是成为一个出色的理发师。\n				 -->
+  <AK_Trait_GoldenglowSecond.degreeDatas.0.description>TODO</AK_Trait_GoldenglowSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +12
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 随和 -->
+  <AK_Thought_Trait_GoldenglowSecond.stages.0.label>TODO</AK_Thought_Trait_GoldenglowSecond.stages.0.label>
+  <!-- EN: 今天也要开开心心的哦 -->
+  <AK_Thought_Trait_GoldenglowSecond.stages.0.description>TODO</AK_Thought_Trait_GoldenglowSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 澄闪的法杖 -->
+  <AK_Weapon_Goldenglow.label>Goldenglow's Weapon</AK_Weapon_Goldenglow.label>
+  <!-- EN: 澄闪的法杖，内置了一个静电球，保证了澄闪的静电不会散的到处都是。\n不过听说有个不知名的近卫干员喜欢被她电。 -->
+  <AK_Weapon_Goldenglow.description>TODO</AK_Weapon_Goldenglow.description>

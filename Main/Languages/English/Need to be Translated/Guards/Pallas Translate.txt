@@ -1,0 +1,85 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Pallas.description>TODO</AK_Recruit_Pallas.description>
+  <!-- EN: Pallas -->
+  <AK_Recruit_Pallas.name>TODO</AK_Recruit_Pallas.name>
+  <!-- EN: Pallas -->
+  <AK_Recruit_Pallas.nickname>TODO</AK_Recruit_Pallas.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Pallas.surname>Guard</AK_Recruit_Pallas.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+
+  <!-- EN: {PAWN_nameDef}出生于米诺斯的显赫家庭，在经历了充实又无忧无虑的童年后，成为了一名祭司。\n但在一次意外中{PAWN_pronoun}感染了矿石病，因此{PAWN_pronoun}离开了英雄神殿，成为了边远地区的一名普通祭司。 -->
+  <AK_BackStory_Pallas_Child.baseDesc>TODO</AK_BackStory_Pallas_Child.baseDesc>
+  <!-- EN: 显赫的米诺斯祭司 -->
+  <AK_BackStory_Pallas_Child.title>TODO</AK_BackStory_Pallas_Child.title>
+  <!-- EN: 米诺斯祭司 -->
+  <AK_BackStory_Pallas_Child.titleShort>TODO</AK_BackStory_Pallas_Child.titleShort>
+ 
+  <!-- EN: {PAWN_nameDef}在离开英雄神殿后成为了一个米诺斯边缘村庄的普通祭司，在抵御了袭扰该村的萨尔贡部落后，因为矿石病恶化前往罗德岛治疗。 -->
+  <AK_BackStory_Pallas_Adult.baseDesc>TODO</AK_BackStory_Pallas_Adult.baseDesc>
+  <!-- EN: 边缘村庄的小祭司 -->
+  <AK_BackStory_Pallas_Adult.title>TODO</AK_BackStory_Pallas_Adult.title>
+  <!-- EN: 小祭司 -->
+  <AK_BackStory_Pallas_Adult.titleShort>TODO</AK_BackStory_Pallas_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 神性 -->
+  <AK_Trait_Pallas.degreeDatas.0.label>TODO</AK_Trait_Pallas.degreeDatas.0.label>
+  <!-- EN: 或许是因为过去在胜利神殿的经历，{PAWN_nameDef}的身上带有一股神秘的气质，虽然{PAWN_pronoun}十分乐意与人交谈……但显然{PAWN_pronoun}说的话不是很好懂。\n				 -->
+  <AK_Trait_Pallas.degreeDatas.0.description>TODO</AK_Trait_Pallas.degreeDatas.0.description>
+  Effect:
+  -None
+  
+  <!-- EN: 胜利女神 -->
+  <AK_Trait_PallasSecond.degreeDatas.0.label>TODO</AK_Trait_PallasSecond.degreeDatas.0.label>
+  <!-- EN: 即使是离开了胜利神殿，成为了一个偏远村庄的小祭司，{PAWN_nameDef}的热情却从未平息过，即使是在小村庄，{PAWN_pronoun}也能通过自己的努力赢得所有人的尊敬\n				 -->
+  <AK_Trait_PallasSecond.degreeDatas.0.description>TODO</AK_Trait_PallasSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +15
+  -Mental break threshold -22%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 胜利女神 -->
+  <AK_Thought_Trait_Pallas.stages.0.label>TODO</AK_Thought_Trait_Pallas.stages.0.label>
+  <!-- EN: 保佑胜利的英雄，我将领受你们的祝福。 -->
+  <AK_Thought_Trait_Pallas.stages.0.description>TODO</AK_Thought_Trait_Pallas.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: “故乡的山岩” -->
+  <AK_Weapon_Pallas.label>Pallas's Weapon</AK_Weapon_Pallas.label>
+  <!-- EN: 一把造型古朴的流星锤，伴随着帕拉斯从米诺斯的中心来到边疆。\n    胜利女神离开了万神殿，但是她的光芒不会随之黯淡。 -->
+  <AK_Weapon_Pallas.description>TODO</AK_Weapon_Pallas.description>

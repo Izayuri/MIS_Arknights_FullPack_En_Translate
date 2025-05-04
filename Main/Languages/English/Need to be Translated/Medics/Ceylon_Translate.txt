@@ -1,0 +1,84 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: \nFIXMEDESC -->
+  <AK_Recruit_Ceylon.description>TODO</AK_Recruit_Ceylon.description>
+  <!-- EN: Ceylon -->
+  <AK_Recruit_Ceylon.name>TODO</AK_Recruit_Ceylon.name>
+  <!-- EN: Ceylon -->
+  <AK_Recruit_Ceylon.nickname>TODO</AK_Recruit_Ceylon.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ceylon.surname>TODO</AK_Recruit_Ceylon.surname>
+  
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 维多利亚国立大学源石研究专业毕业生，现作为辅助研究员在凯尔希医生的研究室内工作。\n在水系法术上颇有造诣，能够在战场上为队友提供可靠的医疗支援。 -->
+  <AK_BackStory_Ceylon_Adult.baseDesc>TODO</AK_BackStory_Ceylon_Adult.baseDesc>
+  <!-- EN: 学者 -->
+  <AK_BackStory_Ceylon_Adult.title>TODO</AK_BackStory_Ceylon_Adult.title>
+  <!-- EN: 学者 -->
+  <AK_BackStory_Ceylon_Adult.titleShort>TODO</AK_BackStory_Ceylon_Adult.titleShort>
+  
+  <!-- EN: 作为汐斯塔城主赫尔曼·道尔科斯的独女，{PAWN_nameDef}毫无疑问是含着金汤匙出生的。\n但因为{PAWN_pronoun}从小就被送往维多利亚留学，长期的独自留学生活让{PAWN_pronoun}养成了相当独立的性格，因此与大家印象中的“富家子女”形象有些偏差。 -->
+  <AK_BackStory_Ceylon_Child.baseDesc>TODO</AK_BackStory_Ceylon_Child.baseDesc>
+  <!-- EN: 汐斯塔大小姐 -->
+  <AK_BackStory_Ceylon_Child.title>TODO</AK_BackStory_Ceylon_Child.title>
+  <!-- EN: 汐斯塔大小姐 -->
+  <AK_BackStory_Ceylon_Child.titleShort>TODO</AK_BackStory_Ceylon_Child.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 学者 -->
+  <AK_Trait_Ceylon.degreeDatas.0.label>TODO</AK_Trait_Ceylon.degreeDatas.0.label>
+  <!-- EN: 锡兰小姐虽然才从大学毕业，但是她本身的知识储备以及对于源石研究的热情是令人赞叹的，完全可以想见她在学校中付出了怎样的努力。这样优秀人才的加入，对于罗德岛来说，不得不说是一个意外之喜。\n				 -->
+  <AK_Trait_Ceylon.degreeDatas.0.description>TODO</AK_Trait_Ceylon.degreeDatas.0.description>
+  
+  <!-- EN: 大小姐 -->
+  <AK_Trait_CeylonSecond.degreeDatas.0.label>TODO</AK_Trait_CeylonSecond.degreeDatas.0.label>
+  <!-- EN: 之所以用“大小姐”而不是“研究者”去概括，是因为她“大小姐”的印象过于强烈。因为由无数成功培养出来的自信感无时无刻不体现在她的言行之中，在大部分时候，她总是对的。而如果她错了，她从不会吝啬“对不起”。\n				 -->
+  <AK_Trait_CeylonSecond.degreeDatas.0.description>TODO</AK_Trait_CeylonSecond.degreeDatas.0.description>
+ DO NOT FORGET TO WRITE WHAT THE EFFECT DOES.
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 大小姐 -->
+  <AK_Thought_Trait_CeylonSecond.stages.0.label>TODO</AK_Thought_Trait_CeylonSecond.stages.0.label>
+  <!-- EN: \n				努力就会有回报，我一直这么认为，也一直是这么做的。\n				 -->
+  <AK_Thought_Trait_CeylonSecond.stages.0.description>TODO</AK_Thought_Trait_CeylonSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 湖畔漫步者 -->
+  <AK_Weapon_Ceylon.label>Ceylon's Weapon</AK_Weapon_Ceylon.label>
+  <!-- EN: 锡兰的伞，握在手中感觉十分潮湿，但是脱手又感觉没有任何水，难道这也是源石技艺？ -->
+  <AK_Weapon_Ceylon.description>TODO</AK_Weapon_Ceylon.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Ceylon.tools.0.label>TODO</AK_Weapon_Ceylon.tools.0.label>
+  SOME HAVE TWO!!! DON'T FORGET TO INCLUDE WEAPON NAME!!!

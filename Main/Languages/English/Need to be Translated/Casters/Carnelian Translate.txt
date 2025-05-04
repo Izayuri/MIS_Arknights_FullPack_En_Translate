@@ -1,0 +1,78 @@
+OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	  <!-- EN: FIXME -->
+  <AK_Recruit_Carnelian.description>TODO</AK_Recruit_Carnelian.description>
+  <!-- EN: Carnelian -->
+  <AK_Recruit_Carnelian.name>TODO</AK_Recruit_Carnelian.name>
+  <!-- EN: Carnelian -->
+  <AK_Recruit_Carnelian.nickname>TODO</AK_Recruit_Carnelian.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Carnelian.surname>TODO</AK_Recruit_Carnelian.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_nameDef}出身萨尔贡深处不受王酋管辖的某个古老部族。\n那个遥远部族的种种习俗不得而知，但{PAWN_possessive}部族似乎并不像其他的那样盲目排斥外来物。 -->
+  <AK_BackStory_Carnelian_Child.baseDesc>TODO</AK_BackStory_Carnelian_Child.baseDesc>
+  <!-- EN: 部族的孩子 -->
+  <AK_BackStory_Carnelian_Child.title>TODO</AK_BackStory_Carnelian_Child.title>
+  <!-- EN: 部族的孩子 -->
+  <AK_BackStory_Carnelian_Child.titleShort>TODO</AK_BackStory_Carnelian_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}原本在成年后离开家乡在大地上四处游学。\n但是在{PAWN_possessive}最后一站，{PAWN_pronoun}无意间发现了当地小伯爵的感染者身份，因此被扣留并临时担任他的侍卫。 -->
+  <AK_BackStory_Carnelian_Adult.baseDesc>TODO</AK_BackStory_Carnelian_Adult.baseDesc>
+  <!-- EN: 游学者 -->
+  <AK_BackStory_Carnelian_Adult.title>TODO</AK_BackStory_Carnelian_Adult.title>
+  <!-- EN: 游学者 -->
+  <AK_BackStory_Carnelian_Adult.titleShort>TODO</AK_BackStory_Carnelian_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 真正的萨尔贡人 -->
+  <AK_Trait_Carnelian.degreeDatas.0.label>TODO</AK_Trait_Carnelian.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}小姐并不过多掩饰自己的真实性情，不论面对怎样的情况，{PAWN_pronoun}都依照自己的准则行事，对待朋友时热情大方，而对待自己认定的敌人，{PAWN_pronoun}从不会手下留情。莱塔尼亚无法真正束缚这样的一个的萨尔贡人。 -->
+  <AK_Trait_Carnelian.degreeDatas.0.description>TODO</AK_Trait_Carnelian.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +5
+  -Mental break threshold -35%
+  
+     Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 真正的萨尔贡人 -->
+  <AK_Thought_Trait_Carnelian.stages.0.label>TODO</AK_Thought_Trait_Carnelian.stages.0.label>
+  <!-- EN: 在那些贵族眼里，我应该是相当刺眼的异类吧？不过无所谓，我不在乎。 -->
+  <AK_Thought_Trait_Carnelian.stages.0.description>TODO</AK_Thought_Trait_Carnelian.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 红玉髓 -->
+  <AK_Weapon_Carnelian.label>Carnelian's Weapon</AK_Weapon_Carnelian.label>
+  <!-- EN: 卡涅利安的长剑，做工有着莱塔尼亚的细致，却散发着萨尔贡的狂野。\n这把剑在卡涅利安的手中就犹如巨兽的利齿一样能够轻而易举的撕碎任何敌人。 -->
+  <AK_Weapon_Carnelian.description>TODO</AK_Weapon_Carnelian.description>

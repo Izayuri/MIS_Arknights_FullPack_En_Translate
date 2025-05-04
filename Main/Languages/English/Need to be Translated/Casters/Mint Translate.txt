@@ -1,0 +1,80 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: Curiosity is her greatest weapon.\nMint, the Victorian Caster, seeks recognition as a scholar far more than as a Caster. -->
+  <AK_Recruit_Mint.description>TODO</AK_Recruit_Mint.description>
+  <!-- EN: Mint -->
+  <AK_Recruit_Mint.name>TODO</AK_Recruit_Mint.name>
+  <!-- EN: Mint -->
+  <AK_Recruit_Mint.nickname>TODO</AK_Recruit_Mint.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mint.surname>TODO</AK_Recruit_Mint.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 履历缺失 -->
+  <AK_BackStory_Unknown_Child.baseDesc>TODO</AK_BackStory_Unknown_Child.baseDesc>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Unknown_Child.title>TODO</AK_BackStory_Unknown_Child.title>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Unknown_Child.titleShort>TODO</AK_BackStory_Unknown_Child.titleShort>
+  
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Unknown_Adult.baseDesc>TODO</AK_BackStory_Unknown_Adult.baseDesc>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Unknown_Adult.title>TODO</AK_BackStory_Unknown_Adult.title>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Unknown_Adult.titleShort>TODO</AK_BackStory_Unknown_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 旺盛的好奇心 -->
+  <AK_Trait_Mint.degreeDatas.0.label>TODO</AK_Trait_Mint.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}展现出了一种极度旺盛的好奇心，这对{PAWN_possessive}学习有帮助，然而却容易在工作的时候突然勾走{PAWN_possessive}注意力。\n				 -->
+  <AK_Trait_Mint.degreeDatas.0.description>TODO</AK_Trait_Mint.degreeDatas.0.description>
+  Effect:
+  -Global learning factor +20%
+  -Global work speed -20%
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Mint does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+	<!-- EN: 薄绿的法杖 This is her... staff? I don't know what she uses. --> 
+  <AK_Weapon_MintA.label>TODO</AK_Weapon_MintA.label>
+  <!-- EN: 有点老旧的法杖，据说是从学校附近的旧货市场随便淘过来的。\n不过没有点识物的本事是没法从那边买到东西的。 -->
+  <AK_Weapon_MintA.description>TODO</AK_Weapon_MintA.description>
+  
+  <!-- EN: 咬人的书 This is some weird grenade/packet looking thing. Again, I don't know Mint. --> 
+  <AK_Weapon_MintB.label>TODO</AK_Weapon_MintB.label>
+  <!-- EN: 一本陈旧的硬皮书，敲人和咬人都很疼。\n在真正被咬之前，没人知道这本书会不会咬人。 -->
+  <AK_Weapon_MintB.description>TODO</AK_Weapon_MintB.description>

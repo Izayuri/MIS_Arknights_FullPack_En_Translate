@@ -1,0 +1,91 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Horn.description>TODO</AK_Recruit_Horn.description>
+  <!-- EN: Horn -->
+  <AK_Recruit_Horn.name>TODO</AK_Recruit_Horn.name>
+  <!-- EN: Horn -->
+  <AK_Recruit_Horn.nickname>TODO</AK_Recruit_Horn.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Horn.surname>TODO</AK_Recruit_Horn.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}诞生于维多利亚赫赫有名的军事贵族家庭，并且顺利考入了维多利亚近卫学院并毕业，在毕业后加入了暴风突击队。 -->
+  <AK_BackStory_Horn_Child.baseDesc>TODO</AK_BackStory_Horn_Child.baseDesc>
+  <!-- EN: 白狼公爵的孩子 -->
+  <AK_BackStory_Horn_Child.title>TODO</AK_BackStory_Horn_Child.title>
+  <!-- EN: 公爵孩子 -->
+  <AK_BackStory_Horn_Child.titleShort>TODO</AK_BackStory_Horn_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}在加入暴风突击队后迅速晋升为了号角小队是队长，但在小丘郡的动乱中，号角小队几近全军覆没。 -->
+  <AK_BackStory_Horn_Adult.baseDesc>TODO</AK_BackStory_Horn_Adult.baseDesc>
+  <!-- EN: 暴风突击队队长 -->
+  <AK_BackStory_Horn_Adult.title>TODO</AK_BackStory_Horn_Adult.title>
+  <!-- EN: 暴风突击队队长 -->
+  <AK_BackStory_Horn_Adult.titleShort>TODO</AK_BackStory_Horn_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 暴风 -->
+  <AK_Trait_Horn.degreeDatas.0.label>TODO</AK_Trait_Horn.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}可以说是暴风突击队的最佳象征，勇敢，坚韧，顽强，忠诚。\n				 -->
+  <AK_Trait_Horn.degreeDatas.0.description>TODO</AK_Trait_Horn.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -45%
+  -Pain shock threshold -20%
+  
+  <!-- EN: 鸣号 -->
+  <AK_Trait_HornSecond.degreeDatas.0.label>TODO</AK_Trait_HornSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的精神在小丘郡后已经宛若钢铁，{PAWN_pronoun}也将会背负着死者的信念继续前行，但小丘郡所见证的那些惨剧不是一时半会就能平复的。\n				 -->
+  <AK_Trait_HornSecond.degreeDatas.0.description>TODO</AK_Trait_HornSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -20
+  -Mental break threshold -15%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 鸣号 -->
+  <AK_Thought_Trait_HornSecond.stages.0.label>TODO</AK_Thought_Trait_HornSecond.stages.0.label>
+  <!-- EN: 我尽力不被个人情绪左右，但是我没办法忘记。我答应过他们我不会忘记。 -->
+  <AK_Thought_Trait_HornSecond.stages.0.description>TODO</AK_Thought_Trait_HornSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 号角的火炮  This is her lance. -->
+  <AK_Weapon_HornA.label>TODO</AK_Weapon_HornA.label>
+  <!-- EN: 炮弹迅疾如风暴 -->
+  <AK_Weapon_HornA.description>TODO</AK_Weapon_HornA.description>
+  
+  <!-- EN: 号角的盾牌 This is her shield. -->
+  <AK_Weapon_HornB.label>TODO</AK_Weapon_HornB.label>
+  <!-- EN: 盾牌坚硬似铁壁 -->
+  <AK_Weapon_HornB.description>TODO</AK_Weapon_HornB.description>

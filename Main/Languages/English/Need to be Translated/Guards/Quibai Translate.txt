@@ -1,0 +1,86 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: \nFIXMEDESC -->
+  <AK_Recruit_Qiubai.description>TODO</AK_Recruit_Qiubai.description>
+  <!-- EN: Qiubai -->
+  <AK_Recruit_Qiubai.name>TODO</AK_Recruit_Qiubai.name>
+  <!-- EN: Qiubai -->
+  <AK_Recruit_Qiubai.nickname>TODO</AK_Recruit_Qiubai.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Qiubai.surname>Guard</AK_Recruit_Qiubai.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+   <!-- EN: {PAWN_nameDef}原本是盘踞在寨头上匪首的女儿，在寨头被清剿后{PAWN_pronoun}侥幸出逃，一路流浪到了玉门并且修炼了极其出色的剑术。 -->
+  <AK_BackStory_Qiubai_Child.baseDesc>TODO</AK_BackStory_Qiubai_Child.baseDesc>
+  <!-- EN: 匪首的女儿 -->
+  <AK_BackStory_Qiubai_Child.title>TODO</AK_BackStory_Qiubai_Child.title>
+  <!-- EN: 匪首的女儿 -->
+  <AK_BackStory_Qiubai_Child.titleShort>TODO</AK_BackStory_Qiubai_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}，剑客，出生于炎国姜齐城附近的水寨，后因家庭变故离开故乡，常年行走于炎国各地，并无固定居所与工作。\n经调查，{PAWN_pronoun}曾在不同事件中与多位干员有过接触，后接受罗德岛的合作邀请，为罗德岛在炎国境内的各项事务提供支持。 -->
+  <AK_BackStory_Qiubai_Adult.baseDesc>TODO</AK_BackStory_Qiubai_Adult.baseDesc>
+  <!-- EN: 剑客 -->
+  <AK_BackStory_Qiubai_Adult.title>TODO</AK_BackStory_Qiubai_Adult.title>
+  <!-- EN: 剑客 -->
+  <AK_BackStory_Qiubai_Adult.titleShort>TODO</AK_BackStory_Qiubai_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 落英 -->
+  <AK_Trait_Qiubai.degreeDatas.0.label>TODO</AK_Trait_Qiubai.degreeDatas.0.label>
+  <!-- EN: “善恶之争生出恩怨，这样的循环，到何处终，自何处始？‘善恶难断’只是一句无用的感喟，这是我现在执剑的理由。”\n				 -->
+  <AK_Trait_Qiubai.degreeDatas.0.description>TODO</AK_Trait_Qiubai.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -8
+  
+  <!-- EN: 侠客 -->
+  <AK_Trait_QiubaiSecond.degreeDatas.0.label>TODO</AK_Trait_QiubaiSecond.degreeDatas.0.label>
+  <!-- EN: 三月三，艳阳天。\n秋叶落，雪满山。\n磨刀石小斗笠圆。\n路见不平一把剑，大江分两边。\n				 -->
+  <AK_Trait_QiubaiSecond.degreeDatas.0.description>TODO</AK_Trait_QiubaiSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -22%
+  -Melee dodge chance +0.2
+  -Move speed +1.5
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 侠客 -->
+  <AK_Thought_Trait_Qiubai.stages.0.label>TODO</AK_Thought_Trait_Qiubai.stages.0.label>
+  <!-- EN: 仗剑何为？不平则鸣。 -->
+  <AK_Thought_Trait_Qiubai.stages.0.description>TODO</AK_Thought_Trait_Qiubai.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 仇白之剑 -->
+  <AK_Weapon_Qiubai.label>Qiubai's Weapon</AK_Weapon_Qiubai.label>
+  <!-- EN: 仇白出剑从不按照所谓剑法，她只在最合适的时机出剑 -->
+  <AK_Weapon_Qiubai.description>TODO</AK_Weapon_Qiubai.description>

@@ -1,0 +1,78 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: This scorching thermite blade shall penetrate all defenses.\nFranka, Guard Operator of B.P.R.S. of Blacksteel, is waiting for your orders. -->
+  <AK_Recruit_Franka.description>TODO</AK_Recruit_Franka.description>
+  <!-- EN: Franka -->
+  <AK_Recruit_Franka.name>TODO</AK_Recruit_Franka.name>
+  <!-- EN: Franka -->
+  <AK_Recruit_Franka.nickname>TODO</AK_Recruit_Franka.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Franka.surname>Guard</AK_Recruit_Franka.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}出身于哥伦比亚吉沃吉亚的某上流社会家庭，十三岁时由于天灾家乡被毁并失去了父亲，随后{PAWN_pronoun}远走他乡，并在毕业后成为了自由佣兵。 -->
+  <AK_BackStory_Franka_Child.baseDesc>TODO</AK_BackStory_Franka_Child.baseDesc>
+  <!-- EN: 流浪者 -->
+  <AK_BackStory_Franka_Child.title>TODO</AK_BackStory_Franka_Child.title>
+  <!-- EN: 流浪者 -->
+  <AK_BackStory_Franka_Child.titleShort>TODO</AK_BackStory_Franka_Child.titleShort>
+
+  <!-- EN: 干员{PAWN_nameDef}，曾就职于黑钢国际，于一次为B·P·R·S生化部门提供的护卫中感染矿石病。黑钢通过其所掌握的情报联络到鲜为人知的罗德岛制药，安排{PAWN_pronoun}进入罗德岛接受治疗。\n罹患矿石病，对于{PAWN_pronoun}来说仿佛只是无足轻重的小事，只是，{PAWN_pronoun}心中那个想要走遍大地的梦想对于一个感染者来说已经成为了不可能。 -->
+  <AK_BackStory_Franka_Adult.baseDesc>TODO</AK_BackStory_Franka_Adult.baseDesc>
+  <!-- EN: BPRS生化部门职员 -->
+  <AK_BackStory_Franka_Adult.title>TODO</AK_BackStory_Franka_Adult.title>
+  <!-- EN: 职员 -->
+  <AK_BackStory_Franka_Adult.titleShort>TODO</AK_BackStory_Franka_Adult.titleShort>
+  
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 轻浮 -->
+  <AK_Trait_Franka.degreeDatas.0.label>TODO</AK_Trait_Franka.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}性格略显轻浮，作风较为激进，以戏耍他人为乐——无论面对的是敌人还是自己的同伴。\n				不过其实抛开这些，{PAWN_pronoun}是一个很温柔的人。 -->
+  <AK_Trait_Franka.degreeDatas.0.description>TODO</AK_Trait_Franka.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +6
+  -Mental break threshold -20%
+
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 轻浮 -->
+  <AK_Thought_Trait_Franka.stages.0.label>TODO</AK_Thought_Trait_Franka.stages.0.label>
+  <!-- EN: 比起黑钢，这里要有趣多了。 -->
+  <AK_Thought_Trait_Franka.stages.0.description>TODO</AK_Thought_Trait_Franka.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 铝热剑 -->
+  <AK_Weapon_Franka.label>Franka's Weapon</AK_Weapon_Franka.label>
+  <!-- EN: 黑钢配发的铝热剑，能够发挥出强大的破甲能力。\n    不过芙兰卡更喜欢拿她去捉弄人。 -->
+  <AK_Weapon_Franka.description>TODO</AK_Weapon_Franka.description>

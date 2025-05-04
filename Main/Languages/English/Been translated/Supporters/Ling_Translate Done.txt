@@ -1,0 +1,86 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Ling.description>Ling, poet from Yan, unfettered and unburdened, content as she is. With wine in hand, she sets verse to paper.</AK_Recruit_Ling.description>
+  <!-- EN: Ling -->
+  <AK_Recruit_Ling.name>Ling</AK_Recruit_Ling.name>
+  <!-- EN: Ling -->
+  <AK_Recruit_Ling.nickname>Ling</AK_Recruit_Ling.nickname>
+  <!-- EN: Supporter -->
+  <AK_Recruit_Ling.surname>Supporter</AK_Recruit_Ling.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: Though I am more than Sui's tool, only the beasts see it. Mount Liubo's waters flow still to the sea, and though my bones are buried beneath it, I am now free. -->
+  <AK_BackStory_Ling_Child.baseDesc>Though I am more than Sui's tool, only the beasts see it. Mount Liubo's waters flow still to the sea, and though my bones are buried beneath it, I am now free.</AK_BackStory_Ling_Child.baseDesc>
+  <!-- EN: Shard of Sui -->
+  <AK_BackStory_Ling_Child.title>Shard of Sui</AK_BackStory_Ling_Child.title>
+  <!-- EN: Shard -->
+  <AK_BackStory_Ling_Child.titleShort>Summoner</AK_BackStory_Ling_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef} A poet who resides in Shangshu, connected to the Sui Regulators of Yan. She encountered Rhodes Island during the Shangshu incident, and now lives on the landship after passing a background check. -->
+  <AK_BackStory_Ling_Adult.baseDesc>{PAWN_nameDef} A poet who resides in Shangshu, connected to the Sui Regulators of Yan. She encountered Rhodes Island during the Shangshu incident, and now lives on the landship after passing a background check.</AK_BackStory_Ling_Adult.baseDesc>
+  <!-- EN: Poet -->
+  <AK_BackStory_Ling_Adult.title>Poet</AK_BackStory_Ling_Adult.title>
+  <!-- EN: Poet -->
+  <AK_BackStory_Ling_Adult.titleShort>Summoner</AK_BackStory_Ling_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: Hedonist Haze -->
+  <AK_Trait_Ling.degreeDatas.0.label>Hedonist Haze</AK_Trait_Ling.degreeDatas.0.label>
+  <!-- EN: A long dream of grief, where I drunkenly pluck the lanterns. The ever-present winds of yesteryear blow still, and the old iron armor treads anew. -->
+  <AK_Trait_Ling.degreeDatas.0.description>A long dream of grief, where I drunkenly pluck the lanterns. The ever-present winds of yesteryear blow still, and the old iron armor treads anew.</AK_Trait_Ling.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -35%
+
+  <!-- EN: Joyfully Free -->
+  <AK_Trait_LingSecond.degreeDatas.0.label>Joyfully Free</AK_Trait_LingSecond.degreeDatas.0.label>
+  <!-- EN: Mount Liubo's waters flow still to the sea, and though my bones are buried beneath it, I am now free. -->
+  <AK_Trait_LingSecond.degreeDatas.0.description>Mount Liubo's waters flow still to the sea, and though my bones are buried beneath it, I am now free.</AK_Trait_LingSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +20
+  -Move speed +115% aka more than double speed why is she so fast
+
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: Joyfully Free -->
+  <AK_Thought_Trait_LingSecond.stages.0.label>Joyfully Free</AK_Thought_Trait_LingSecond.stages.0.label>
+  <!-- EN: High mountains and high waves, a long and difficult road, the countryside my old friend, all passing me as I ferry by in late autumn. -->
+  <AK_Thought_Trait_LingSecond.stages.0.description>High mountains and high waves, a long and difficult road, the countryside my old friend, all passing me as I ferry by in late autumn.</AK_Thought_Trait_LingSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: Short Poems, Long Dreams -->
+  <AK_Weapon_Ling.label>Short Poems, Long Dreams</AK_Weapon_Ling.label>
+  <!-- EN: A lantern. You're certain that you've seen it before in a dream, picking the night while arrows rained down in a desert of fire. -->
+  <AK_Weapon_Ling.description>A lantern. You're certain that you've seen it before in a dream, picking the night while arrows rained down in a desert of fire.</AK_Weapon_Ling.description>

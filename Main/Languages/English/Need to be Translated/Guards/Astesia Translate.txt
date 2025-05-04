@@ -1,0 +1,86 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Astesia.description>TODO</AK_Recruit_Astesia.description>
+  <!-- EN: Astesia -->
+  <AK_Recruit_Astesia.name>TODO</AK_Recruit_Astesia.name>
+  <!-- EN: Astesia -->
+  <AK_Recruit_Astesia.nickname>TODO</AK_Recruit_Astesia.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Astesia.surname>Guard</AK_Recruit_Astesia.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+   
+  <!-- EN: {PAWN_nameDef}出生在一个传统的观星师家族，与妹妹星源不同，{PAWN_pronoun}致力于家族传统的观星学。\n后来，{PAWN_pronoun}不负家人所望，成为了一个知名的文献学顾问。 -->
+  <AK_BackStory_Astesia_Child.baseDesc>TODO</AK_BackStory_Astesia_Child.baseDesc>
+  <!-- EN: 观星师家族的孩子 -->
+  <AK_BackStory_Astesia_Child.title>TODO</AK_BackStory_Astesia_Child.title>
+  <!-- EN: 观星师家族的孩子 -->
+  <AK_BackStory_Astesia_Child.titleShort>TODO</AK_BackStory_Astesia_Child.titleShort>
+
+  <!-- EN: 干员{PAWN_nameDef}，哥伦比亚某神秘学组织的会员，经由合作协议被派驻至莱茵生命，职位为文献学顾问。由于共发性矿石病与妹妹一起来到罗德岛，在进行矿石病治疗期间通过测试成为干员 。可使用独特的剑技，对近战目标造成类似法术的攻击效果。 -->
+  <AK_BackStory_Astesia_Adult.baseDesc>TODO</AK_BackStory_Astesia_Adult.baseDesc>
+  <!-- EN: 文献学顾问 -->
+  <AK_BackStory_Astesia_Adult.title>TODO</AK_BackStory_Astesia_Adult.title>
+  <!-- EN: 文献学顾问 -->
+  <AK_BackStory_Astesia_Adult.titleShort>TODO</AK_BackStory_Astesia_Adult.titleShort>
+  
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 神秘主义 -->
+  <AK_Trait_Astesia.degreeDatas.0.label>TODO</AK_Trait_Astesia.degreeDatas.0.label>
+  <!-- EN: 因为家庭环境的影响与神秘学的传承，加上教育的缘故，{PAWN_nameDef}比起科学解释更喜欢用星象学的推论，这造成{PAWN_possessive}很多思想总是或多或少的受到了神秘主义的影响。这导致{PAWN_possessive}某些思维相当保守，而且对一些科技也有着明显的是排斥。\n				 -->
+  <AK_Trait_Astesia.degreeDatas.0.description>TODO</AK_Trait_Astesia.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -8
+  -Psychic sensitivity +30%
+  -Research speed -30%
+  
+  <!-- EN: 占星师 -->
+  <AK_Trait_AstesiaSecond.degreeDatas.0.label>TODO</AK_Trait_AstesiaSecond.degreeDatas.0.label>
+  <!-- EN: “观星的理论意义是存在的，但这和现代科技并无关联。能看见星星的日子终归远去了，现在的星星就连闪烁都让人刺痛。”\n				 -->
+  <AK_Trait_AstesiaSecond.degreeDatas.0.description>TODO</AK_Trait_AstesiaSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -25%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 占星师 -->
+  <AK_Thought_Trait_Astesia.stages.0.label>TODO</AK_Thought_Trait_Astesia.stages.0.label>
+  <!-- EN: 从受到矿石病感染开始，星辰对我的回应已经越来越微弱了。 -->
+  <AK_Thought_Trait_Astesia.stages.0.description>TODO</AK_Thought_Trait_Astesia.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 星辉剑 -->
+  <AK_Weapon_Astesia.label>Astesia's Weapon</AK_Weapon_Astesia.label>
+  <!-- EN: 我之剑光，即为星光！ -->
+  <AK_Weapon_Astesia.description>TODO</AK_Weapon_Astesia.description>

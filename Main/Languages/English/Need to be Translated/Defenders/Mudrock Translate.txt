@@ -1,0 +1,80 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Many people are astonished by her true appearance, and we're all no different.\nMudrock, Sarkaz mercenary, old friend of the fertile soil and stone. -->
+  <AK_Recruit_Mudrock.description>TODO</AK_Recruit_Mudrock.description>
+  <!-- EN: Mudrock -->
+  <AK_Recruit_Mudrock.name>TODO</AK_Recruit_Mudrock.name>
+  <!-- EN: Mudrock -->
+  <AK_Recruit_Mudrock.nickname>TODO</AK_Recruit_Mudrock.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mudrock.surname>TODO</AK_Recruit_Mudrock.surname>
+
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 履历缺失 This is going to need your best approx. as there wasn't even code for her to have 
+  a childhood entry so this might be annoying. Just try your best. --> 
+  <AK_BackStory_Mudrock_Child.baseDesc>TODO</AK_BackStory_Mudrock_Child.baseDesc>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Mudrock_Child.title>TODO</AK_BackStory_Mudrock_Child.title>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Mudrock_Child.titleShort>TODO</AK_BackStory_Mudrock_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}由于与整合运动的暴力主张相悖，{PAWN_pronoun}并没有参与整合运动在乌萨斯的活动，而是带领志同道合的萨卡兹同僚前往莱塔尼亚。\n一切都在沃伦姆德的灾难发生后被改变了。 -->
+  <AK_BackStory_Mudrock_Adult.baseDesc>TODO</AK_BackStory_Mudrock_Adult.baseDesc>
+  <!-- EN: 泥岩小队队长 -->
+  <AK_BackStory_Mudrock_Adult.title>TODO</AK_BackStory_Mudrock_Adult.title>
+  <!-- EN: 队长 -->
+  <AK_BackStory_Mudrock_Adult.titleShort>TODO</AK_BackStory_Mudrock_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 沃土磐石之友 -->
+  <AK_Trait_Mudrock.degreeDatas.0.label>TODO</AK_Trait_Mudrock.degreeDatas.0.label>
+  <!-- EN: 或许是特殊的源石技艺，{PAWN_nameDef}对于泥土有着一种奇妙的情感。\n{PAWN_pronoun}和泥土之间的关系可能比{PAWN_pronoun}和大部分人都要亲密得多。 -->
+  <AK_Trait_Mudrock.degreeDatas.0.description>TODO</AK_Trait_Mudrock.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +5
+  -Social impact -15%
+  -Mental break threshold -35%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 沃土磐石之友 -->
+  <AK_Thought_Trait_Mudrock.stages.0.label>TODO</AK_Thought_Trait_Mudrock.stages.0.label>
+  <!-- EN: 沃土磐石，它们会轻语，它们会舞蹈，它们是我的朋友。\n				 -->
+  <AK_Thought_Trait_Mudrock.stages.0.description>TODO</AK_Thought_Trait_Mudrock.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 岩崩锤 -->
+  <AK_Weapon_Mudrock.label>TODO</AK_Weapon_Mudrock.label>
+  <!-- EN: 泥岩所使用的锤子，沾染了泥土的气息。\n当她挥动这柄锤子时，大地都为之颤动。 -->
+  <AK_Weapon_Mudrock.description>TODO</AK_Weapon_Mudrock.description>

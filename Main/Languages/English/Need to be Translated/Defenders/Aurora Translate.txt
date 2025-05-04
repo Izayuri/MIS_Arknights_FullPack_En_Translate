@@ -1,0 +1,74 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Aurora.description>TODO</AK_Recruit_Aurora.description>
+  <!-- EN: Aurora -->
+  <AK_Recruit_Aurora.name>TODO</AK_Recruit_Aurora.name>
+  <!-- EN: Aurora -->
+  <AK_Recruit_Aurora.nickname>TODO</AK_Recruit_Aurora.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Aurora.surname>TODO</AK_Recruit_Aurora.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}出生在谢拉格的湖区，{PAWN_possessive}童年生活几乎都是在冰面上度过。\n几年后，{PAWN_pronoun}中学毕业，接受希瓦艾什家的资助赴哥伦比亚学习，主攻雪地极端环境下的防御工程学。 -->
+  <AK_BackStory_Aurora_Child.baseDesc>TODO</AK_BackStory_Aurora_Child.baseDesc>
+  <!-- EN: 雪山上的乌萨斯 -->
+  <AK_BackStory_Aurora_Child.title>TODO</AK_BackStory_Aurora_Child.title>
+  <!-- EN: 雪山上的乌萨斯 -->
+  <AK_BackStory_Aurora_Child.titleShort>TODO</AK_BackStory_Aurora_Child.titleShort>
+
+  <!-- EN: 在一次源石冰雹灾害后，{PAWN_nameDef}因为同其他几个人支撑住营地而感染了矿石病。\n最后{PAWN_pronoun}因为矿石病中断学业，来到罗德岛寻求治疗。 -->
+  <AK_BackStory_Aurora_Adult.baseDesc>TODO</AK_BackStory_Aurora_Adult.baseDesc>
+  <!-- EN: 探险队员 -->
+  <AK_BackStory_Aurora_Adult.title>TODO</AK_BackStory_Aurora_Adult.title>
+  <!-- EN: 探险队员 -->
+  <AK_BackStory_Aurora_Adult.titleShort>TODO</AK_BackStory_Aurora_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 雪山上的乌萨斯 -->
+  <AK_Trait_Aurora.degreeDatas.0.label>TODO</AK_Trait_Aurora.degreeDatas.0.label>
+  <!-- EN: 极光虽然举止得体，性格温柔。但是作为乌萨斯，种族好斗的天性依旧在她的血液里流淌 -->
+  <AK_Trait_Aurora.degreeDatas.0.description>TODO</AK_Trait_Aurora.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -25%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Aurora does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 极光的武器 This is her shield. --> 
+  <AK_Weapon_Aurora.label>Aurora's Weapon</AK_Weapon_Aurora.label>
+  <!-- EN: 极光亲手打造的武器，将施法装置与盾牌巧妙的结合在了一起。\n守卫与杀伤都很杰出的利器。 -->
+  <AK_Weapon_Aurora.description>TODO</AK_Weapon_Aurora.description>

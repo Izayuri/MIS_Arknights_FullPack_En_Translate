@@ -1,0 +1,78 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Tequila.description>TODO</AK_Recruit_Tequila.description>
+  <!-- EN: Tequila -->
+  <AK_Recruit_Tequila.name>TODO</AK_Recruit_Tequila.name>
+  <!-- EN: Tequila -->
+  <AK_Recruit_Tequila.nickname>TODO</AK_Recruit_Tequila.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Tequila.surname>Guard</AK_Recruit_Tequila.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}是当时还身为玻利瓦尔军人的潘乔的孩子，八年前因为父亲在战场上的势力，在经历了三年的动荡后{PAWN_pronoun}伴随父亲来到了多索雷斯。\n在多索雷斯的五年毫无疑问让{PAWN_pronoun}完全融入了这座城市。 -->
+  <AK_BackStory_Tequila_Child.baseDesc>TODO</AK_BackStory_Tequila_Child.baseDesc>
+  <!-- EN: 玻利瓦尔军人之子 -->
+  <AK_BackStory_Tequila_Child.title>TODO</AK_BackStory_Tequila_Child.title>
+  <!-- EN: 军人之子 -->
+  <AK_BackStory_Tequila_Child.titleShort>TODO</AK_BackStory_Tequila_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}在成年后成为了多索雷斯国际贸易管理部副主任，但因为多索雷斯事件被革职，后经干员陈的引荐来到罗德岛。 -->
+  <AK_BackStory_Tequila_Adult.baseDesc>TODO</AK_BackStory_Tequila_Adult.baseDesc>
+  <!-- EN: 多索雷斯国际贸易管理部副主任 -->
+  <AK_BackStory_Tequila_Adult.title>TODO</AK_BackStory_Tequila_Adult.title>
+  <!-- EN: 副主任 -->
+  <AK_BackStory_Tequila_Adult.titleShort>TODO</AK_BackStory_Tequila_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 伺机而动 -->
+  <AK_Trait_Tequila.degreeDatas.0.label>TODO</AK_Trait_Tequila.degreeDatas.0.label>
+  <!-- EN: 尽管相比堪称天真的羽毛笔来说{PAWN_nameDef}有着更丰富的处事经验，但是{PAWN_pronoun}毕竟还是年轻人，{PAWN_pronoun}依旧会对自己的未来感到迷茫，不过{PAWN_pronoun}总会有办法与时间处理这些问题的。\n				 -->
+  <AK_Trait_Tequila.degreeDatas.0.description>TODO</AK_Trait_Tequila.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +5
+  -Mental break threshold -12%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 伺机而动 -->
+  <AK_Thought_Trait_Tequila.stages.0.label>TODO</AK_Thought_Trait_Tequila.stages.0.label>
+  <!-- EN: \n				上次决定帮老爹，其实是我为理清自己的想法，而最后一次向自己提问......现在，我已经有答案了。\n				 -->
+  <AK_Thought_Trait_Tequila.stages.0.description>TODO</AK_Thought_Trait_Tequila.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 龙舌兰的长刀 -->
+  <AK_Weapon_Tequila.label>Tequila's Weapon</AK_Weapon_Tequila.label>
+  <!-- EN: 龙舌兰喜欢伺机而动，出奇制胜，这把武器或许正是他所中意的。 -->
+  <AK_Weapon_Tequila.description>TODO</AK_Weapon_Tequila.description>

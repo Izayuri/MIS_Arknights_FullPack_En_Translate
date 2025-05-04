@@ -1,0 +1,78 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Stand by her side when you are scared. It really helps.\nHoshiguma, member of the Special Service of Lungmen Guard Department, is awaiting your orders. -->
+  <AK_Recruit_Hoshiguma.description>TODO</AK_Recruit_Hoshiguma.description>
+  <!-- EN: Hoshiguma -->
+  <AK_Recruit_Hoshiguma.name>TODO</AK_Recruit_Hoshiguma.name>
+  <!-- EN: Hoshiguma -->
+  <AK_Recruit_Hoshiguma.nickname>TODO</AK_Recruit_Hoshiguma.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Hoshiguma.surname>TODO</AK_Recruit_Hoshiguma.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 黑帮打手时期的{PAWN_nameDef}就显得十分独特，绝不欺压弱小，为非作歹，为人讲义气，有人情味，千杯不倒，简直就像是在东国都已经被时代所抛弃的任侠一般光明磊落。\n显然，这也是{PAWN_pronoun}能够破格成为龙门督察的理由。 -->
+  <AK_BackStory_Hoshiguma_Child.baseDesc>TODO</AK_BackStory_Hoshiguma_Child.baseDesc>
+  <!-- EN: 黑帮打手 -->
+  <AK_BackStory_Hoshiguma_Child.title>TODO</AK_BackStory_Hoshiguma_Child.title>
+  <!-- EN: 黑帮打手 -->
+  <AK_BackStory_Hoshiguma_Child.titleShort>TODO</AK_BackStory_Hoshiguma_Child.titleShort>
+
+  <!-- EN: 经龙门总督魏彦吾交涉，龙门近卫局依{PAWN_nameDef}的优异能力与良好表现，破格将其吸纳进近卫局特别督察组。\n在处理高危险性犯罪事件、要员保护、灾害紧急救援等领域表现出较高专业性。 -->
+  <AK_BackStory_Hoshiguma_Adult.baseDesc>TODO</AK_BackStory_Hoshiguma_Adult.baseDesc>
+  <!-- EN: 龙门督查 -->
+  <AK_BackStory_Hoshiguma_Adult.title>TODO</AK_BackStory_Hoshiguma_Adult.title>
+  <!-- EN: 龙门督查 -->
+  <AK_BackStory_Hoshiguma_Adult.titleShort>TODO</AK_BackStory_Hoshiguma_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 冷静的鬼 -->
+  <AK_Trait_Hoshiguma.degreeDatas.0.label>TODO</AK_Trait_Hoshiguma.degreeDatas.0.label>
+  <!-- EN: \n					在好战方面，{PAWN_nameDef}和其他鬼没有区别，在战场上的{PAWN_pronoun}比任何人都要骁勇善战。\n但{PAWN_pronoun}有着大部分鬼族欠缺的一项特质——冷静。\n从{PAWN_possessive}言行举止中，能感受到思考，在{PAWN_possessive}骁勇善战中，能感受到克制。\n				 -->
+  <AK_Trait_Hoshiguma.degreeDatas.0.description>TODO</AK_Trait_Hoshiguma.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +5
+  -Mental break threshold -40%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 冷静的鬼 -->
+  <AK_Thought_Trait_Hoshiguma.stages.0.label>TODO</AK_Thought_Trait_Hoshiguma.stages.0.label>
+  <!-- EN: 从她的言行举止中，能感受到思考，在她的骁勇善战中，能感受到克制。\n				 -->
+  <AK_Thought_Trait_Hoshiguma.stages.0.description>TODO</AK_Thought_Trait_Hoshiguma.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 般若 -->
+  <AK_Weapon_Hoshiguma.label>Hoshiguma's Weapon</AK_Weapon_Hoshiguma.label>
+  <!-- EN: 那面盾——般若，等到有一天你能让她亲自告诉你那面盾的来历......\n你才算真正了解了她。 -->
+  <AK_Weapon_Hoshiguma.description>TODO</AK_Weapon_Hoshiguma.description>

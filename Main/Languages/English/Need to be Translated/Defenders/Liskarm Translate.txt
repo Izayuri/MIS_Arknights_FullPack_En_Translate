@@ -1,0 +1,74 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Her spear-like lightning will pierce all enemies in front of her.\nLiskarm, Defender Operator of B.P.R.S. of Blacksteel, possesses both a solid shield and a sharp spear. -->
+  <AK_Recruit_Liskarm.description>TODO</AK_Recruit_Liskarm.description>
+  <!-- EN: Liskarm -->
+  <AK_Recruit_Liskarm.name>TODO</AK_Recruit_Liskarm.name>
+  <!-- EN: Liskarm -->
+  <AK_Recruit_Liskarm.nickname>TODO</AK_Recruit_Liskarm.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Liskarm.surname>TODO</AK_Recruit_Liskarm.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}的故乡位于瓦伊凡联盟控制区内，为了对应随时可能产生的劫掠行动，城市自身配备了一定的防御力量，但迫于训练不足与装备的匮乏，也不得不求助于一些更为专业的安全承包公司。\n在{PAWN_possessive}记忆中，那些在故乡街头操弄崭新的武器与装备，以听不懂的外国语言相互交谈，在骚乱中以小组形式迅速击溃敌寇的安全承包商们，是{PAWN_pronoun}对安全承包商这个行业的最初认知。 -->
+  <AK_BackStory_Liskarm_Child.baseDesc>TODO</AK_BackStory_Liskarm_Child.baseDesc>
+  <!-- EN: 瓦伊凡联盟的孩子 -->
+  <AK_BackStory_Liskarm_Child.title>TODO</AK_BackStory_Liskarm_Child.title>
+  <!-- EN: 瓦伊凡 -->
+  <AK_BackStory_Liskarm_Child.titleShort>TODO</AK_BackStory_Liskarm_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}的想法是：创办一家属于自己的安全承包公司。最初{PAWN_pronoun}之所以选择加入黑钢国际，正是这一想法中最为关键的一步。\n不是为了赚钱，也不是为了寻求战斗的快感，{PAWN_pronoun}只是希望，用手中的武器尽可能地为人们带来安稳，而不是动乱。 -->
+  <AK_BackStory_Liskarm_Adult.baseDesc>TODO</AK_BackStory_Liskarm_Adult.baseDesc>
+  <!-- EN: BSW雇员 -->
+  <AK_BackStory_Liskarm_Adult.title>TODO</AK_BackStory_Liskarm_Adult.title>
+  <!-- EN: BSW雇员 -->
+  <AK_BackStory_Liskarm_Adult.titleShort>TODO</AK_BackStory_Liskarm_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	Liskarm does not have this.
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Liskarm does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 黑钢制式铳 This is her pistol. -->
+  <AK_Weapon_LiskarmA.label>TODO</AK_Weapon_LiskarmA.label>
+  <!-- EN: 黑钢常见的核铳，很多黑钢干员都很喜欢用。 -->
+  <AK_Weapon_LiskarmA.description>TODO</AK_Weapon_LiskarmA.description>
+  
+  <!-- EN: 雷蛇的盾牌 This is her shield. -->
+  <AK_Weapon_LiskarmB.label>TODO</AK_Weapon_LiskarmB.label>
+  <!-- EN: 盾牌外形的大型施术设备，只有雷蛇的源石技艺能驾驭。\n雷蛇使用过后会极度疲乏，这是芙兰卡恶作剧的绝佳时机。 -->
+  <AK_Weapon_LiskarmB.description>TODO</AK_Weapon_LiskarmB.description>

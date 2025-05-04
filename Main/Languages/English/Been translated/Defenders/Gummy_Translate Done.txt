@@ -1,0 +1,68 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: FIXME -->
+  <AK_Recruit_Gummy.description>Gummy, Defender Operator of Rhodes Island, will heal her teammates while protecting them. She can also whip up an absolutely scrumptious breakfast.</AK_Recruit_Gummy.description>
+  <!-- EN: Gummy -->
+  <AK_Recruit_Gummy.name>Gummy</AK_Recruit_Gummy.name>
+  <!-- EN: Gummy -->
+  <AK_Recruit_Gummy.nickname>Lada</AK_Recruit_Gummy.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Gummy.surname>Defender</AK_Recruit_Gummy.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 同乌萨斯学生自治团其他团员一样，{PAWN_nameDef}原本是就读于彼得海姆的普通学生，但{PAWN_pronoun}们原本可以被称为平静的生活因为切尔诺伯格发生的灾难戛然而止了。 -->
+  <AK_BackStory_UrsusStudent.baseDesc>Like the other members of the Ursus Student Union, {PAWN_nameDef} was originally an ordinary student studying in the Peterheim Middle School, but {PAWN_possessive} peaceful life abruptly ended due to the Chernobog Incident.</AK_BackStory_UrsusStudent.baseDesc>
+  <!-- EN: 乌萨斯学生自治团团员 -->
+  <AK_BackStory_UrsusStudent.title>U.S.S.G. Member</AK_BackStory_UrsusStudent.title>
+  <!-- EN: 团员 -->
+  <AK_BackStory_UrsusStudent.titleShort>Guardian</AK_BackStory_UrsusStudent.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 习惯 -->
+  <AK_Trait_Gummy.degreeDatas.0.label>Медовые Пряники</AK_Trait_Gummy.degreeDatas.0.label>
+  <!-- EN: 相比于其他学生，切尔诺伯格的灾难对{PAWN_nameDef}造成的伤害显然更大，这造成了{PAWN_pronoun}虽然看上去依旧乐观，但是却有了一些奇怪的“小习惯”.\n				 -->
+  <AK_Trait_Gummy.degreeDatas.0.description>Compared to the other students, the Peterheim Middle School Incident affected {PAWN_nameDef} more. This caused {PAWN_possessive} to have some strange "habits". Nonetheless, {PAWN_pronoun} is optimistic.</AK_Trait_Gummy.degreeDatas.0.description>
+  
+ Instructions:
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+	<!-- EN: 平底锅 -->
+  <AK_Weapon_GummyA.label>Red Frying Pan</AK_Weapon_GummyA.label>
+  <!-- EN: 家用的烹调工具 -->
+  <AK_Weapon_GummyA.description>A common cooking tool, found in the Peterheim Kitchens.</AK_Weapon_GummyA.description>
+  <!-- EN: 拍击 -->
+  
+  <!-- EN: 金库大门 -->
+  <AK_Weapon_GummyB.label>Vault Door Shield</AK_Weapon_GummyB.label>
+  <!-- EN: 很坚固厚重的大门，可能是从某处的金库上拆下来的。 -->
+  <AK_Weapon_GummyB.description>A strong and heavy door found in the Chernobog ruins. Don't call it a vault door in front of her.</AK_Weapon_GummyB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 习惯 -->
+  <AK_Thought_Trait_Gummy.stages.0.label>Post-Traumatic Stress Disorder</AK_Thought_Trait_Gummy.stages.0.label>
+  <!-- EN: 古米看起来很开心吗？其实，看到那样的景象之后，没人能高高兴兴地生活下去......只是，为了让姐姐们能早点忘记那些乱七八糟的事情，古米必须要振作起来！ -->
+  <AK_Thought_Trait_Gummy.stages.0.description>Why am I always so cheery? Umm, actually... After the things we've seen, it's hard to be cheery... But I really want my friends to forget about all that awful stuff. So I need to pull myself together and smile a whole bunch to make that happen!.</AK_Thought_Trait_Gummy.stages.0.description>

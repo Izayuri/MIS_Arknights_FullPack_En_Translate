@@ -1,0 +1,69 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Savage.description>TODO</AK_Recruit_Savage.description>
+  <!-- EN: Savage -->
+  <AK_Recruit_Savage.name>TODO</AK_Recruit_Savage.name>
+  <!-- EN: Savage -->
+  <AK_Recruit_Savage.nickname>TODO</AK_Recruit_Savage.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Savage.surname>Guard</AK_Recruit_Savage.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: TODO -->
+  <AK_BackStory_Savage_Child.baseDesc>TODO</AK_BackStory_Savage_Child.baseDesc>
+  <!-- EN: TODO  -->
+  <AK_BackStory_Savage_Child.title>TODO</AK_BackStory_Savage_Child.title>
+  <!-- EN: TODO  -->
+  <AK_BackStory_Savage_Child.titleShort>TODO</AK_BackStory_Savage_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}，原雷姆必拓矿业公司安保人员。任职期间表现优秀，于破坏硬目标，要员保护等任务中皆有优异表现。\n加入罗德岛后，作为近卫干员于罗德岛某作战小队任职。 -->
+  <AK_BackStory_Savage_Adult.baseDesc>TODO</AK_BackStory_Savage_Adult.baseDesc>
+  <!-- EN: 近卫爆破手 -->
+  <AK_BackStory_Savage_Adult.title>TODO</AK_BackStory_Savage_Adult.title>
+  <!-- EN: 近卫爆破手 -->
+  <AK_BackStory_Savage_Adult.titleShort>TODO</AK_BackStory_Savage_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	Savage does not have this.
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Savage does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 暴行的海绵拖 -->
+  <AK_Weapon_Savage.label>Savage's Weapon</AK_Weapon_Savage.label>
+  <!-- EN: 暴行使用的武器，看上去很像随处可见的拖把。\n    用拖把施展爆破法术确实是一个神奇的画面。 -->
+  <AK_Weapon_Savage.description>TODO</AK_Weapon_Savage.description>

@@ -1,0 +1,83 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Croissant.description>TODO</AK_Recruit_Croissant.description>
+  <!-- EN: Croissant -->
+  <AK_Recruit_Croissant.name>TODO</AK_Recruit_Croissant.name>
+  <!-- EN: Croissant -->
+  <AK_Recruit_Croissant.nickname>TODO</AK_Recruit_Croissant.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Croissant.surname>TODO</AK_Recruit_Croissant.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}的家境并不富裕，加入企鹅物流也是为了改善生活条件\n至少{PAWN_pronoun}买买买的习惯不是在儿时养成的。 -->
+  <AK_BackStory_Croissant_Child.baseDesc>TODO</AK_BackStory_Croissant_Child.baseDesc>
+  <!-- EN: 穷孩子 -->
+  <AK_BackStory_Croissant_Child.title>TODO</AK_BackStory_Croissant_Child.title>
+  <!-- EN: 穷孩子 -->
+  <AK_BackStory_Croissant_Child.titleShort>TODO</AK_BackStory_Croissant_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}是一个充满活力的信使少女。\n认为工作的目标就是为了提高生活品质和买买买，\n全心享受着现代生活。因此总是入不敷出。 -->
+  <AK_BackStory_Croissant_Adult.baseDesc>TODO</AK_BackStory_Croissant_Adult.baseDesc>
+  <!-- EN: 企鹅物流信使 -->
+  <AK_BackStory_Croissant_Adult.title>TODO</AK_BackStory_Croissant_Adult.title>
+  <!-- EN: 信使 -->
+  <AK_BackStory_Croissant_Adult.titleShort>TODO</AK_BackStory_Croissant_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 都市少女 -->
+  <AK_Trait_Croissant.degreeDatas.0.label>TODO</AK_Trait_Croissant.degreeDatas.0.label>
+  <!-- EN: 即使成为了干员，{PAWN_nameDef}小姐也完全不打算放弃她在日常生活中的兴趣爱好。\n{PAWN_pronoun}知道成为干员后要面临许多前所未有的危险，{PAWN_pronoun}也知道成为干员后会遇到很多笑不出来的事，{PAWN_pronoun}没有忽视这些，而是在此之上，{PAWN_pronoun}依然会是那个精打细算的都市少女。 -->
+  <AK_Trait_Croissant.degreeDatas.0.description>TODO</AK_Trait_Croissant.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +15
+  -Mental break threshold -15%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 都市少女 -->
+  <AK_Thought_Trait_Croissant.stages.0.label>TODO</AK_Thought_Trait_Croissant.stages.0.label>
+  <!-- EN: 我最喜欢新装备了！无论是看到什么都好想买下来啊。就这样，我陷入了无止境的购物漩涡......\n				 -->
+  <AK_Thought_Trait_Croissant.stages.0.description>TODO</AK_Thought_Trait_Croissant.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 可颂的磁暴锤 This is her hammer. -->
+  <AK_Weapon_CroissantA.label>TODO</AK_Weapon_CroissantA.label>
+  <!-- EN: 可颂用的大锤，和她少女的身姿很不匹配\n可颂很喜欢花钱买新装备，无论是看到什么都想买下来。于是她陷入了无止境的购物漩涡。 -->
+  <AK_Weapon_CroissantA.description>TODO</AK_Weapon_CroissantA.description>
+  
+  <!-- EN: 可颂的盾牌  This is her shield. -->
+  <AK_Weapon_CroissantB.label>TODO</AK_Weapon_CroissantB.label>
+  <!-- EN: 可颂用的盾牌，和她少女的身姿很不匹配\n可颂很喜欢花钱买新装备，无论是看到什么都想买下来。于是她陷入了无止境的购物漩涡。 -->
+  <AK_Weapon_CroissantB.description>TODO</AK_Weapon_CroissantB.description>

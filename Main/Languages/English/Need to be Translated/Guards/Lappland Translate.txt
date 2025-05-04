@@ -1,0 +1,78 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Just pray. Pray that she will listen to your orders.\nOperator Lappland can't wait to slash apart the enemies in front of her. -->
+  <AK_Recruit_Lappland.description>TODO</AK_Recruit_Lappland.description>
+  <!-- EN: Lappland -->
+  <AK_Recruit_Lappland.name>TODO</AK_Recruit_Lappland.name>
+  <!-- EN: Lappland -->
+  <AK_Recruit_Lappland.nickname>TODO</AK_Recruit_Lappland.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Lappland.surname>Guard</AK_Recruit_Lappland.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+
+  <!-- EN: {PAWN_nameDef}极有可能出身于叙拉古最为危险的某个家族。但在勘查过所有叙拉古过去活动或正在活动的家族名单后，并未发现{PAWN_pronoun}与这些家族间存在联系。基于对叙拉古统治家族的调查拥有极高的危险性，相关调查工作已终止。 -->
+  <AK_BackStory_Lappland_Child.baseDesc>TODO</AK_BackStory_Lappland_Child.baseDesc>
+  <!-- EN: 危险的孩子 -->
+  <AK_BackStory_Lappland_Child.title>TODO</AK_BackStory_Lappland_Child.title>
+  <!-- EN: 危险的孩子 -->
+  <AK_BackStory_Lappland_Child.titleShort>TODO</AK_BackStory_Lappland_Child.titleShort>
+
+  <!-- EN: {PAWN_pronoun}永远地失去了家族，也永远不会再投身于另一个家族。\n你不必知道究竟是什么支撑{PAWN_pronoun}活到现在的，你可以尝试治疗{PAWN_possessive}伤，但你也要记住，疯狂是永远无法被治愈的。\n一切过去都不能再被重现了。 -->
+  <AK_BackStory_Lappland_Adult.baseDesc>TODO</AK_BackStory_Lappland_Adult.baseDesc>
+  <!-- EN: 落单的狼 -->
+  <AK_BackStory_Lappland_Adult.title>TODO</AK_BackStory_Lappland_Adult.title>
+  <!-- EN: 孤狼 -->
+  <AK_BackStory_Lappland_Adult.titleShort>TODO</AK_BackStory_Lappland_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 优雅的刽子手 -->
+  <AK_Trait_Lappland.degreeDatas.0.label>TODO</AK_Trait_Lappland.degreeDatas.0.label>
+  <!-- EN: 有人认为{PAWN_nameDef}是一个十足的战斗狂人，实际阿上，{PAWN_pronoun}在日常中表现得颇为有礼，{PAWN_pronoun}会主动与人攀谈，讲一些有点残酷的黑色笑话，同时观察听者的反应。\n				但即使在{PAWN_pronoun}最放松的时候，{PAWN_pronoun}依旧会令人畏惧。 -->
+  <AK_Trait_Lappland.degreeDatas.0.description>TODO</AK_Trait_Lappland.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +10
+  -Mental break threshold -24%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 优雅的侩子手 -->
+  <AK_Thought_Trait_Lappland.stages.0.label>TODO</AK_Thought_Trait_Lappland.stages.0.label>
+  <!-- EN: 你觉得我是杀手？好啊，你当然可以随意解读我。我可以成为任何人，也能做任何工作，在任何时间都能干掉我想干掉的人，只要我想！\n				 -->
+  <AK_Thought_Trait_Lappland.stages.0.description>TODO</AK_Thought_Trait_Lappland.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 日晷剑 -->
+  <AK_Weapon_Lappland.label>Lappland's Weapon</AK_Weapon_Lappland.label>
+  <!-- EN: 充满了杀气的剑，伴随了她的主人经历过无数次搏命的厮杀。\n    拉普兰德渴望力量，渴望战斗，这把剑就是最好的证明。 -->
+  <AK_Weapon_Lappland.description>TODO</AK_Weapon_Lappland.description>

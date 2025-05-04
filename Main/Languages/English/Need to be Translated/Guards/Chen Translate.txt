@@ -1,0 +1,91 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: She's terrifying when she's mad, but you don't want to mess with her even when she's not.\nCh'en, Special Inspection Unit Chief, L.G.D., is cooperating with Rhodes Island to fulfill the obligations outlined in her contract. -->
+  <AK_Recruit_Chen.description>TODO</AK_Recruit_Chen.description>
+  <!-- EN: Chen -->
+  <AK_Recruit_Chen.name>TODO</AK_Recruit_Chen.name>
+  <!-- EN: Chen -->
+  <AK_Recruit_Chen.nickname>TODO</AK_Recruit_Chen.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Chen.surname>Guard</AK_Recruit_Chen.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+   
+  <!-- EN: {PAWN_nameDef}原本与塔露拉是同母异父的姐妹，二十年前某日，科西切回到龙门，以炸毁半个龙门为筹码要挟魏彦吾，带走了年幼的塔露拉。\n此前{PAWN_pronoun}本要和塔露拉一同前去，但却因为害怕而松手了。 -->
+  <AK_BackStory_Chen_Child.baseDesc>TODO</AK_BackStory_Chen_Child.baseDesc>
+  <!-- EN: 怯弱的孩子 -->
+  <AK_BackStory_Chen_Child.title>TODO</AK_BackStory_Chen_Child.title>
+  <!-- EN: 怯弱的孩子 -->
+  <AK_BackStory_Chen_Child.titleShort>TODO</AK_BackStory_Chen_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}是龙门警史中升职最快的警官，同时也是最年轻的近卫局特别督察组组长。\n原本嘲笑或是背地里阴损{PAWN_possessive}人，无不为{PAWN_possessive}气魄和坚毅折服。\n{PAWN_pronoun}为何那么卖力？为何投入自己的生命至如斯地步？没人懂，也没人能懂。\n{PAWN_possessive}废纸篓里，常有撕得粉碎或揉成一团的残页，写满了莫名的怒意。 -->
+  <AK_BackStory_Chen_Adult.baseDesc>TODO</AK_BackStory_Chen_Adult.baseDesc>
+  <!-- EN: 龙门近卫局局长 -->
+  <AK_BackStory_Chen_Adult.title>TODO</AK_BackStory_Chen_Adult.title>
+  <!-- EN: 局长 -->
+  <AK_BackStory_Chen_Adult.titleShort>TODO</AK_BackStory_Chen_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 斩龙之剑 -->
+  <AK_Trait_Chen.degreeDatas.0.label>TODO</AK_Trait_Chen.degreeDatas.0.label>
+  <!-- EN: \n					“拔刀之招，当破即破。”\n					“泪锋之招，当断即断。”\n					“泪锋之剑，当弃即弃。”\n					“云裂之剑，当立则立。”\n				 -->
+  <AK_Trait_Chen.degreeDatas.0.description>TODO</AK_Trait_Chen.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -5
+  -Mental break threshold -55%
+  -Psychic sensitivity -25%
+  
+  <!-- EN: 龙门粗口 -->
+  <AK_Trait_ChenSecond.degreeDatas.0.label>TODO</AK_Trait_ChenSecond.degreeDatas.0.label>
+  <!-- EN: *龙门粗口 -->
+  <AK_Trait_ChenSecond.degreeDatas.0.description>TODO</AK_Trait_ChenSecond.degreeDatas.0.description>
+  Effect:
+  -None
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 斩龙之剑 -->
+  <AK_Thought_Trait_Chen.stages.0.label>TODO</AK_Thought_Trait_Chen.stages.0.label>
+  <!-- EN: \n					也许有一天我会得到那个人的认可，在那之前……\n				 -->
+  <AK_Thought_Trait_Chen.stages.0.description>TODO</AK_Thought_Trait_Chen.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 龙门制式长刀 This is her sword. -->
+  <AK_Weapon_ChenA.label>TODO</AK_Weapon_ChenA.label>
+  <!-- EN: 赤霄不总是响应陈的召唤，因此她需要另一把武器去应付平时的战斗。 -->
+  <AK_Weapon_ChenA.description>TODO</AK_Weapon_ChenA.description>
+
+  <!-- EN: 赤霄 This is her sword sheathe -->
+  <AK_Weapon_ChenB.label>TODO</AK_Weapon_ChenB.label>
+  <!-- EN: 斩龙之剑 -->
+  <AK_Weapon_ChenB.description>TODO</AK_Weapon_ChenB.description>

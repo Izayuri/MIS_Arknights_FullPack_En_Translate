@@ -1,0 +1,55 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Istina.description>She'll beat the enemy with Originium Arts chosen from one of her books. Education is the key to life's riches.</AK_Recruit_Istina.description>
+  <!-- EN: Istina -->
+  <AK_Recruit_Istina.name>Istina</AK_Recruit_Istina.name>
+  <!-- EN: Istina -->
+  <AK_Recruit_Istina.nickname>Anna</AK_Recruit_Istina.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Istina.surname>Supporter</AK_Recruit_Istina.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    U.S.S.G. Members do not need this.
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 真理 -->
+  <AK_Trait_Istina.degreeDatas.0.label>Reading Notes</AK_Trait_Istina.degreeDatas.0.label>
+  <!-- EN: \n				与同龄的学生不一样，{PAWN_nameDef}喜欢安静读书，并在书籍中学到了如何重新理解一切\n				 -->
+  <AK_Trait_Istina.degreeDatas.0.description>Unlike her peers, {PAWN_nameDef} likes to read quietly and in isolation. She has learned to understand books whole.</AK_Trait_Istina.degreeDatas.0.description>
+  Effect:
+  -Global work speed +20%
+  -Global learning factor +20%
+  -Mental break threshold -15%
+  
+    Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Istina does not have this.
+	
+ Instructions:
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+	 <!-- EN: 只要有人愿意死盯着，喊出声来，这片混沌就能被破开。 -->
+  <AK_Weapon_Istina.description>A book taken from the Peterheim Middle School. As long as someone is willing to stand up and shout, this chaos can be broken.</AK_Weapon_Istina.description>

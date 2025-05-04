@@ -1,0 +1,91 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Always in the middle of where the excitement is.\nNian, a mysterious visitor from the faraway land of Yen, is willing to provide a little bit of assistance. -->
+  <AK_Recruit_Nian.description>TODO</AK_Recruit_Nian.description>
+  <!-- EN: Nian -->
+  <AK_Recruit_Nian.name>TODO</AK_Recruit_Nian.name>
+  <!-- EN: Nian -->
+  <AK_Recruit_Nian.nickname>TODO</AK_Recruit_Nian.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Nian.surname>TODO</AK_Recruit_Nian.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 天有洪炉，地生五金 -->
+  <AK_BackStory_Nian_Child.baseDesc>TODO</AK_BackStory_Nian_Child.baseDesc>
+  <!-- EN: 神灵碎片（其九） -->
+  <AK_BackStory_Nian_Child.title>TODO</AK_BackStory_Nian_Child.title>
+  <!-- EN: 碎片 -->
+  <AK_BackStory_Nian_Child.titleShort>TODO</AK_BackStory_Nian_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}一直在休息，或者说放假，甚至是……整日无所事事。\n因为{PAWN_pronoun}并不是罗德岛的雇员，而且{PAWN_pronoun}并没有干扰他人工作的习惯，所以罗德岛的干员们也并不好评价{PAWN_possessive}行为。 -->
+  <AK_BackStory_Nian_Adult.baseDesc>TODO</AK_BackStory_Nian_Adult.baseDesc>
+  <!-- EN: 无业游民 -->
+  <AK_BackStory_Nian_Adult.title>TODO</AK_BackStory_Nian_Adult.title>
+  <!-- EN: 无业游民 -->
+  <AK_BackStory_Nian_Adult.titleShort>TODO</AK_BackStory_Nian_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 地生五金 -->
+  <AK_Trait_Nian.degreeDatas.0.label>TODO</AK_Trait_Nian.degreeDatas.0.label>
+  <!-- EN: 伐谋百世 一朝毁之\n国蚀器锈 如梦似电 无踪泡影\n				 -->
+  <AK_Trait_Nian.degreeDatas.0.description>TODO</AK_Trait_Nian.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -65%
+  -Global learning factor +55%
+  
+  <!-- EN: 肆无忌惮 -->
+  <AK_Trait_NianSecond.degreeDatas.0.label>TODO</AK_Trait_NianSecond.degreeDatas.0.label>
+  <!-- EN: "'没有干扰他人工作的习惯'？{PAWN_pronoun}劝诱别人上班打麻将，有没有人阻止一下？" -->
+  <AK_Trait_NianSecond.degreeDatas.0.description>TODO</AK_Trait_NianSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +20
+  -Social impact -5%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 肆无忌惮 -->
+  <AK_Thought_Trait_NianSecond.stages.0.label>TODO</AK_Thought_Trait_NianSecond.stages.0.label>
+  <!-- EN: 哟，吃了没？ -->
+  <AK_Thought_Trait_NianSecond.stages.0.description>TODO</AK_Thought_Trait_NianSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 干明可鉴 This is her sword. -->
+  <AK_Weapon_NianA.label>TODO</AK_Weapon_NianA.label>
+  <!-- EN: “生杀之机，焉能拱手相让？” -->
+  <AK_Weapon_NianA.description>TODO</AK_Weapon_NianA.description>
+  
+  <!-- EN: 积甲成山 This is her shield. -->
+  <AK_Weapon_NianB.label>TODO</AK_Weapon_NianB.label>
+  <!-- EN: “明王圣帝，谁能去兵哉？” -->
+  <AK_Weapon_NianB.description>TODO</AK_Weapon_NianB.description>

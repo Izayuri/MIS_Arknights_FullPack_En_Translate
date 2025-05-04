@@ -1,0 +1,85 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Flint.description>TODO</AK_Recruit_Flint.description>
+  <!-- EN: Flint -->
+  <AK_Recruit_Flint.name>TODO</AK_Recruit_Flint.name>
+  <!-- EN: Flint -->
+  <AK_Recruit_Flint.nickname>TODO</AK_Recruit_Flint.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Flint.surname>Guard</AK_Recruit_Flint.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 干员{PAWN_nameDef}是生活在雨林中的黎博利人，这一族的黎博利天生身材娇小，身体素质较其他黎博利人也稍显不足，更不用说和周围那些孔武健壮的种族相提并论。这样的现状也就导致{PAWN_possessive}部族一直以来都在雨林中生活得较为艰难。 -->
+  <AK_BackStory_Flint_Child.baseDesc>TODO</AK_BackStory_Flint_Child.baseDesc>
+  <!-- EN: 雨林中的黎博利 -->
+  <AK_BackStory_Flint_Child.title>TODO</AK_BackStory_Flint_Child.title>
+  <!-- EN: 雨林中的黎博利 -->
+  <AK_BackStory_Flint_Child.titleShort>TODO</AK_BackStory_Flint_Child.titleShort>
+
+  <!-- EN: 萨尔贡部族战士{PAWN_nameDef}，{PAWN_possessive}战斗经验从有力气挥动双拳时起就开始累积，擅长精准而快速的拳击格斗术。 \n现经由某位隐去姓名的精英干员推荐，通过测试作为近卫干员加入罗德岛。 -->
+  <AK_BackStory_Flint_Adult.baseDesc>TODO</AK_BackStory_Flint_Adult.baseDesc>
+  <!-- EN: 部族战士 -->
+  <AK_BackStory_Flint_Adult.title>TODO</AK_BackStory_Flint_Adult.title>
+  <!-- EN: 部族战士 -->
+  <AK_BackStory_Flint_Adult.titleShort>TODO</AK_BackStory_Flint_Adult.titleShort>
+  
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 好斗 -->
+  <AK_Trait_Flint.degreeDatas.0.label>TODO</AK_Trait_Flint.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}经常和人打架，不是因为她喜欢招惹别人，而是因为{PAWN_pronoun}单纯喜欢通过与人打斗的方式来提升自己的实力\n				 -->
+  <AK_Trait_Flint.degreeDatas.0.description>TODO</AK_Trait_Flint.degreeDatas.0.description>
+  Effect:
+  -None
+  
+  <!-- EN: 雨林的战士 -->
+  <AK_Trait_FlintSecond.degreeDatas.0.label>TODO</AK_Trait_FlintSecond.degreeDatas.0.label>
+  <!-- EN: 对于{PAWN_nameDef}来说很多很多事情都被人们看的太过复杂，虽然{PAWN_pronoun}做好了挡下一切的准备，但是{PAWN_pronoun}还需要时间去了解有多少事能够用{PAWN_possessive}拳头解决，又有多少事总是无能为力\n				 -->
+  <AK_Trait_FlintSecond.degreeDatas.0.description>TODO</AK_Trait_FlintSecond.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +12
+  -Mental break threshold -12%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 雨林的战士 -->
+  <AK_Thought_Trait_FlintSecond.stages.0.label>TODO</AK_Thought_Trait_FlintSecond.stages.0.label>
+  <!-- EN: 罗德岛的人，是不是都想得太多了？ -->
+  <AK_Thought_Trait_FlintSecond.stages.0.description>TODO</AK_Thought_Trait_FlintSecond.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 燧石的拳套 -->
+  <AK_Weapon_Flint.label>Flint's Weapon</AK_Weapon_Flint.label>
+  <!-- EN: 做工粗糙的拳套，有着严重的破损。\n    绝不要因个头而看轻她。萨尔贡的战士从不畏惧挑战。 -->
+  <AK_Weapon_Flint.description>TODO</AK_Weapon_Flint.description>

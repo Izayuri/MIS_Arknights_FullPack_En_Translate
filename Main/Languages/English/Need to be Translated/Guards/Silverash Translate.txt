@@ -1,0 +1,77 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Let your guard down. There are no traps in the conditions she offer. Well, you won't know even if there is one.\nSilverAsh, President of Karlan Trade CO., LTD, has signed the contract with Rhodes Island and is ready to join the field. -->
+  <AK_Recruit_Silverash.description>TODO</AK_Recruit_Silverash.description>
+  <!-- EN: Silverash -->
+  <AK_Recruit_Silverash.name>TODO</AK_Recruit_Silverash.name>
+  <!-- EN: Silverash -->
+  <AK_Recruit_Silverash.nickname>TODO</AK_Recruit_Silverash.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Silverash.surname>Guard</AK_Recruit_Silverash.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}在幼年时期就失去双亲，父母因为在保守的谢拉格倡导改革而被杀害，只留下{PAWN_pronoun}和{PAWN_possessive}两个妹妹，银灰继续抚养两位胞妹，直到{PAWN_pronoun}们能够自理为止。其为了更好的接下家族的担子，决定牺牲妹妹初雪，将其推到圣女的位置之上，{PAWN_pronoun}自己则投身维多利亚深造。 -->
+  <AK_BackStory_Silverash_Child.baseDesc>TODO</AK_BackStory_Silverash_Child.baseDesc>
+  <!-- EN: 谢拉格游子 -->
+  <AK_BackStory_Silverash_Child.title>TODO</AK_BackStory_Silverash_Child.title>
+  <!-- EN: 游子 -->
+  <AK_BackStory_Silverash_Child.titleShort>TODO</AK_BackStory_Silverash_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}在维多利亚学成归来后，在家乡谢拉格进行了一系列激进的现代化改革，誓要让家乡跑步进入现代社会。然而，这种种举动令保守派感到受到了威胁，他们也许会以最激烈的举动进行反制...... -->
+  <AK_BackStory_Silverash_Adult.baseDesc>TODO</AK_BackStory_Silverash_Adult.baseDesc>
+  <!-- EN: 狡猾的改革家 -->
+  <AK_BackStory_Silverash_Adult.title>TODO</AK_BackStory_Silverash_Adult.title>
+  <!-- EN: 改革家 -->
+  <AK_BackStory_Silverash_Adult.titleShort>TODO</AK_BackStory_Silverash_Adult.titleShort>
+  
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 领袖 -->
+  <AK_Trait_Silverash.degreeDatas.0.label>TODO</AK_Trait_Silverash.degreeDatas.0.label>
+  <!-- EN: 作为喀兰之主的{PAWN_nameDef}，只是站在战场上就让人有一种可靠感，无论是战略策划还是战术指挥，多数干员都会为{PAWN_possessive}实力所折服。 -->
+  <AK_Trait_Silverash.degreeDatas.0.description>TODO</AK_Trait_Silverash.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -30%
+  -Global learning factor +50%
+
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Silverash does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 银灰的手杖 -->
+  <AK_Weapon_Silverash.label>TODO</AK_Weapon_Silverash.label>
+  <!-- EN: 末端削尖的手杖，用料精致，造价不菲。象征着喀兰之主的权威与银灰色的荣耀。 -->
+  <AK_Weapon_Silverash.description>TODO</AK_Weapon_Silverash.description>

@@ -1,0 +1,86 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Maynar.description>TODO</AK_Recruit_Maynar.description>
+  <!-- EN: Maynar -->
+  <AK_Recruit_Maynar.name>TODO</AK_Recruit_Maynar.name>
+  <!-- EN: Maynar -->
+  <AK_Recruit_Maynar.nickname>TODO</AK_Recruit_Maynar.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Maynar.surname>Guard</AK_Recruit_Maynar.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: ......我不在乎，父亲。骑士难道需要胜利来证明自己吗？站在竞技场上的那些人，他们战胜再多对手也不会显得更光荣。 -->
+  <AK_BackStory_Maynar_Child.baseDesc>TODO</AK_BackStory_Maynar_Child.baseDesc>
+  <!-- EN: 未声张的怒火 -->
+  <AK_BackStory_Maynar_Child.title>TODO</AK_BackStory_Maynar_Child.title>
+  <!-- EN: 未声张的怒火 -->
+  <AK_BackStory_Maynar_Child.titleShort>TODO</AK_BackStory_Maynar_Child.titleShort>
+
+  <!-- EN: 骑士应该站在陷于困厄的人、两手空空的人身边，这是我唯一确定无疑的事情。而如果总是选择在弱势的一方，那么失败才是常事。比起享受胜利，我宁可相信骑士精神中应该含有对失败的忍受。 -->
+  <AK_BackStory_Maynar_Adult.baseDesc>TODO</AK_BackStory_Maynar_Adult.baseDesc>
+  <!-- EN: 未宽解的悲哀 -->
+  <AK_BackStory_Maynar_Adult.title>TODO</AK_BackStory_Maynar_Adult.title>
+  <!-- EN: 未宽解的悲哀 -->
+  <AK_BackStory_Maynar_Adult.titleShort>TODO</AK_BackStory_Maynar_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 未照耀的荣光 -->
+  <AK_Trait_Maynar.degreeDatas.0.label>TODO</AK_Trait_Maynar.degreeDatas.0.label>
+  <!-- EN: 正如家训所言，“不畏苦暗”。\n				 -->
+  <AK_Trait_Maynar.degreeDatas.0.description>TODO</AK_Trait_Maynar.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -15
+  -Mental break threshold -50%
+  -Social impact -25%
+
+   <!-- EN: 社畜 -->
+  <AK_Trait_MaynarSecond.degreeDatas.0.label>TODO</AK_Trait_MaynarSecond.degreeDatas.0.label>
+  <!-- EN: 尊敬的领导：\n本人将于2月10日正式辞去公司一切职务，特此致信。\n过去十年，本人受到公司上下多方关照，有幸获得多次上升机会，个人能力亦有长足进步，对此本人十分感激。仅出于个人发展原因，本人不得不带着遗憾离开工作岗位，告别合作团队。\n工作交接期间，如有任何需求，本人仍将倾力配合。诚挚祝愿您与公司都有更好的前景。\n				 -->
+  <AK_Trait_MaynarSecond.degreeDatas.0.description>TODO</AK_Trait_MaynarSecond.degreeDatas.0.description>
+  Effect:
+  -Global work speed +20%
+
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 未照耀的荣光 -->
+  <AK_Thought_Trait_Maynar.stages.0.label>TODO</AK_Thought_Trait_Maynar.stages.0.label>
+  <!-- EN: ...卡西米尔无权为我授勋 -->
+  <AK_Thought_Trait_Maynar.stages.0.description>TODO</AK_Thought_Trait_Maynar.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: “卡西米尔之勋” -->
+  <AK_Weapon_Maynar.label>Maynar's Weapon</AK_Weapon_Maynar.label>
+  <!-- EN: 剑？......是能用的。一直是同一柄剑。 -->
+  <AK_Weapon_Maynar.description>TODO</AK_Weapon_Maynar.description>

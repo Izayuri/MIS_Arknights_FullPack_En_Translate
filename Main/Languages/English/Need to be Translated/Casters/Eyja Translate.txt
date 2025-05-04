@@ -1,0 +1,80 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: Hardworking and earnest all the time.\nEyjafjalla, Caster Operator of Rhodes Island, has wanted to devote herself to doing something for you. -->
+  <AK_Recruit_Eyjafjalla.description>TODO</AK_Recruit_Eyjafjalla.description>
+  <!-- EN: Eyjafjalla -->
+  <AK_Recruit_Eyjafjalla.name>TODO</AK_Recruit_Eyjafjalla.name>
+  <!-- EN: Eyjafjalla -->
+  <AK_Recruit_Eyjafjalla.nickname>TODO</AK_Recruit_Eyjafjalla.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Eyjafjalla.surname>TODO</AK_Recruit_Eyjafjalla.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_nameDef}出生于莱塔尼亚一个正统而充满学术氛围的家庭中，但{PAWN_possessive}父母于一次火山实地考察中遭遇火山碎屑流，不幸丧生。\n{PAWN_pronoun}希望这些研究不会因父母的逝去而中断，因此主动选择继承了他们的火山学研究成果。 -->
+  <AK_BackStory_Eyjafjalla_Child.baseDesc>TODO</AK_BackStory_Eyjafjalla_Child.baseDesc>
+  <!-- EN: 学者的孩子 -->
+  <AK_BackStory_Eyjafjalla_Child.title>TODO</AK_BackStory_Eyjafjalla_Child.title>
+  <!-- EN: 学者 -->
+  <AK_BackStory_Eyjafjalla_Child.titleShort>TODO</AK_BackStory_Eyjafjalla_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}继承了父母的遗志，企图完成父母的学说。\n经过了不懈努力，{PAWN_pronoun}已经在莱塔尼亚一些颇负盛名的高等学府中留下了自己的名字。\n但是{PAWN_pronoun}已经是一名感染者了，没人能预言{PAWN_possessive}未来将会停留在什么地方。 -->
+  <AK_BackStory_Eyjafjalla_Adult.baseDesc>TODO</AK_BackStory_Eyjafjalla_Adult.baseDesc>
+  <!-- EN: 努力的天灾信使 -->
+  <AK_BackStory_Eyjafjalla_Adult.title>TODO</AK_BackStory_Eyjafjalla_Adult.title>
+  <!-- EN: 天灾信使 -->
+  <AK_BackStory_Eyjafjalla_Adult.titleShort>TODO</AK_BackStory_Eyjafjalla_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 学者之心 -->
+  <AK_Trait_Eyjafjalla.degreeDatas.0.label>TODO</AK_Trait_Eyjafjalla.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}继承了父母的遗志，而且{PAWN_pronoun}很希望有朝一日能够解开那些谜团，哪怕是有着生命危险也在所不惜。 -->
+  <AK_Trait_Eyjafjalla.degreeDatas.0.description>TODO</AK_Trait_Eyjafjalla.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +5
+  -Mental break threshold -30%
+  -Global learning factor +20%
+  -Research speed +30%
+  
+   Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	 <!-- EN: 学者之心 -->
+  <AK_Thought_Trait_Eyjafjalla.stages.0.label>TODO</AK_Thought_Trait_Eyjafjalla.stages.0.label>
+  <!-- EN: \n					为了完成父母的研究，我还得更努力才行。如果我能证明他们的研究是有意义的，说不定，将会有一个影响世界的大发现呢。\n				 -->
+  <AK_Thought_Trait_Eyjafjalla.stages.0.description>TODO</AK_Thought_Trait_Eyjafjalla.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 火山之杖 -->
+  <AK_Weapon_Eyjafjalla.label>Eyjafjalla's Weapon</AK_Weapon_Eyjafjalla.label>
+  <!-- EN: 艾雅法拉的源石法杖，内部蕴含的能量宛如一座火山。\n中间被打磨的很光滑，很适合少女的双手。 -->
+  <AK_Weapon_Eyjafjalla.description>TODO</AK_Weapon_Eyjafjalla.description>

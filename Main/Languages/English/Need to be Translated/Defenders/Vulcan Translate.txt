@@ -1,0 +1,90 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Vulcan.description>TODO</AK_Recruit_Vulcan.description>
+  <!-- EN: Vulcan -->
+  <AK_Recruit_Vulcan.name>TODO</AK_Recruit_Vulcan.name>
+  <!-- EN: Vulcan -->
+  <AK_Recruit_Vulcan.nickname>TODO</AK_Recruit_Vulcan.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Vulcan.surname>TODO</AK_Recruit_Vulcan.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Vulcan_Child.baseDesc>TODO</AK_BackStory_Vulcan_Child.baseDesc>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Vulcan_Child.title>TODO</AK_BackStory_Vulcan_Child.title>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Vulcan_Child.titleShort>TODO</AK_BackStory_Vulcan_Child.titleShort>
+
+  <!-- EN: 来自米诺斯的铁匠，感染矿石病后，来到罗德岛求医，在与罗德岛达成协议后，成为罗德岛的一分子。\n平日主要负责其他干员的武器维护与打造，必要时亲自出动。 -->
+  <AK_BackStory_Vulcan_Adult.baseDesc>TODO</AK_BackStory_Vulcan_Adult.baseDesc>
+  <!-- EN: 铁匠 -->
+  <AK_BackStory_Vulcan_Adult.title>TODO</AK_BackStory_Vulcan_Adult.title>
+  <!-- EN: 铁匠 -->
+  <AK_BackStory_Vulcan_Adult.titleShort>TODO</AK_BackStory_Vulcan_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 少言 -->
+  <AK_Trait_Vulcan.degreeDatas.0.label>TODO</AK_Trait_Vulcan.degreeDatas.0.label>
+  <!-- EN: 不知道是因为无人有共同话题或是因为天生如此，{PAWN_nameDef}甚少与人交流，即使是开口说话也通常不超过三句。\n				 -->
+  <AK_Trait_Vulcan.degreeDatas.0.description>TODO</AK_Trait_Vulcan.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -5
+  -Social impact -30%
+  
+  <!-- EN: 铁匠 -->
+  <AK_Trait_VulcanSecond.degreeDatas.0.label>TODO</AK_Trait_VulcanSecond.degreeDatas.0.label>
+  <!-- EN: 虽然铁匠这个行业事实上也早已摆脱了在火炉边挥汗如雨的印象，而且{PAWN_nameDef}也认为跟不上时代的人理应被淘汰。\n但{PAWN_pronoun}每天都会在锻造台上升起火，找来一块铁锭，敲打一段时间，一如那些古老的铁匠们所做的那样。\n或许，对{PAWN_pronoun}来说，跟不上时代的人固然应该被淘汰，但那些完全抛弃传统的人，也不配再被称为铁匠吧。\n				 -->
+  <AK_Trait_VulcanSecond.degreeDatas.0.description>TODO</AK_Trait_VulcanSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -12%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 少言 -->
+  <AK_Thought_Trait_Vulcan.stages.0.label>TODO</AK_Thought_Trait_Vulcan.stages.0.label>
+  <!-- EN: 我希望能……专心工作。 -->
+  <AK_Thought_Trait_Vulcan.stages.0.description>TODO</AK_Thought_Trait_Vulcan.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 火神的锤子 This is her hammer. -->
+  <AK_Weapon_VulcanA.label>TODO</AK_Weapon_VulcanA.label>
+  <!-- EN: 火神的锤头，顶端被改成了适合战斗的样子 -->
+  <AK_Weapon_VulcanA.description>TODO</AK_Weapon_VulcanA.description>
+  
+  <!-- EN: 火神的盾 This is her shield. -->
+  <AK_Weapon_VulcanB.label>TODO</AK_Weapon_VulcanB.label>
+  <!-- EN: 火神的盾，在千锤百炼后坚不可摧。 -->
+  <AK_Weapon_VulcanB.description>TODO</AK_Weapon_VulcanB.description>

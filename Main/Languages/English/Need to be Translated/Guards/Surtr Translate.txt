@@ -1,0 +1,79 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Hopefully she will make an exception for the Doctor.\nRhodes Island Guard Operator Surtr, a person difficult to approach. -->
+  <AK_Recruit_Surtr.description>TODO</AK_Recruit_Surtr.description>
+  <!-- EN: Surtr -->
+  <AK_Recruit_Surtr.name>TODO</AK_Recruit_Surtr.name>
+  <!-- EN: Surtr -->
+  <AK_Recruit_Surtr.nickname>TODO</AK_Recruit_Surtr.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Surtr.surname>TODO</AK_Recruit_Surtr.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+
+  <!-- EN: en hann gerði Loptr rýninn\nfyr nágrindr neðan;\ní seigjárnkeri\nliggr hann hjá Sinmöru,\nok halda njarðlásar níu. -->
+  <AK_BackStory_Surtr_Child.baseDesc>TODO</AK_BackStory_Surtr_Child.baseDesc>
+  <!-- EN: 火之巨人 -->
+  <AK_BackStory_Surtr_Child.title>TODO</AK_BackStory_Surtr_Child.title>
+  <!-- EN: 火之巨人 -->
+  <AK_BackStory_Surtr_Child.titleShort>TODO</AK_BackStory_Surtr_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}的记忆充斥着大量的混乱与空白，因此{PAWN_pronoun}四处考察，想要找回自己的记忆。\n最后{PAWN_pronoun}在一个遭受天灾侵害的小镇中被干员发现并带回了罗德岛 -->
+  <AK_BackStory_Surtr_Adult.baseDesc>TODO</AK_BackStory_Surtr_Adult.baseDesc>
+  <!-- EN: 寻找记忆的流浪者 -->
+  <AK_BackStory_Surtr_Adult.title>TODO</AK_BackStory_Surtr_Adult.title>
+  <!-- EN: 流浪者 -->
+  <AK_BackStory_Surtr_Adult.titleShort>TODO</AK_BackStory_Surtr_Adult.titleShort>
+  
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 破碎的记忆 -->
+  <AK_Trait_Surtr.degreeDatas.0.label>TODO</AK_Trait_Surtr.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的脑内充斥着各种各样混乱的，重叠的记忆，而且有着大量的断层。\n				不知道这些真的是{PAWN_pronoun}亲身的体验，还是{PAWN_pronoun}把一些见闻当成是了自己的经历 -->
+  <AK_Trait_Surtr.degreeDatas.0.description>TODO</AK_Trait_Surtr.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -12
+  -Mental break threshold -35%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 破碎的记忆 -->
+  <AK_Thought_Trait_Surtr.stages.0.label>TODO</AK_Thought_Trait_Surtr.stages.0.label>
+  <!-- EN: 我有着各种各样的记忆，我也不知道它们是怎么来的，我也不知道哪些是真正属于我的。\n				 -->
+  <AK_Thought_Trait_Surtr.stages.0.description>TODO</AK_Thought_Trait_Surtr.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 莱瓦汀 -->
+  <AK_Weapon_Surtr.label>Surtr's Weapon</AK_Weapon_Surtr.label>
+  <!-- EN: «Lævateinn hann heitir,\n    en hann gerði Loptr rýninn\n    fyr nágrindr neðan;\n    í seigjárnkeri\n    liggr hann hjá Sinmöru,\n    ok halda njarðlásar níu.» -->
+  <AK_Weapon_Surtr.description>TODO</AK_Weapon_Surtr.description>

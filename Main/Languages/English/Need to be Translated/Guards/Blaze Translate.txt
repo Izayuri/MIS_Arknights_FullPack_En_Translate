@@ -1,0 +1,81 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Please, it's okay to dial it down a bit…\nBlaze, Rhodes Island's most fired-up Operator, will spread her enthusiasm like a wildfire. -->
+  <AK_Recruit_Blaze.description>TODO</AK_Recruit_Blaze.description>
+  <!-- EN: Blaze -->
+  <AK_Recruit_Blaze.name>TODO</AK_Recruit_Blaze.name>
+  <!-- EN: Blaze -->
+  <AK_Recruit_Blaze.nickname>TODO</AK_Recruit_Blaze.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Blaze.surname>Guard</AK_Recruit_Blaze.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: TODO-->
+  <AK_BackStory_Blaze_Child.baseDesc>TODO</AK_BackStory_Blaze_Child.baseDesc>
+  <!-- EN: TODO -->
+  <AK_BackStory_Blaze_Child.title>TODO</AK_BackStory_Blaze_Child.title>
+  <!-- EN: TODO -->
+  <AK_BackStory_Blaze_Child.titleShort>TODO</AK_BackStory_Blaze_Child.titleShort>
+  
+  <!-- EN: 在加入罗德岛之后的{PAWN_nameDef}迅速成长为一名值得信赖的精英干员，作为罗德岛最热情的精英干员，{PAWN_pronoun}将在任何地方散播{PAWN_possessive}热情。\n{PAWN_pronoun}坚定地为感染者的正当权益而战，也站在所有为公正事业奋斗的人一边，全力付出，从无保留。 -->
+  <AK_BackStory_Blaze_Adult.baseDesc>TODO</AK_BackStory_Blaze_Adult.baseDesc>
+  <!-- EN: 罗德岛精英干员 -->
+  <AK_BackStory_Blaze_Adult.title>TODO</AK_BackStory_Blaze_Adult.title>
+  <!-- EN: 精英 -->
+  <AK_BackStory_Blaze_Adult.titleShort>TODO</AK_BackStory_Blaze_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 热情似火 -->
+  <AK_Trait_Blaze.degreeDatas.0.label>TODO</AK_Trait_Blaze.degreeDatas.0.label>
+  <!-- EN: 易燃，易爆，易炸！{PAWN_nameDef}的热情如同{PAWN_possessive}战斗方式一般热情似火！ -->
+  <AK_Trait_Blaze.degreeDatas.0.description>TODO</AK_Trait_Blaze.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +15
+  -Mental break threshold -35%
+  -Pain shock treshold -30%
+  -Move speed +15%
+  -Flammability -100%
+
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 热情似火 -->
+  <AK_Thought_Trait_Blaze.stages.0.label>TODO</AK_Thought_Trait_Blaze.stages.0.label>
+  <!-- EN: 这里的温度还是太低了。 -->
+  <AK_Thought_Trait_Blaze.stages.0.description>TODO</AK_Thought_Trait_Blaze.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 链锯 -->
+  <AK_Weapon_Blaze.label>Blaze's Weapon</AK_Weapon_Blaze.label>
+  <!-- EN: 罗德岛为精英干员打造的链锯，能够轻而易举破开铜墙铁壁。\n    煌很喜欢用它来切西瓜。 -->
+  <AK_Weapon_Blaze.description>TODO</AK_Weapon_Blaze.description>

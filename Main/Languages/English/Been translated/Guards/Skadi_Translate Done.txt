@@ -1,0 +1,91 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: She’s a bit out of her element, literally.\nSkadi, bounty hunter, has come with the tide to drown your enemies. -->
+  <AK_Recruit_Skadi.description>She’s a bit out of her element, literally.\nSkadi, bounty hunter, has come with the tide to drown your enemies.</AK_Recruit_Skadi.description>
+  <!-- EN: Skadi -->
+  <AK_Recruit_Skadi.name>Skadi</AK_Recruit_Skadi.name>
+  <!-- EN: Skadi -->
+  <AK_Recruit_Skadi.nickname>Skadi</AK_Recruit_Skadi.nickname>
+  <!-- EN: Dreadnaught -->
+  <AK_Recruit_Skadi.surname>Dreadnaught</AK_Recruit_Skadi.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: Her mother. Her grandmother. Her little sister. It was those monsters from the sea, invading the cities of Ægir. At least, that was the assumption Skadi had made. But, that was not done by The Many, rather, it was the handiwork of Ægir. She would never expect to learn this. -->
+  <AK_BackStory_Skadi_Child.baseDesc>Her mother. Her grandmother. Her little sister. It was those monsters from the sea, invading the cities of Ægir. At least, that was the assumption Skadi had made. But, that was not done by The Many, rather, it was the handiwork of Ægir. She would never expect to learn this.</AK_BackStory_Skadi_Child.baseDesc>
+  <!-- EN: Abyssal Hunter -->
+  <AK_BackStory_Skadi_Child.title>Abyssal Hunter Trainee</AK_BackStory_Skadi_Child.title>
+  <!-- EN: Abyssal Hunter -->
+  <AK_BackStory_Skadi_Child.titleShort>Abyssal Hunter Trainee</AK_BackStory_Skadi_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}，Skadi is a bounty hunter, currently employed by Rhodes Island. She has shown impressive combat prowess in the past, defeating large creatures, eliminating difficult targets, fighting crucial battles, and winning entire wars. She is very experienced in combat, but her history prior to becoming a bounty hunter is unclear。 -->
+  <AK_BackStory_Skadi_Adult.baseDesc>{PAWN_nameDef}，Skadi is a bounty hunter, currently employed by Rhodes Island. She has shown impressive combat prowess in the past, defeating large creatures, eliminating difficult targets, fighting crucial battles, and winning entire wars. She is very experienced in combat, but her history prior to becoming a bounty hunter is unclear.</AK_BackStory_Skadi_Adult.baseDesc>
+  <!-- EN: Abyssal Hunter -->
+  <AK_BackStory_Skadi_Adult.title>Abyssal Hunter</AK_BackStory_Skadi_Adult.title>
+  <!-- EN: Abyssal Hunter -->
+  <AK_BackStory_Skadi_Adult.titleShort>Abyssal Hunter</AK_BackStory_Skadi_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: Tidal Elegy -->
+  <AK_Trait_Skadi.degreeDatas.0.label>Tidal Elegy</AK_Trait_Skadi.degreeDatas.0.label>
+  <!-- EN: “A song written in her mother tongue. Although you can't understand a word of it, {PAWN_pronoun} IS going to teach it to you。” -->
+  <AK_Trait_Skadi.degreeDatas.0.description>“A song written in her mother tongue. Although you can't understand a word of it, {PAWN_pronoun} IS going to teach it to you.”</AK_Trait_Skadi.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +20
+  
+  <!-- EN: Abyssal Hunter -->
+  <AK_Trait_DeepHunter.degreeDatas.0.label>Abyssal Hunter</AK_Trait_DeepHunter.degreeDatas.0.label>
+  <!-- EN: A branch of the Ægir Military. Once normal Ægir, the Abyssal Hunters were selected to undergo a series of procedures and modification surgeries. They were created in response to the discovery of The Many to serve as a Vanguard, and a test. They utilise primitive weaponry in combat, as to minimise the chance of members of The Many adapting to more advanced technology. Having been infused with the cells of their enemy, the Abyssal Hunters have a great resistance towards Oripathy, and immense physical attributes, but in return have no ability to utilise arts. -->
+  <AK_Trait_DeepHunter.degreeDatas.0.description>A branch of the Ægir Military. Once normal Ægir, the Abyssal Hunters were selected to undergo a series of procedures and modification surgeries. They were created in response to the discovery of The Many to serve as a Vanguard, and a test. They utilise primitive weaponry in combat, as to minimise the chance of members of The Many adapting to more advanced technology. Having been infused with the cells of their enemy, the Abyssal Hunters have a great resistance towards Oripathy, and immense physical attributes, but in return have no ability to utilise arts.</AK_Trait_DeepHunter.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -15
+  -Mental break threshold -80%
+  -Psychic sensitivity -80%
+
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: Tidal Elegy -->
+  <AK_Thought_Trait_Skadi.stages.0.label>Tidal Elegy</AK_Thought_Trait_Skadi.stages.0.label>
+  <!-- EN: A Hunter is walking on a seacoast way. With homeland left a mile behind, his path lies ahead. From his forebears and children, he was torn. Into the seas his lover was swept away, floating in the deep, dead. A Hunter is walking on a seacoast way. With homeland left a mile behind, they must lament and pray. There is no end to his path. The road ahead is shrouded in Gray。\n				 -->
+  <AK_Thought_Trait_Skadi.stages.0.description>A Hunter is walking on a seacoast way. With homeland left a mile behind, his path lies ahead. From his forebears and children, he was torn. Into the seas his lover was swept away, floating in the deep, dead. A Hunter is walking on a seacoast way. With homeland left a mile behind, they must lament and pray. There is no end to his path. The road ahead is shrouded in gray.\n</AK_Thought_Trait_Skadi.stages.0.description>
+  
+    <!-- EN: Abyssal Hunter -->
+  <AK_Thought_Trait_DeepHunter.stages.0.label>Abyssal Hunter</AK_Thought_Trait_DeepHunter.stages.0.label>
+  <!-- EN: Live. That is the only rule you must follow. 			 -->
+  <AK_Thought_Trait_DeepHunter.stages.0.description>Live. That is the only rule you must follow.</AK_Thought_Trait_DeepHunter.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: Tide Stirring Blade -->
+  <AK_Weapon_Skadi.label>Tide Stirring Blade</AK_Weapon_Skadi.label>
+  <!-- EN: A large, behemoth-slaying sword. Although materials are basic, the craftsmanship that the weapon is forged from is impossible to explain from current technology. As such, all reverse-engineering attempts have resulted in failure. The weapon is incredibly unwieldy, with the exception of Skadi herself。 -->
+  <AK_Weapon_Skadi.description>TODO</AK_Weapon_Skadi.description>

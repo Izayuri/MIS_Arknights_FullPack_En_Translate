@@ -1,0 +1,79 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: He'll cooperate according to his own interpretation of the commands.\nThorns, Guard Operator of Rhodes Island, wastes not an ounce of energy, calculating each strike meticulously. -->
+  <AK_Recruit_Thorns.description>TODO</AK_Recruit_Thorns.description>
+  <!-- EN: Thorns -->
+  <AK_Recruit_Thorns.name>TODO</AK_Recruit_Thorns.name>
+  <!-- EN: Thorns -->
+  <AK_Recruit_Thorns.nickname>TODO</AK_Recruit_Thorns.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Thorns.surname>Guard</AK_Recruit_Thorns.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}的剑术和药剂炼制及萃取的技艺，都由一位当地教士传授，{PAWN_pronoun}同另外几个孩子一起跟随教士学习，度过了童年及青少年时光。 -->
+  <AK_BackStory_Thorns_Child.baseDesc>TODO</AK_BackStory_Thorns_Child.baseDesc>
+  <!-- EN: 教士的学生 -->
+  <AK_BackStory_Thorns_Child.title>TODO</AK_BackStory_Thorns_Child.title>
+  <!-- EN: 学生 -->
+  <AK_BackStory_Thorns_Child.titleShort>TODO</AK_BackStory_Thorns_Child.titleShort>
+
+  <!-- EN: 因教士被卷入宗教动荡，{PAWN_nameDef}的几名学生至此也走上不同的道路。{PAWN_pronoun}本人也在后来的宗教动荡中离开伊比利亚，加入罗德岛。 -->
+  <AK_BackStory_Thorns_Adult.baseDesc>TODO</AK_BackStory_Thorns_Adult.baseDesc>
+  <!-- EN: 伊比利亚剑客 -->
+  <AK_BackStory_Thorns_Adult.title>TODO</AK_BackStory_Thorns_Adult.title>
+  <!-- EN: 剑客 -->
+  <AK_BackStory_Thorns_Adult.titleShort>TODO</AK_BackStory_Thorns_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 洒脱 -->
+  <AK_Trait_Thorns.degreeDatas.0.label>TODO</AK_Trait_Thorns.degreeDatas.0.label>
+  <!-- EN: 干员{PAWN_nameDef}表面看起来态度冷淡，说话也不好听，但{PAWN_possessive}脾性实际上却十分率直且洒脱。\n				至于自己直率的言行所招来的误解，{PAWN_pronoun}并不在乎 -->
+  <AK_Trait_Thorns.degreeDatas.0.description>TODO</AK_Trait_Thorns.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +6
+  -Psychic sensitivity -15%
+  -Mental break threshold -40%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 洒脱 -->
+  <AK_Thought_Trait_Thorns.stages.0.label>TODO</AK_Thought_Trait_Thorns.stages.0.label>
+  <!-- EN: 其他人的评价？嗯，我不太在乎。\n				 -->
+  <AK_Thought_Trait_Thorns.stages.0.description>TODO</AK_Thought_Trait_Thorns.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 棘刺长剑 -->
+  <AK_Weapon_Thorns.label>Thorns's Weapon</AK_Weapon_Thorns.label>
+  <!-- EN: 造型独特的剑，配合棘刺的剑术能有出乎意料的效果。\n    将棘刺的毒素融合进伊比利亚的剑术中，有着出乎意料的效果。 -->
+  <AK_Weapon_Thorns.description>TODO</AK_Weapon_Thorns.description>

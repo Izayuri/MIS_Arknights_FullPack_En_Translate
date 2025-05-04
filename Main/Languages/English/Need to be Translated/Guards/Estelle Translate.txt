@@ -1,0 +1,79 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Estelle.description>TODO</AK_Recruit_Estelle.description>
+  <!-- EN: Estelle -->
+  <AK_Recruit_Estelle.name>TODO</AK_Recruit_Estelle.name>
+  <!-- EN: Estelle -->
+  <AK_Recruit_Estelle.nickname>TODO</AK_Recruit_Estelle.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Estelle.surname>Guard</AK_Recruit_Estelle.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+   
+  <!-- EN: 萨尔贡境内的一支“锈锤”团伙——“阿达克利斯恶魔”一直在寻找“头上长着巨角的阿达克利斯战神”。 -->
+  <AK_BackStory_Estelle_Child.baseDesc>TODO</AK_BackStory_Estelle_Child.baseDesc>
+  <!-- EN: 巨角战神 -->
+  <AK_BackStory_Estelle_Child.title>TODO</AK_BackStory_Estelle_Child.title>
+  <!-- EN: 巨角战神 -->
+  <AK_BackStory_Estelle_Child.titleShort>TODO</AK_BackStory_Estelle_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，中度感染者，因矿石病引发的显性突变而受到一定关注，后为寻求庇护联络罗德岛制药，在接受数项治疗方案后转至罗德岛进行治疗。\n经本人意愿，接受若干心理辅导并通过多项测试后，获准正式加入罗德岛。现作为近卫人员于罗德岛小队任职。 -->
+  <AK_BackStory_Estelle_Adult.baseDesc>TODO</AK_BackStory_Estelle_Adult.baseDesc>
+  <!-- EN: “怪胎” -->
+  <AK_BackStory_Estelle_Adult.title>TODO</AK_BackStory_Estelle_Adult.title>
+  <!-- EN: “怪胎” -->
+  <AK_BackStory_Estelle_Adult.titleShort>TODO</AK_BackStory_Estelle_Adult.titleShort>
+
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 怪胎 -->
+  <AK_Trait_Estelle.degreeDatas.0.label>TODO</AK_Trait_Estelle.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的双角因为矿石病引发异变而变得极度巨大，这不光给{PAWN_pronoun}惹来了不必要的注意，也使{PAWN_pronoun}遭受了诸多非议\n				 -->
+  <AK_Trait_Estelle.degreeDatas.0.description>TODO</AK_Trait_Estelle.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -12
+  -Mental break threshold +10%
+
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 怪胎 -->
+  <AK_Thought_Trait_Estelle.stages.0.label>TODO</AK_Thought_Trait_Estelle.stages.0.label>
+  <!-- EN: \n				我这对变异的角很显眼吧，本来我以为，自己已经习惯被人观看了......果然......还是会觉得不好意思啊......\n				 -->
+  <AK_Thought_Trait_Estelle.stages.0.description>TODO</AK_Thought_Trait_Estelle.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 艾斯黛尔的手套 -->
+  <AK_Weapon_Estelle.label>Estelle's Weapon</AK_Weapon_Estelle.label>
+  <!-- EN: 结实的手套，耐割耐磨，防水防火。\n    她确实是怪胎，但她是想守护所有人的怪胎。 -->
+  <AK_Weapon_Estelle.description>TODO</AK_Weapon_Estelle.description>

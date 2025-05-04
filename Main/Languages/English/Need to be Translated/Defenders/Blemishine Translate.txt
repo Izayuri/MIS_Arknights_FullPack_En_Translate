@@ -1,0 +1,83 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Blemishine.description>TODO</AK_Recruit_Blemishine.description>
+  <!-- EN: Blemishine -->
+  <AK_Recruit_Blemishine.name>TODO</AK_Recruit_Blemishine.name>
+  <!-- EN: Blemishine -->
+  <AK_Recruit_Blemishine.nickname>TODO</AK_Recruit_Blemishine.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Blemishine.surname>TODO</AK_Recruit_Blemishine.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 耀骑士被流放，当任长骑高龄逝世，理应肩负起贵族重担的{PAWN_nameDef}却对如今卡西米尔的“贵族”概念嗤之以鼻，进而拒绝成为竞技骑士。于是，临光家族出现了“没有长骑”的现状。面临骑士协会的多次敦促，迫不得已，年纪最小的玛莉娅·临光才在姑母佐菲娅的陪同下，进军骑士竞技之路。 -->
+  <AK_BackStory_Blemishine_Child.baseDesc>TODO</AK_BackStory_Blemishine_Child.baseDesc>
+  <!-- EN: 肩负使命的小骑士 -->
+  <AK_BackStory_Blemishine_Child.title>TODO</AK_BackStory_Blemishine_Child.title>
+  <!-- EN: 小骑士 -->
+  <AK_BackStory_Blemishine_Child.titleShort>TODO</AK_BackStory_Blemishine_Child.titleShort>
+
+  <!-- EN: 尽管因为“耀骑士”的光环笼罩下，{PAWN_nameDef}成功杀入了总决赛。但是因为其行动触动了商业联合会的利益。因此商业联合会使用种种手段，企图将小瑕光杀死在竞技场上。\n但商业联合会的计划落空了，在被天降神兵的临光救下后，瑕光伴随着临光加入了罗德岛 -->
+  <AK_BackStory_Blemishine_Adult.baseDesc>TODO</AK_BackStory_Blemishine_Adult.baseDesc>
+  <!-- EN: 小耀骑士 -->
+  <AK_BackStory_Blemishine_Adult.title>TODO</AK_BackStory_Blemishine_Adult.title>
+  <!-- EN: 小耀骑士 -->
+  <AK_BackStory_Blemishine_Adult.titleShort>TODO</AK_BackStory_Blemishine_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 不畏苦暗 -->
+  <AK_Trait_Blemishine.degreeDatas.0.label>TODO</AK_Trait_Blemishine.degreeDatas.0.label>
+  <!-- EN: 行将绽放的荣光，照耀尘埃也染上明亮。\n时常沐浴着温暖的朝晖，偶尔也踏过照不见影子的苦暗。\n				 -->
+  <AK_Trait_Blemishine.degreeDatas.0.description>TODO</AK_Trait_Blemishine.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +12
+  -Mental break threshold -20%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 不畏苦暗 -->
+  <AK_Thought_Trait_Blemishine.stages.0.label>TODO</AK_Thought_Trait_Blemishine.stages.0.label>
+  <!-- EN: 家训是：“不畏苦暗” -->
+  <AK_Thought_Trait_Blemishine.stages.0.description>TODO</AK_Thought_Trait_Blemishine.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 瑕光的剑 This is her sword. -->
+  <AK_Weapon_BlemishineA.label>TODO</AK_Weapon_BlemishineA.label>
+  <!-- EN: 耀骑士曾经使用的剑，如今传到了小耀骑士手里。\n剑中闪耀的不只是源石技艺产生的光芒，还有闪光的骑士精神。 -->
+  <AK_Weapon_BlemishineA.description>TODO</AK_Weapon_BlemishineA.description>
+
+  <!-- EN: 瑕光的盾 This is her shield. -->
+  <AK_Weapon_BlemishineB.label>TODO</AK_Weapon_BlemishineB.label>
+  <!-- EN: 耀骑士曾经使用的盾，如今传到了小耀骑士手里。\n盾所守卫的不止是家族荣誉，还有那被人遗忘的荣耀与光辉。 -->
+  <AK_Weapon_BlemishineB.description>TODO</AK_Weapon_BlemishineB.description>

@@ -1,0 +1,88 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Ashlock.description>TODO</AK_Recruit_Ashlock.description>
+  <!-- EN: Ashlock -->
+  <AK_Recruit_Ashlock.name>TODO</AK_Recruit_Ashlock.name>
+  <!-- EN: Ashlock -->
+  <AK_Recruit_Ashlock.nickname>TODO</AK_Recruit_Ashlock.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ashlock.surname>TODO</AK_Recruit_Ashlock.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}在幼年曾经是一个名贵骑士家族的一员，但是家族在因为决策失误一蹶不振，并且因为自己感染矿石病后。\n灰毫因为一次不合时机的出场造成家族的合同被对方借故撕毁，自己也因此被逐出家族，{PAWN_pronoun}因此成为了一名感染者骑士想要为自己正名。 -->
+  <AK_BackStory_Ashlock_Child.baseDesc>TODO</AK_BackStory_Ashlock_Child.baseDesc>
+  <!-- EN: 落魄贵族 -->
+  <AK_BackStory_Ashlock_Child.title>TODO</AK_BackStory_Ashlock_Child.title>
+  <!-- EN: 落魄贵族 -->
+  <AK_BackStory_Ashlock_Child.titleShort>TODO</AK_BackStory_Ashlock_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}在一次感染骑士特锦赛后遇到了现在的焰尾骑士，并且与{PAWN_pronoun}一同创建了红松骑士团并且拥有了越来越高的名气。 -->
+  <AK_BackStory_Ashlock_Adult.baseDesc>TODO</AK_BackStory_Ashlock_Adult.baseDesc>
+  <!-- EN: 灰毫骑士 -->
+  <AK_BackStory_Ashlock_Adult.title>TODO</AK_BackStory_Ashlock_Adult.title>
+  <!-- EN: 灰毫骑士 -->
+  <AK_BackStory_Ashlock_Adult.titleShort>TODO</AK_BackStory_Ashlock_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 坚垒 -->
+  <AK_Trait_Ashlock.degreeDatas.0.label>TODO</AK_Trait_Ashlock.degreeDatas.0.label>
+  <!-- EN: 在经历了童年的那些事之后，无论是内心还是外表，{PAWN_nameDef}都表现的坚如堡垒。\n				 -->
+  <AK_Trait_Ashlock.degreeDatas.0.description>TODO</AK_Trait_Ashlock.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -26%
+  -Pain shock threshold -15%
+  
+    <!-- EN: 寡言 -->
+  <AK_Trait_AshlockSecond.degreeDatas.0.label>TODO</AK_Trait_AshlockSecond.degreeDatas.0.label>
+  <!-- EN: 虽然性格与肉体已经坚如堡垒，而且在战斗方面已经炉火纯青，但是{PAWN_nameDef}显然对社交很不对付，{PAWN_pronoun}表现的很沉默甚至是...腼腆。\n				 -->
+  <AK_Trait_AshlockSecond.degreeDatas.0.description>TODO</AK_Trait_AshlockSecond.degreeDatas.0.description>
+  Effect:
+  -Global learning speed +20%
+  -Social impact -30%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Ashlock does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  !-- EN: 灰豪的火炮  This is her lance. -->
+  <AK_Weapon_AshlockA.label>TODO</AK_Weapon_AshlockA.label>
+  <!-- EN: 灰豪所使用的火炮，能够对敌人造成巨大的杀伤\n格蕾纳蒂的祖辈们依靠这种武器为家族挣得了未来，但现在的卡利斯卡子弟已经鲜少有人熟悉这项技术了。 -->
+  <AK_Weapon_AshlockA.description>TODO</AK_Weapon_AshlockA.description>
+  
+  <!-- EN: 灰豪的重盾 This is her shield. --> 
+  <AK_Weapon_AshlockB.label>TODO</AK_Weapon_AshlockB.label>
+  <!-- EN: 灰豪使用的盾牌，能够阻挡住所有的敌人。\n她的意志在经受磨难后比手中的盾更加坚不可摧。 -->
+  <AK_Weapon_AshlockB.description>TODO</AK_Weapon_AshlockB.description>

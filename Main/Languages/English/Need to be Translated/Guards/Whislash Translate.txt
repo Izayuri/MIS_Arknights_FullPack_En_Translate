@@ -1,0 +1,75 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Whislash.description>TODO</AK_Recruit_Whislash.description>
+  <!-- EN: Whislash -->
+  <AK_Recruit_Whislash.name>TODO</AK_Recruit_Whislash.name>
+  <!-- EN: Whislash -->
+  <AK_Recruit_Whislash.nickname>TODO</AK_Recruit_Whislash.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Whislash.surname>TODO</AK_Recruit_Whislash.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}曾经作为陪侍的身份参与骑士竞技，正是因此，即使接受了骑士竞技，{PAWN_pronoun}也始终不愿向赞助商和企业低头。\n正是因此，由于装备上的差距让{PAWN_pronoun}在一场比赛后再也无法使用自己的左手进行战斗。 -->
+  <AK_BackStory_Whislash_Child.baseDesc>TODO</AK_BackStory_Whislash_Child.baseDesc>
+  <!-- EN: 陪侍 -->
+  <AK_BackStory_Whislash_Child.title>TODO</AK_BackStory_Whislash_Child.title>
+  <!-- EN: 陪侍 -->
+  <AK_BackStory_Whislash_Child.titleShort>TODO</AK_BackStory_Whislash_Child.titleShort>
+ 
+  <!-- EN: 在{PAWN_nameDef}心中，身为临光家一员的荣誉感是极强的。在瑕光出乎意料的胜利后，{PAWN_pronoun}也伴随瑕光一同加入了罗德岛 -->
+  <AK_BackStory_Whislash_Adult.baseDesc>TODO</AK_BackStory_Whislash_Adult.baseDesc>
+  <!-- EN: 教官 -->
+  <AK_BackStory_Whislash_Adult.title>TODO</AK_BackStory_Whislash_Adult.title>
+  <!-- EN: 教官 -->
+  <AK_BackStory_Whislash_Adult.titleShort>TODO</AK_BackStory_Whislash_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 先入为主 -->
+  <AK_Trait_Whislash.degreeDatas.0.label>TODO</AK_Trait_Whislash.degreeDatas.0.label>
+  <!-- EN: 虽然{PAWN_nameDef}本人并没有什么恶意，不过在与{PAWN_pronoun}交谈时总是会感到她有些颐指气使，而且因为{PAWN_possessive}强硬性格，造成与{PAWN_pronoun}相处有些困难，不过在克服这种先入为主的印象后会发现并不难相处。 -->
+  <AK_Trait_Whislash.degreeDatas.0.description>TODO</AK_Trait_Whislash.degreeDatas.0.description>
+  Effect:
+  -None
+
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Whislash does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 鞭刃 -->
+  <AK_Weapon_Whislash.label>Whislash's Weapon</AK_Weapon_Whislash.label>
+  <!-- EN: 附带有刀刃的长鞭，佐菲娅在退出骑士竞技后常用的武器，\n    驮兽要被鞭子抽了以后才会上工，比驮兽更固执的敌人用这把鞭刃去招呼他们再合适不过了。 -->
+  <AK_Weapon_Whislash.description>TODO</AK_Weapon_Whislash.description>

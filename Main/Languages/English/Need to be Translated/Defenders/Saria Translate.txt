@@ -1,0 +1,81 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Diamond is more flexible than she is.\nSaria, former researcher of Rhine Lab, will serve as a core part of the squad's defense and healing unit on the battlefield. -->
+  <AK_Recruit_Saria.description>TODO</AK_Recruit_Saria.description>
+  <!-- EN: Saria -->
+  <AK_Recruit_Saria.name>TODO</AK_Recruit_Saria.name>
+  <!-- EN: Saria -->
+  <AK_Recruit_Saria.nickname>TODO</AK_Recruit_Saria.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Saria.surname>TODO</AK_Recruit_Saria.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}在小时候经常被其他孩子欺负，但是{PAWN_possessive}父亲最后把{PAWN_pronoun}培养成了一个坚毅而又理性的人，并且传授给{PAWN_pronoun}了强大的搏击术。 -->
+  <AK_BackStory_Saria_Child.baseDesc>TODO</AK_BackStory_Saria_Child.baseDesc>
+  <!-- EN: 被欺凌者 -->
+  <AK_BackStory_Saria_Child.title>TODO</AK_BackStory_Saria_Child.title>
+  <!-- EN: 被欺凌者 -->
+  <AK_BackStory_Saria_Child.titleShort>TODO</AK_BackStory_Saria_Child.titleShort>
+    
+  <!-- EN: {PAWN_nameDef}女士曾经是莱茵生命防卫科的主要领导人。其他与罗德岛的莱茵生命干员都或多或少的对{PAWN_pronoun}表现出敬意，干员赫默是个例外。\n{PAWN_pronoun}与赫默间的冲突源于莱茵生命的一项实验，而这项实验的主导人正是赫默。\n实验可悲地失败了。{PAWN_pronoun}独自镇压了失去控制的实验品。并因为此项实验离开了莱茵生命。 -->
+  <AK_BackStory_Saria_Adult.baseDesc>TODO</AK_BackStory_Saria_Adult.baseDesc>
+  <!-- EN: 前莱茵生命防卫科主任 -->
+  <AK_BackStory_Saria_Adult.title>TODO</AK_BackStory_Saria_Adult.title>
+  <!-- EN: 防卫主任 -->
+  <AK_BackStory_Saria_Adult.titleShort>TODO</AK_BackStory_Saria_Adult.titleShort>
+
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 钢铁意志 -->
+  <AK_Trait_Saria.degreeDatas.0.label>TODO</AK_Trait_Saria.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的意志宛如钢铁一般坚韧而又不可撼动，没有任何东西能够动摇{PAWN_possessive}思想。\n但是更多时候则表现的像是脑子转不过弯。 -->
+  <AK_Trait_Saria.degreeDatas.0.description>TODO</AK_Trait_Saria.degreeDatas.0.description>
+  Effect:
+  -Social impact -30%
+  -Mental break threshold -60%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Saria does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 塞雷娅的盾 This is her shield. -->
+  <AK_Weapon_SariaA.label>TODO</AK_Weapon_SariaA.label>
+  <!-- EN: 塞雷娅的盾形法杖，覆盖上珐琅质后坚硬无比。\n明明能用拳击却偏偏要用盾，没有人知道为何。 -->
+  <AK_Weapon_SariaA.description>TODO</AK_Weapon_SariaA.description>
+
+  <!-- EN: 塞雷娅的医疗铳 This is her... needle gun? -->
+  <AK_Weapon_SariaB.label>TODO</AK_Weapon_SariaB.label>
+  <!-- EN: 莱茵生命通用的医疗铳，配合治疗法术能发挥更大的效果。\n“…提高个体细胞全能性，治愈一切伤痛不适…”——塞雷娅桌上的说明手册 -->
+  <AK_Weapon_SariaB.description>TODO</AK_Weapon_SariaB.description>

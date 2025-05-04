@@ -1,0 +1,75 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Swire.description>TODO</AK_Recruit_Swire.description>
+  <!-- EN: Swire -->
+  <AK_Recruit_Swire.name>TODO</AK_Recruit_Swire.name>
+  <!-- EN: Swire -->
+  <AK_Recruit_Swire.nickname>TODO</AK_Recruit_Swire.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Swire.surname>Guard</AK_Recruit_Swire.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+
+  <!-- EN: 干员{PAWN_nameDef}，自幼年时期就生活在自己祖父的阴影下，父亲作为家族的第一顺位继承人，对{PAWN_possessive}祖父卑躬屈膝，不准{PAWN_pronoun}对其祖父有半点违逆。\n在一次震惊龙门的绑架案中，幼年的{PAWN_pronoun}被龙门警员救出，诗怀雅与警察这一职业的缘分就此开始。 -->
+  <AK_BackStory_Swire_Child.baseDesc>TODO</AK_BackStory_Swire_Child.baseDesc>
+  <!-- EN: 被绑架的孩子 -->
+  <AK_BackStory_Swire_Child.title>TODO</AK_BackStory_Swire_Child.title>
+  <!-- EN: 被绑架的孩子 -->
+  <AK_BackStory_Swire_Child.titleShort>TODO</AK_BackStory_Swire_Child.titleShort>
+ 
+  <!-- EN: 成年后的{PAWN_nameDef}虽然没有选择投身于家族企业，{PAWN_pronoun}依然自豪于自己的家族，并且在加入近卫局后以家族姓氏直接作为代号，失败的处理了几次事件。但随着经验的积累，{PAWN_pronoun}终于成长为一名成熟的警官，并且上任了龙门近卫局的二把手，在陈离开后接手了近卫局的责任。\n此时的{PAWN_pronoun}，终于摆脱了祖父投在自己头顶的阴影。 -->
+  <AK_BackStory_Swire_Adult.baseDesc>TODO</AK_BackStory_Swire_Adult.baseDesc>
+  <!-- EN: 龙门近卫局二把手 -->
+  <AK_BackStory_Swire_Adult.title>TODO</AK_BackStory_Swire_Adult.title>
+  <!-- EN: 龙门警察 -->
+  <AK_BackStory_Swire_Adult.titleShort>TODO</AK_BackStory_Swire_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 挑剔的大小姐 -->
+  <AK_Trait_Swire.degreeDatas.0.label>TODO</AK_Trait_Swire.degreeDatas.0.label>
+  <!-- EN: 只是为了教官训练室的地毯造型，{PAWN_nameDef}也能耿耿于怀很久，{PAWN_pronoun}对于周边的东西似乎有一种强迫症一样的挑剔。 -->
+  <AK_Trait_Swire.degreeDatas.0.description>TODO</AK_Trait_Swire.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold +5%
+  -Global work speed -15%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Swire does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 诗怀雅的流星锤 -->
+  <AK_Weapon_Swire.label>Swire's Weapon</AK_Weapon_Swire.label>
+  <!-- EN: 龙门近卫局使用流星锤作为武器的独诗怀雅一人，不过比起亲身战斗她更喜欢用无人机指挥其他人战斗。 -->
+  <AK_Weapon_Swire.description>TODO</AK_Weapon_Swire.description>

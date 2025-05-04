@@ -1,0 +1,80 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Matterhorn.description>TODO</AK_Recruit_Matterhorn.description>
+  <!-- EN: Matterhorn -->
+  <AK_Recruit_Matterhorn.name>TODO</AK_Recruit_Matterhorn.name>
+  <!-- EN: Matterhorn -->
+  <AK_Recruit_Matterhorn.nickname>TODO</AK_Recruit_Matterhorn.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Matterhorn.surname>TODO</AK_Recruit_Matterhorn.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}从小就是被当做银灰家侍卫来训练，他的父亲，祖父，都是银灰家荣耀的近卫，他自然也以此作为目标。\n在格斗训练之余他也会学习一些厨艺。 -->
+  <AK_BackStory_Matterhorn_Child.baseDesc>TODO</AK_BackStory_Matterhorn_Child.baseDesc>
+  <!-- EN: 家族侍卫 -->
+  <AK_BackStory_Matterhorn_Child.title>TODO</AK_BackStory_Matterhorn_Child.title>
+  <!-- EN: 家族侍卫 -->
+  <AK_BackStory_Matterhorn_Child.titleShort>TODO</AK_BackStory_Matterhorn_Child.titleShort>
+
+  <!-- EN: 谢拉格出身，喀兰贸易公司成员。作为喀兰贸易公司与罗德岛合作协定的一部分，以外派人员身份参与罗德岛任务。 -->
+  <AK_BackStory_Matterhorn_Adult.baseDesc>TODO</AK_BackStory_Matterhorn_Adult.baseDesc>
+  <!-- EN: 喀兰贸易员工 -->
+  <AK_BackStory_Matterhorn_Adult.title>TODO</AK_BackStory_Matterhorn_Adult.title>
+  <!-- EN: 喀兰贸易员工 -->
+  <AK_BackStory_Matterhorn_Adult.titleShort>TODO</AK_BackStory_Matterhorn_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 死士 -->
+  <AK_Trait_Matterhorn.degreeDatas.0.label>TODO</AK_Trait_Matterhorn.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的祖上出身于谢拉格北部，那里环境恶劣，人们终日与自然抗争。为了让他人更好地生存，所有北谢拉格人一旦出战即视自己为死者。正是这份信念，将他们，还有像{PAWN_pronoun}这样的后代，塑造成了战场上最为勇猛的战士。\n				 -->
+  <AK_Trait_Matterhorn.degreeDatas.0.description>TODO</AK_Trait_Matterhorn.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -5%
+  -Pain shock threshold -30%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Matterhorn does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 谢拉格弯刀 This is his machete. -->
+  <AK_Weapon_MatterhornA.label>TODO</AK_Weapon_MatterhornA.label>
+  <!-- EN: 一把谢拉格样式的弯刀，在哥伦比亚经常播出的野外求生节目很常见。\n不论是做饭，求生还是用来战斗都很合适。 -->
+  <AK_Weapon_MatterhornA.description>TODO</AK_Weapon_MatterhornA.description>
+
+  <!-- EN: 谢拉格重盾 This is his shield. -->
+  <AK_Weapon_MatterhornB.label>TODO</AK_Weapon_MatterhornB.label>
+  <!-- EN: 很沉重的盾，一般人举都很难举起来。\n伴随着角峰愈加频繁的踏入战场，他的盾需要维修的次数的也愈加频繁，他就是这么与火神认识的。 -->
+  <AK_Weapon_MatterhornB.description>TODO</AK_Weapon_MatterhornB.description>

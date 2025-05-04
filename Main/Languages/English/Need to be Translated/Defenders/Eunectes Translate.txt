@@ -1,0 +1,81 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: She prefers to use machines to solve her problems instead of using her fists.\nEunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironhide.' -->
+  <AK_Recruit_Eunectes.description>TODO</AK_Recruit_Eunectes.description>
+  <!-- EN: Eunectes -->
+  <AK_Recruit_Eunectes.name>TODO</AK_Recruit_Eunectes.name>
+  <!-- EN: Eunectes -->
+  <AK_Recruit_Eunectes.nickname>TODO</AK_Recruit_Eunectes.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Eunectes.surname>TODO</AK_Recruit_Eunectes.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}曾经同其他的部族孩子一样，喜欢打架，尤其是和嘉维尔。\n但当{PAWN_pronoun}偶然看到了萨尔贡庞大的移动城市后，{PAWN_possessive}生活被永久的改变了。 -->
+  <AK_BackStory_Eunectes_Child.baseDesc>TODO</AK_BackStory_Eunectes_Child.baseDesc>
+  <!-- EN: 喜爱机器的部落孩子 -->
+  <AK_BackStory_Eunectes_Child.title>TODO</AK_BackStory_Eunectes_Child.title>
+  <!-- EN: 部落孩子 -->
+  <AK_BackStory_Eunectes_Child.titleShort>TODO</AK_BackStory_Eunectes_Child.titleShort>
+
+  <!-- EN: 在博士以闹剧收尾的阿卡胡拉之旅中，{PAWN_nameDef}在与Lancet-2相遇后就非常尊重Lancet-2，并被罗德岛的机械技术折服，选择加入罗德岛。\n虽然{PAWN_pronoun}和可露希尔的交流马上就把可露希尔气得把手中的薯片都扔了，但是{PAWN_possessive}学习能力确实足矣证明{PAWN_pronoun}有担任机械师的能力 -->
+  <AK_BackStory_Eunectes_Adult.baseDesc>TODO</AK_BackStory_Eunectes_Adult.baseDesc>
+  <!-- EN: 罗德岛机械师 -->
+  <AK_BackStory_Eunectes_Adult.title>TODO</AK_BackStory_Eunectes_Adult.title>
+  <!-- EN: 机械师 -->
+  <AK_BackStory_Eunectes_Adult.titleShort>TODO</AK_BackStory_Eunectes_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 我寻思能行 -->
+  <AK_Trait_Eunectes.degreeDatas.0.label>TODO</AK_Trait_Eunectes.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在大部分事情的观念上远比已经离开家乡数年的嘉维尔正常，但唯独涉及机械方面时有一些奇怪的偏执和想法。 -->
+  <AK_Trait_Eunectes.degreeDatas.0.description>TODO</AK_Trait_Eunectes.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -25%
+  -Global work speed -10%
+  -Global learning factor +45%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Eunectes does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 轻型挂斧  This is her axe. -->
+  <AK_Weapon_EunectesA.label>TODO</AK_Weapon_EunectesA.label>
+  <!-- EN: 森蚺的挂斧，看上去像建筑垃圾拼起来的。\n森蚺虽然力气不如嘉伟尔大，但是打人也挺疼的。 -->
+  <AK_Weapon_EunectesA.description>TODO</AK_Weapon_EunectesA.description>
+  
+  <!-- EN: 森蚺的盾  This is her shield. -->
+  <AK_Weapon_EunectesB.label>TODO</AK_Weapon_EunectesB.label>
+  <!-- EN: 森蚺的盾，看上去像是从哪拆下来的铁门\n森蚺的身体素质虽然不如嘉伟尔好，但是也是挺扛揍的。 -->
+  <AK_Weapon_EunectesB.description>TODO</AK_Weapon_EunectesB.description>

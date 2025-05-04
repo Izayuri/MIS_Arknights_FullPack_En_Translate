@@ -1,0 +1,68 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: The kitchen is more dangerous than the battlefield, and it would be best to not let her in the kitchen.\nCutter, mercenary, will complete all tasks on the battlefield in a calm and disciplined manner. -->
+  <AK_Recruit_Cutter.description>TODO</AK_Recruit_Cutter.description>
+  <!-- EN: Cutter -->
+  <AK_Recruit_Cutter.name>TODO</AK_Recruit_Cutter.name>
+  <!-- EN: Cutter -->
+  <AK_Recruit_Cutter.nickname>TODO</AK_Recruit_Cutter.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Cutter.surname>Guard</AK_Recruit_Cutter.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 干员{PAWN_nameDef}出身于哥伦比亚西南方某乡镇地区。{PAWN_possessive}父母在{PAWN_pronoun}年幼时因为被卷入一场街头械斗去世，一位巡游四方的刀客将{PAWN_pronoun}抚养长大，教导了{PAWN_pronoun}用刀的技巧。\n在这位老师的影响下，干员{PAWN_pronoun}并未如{PAWN_pronoun}众多同乡一般陷入混乱争斗，而是成为了现在这样一名保有原则的雇佣兵。 -->
+  <AK_BackStory_Cutter_Child.baseDesc>TODO</AK_BackStory_Cutter_Child.baseDesc>
+  <!-- EN: 哥伦比亚佣兵 -->
+  <AK_BackStory_Cutter_Child.title>TODO</AK_BackStory_Cutter_Child.title>
+  <!-- EN: 佣兵 -->
+  <AK_BackStory_Cutter_Child.titleShort>TODO</AK_BackStory_Cutter_Child.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 灾难般的烹饪 -->
+  <AK_Trait_Cutter.degreeDatas.0.label>TODO</AK_Trait_Cutter.degreeDatas.0.label>
+  <!-- EN: 干员{PAWN_nameDef}对烹饪有一种莫名的喜爱，但{PAWN_possessive}动手成果往往不尽......人意。 -->
+  <AK_Trait_Cutter.degreeDatas.0.description>TODO</AK_Trait_Cutter.degreeDatas.0.description>
+  Effect:
+  -Cooking speed -1.0
+  -Food poison chance +300%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Cutter does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 刻刀的长刀 -->
+  <AK_Weapon_Cutter.label>Cutter's Weapon</AK_Weapon_Cutter.label>
+  <!-- EN: 自刻刀懂事以来这对长刀就一直伴随着她，这对长刀只为正确的事而挥动。 -->
+  <AK_Weapon_Cutter.description>TODO</AK_Weapon_Cutter.description>

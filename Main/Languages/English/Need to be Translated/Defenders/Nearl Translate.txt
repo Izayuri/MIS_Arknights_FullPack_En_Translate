@@ -1,0 +1,84 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Nearl.description>TODO</AK_Recruit_Nearl.description>
+  <!-- EN: Nearl -->
+  <AK_Recruit_Nearl.name>TODO</AK_Recruit_Nearl.name>
+  <!-- EN: Nearl -->
+  <AK_Recruit_Nearl.nickname>TODO</AK_Recruit_Nearl.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Nearl.surname>TODO</AK_Recruit_Nearl.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}曾以独立骑士身份参加骑士竞技，“耀骑士”的封号便是此时得来，并且初次参赛便获得封号、打入正赛甚至一举夺冠，成为骑士竞技史上唯一的无赞助、无团体、出道即夺冠的年轻骑士，在民间传为佳话。\n但是，临光的{PAWN_possessive}活跃打破了骑士竞技中由卡西米尔商业联合会主导的潜规则，危及了商业联合会的利益，因此商业联合会将临光列入无胄盟的暗杀名单。\n{PAWN_pronoun}被放逐时，是在是{PAWN_nameDef}家家长们的策划下，由{PAWN_nameDef}家亲信保护，被暗中送出去的。也正是由于{PAWN_pronoun}因矿石病被放逐出境，无胄盟才暂停了对{PAWN_possessive}暗杀。 -->
+  <AK_BackStory_Nearl_Child.baseDesc>TODO</AK_BackStory_Nearl_Child.baseDesc>
+  <!-- EN: 被放逐的耀骑士 -->
+  <AK_BackStory_Nearl_Child.title>TODO</AK_BackStory_Nearl_Child.title>
+  <!-- EN: 耀骑士 -->
+  <AK_BackStory_Nearl_Child.titleShort>TODO</AK_BackStory_Nearl_Child.titleShort>
+
+  <!-- EN: 离开了卡西米尔之后，流浪的{PAWN_nameDef}与日后同样加入了罗德岛的萨卡兹族医师——闪灵与夜莺——偶然相遇，并一同结伴而行。{PAWN_pronoun}们成立了感染者援助团体“使徒”，行走各地，四处医治感染者，直到{PAWN_pronoun}们正式加入罗德岛，主动承担了更大的责任为止。 -->
+  <AK_BackStory_Nearl_Adult.baseDesc>TODO</AK_BackStory_Nearl_Adult.baseDesc>
+  <!-- EN: “使徒” -->
+  <AK_BackStory_Nearl_Adult.title>TODO</AK_BackStory_Nearl_Adult.title>
+  <!-- EN: “使徒” -->
+  <AK_BackStory_Nearl_Adult.titleShort>TODO</AK_BackStory_Nearl_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 耀骑士 -->
+  <AK_Trait_Nearl.degreeDatas.0.label>TODO</AK_Trait_Nearl.degreeDatas.0.label>
+  <!-- EN: “所谓骑士，就是照亮整片大地的崇高者” -->
+  <AK_Trait_Nearl.degreeDatas.0.description>TODO</AK_Trait_Nearl.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +12
+  -Mental break threshold -35%
+  -Social impact +20%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 耀骑士 -->
+  <AK_Thought_Trait_Nearl.stages.0.label>TODO</AK_Thought_Trait_Nearl.stages.0.label>
+  <!-- EN: 所谓骑士，就是照亮整片大地的崇高者。 -->
+  <AK_Thought_Trait_Nearl.stages.0.description>TODO</AK_Thought_Trait_Nearl.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 临光的战锤 This is her sword. -->
+  <AK_Weapon_NearlA.label>TODO</AK_Weapon_NearlA.label>
+  <!-- EN: 临光的战锤，布满了磨损的痕迹。\n从未有人见过临光双手持锤的样子。 -->
+  <AK_Weapon_NearlA.description>TODO</AK_Weapon_NearlA.description>
+
+  <!-- EN: 临光的盾牌 This is her shield. -->
+  <AK_Weapon_NearlB.label>TODO</AK_Weapon_NearlB.label>
+  <!-- EN: 临光的盾牌，布满了磨损的痕迹。\n从未有人见过临光放下盾牌的样子。 -->
+  <AK_Weapon_NearlB.description>TODO</AK_Weapon_NearlB.description>

@@ -1,0 +1,86 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: \nFIXMEDESC -->
+  <AK_Recruit_Chongyue.description>TODO</AK_Recruit_Chongyue.description>
+  <!-- EN: Chongyue -->
+  <AK_Recruit_Chongyue.name>TODO</AK_Recruit_Chongyue.name>
+  <!-- EN: Chongyue -->
+  <AK_Recruit_Chongyue.nickname>TODO</AK_Recruit_Chongyue.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Chongyue.surname>Guard</AK_Recruit_Chongyue.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+   <!-- EN: 有兽啸清 云气重圜\n其数为一 冥昭初形\n玄色透鳞 通体不尨\n奔突难着 俯首以寻\n何阖而晦 何开而明\n目极 蜉螟之羸 所撼何巨 -->
+  <AK_BackStory_Chongyue_Child.baseDesc>TODO</AK_BackStory_Chongyue_Child.baseDesc>
+  <!-- EN: 神灵碎片（其一） -->
+  <AK_BackStory_Chongyue_Child.title>TODO</AK_BackStory_Chongyue_Child.title>
+  <!-- EN: 神灵碎片（其一） -->
+  <AK_BackStory_Chongyue_Child.titleShort>TODO</AK_BackStory_Chongyue_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}，留舰人员年、夕、令的兄长，与炎国兵部、司岁台等政府部门往来密切，此前担任移动城市玉门的武术教官，已卸任。因探视亲属来到罗德岛，经过审核，暂时凭访客身份驻留本舰。{PAWN_pronoun}具有丰富的战场经验，为罗德岛提供过独特的作战建议，但应凯尔希医生要求，{PAWN_pronoun}本人较少直接参加任务。 -->
+  <AK_BackStory_Chongyue_Adult.baseDesc>TODO</AK_BackStory_Chongyue_Adult.baseDesc>
+  <!-- EN: 武人 -->
+  <AK_BackStory_Chongyue_Adult.title>TODO</AK_BackStory_Chongyue_Adult.title>
+  <!-- EN: 武人 -->
+  <AK_BackStory_Chongyue_Adult.titleShort>TODO</AK_BackStory_Chongyue_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 孤光共照 -->
+  <AK_Trait_Chongyue.degreeDatas.0.label>TODO</AK_Trait_Chongyue.degreeDatas.0.label>
+  <!-- EN: 来去春景，怅然秋心。\n				 -->
+  <AK_Trait_Chongyue.degreeDatas.0.description>TODO</AK_Trait_Chongyue.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +12
+  -Mental break threshold -60%
+  
+  <!-- EN: 知我为我 -->
+  <AK_Trait_ChongyueSecond.degreeDatas.0.label>TODO</AK_Trait_ChongyueSecond.degreeDatas.0.label>
+  <!-- EN: 匹夫之技 所至何境\n遂兵斗成庐 ■■■躯 ■■同力\n■■■■ 反正相合 天地如逆\n悲极 蜩螗若斯 干戈止易\n但为求索 云晞烟荡 万象伶仃\n				 -->
+  <AK_Trait_ChongyueSecond.degreeDatas.0.description>TODO</AK_Trait_ChongyueSecond.degreeDatas.0.description>
+  Effect:
+  -Global learning factor +32%
+  -Melee DPS +2
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 知我为我 -->
+  <AK_Thought_Trait_Chongyue.stages.0.label>TODO</AK_Thought_Trait_Chongyue.stages.0.label>
+  <!-- EN: “我是谁”......临水自照，人也好，兽也罢，山峦林烟，天边双月的倒影，看见了什么，答案便是什么。至于人间换尽，我们兄弟姐妹会不会重归混沌，寻找新的答案，那又是另一个问题了。 -->
+  <AK_Thought_Trait_Chongyue.stages.0.description>TODO</AK_Thought_Trait_Chongyue.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 重岳的拳套 -->
+  <AK_Weapon_Chongyue.label>Chongyue's Weapon</AK_Weapon_Chongyue.label>
+  <!-- EN: 一对严重磨损的拳套，留下了无数搏击练习的痕迹。\n重岳从来不会仰仗神力和法术，他的武功都是实打实的，就像这双拳套一样 -->
+  <AK_Weapon_Chongyue.description>TODO</AK_Weapon_Chongyue.description>

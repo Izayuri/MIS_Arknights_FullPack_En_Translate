@@ -1,0 +1,88 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Penance.description>TODO</AK_Recruit_Penance.description>
+  <!-- EN: Penance -->
+  <AK_Recruit_Penance.name>TODO</AK_Recruit_Penance.name>
+  <!-- EN: Penance -->
+  <AK_Recruit_Penance.nickname>TODO</AK_Recruit_Penance.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Penance.surname>TODO</AK_Recruit_Penance.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+
+  <!-- EN: 履历缺失 This is going to need your best approx. as there wasn't even code for her to have 
+  a childhood entry so this might be annoying. Just try your best.--> 
+  <AK_BackStory_Penance_Child.baseDesc>TODO</AK_BackStory_Penance_Child.baseDesc>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Penance_Child.title>TODO</AK_BackStory_Penance_Child.title>
+  <!-- EN: 不明 -->
+  <AK_BackStory_Penance_Child.titleShort>TODO</AK_BackStory_Penance_Child.titleShort>
+
+ 
+  <!-- EN: {PAWN_nameDef}原本为叙拉古的城邦法官，背后有着贝洛内家族的支持。\n但与其他有着家族支持的法官不同的是，斥罪并不完全以贝洛内家族的意志判决案件，{PAWN_pronoun}也会宣判贝洛内家族成员的罪行 -->
+  <AK_BackStory_Penance_Adult.baseDesc>TODO</AK_BackStory_Penance_Adult.baseDesc>
+  <!-- EN: 叙拉古法官 -->
+  <AK_BackStory_Penance_Adult.title>TODO</AK_BackStory_Penance_Adult.title>
+  <!-- EN: 叙拉古法官 -->
+  <AK_BackStory_Penance_Adult.titleShort>TODO</AK_BackStory_Penance_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 荆棘环身 -->
+  <AK_Trait_Penance.degreeDatas.0.label>TODO</AK_Trait_Penance.degreeDatas.0.label>
+  <!-- EN: 每个人偶尔都需要点外物的帮助，无论是为了纾解疲乏，还是缓解痛苦。\n				 -->
+  <AK_Trait_Penance.degreeDatas.0.description>TODO</AK_Trait_Penance.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -8
+  -Pain shock threshold -25%
+  
+  <!-- EN: 法为正典 -->
+  <AK_Trait_PenanceSecond.degreeDatas.0.label>TODO</AK_Trait_PenanceSecond.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}曾明确展示出法律正义不可侵犯的态度。\n				但或许对于这些从事法律工作的人来说，不论就职后曾不得已地做过什么，现在使用着什么样的手段，他们一开始的理想总是相同的：捍卫法律应存的正义。\n				 -->
+  <AK_Trait_PenanceSecond.degreeDatas.0.description>TODO</AK_Trait_PenanceSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold -25%
+  -Social impact -20%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 荆棘环身 -->
+  <AK_Thought_Trait_Penance.stages.0.label>TODO</AK_Thought_Trait_Penance.stages.0.label>
+  <!-- EN: 对我来说，这种痛苦也是一种对自己的鞭笞。 -->
+  <AK_Thought_Trait_Penance.stages.0.description>TODO</AK_Thought_Trait_Penance.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 斥罪的刺锤 -->
+  <AK_Weapon_Penance.label>Penance's Weapon</AK_Weapon_Penance.label>
+  <!-- EN: 布满了荆棘的锤子，锐气逼人。\n越能感受到拿起它时之轻，越能感受到敲下它时之重。 -->
+  <AK_Weapon_Penance.description>TODO</AK_Weapon_Penance.description>

@@ -1,0 +1,56 @@
+OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: Give her some time.\nRosa, a member of the Ursus Student Self-Government Group, is ready to welcome a new life. -->
+  <AK_Recruit_Rosa.description>Member of the U.S.S.G., she is ready to welcome a new life. Give her some time.</AK_Recruit_Rosa.description>
+  <!-- EN: Rosa -->
+  <AK_Recruit_Rosa.name>Rosa</AK_Recruit_Rosa.name>
+  <!-- EN: Rosa -->
+  <AK_Recruit_Rosa.nickname>Natalya</AK_Recruit_Rosa.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Rosa.surname>Sniper</AK_Recruit_Rosa.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    U.S.S.G. Members do not need this.
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 没落的贵族 -->
+  <AK_Trait_Rosa.degreeDatas.0.label>Decaying Aristocracy</AK_Trait_Rosa.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}在努力让自己变得不像一个贵族。你可以看得出{PAWN_pronoun}还不适应如何放低自己的姿态，但{PAWN_pronoun}确实在努力去适应这样的生活。 -->
+  <AK_Trait_Rosa.degreeDatas.0.description>{PAWN_nameDef} is trying to not look like a noble. You can tell {PAWN_pronoun} isn't used to this low profile yet, but {PAWN_pronoun} is doing her best to adapt to this new life.</AK_Trait_Rosa.degreeDatas.0.description>>
+  Effect:
+  -Permanent mood effect -5
+  
+   Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: 没落的贵族 -->
+  <AK_Thought_Trait_Rosa.stages.0.label>Post-Traumatic Stress Disorder</AK_Thought_Trait_Rosa.stages.0.label>
+  <!-- EN: 曾经我天真地以为，如果我想要得到什么，就是可以得到的。现在我已经知道，即使大部分东西确实如此，但有些东西是不行的。那是只靠我自己，无论如何也无法获得的东西...... -->
+  <AK_Thought_Trait_Rosa.stages.0.description>I was once naive enough to think I could have anything I wanted. Now I know, while that may be true for most things, it is not for others. Those I can never get. Not on my own.</AK_Thought_Trait_Rosa.stages.0.description>
+  
+ Instructions:
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+	<!-- EN: 经由罗德岛工程部改造的攻城器械，已经改装为了可以供单人使用的武器。\n很难想象一台攻城用的器械经历了怎样的事情才会出现在市内。 -->
+  <AK_Weapon_Rosa.description>Siege Equipment modified by the Rhodes Island Engineering Department to be converted into a weapon that can be used by a single person. It's hard to imagine what this equipment must've gone through to end up in Chernobog.</AK_Weapon_Rosa.description>

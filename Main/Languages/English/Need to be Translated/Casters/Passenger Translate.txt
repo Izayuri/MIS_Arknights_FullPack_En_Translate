@@ -1,0 +1,102 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	<!-- EN: \nFIXMEDESC -->
+  <AK_Recruit_Passenger.description>TODO</AK_Recruit_Passenger.description>
+  <!-- EN: Passenger -->
+  <AK_Recruit_Passenger.name>TODO</AK_Recruit_Passenger.name>
+  <!-- EN: Passenger -->
+  <AK_Recruit_Passenger.nickname>TODO</AK_Recruit_Passenger.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Passenger.surname>TODO</AK_Recruit_Passenger.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: {PAWN_nameDef}出生于哥伦比亚，{PAWN_pronoun}以极其优异的成绩跳级毕业后被一位源石专家——也是{PAWN_possessive}老师相中提拔为研究助手。并在之后随老师前往萨尔贡参与了一项哥伦比亚军方主持的绝密项目。\n项目成果最终凝结成了一件银色手提箱，但成果却引来各方觊觎，在冲突中研究小队仅剩他幸存。 -->
+  <AK_BackStory_Passenger_Child.baseDesc>TODO</AK_BackStory_Passenger_Child.baseDesc>
+  <!-- EN: 高材生 -->
+  <AK_BackStory_Passenger_Child.title>TODO</AK_BackStory_Passenger_Child.title>
+  <!-- EN: 高材生 -->
+  <AK_BackStory_Passenger_Child.titleShort>TODO</AK_BackStory_Passenger_Child.titleShort>
+  
+   <!-- EN: {PAWN_nameDef}在余下的时间中致力于向当初的幕后主使们复仇。为达成此目的，{PAWN_pronoun}在萨尔贡从学徒开始一步步成为黑市之主。并在途中用获得的权力和手腕将仇人尽数抹杀，这几乎花费了{PAWN_possessive}四分之一的人生。 -->
+  <AK_BackStory_Passenger_Adult.baseDesc>TODO</AK_BackStory_Passenger_Adult.baseDesc>
+  <!-- EN: 复仇的沙卒 -->
+  <AK_BackStory_Passenger_Adult.title>TODO</AK_BackStory_Passenger_Adult.title>
+  <!-- EN: 复仇的沙卒 -->
+  <AK_BackStory_Passenger_Adult.titleShort>TODO</AK_BackStory_Passenger_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: “今夕须臾之梦” -->
+  <AK_Trait_Passenger.degreeDatas.0.label>TODO</AK_Trait_Passenger.degreeDatas.0.label>
+  <!-- EN: “一个迷茫的旅人，他的前二十几年的大好光阴都投入到了复仇这一事业之中。而当复仇成功之后，他陷入了迷茫，他回望一路上被他碾碎的时光和年少的自己，他并不什么都不在乎，而是因为——他所在乎的过去，那些大好时光，已经永远不会回来了。”\n				 -->
+  <AK_Trait_Passenger.degreeDatas.0.description>TODO</AK_Trait_Passenger.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -12
+  -Mental break threshold -45%
+  
+  <!-- EN: 沙卒 -->
+  <AK_Trait_PassengerSecond.degreeDatas.0.label>TODO</AK_Trait_PassengerSecond.degreeDatas.0.label>
+  <!-- EN: 异客有着非凡的手腕、胆识、毅力，这足以证明他沁礁黑市之主——沙卒的名号绝非名不副实。\n				 -->
+  <AK_Trait_PassengerSecond.degreeDatas.0.description>TODO</AK_Trait_PassengerSecond.degreeDatas.0.description>
+  Effect:
+  -Social impact +100%
+  -Trade price improvement +25%
+  
+    
+ Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	<!-- EN: “今夕须臾之梦” -->
+  <AK_Thought_Trait_Passenger.stages.0.label>TODO</AK_Thought_Trait_Passenger.stages.0.label>
+  <!-- EN: 现在，我该和过去做个了断。可我接下来要做什么?去哪里? -->
+  <AK_Thought_Trait_Passenger.stages.0.description>TODO</AK_Thought_Trait_Passenger.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+	<!-- EN: 雷霆之杖 His staff --> 
+  <AK_Weapon_Passenger.label>Passenger's Weapon</AK_Weapon_Passenger.label>
+  <!-- EN: 雷电也只是刑罚的一种形式，据异客本人所说，他所降下的只不过是惩罚而已 -->
+  <AK_Weapon_Passenger.description>TODO</AK_Weapon_Passenger.description>
+  
+  <!-- EN: 异客的武器 Honestly don't know what this is, maybe a drone piece. --> 
+  <AK_Weapon_PassengerB.label>TODO</AK_Weapon_PassengerB.label>
+  <!-- EN: 异客的武器 -->
+  <AK_Weapon_PassengerB.description>TODO</AK_Weapon_PassengerB.description>
+  
+  <!-- EN: 异客的武器炮台 Honestly don't know what this is, maybe a drone piece. -->
+  <AK_Weapon_PassengerC.label>TODO</AK_Weapon_PassengerC.label>
+  <!-- EN: 异客的武器炮台 -->
+  <AK_Weapon_PassengerC.description>TODO</AK_Weapon_PassengerC.description>
+  
+  <!-- EN: 异客的悬浮机器 Honestly don't know what this is, maybe a drone piece. -->
+  <AK_Weapon_PassengerD.label>TODO</AK_Weapon_PassengerD.label>
+  <!-- EN: 异客的悬浮机器 -->
+  <AK_Weapon_PassengerD.description>TODO</AK_Weapon_PassengerD.description>

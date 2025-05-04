@@ -1,0 +1,78 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_Irene.description>TODO</AK_Recruit_Irene.description>
+  <!-- EN: Irene -->
+  <AK_Recruit_Irene.name>TODO</AK_Recruit_Irene.name>
+  <!-- EN: Irene -->
+  <AK_Recruit_Irene.nickname>TODO</AK_Recruit_Irene.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Irene.surname>Guard</AK_Recruit_Irene.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}的童年被一个颇具宗教牺牲意味的残酷玩笑摧毁了，{PAWN_possessive}家人与原本平静的神话都被摧毁了。但{PAWN_pronoun}被达西奥救了下来。 -->
+  <AK_BackStory_Irene_Child.baseDesc>TODO</AK_BackStory_Irene_Child.baseDesc>
+  <!-- EN: 灾难遗孤 -->
+  <AK_BackStory_Irene_Child.title>TODO</AK_BackStory_Irene_Child.title>
+  <!-- EN: 灾难遗孤 -->
+  <AK_BackStory_Irene_Child.titleShort>TODO</AK_BackStory_Irene_Child.titleShort>
+
+  <!-- EN: {PAWN_nameDef}后来成为了伊比利亚审判庭的一位审判官，为保护伊比利亚的海岸线而战斗，直到愚人号事件后加入了罗德岛。 -->
+  <AK_BackStory_Irene_Adult.baseDesc>TODO</AK_BackStory_Irene_Adult.baseDesc>
+  <!-- EN: 小审判官 -->
+  <AK_BackStory_Irene_Adult.title>TODO</AK_BackStory_Irene_Adult.title>
+  <!-- EN: 小审判官 -->
+  <AK_BackStory_Irene_Adult.titleShort>TODO</AK_BackStory_Irene_Adult.titleShort>
+     
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 审判官 -->
+  <AK_Trait_Irene.degreeDatas.0.label>TODO</AK_Trait_Irene.degreeDatas.0.label>
+  <!-- EN: 作为一名伊比利亚的审判官，{PAWN_nameDef}的敌人是来自于深海的海嗣，这种特殊的敌人铸就了{PAWN_pronoun}坚韧的精神\n				 -->
+  <AK_Trait_Irene.degreeDatas.0.description>TODO</AK_Trait_Irene.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect -5
+  -Mental break threshold -40%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 审判官 -->
+  <AK_Thought_Trait_Irene.stages.0.label>TODO</AK_Thought_Trait_Irene.stages.0.label>
+  <!-- EN: 那一刻，真相像海潮一样没过我的头顶。动摇，崩溃，绝望？不，我什么都感觉不到。直到我又杀死了一只恐鱼......是啊，原来我战斗，是因为我想活下去。如今的伊比利亚，不也一样吗？ -->
+  <AK_Thought_Trait_Irene.stages.0.description>TODO</AK_Thought_Trait_Irene.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 净化之剑 -->
+  <AK_Weapon_Irene.label>Irene's Weapon</AK_Weapon_Irene.label>
+  <!-- EN: 伊比利亚审判官常用的刺剑”利剑挑破黑夜“ -->
+  <AK_Weapon_Irene.description>TODO</AK_Weapon_Irene.description>

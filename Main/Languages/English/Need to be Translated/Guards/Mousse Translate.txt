@@ -1,0 +1,68 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: In a word, scratch.\nMousse, Guard Operator of Rhodes Island, thinks of her enemies as oversized scratching posts. -->
+  <AK_Recruit_Mousse.description>TODO</AK_Recruit_Mousse.description>
+  <!-- EN: Mousse -->
+  <AK_Recruit_Mousse.name>TODO</AK_Recruit_Mousse.name>
+  <!-- EN: Mousse -->
+  <AK_Recruit_Mousse.nickname>TODO</AK_Recruit_Mousse.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mousse.surname>Guard</AK_Recruit_Mousse.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: 出生在维多利亚王国伦蒂尼姆市一个富裕的大家庭中，干员{PAWN_nameDef}与众多兄弟姐妹相比并不显眼。无论在源石技艺，还是家族传统的金融方面，{PAWN_pronoun}都没有任何天赋。即使如此，{PAWN_possessive}父母也没忽视{PAWN_possessive}成长，对{PAWN_pronoun}无微不至。\n在罹患矿石病前，{PAWN_pronoun}在一家蛋糕店中打工，当{PAWN_pronoun}收到感染，双手开始异化时，家人立刻将其隔离在家中，并在半年后将其送进罗德岛治疗。 -->
+  <AK_BackStory_Mousse_Child.baseDesc>TODO</AK_BackStory_Mousse_Child.baseDesc>
+  <!-- EN: 富家子弟 -->
+  <AK_BackStory_Mousse_Child.title>TODO</AK_BackStory_Mousse_Child.title>
+  <!-- EN: 富家子弟 -->
+  <AK_BackStory_Mousse_Child.titleShort>TODO</AK_BackStory_Mousse_Child.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 敏感的孩子 -->
+  <AK_Trait_Mousse.degreeDatas.0.label>TODO</AK_Trait_Mousse.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}的天性非常敏感，{PAWN_pronoun}并不适应贵族的生活，也不适应与他人相处。{PAWN_pronoun}比起人更亲近她的“猫猫”。 -->
+  <AK_Trait_Mousse.degreeDatas.0.description>TODO</AK_Trait_Mousse.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold +5%
+  -Psychic sensitivity +30%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Mousse does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 慕斯的爪子 -->
+  <AK_Weapon_Mousse.label>Mousse's Weapon</AK_Weapon_Mousse.label>
+  <!-- EN: 慕斯在战斗的诀窍就是把敌人想象成猫抓板，然后挠就完事。 -->
+  <AK_Weapon_Mousse.description>TODO</AK_Weapon_Mousse.description>

@@ -1,0 +1,77 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+	 <!-- EN: Fine her if she triggers the fire alarm again!\nSkyfire, Operator from King's Wand, is ready to burn anyone foolish enough to stand in her way. -->
+  <AK_Recruit_Skyfire.description>TODO</AK_Recruit_Skyfire.description>
+  <!-- EN: Skyfire -->
+  <AK_Recruit_Skyfire.name>TODO</AK_Recruit_Skyfire.name>
+  <!-- EN: Skyfire -->
+  <AK_Recruit_Skyfire.nickname>TODO</AK_Recruit_Skyfire.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Skyfire.surname>TODO</AK_Recruit_Skyfire.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+    <!-- EN: 在加入“王者之杖”前，{PAWN_nameDef}就拥有地质学与源石地质学双学位，并在源石技艺及理论研究方面皆有杰出造诣而闻名。 -->
+  <AK_BackStory_Skyfire_Child.baseDesc>TODO</AK_BackStory_Skyfire_Child.baseDesc>
+  <!-- EN: 维多利亚的大小姐 -->
+  <AK_BackStory_Skyfire_Child.title>TODO</AK_BackStory_Skyfire_Child.title>
+  <!-- EN: 大小姐 -->
+  <AK_BackStory_Skyfire_Child.titleShort>TODO</AK_BackStory_Skyfire_Child.titleShort>
+  
+  <!-- EN: 加入“王者之杖”之后，因为豢养的宠物被整合运动杀死，造成包括{PAWN_nameDef}在内的“王者之杖”成员展开了对整合运动的复仇。并因此与罗德岛展开合作。 -->
+  <AK_BackStory_Skyfire_Adult.baseDesc>TODO</AK_BackStory_Skyfire_Adult.baseDesc>
+  <!-- EN: 王者之杖 -->
+  <AK_BackStory_Skyfire_Adult.title>TODO</AK_BackStory_Skyfire_Adult.title>
+  <!-- EN: 王者之杖 -->
+  <AK_BackStory_Skyfire_Adult.titleShort>TODO</AK_BackStory_Skyfire_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+	<!-- EN: 王者之杖 -->
+  <AK_Trait_Skyfire.degreeDatas.0.label>TODO</AK_Trait_Skyfire.degreeDatas.0.label>
+  <!-- EN: 作为维多利亚最顶尖的源石技艺研究者和天生的天才与贵族，{PAWN_nameDef}毫无疑问的沾染了许多贵族的毛病，虽然{PAWN_possessive}性格并不高傲刻薄，但是{PAWN_possessive}行为方式显然对于{PAWN_possessive}社交与工作都有所不利。 -->
+  <AK_Trait_Skyfire.degreeDatas.0.description>TODO</AK_Trait_Skyfire.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold +5%
+  -Global learning factor +80%
+  -Social impact -15%
+  -Global work speed -10%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+	Skyfire does not have this.
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 天火的法杖 -->
+  <AK_Weapon_Skyfire.label>Skyfire's Weapon</AK_Weapon_Skyfire.label>
+  <!-- EN: 天火的法杖，散发着一股逼人的热气。\n对于天火来说法杖不是用来增强法术的，而是保证法术不会失控的烧掉自己的裙子。 -->
+  <AK_Weapon_Skyfire.description>TODO</AK_Weapon_Skyfire.description>

@@ -1,0 +1,79 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: FIXME -->
+  <AK_Recruit_LaPluma.description>TODO</AK_Recruit_LaPluma.description>
+  <!-- EN: LaPluma -->
+  <AK_Recruit_LaPluma.name>TODO</AK_Recruit_LaPluma.name>
+  <!-- EN: LaPluma -->
+  <AK_Recruit_LaPluma.nickname>TODO</AK_Recruit_LaPluma.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_LaPluma.surname>Guard</AK_Recruit_LaPluma.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: {PAWN_nameDef}曾经是玻利瓦尔一个中尉的女儿，在{PAWN_possessive}父亲死后被交给父亲的老友潘乔抚养。\n在多索雷斯事件后，{PAWN_pronoun}加入罗德岛。 -->
+  <AK_BackStory_LaPluma_Child.baseDesc>TODO</AK_BackStory_LaPluma_Child.baseDesc>
+  <!-- EN: 潘乔的养女 -->
+  <AK_BackStory_LaPluma_Child.title>TODO</AK_BackStory_LaPluma_Child.title>
+  <!-- EN: 潘乔的养女 -->
+  <AK_BackStory_LaPluma_Child.titleShort>TODO</AK_BackStory_LaPluma_Child.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: 放空 -->
+  <AK_Trait_LaPluma.degreeDatas.0.label>TODO</AK_Trait_LaPluma.degreeDatas.0.label>
+  <!-- EN: {PAWN_nameDef}平日里看上去总是很迷糊，性格也有点轻飘飘的感觉\n				 -->
+  <AK_Trait_LaPluma.degreeDatas.0.description>TODO</AK_Trait_LaPluma.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +15
+  -Global learning factor -15%
+  
+  <!-- EN: 适应力 -->
+  <AK_Trait_LaPlumaSecond.degreeDatas.0.label>TODO</AK_Trait_LaPlumaSecond.degreeDatas.0.label>
+  <!-- EN: 不同于平常，{PAWN_nameDef}总能适应战场上的各种情况，并且能够准确的完成所有任务\n				 -->
+  <AK_Trait_LaPlumaSecond.degreeDatas.0.description>TODO</AK_Trait_LaPlumaSecond.degreeDatas.0.description>
+  Effect:
+  -Mental break threshold +20%
+  -Immunity gain speed +100%
+ 
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: 放空 -->
+  <AK_Thought_Trait_LaPluma.stages.0.label>TODO</AK_Thought_Trait_LaPluma.stages.0.label>
+  <!-- EN: 唔......好像走神了。\n				 -->
+  <AK_Thought_Trait_LaPluma.stages.0.description>TODO</AK_Thought_Trait_LaPluma.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: 羽毛笔的镰刀 -->
+  <AK_Weapon_LaPluma.label>LaPluma's Weapon</AK_Weapon_LaPluma.label>
+  <!-- EN: 一把造型奇特的镰刀，收割的是敌人的性命。 -->
+  <AK_Weapon_LaPluma.description>TODO</AK_Weapon_LaPluma.description>

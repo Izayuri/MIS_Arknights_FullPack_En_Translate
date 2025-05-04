@@ -1,0 +1,78 @@
+ OVERALL INSTRUCTIONS DO NOT SKIP!!!
+ Above each line of code is a line that starts with EN:
+ These are either carryover English lines that need a second draft OR Chinese characters
+ If they are Chinese characters, use Google Translate to direct translate them, then use your eyes, hands and brain together
+ in order to make it into proper, readable English. **This is the primary purpose of your help.**
+ 
+ SYNTAX INFORMATION!!!
+ If your Chinese characters that needs to be translated (or even if it's English)
+ and has ANYTHING inside wavy bracket {these things} such as {PAWN_pronoun}
+ LEAVE THEM ALONE, they are crucial to the function. Unless you want to replace them with a
+ gender neutral term to make the text flow better, in which case you can just type that in instead.
+ 
+ Instructions:
+ Description: a short character summary. Some units have one as a carryover from earlier versions.
+ Feel free to change it if it doesn't feel suitable.
+ Name: Operator's codename.
+ Nickname: If an Operator has a canonical nickname they go by.
+ Surname: Operator's overall class. Caster, Defender, so on.
+ 
+  <!-- EN: Her madness is terrifying.\nSpecter from the Abyssal Hunters is already done with her prayer and is now prowling the battlefield. -->
+  <AK_Recruit_Specter.description>Her madness is terrifying.\nSpecter from the Abyssal Hunters is already done with her prayer and is now prowling the battlefield.</AK_Recruit_Specter.description>
+  <!-- EN: Laurentina -->
+  <AK_Recruit_Specter.name>Laurentina</AK_Recruit_Specter.name>
+  <!-- EN: Specter -->
+  <AK_Recruit_Specter.nickname>Specter</AK_Recruit_Specter.nickname>
+  <!-- EN: Centurion -->
+  <AK_Recruit_Specter.surname>Guard</AK_Recruit_Specter.surname>
+ 
+ Instructions:
+ BaseDesc: Lore snippet about their backstory.
+ Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
+ TitleShort: Operator's specific class. Guardian, Charger, so on.
+ 
+  <!-- EN: Her parents work had given her access to all she needed. To Specter, art is the natural expectation bestowed upon her by Ægir society, and her own life's pursuit. Amongst the various mediums of art in Ægir, sculpting had left its imprint on Specter. It was a snow-white sculpture, the instant her eyes laid upon it, time seemed to stand still. She indulged in the eternal giant before her, realising what true art and beauty is. Although she didn't understand the idea behind the creation, the emotional expressivity have long home in Specter. She hoped to one day be a sculptor herself, one acknowledge by Ægir. One day, Lauretina would be able to create her own sculptures. Had she not become an Abyssal Hunter。 -->
+  <AK_BackStory_Specter_Child.baseDesc>Her parents work had given her access to all she needed. To Specter, art is the natural expectation bestowed upon her by Ægir society, and her own life's pursuit. Amongst the various mediums of art in Ægir, sculpting had left its imprint on Specter. It was a snow-white sculpture, the instant her eyes laid upon it, time seemed to stand still. She indulged in the eternal giant before her, realising what true art and beauty is. Although she didn't understand the idea behind the creation, the emotional expressivity have long home in Specter. She hoped to one day be a sculptor herself, one acknowledge by Ægir. One day, Lauretina would be able to create her own sculptures - had she not become an Abyssal Hunter.</AK_BackStory_Specter_Child.baseDesc>
+  <!-- EN: Beauty Incomplete -->
+  <AK_BackStory_Specter_Child.title> Beauty Incomplete</AK_BackStory_Specter_Child.title>
+  <!-- EN: Incomplete Beauty -->
+  <AK_BackStory_Specter_Child.titleShort>Centurion</AK_BackStory_Specter_Child.titleShort>
+
+  <!-- EN: They had found the nest; the residence of a Firstborn, Ishar'mla. They had begun a siege to exterminate the Firstborn, what would be a victory of untold magnitude, but the result was far from favourable. The first and the fourth company perished, one after another, all to create an opening for the third. The second company had remained to guard the entrance to the "nest." Although the Firstborn was felled, the losses were untold. The Abyssal Hunter, Laurentina, had washed ashore. She was discovered by a Church, who had taken her in. She was sliced. Then healed. Then sliced. Then healed. Until, they sliced Laurentina with a Specter, and leaving the seeds of land to bloom。 -->
+  <AK_BackStory_Specter_Adult.baseDesc>They had found the nest; the residence of a Firstborn, Ishar'mla. They had begun a siege to exterminate the Firstborn, what would be a victory of untold magnitude, but the result was far from favourable. The first and the fourth company perished, one after another, all to create an opening for the third. The second company had remained to guard the entrance to the "nest." Although the Firstborn was felled, the losses were untold. The Abyssal Hunter, Laurentina, had washed ashore. She was discovered by a Church, who had taken her in. She was sliced. Then healed. Then sliced. Then healed. Until, they sliced Laurentina with a Specter, and leaving the seeds of land to bloom.</AK_BackStory_Specter_Adult.baseDesc>
+  <!-- EN: Through the candlelight -->
+  <AK_BackStory_Specter_Adult.title>Through The Candlelight</AK_BackStory_Specter_Adult.title>
+  <!-- EN: Candlelight -->
+  <AK_BackStory_Specter_Adult.titleShort>Centurion</AK_BackStory_Specter_Adult.titleShort>
+   
+ Instructions:
+ Label: Something about the unit that makes them special. Module names are good.
+ Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
+ Effect: In game effect of what the trait does. Can help shape what you're writing.
+ 
+  <!-- EN: Torn Ego -->
+  <AK_Trait_Specter.degreeDatas.0.label>Torn Ego</AK_Trait_Specter.degreeDatas.0.label>
+  <!-- EN: Memory loss, emotional instability and lack of self-awareness. Laurentina was cut into a Specter. Lucidity is temporary, and she will soon lapse into psychosis. Her mental condition remains unstable, limiting her social interactions 。 -->
+  <AK_Trait_Specter.degreeDatas.0.description>Memory loss, emotional instability and lack of self-awareness. Laurentina was cut into a Specter. Lucidity is temporary, and she will soon lapse into psychosis. Her mental condition remains unstable, limiting her social interactions.</AK_Trait_Specter.degreeDatas.0.description>
+  Effect:
+  -Permanent mood effect +15
+  -Mental break threshold -10%
+  
+  Instructions:
+ These are directly tied to any mood/happiness changes from the above traits
+ Label: Name of affliction/thought process/state of mind
+ Description: Characters thoughts about their life/situation
+ 
+  <!-- EN: Torn Ego -->
+  <AK_Thought_Trait_Specter.stages.0.label>Torn Ego</AK_Thought_Trait_Specter.stages.0.label>
+  <!-- EN: Hehehe... Cutting things... Cutting things is such fun... Yes, some things were disconnected from the very beginning, their integrity only a false fiction...				 -->
+  <AK_Thought_Trait_Specter.stages.0.description>Hehehe... Cutting things... Cutting things is such fun... Yes, some things were disconnected from the very beginning, their integrity only a false fiction...</AK_Thought_Trait_Specter.stages.0.description>
+  
+ Instructions:
+ Label: The weapon's name, if you wish to change it.
+ Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
+  
+  <!-- EN: Sculptors saw blade -->
+  <AK_Weapon_Specter.label>Sculptors Sawblade</AK_Weapon_Specter.label>
+  <!-- EN: A large, circular saw with a long handle of Rim Billington issue. A mechanism is attached to the blade to allow it to begin spinning at will of Specter. It is made with impressive craftsmanship, as withstanding the unprecedented degrees of force applied to it is no small task. The circular saw is a tool of unwavering destruction; enemy or ally, alive or dead。 -->
+  <AK_Weapon_Specter.description>A large, circular saw with a long handle of Rim Billington issue. A mechanism is attached to the blade to allow it to begin spinning at will of Specter. It is made with impressive craftsmanship, as withstanding the unprecedented degrees of force applied to it is no small task. The circular saw is a tool of unwavering destruction; enemy or ally, alive or dead.</AK_Weapon_Specter.description>
