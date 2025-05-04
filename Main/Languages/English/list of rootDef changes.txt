@@ -1,0 +1,16 @@
+Recruit_Caster
+
+Added Unknown Child/Adulthood translation - no effects
+
+
+Story_Defender
+
+Recruit_Guard
+Added Whislash Trait - Knights of Kaz
+
+Recruit_Supporter
+Added Ursus Student Trait to Rosa
+
+ENGLISH CHANGES
+ADDED TRANSLATION FOR URSUS STUDENT - Backstory_Caster
+ADDED TRANSLATION FOR ABYSSAL HUNTER - Trait_Personal and Thought_Guard
