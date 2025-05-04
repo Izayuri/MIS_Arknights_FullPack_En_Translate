@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 食品空投 -->
+  <AKA_Ability_FoodDrop.label>食品空投</AKA_Ability_FoodDrop.label>
+  <!-- EN: 呼叫空投 30 份包装食品 -->
+  <AKA_Ability_FoodDrop.description>呼叫空投 30 份包装食品</AKA_Ability_FoodDrop.description>
+  
+  <!-- EN: 医药空投 -->
+  <AKA_Ability_MedicineDrop.label>医药空投</AKA_Ability_MedicineDrop.label>
+  <!-- EN: 呼叫空投 30 个医药 -->
+  <AKA_Ability_MedicineDrop.description>呼叫空投 30 个医药</AKA_Ability_MedicineDrop.description>
+  
+  <!-- EN: 金钱空投 -->
+  <AKA_Ability_PoorCashDrop.label>金钱空投</AKA_Ability_PoorCashDrop.label>
+  <!-- EN: 呼叫空投 1000 个银子 -->
+  <AKA_Ability_PoorCashDrop.description>呼叫空投 1000 个银子</AKA_Ability_PoorCashDrop.description>
+  
+  <!-- EN: 燃料空投 -->
+  <AKA_Ability_PoorFuelDrop.label>燃料空投</AKA_Ability_PoorFuelDrop.label>
+  <!-- EN: 呼叫空投 200 个化合燃料 -->
+  <AKA_Ability_PoorFuelDrop.description>呼叫空投 200 个化合燃料</AKA_Ability_PoorFuelDrop.description>
+  
+  <!-- EN: 随机普通品质空投 -->
+  <AKA_Ability_RandomNormalDrop.label>随机普通品质空投</AKA_Ability_RandomNormalDrop.label>
+  <!-- EN: desc -->
+  <AKA_Ability_RandomNormalDrop.description>desc</AKA_Ability_RandomNormalDrop.description>
+  
+  <!-- EN: 钢铁空投 -->
+  <AKA_Ability_SteelDrop.label>钢铁空投</AKA_Ability_SteelDrop.label>
+  <!-- EN: 呼叫空投 250 个钢铁 -->
+  <AKA_Ability_SteelDrop.description>呼叫空投 250 个钢铁</AKA_Ability_SteelDrop.description>
+  
+  <!-- EN: 资源空投 -->
+  <AKA_Ability_WoodDrop.label>资源空投</AKA_Ability_WoodDrop.label>
+  <!-- EN: 呼叫空投 250 个木材 -->
+  <AKA_Ability_WoodDrop.description>呼叫空投 250 个木材</AKA_Ability_WoodDrop.description>
+  
+  <!-- EN: 破烂 武器空投 -->
+  <AKA_PoorWeaponsDrop.label>破烂 武器空投</AKA_PoorWeaponsDrop.label>
+  <!-- EN: 呼叫空投 3 随机武器, 最高品质为 破烂 -->
+  <AKA_PoorWeaponsDrop.description>呼叫空投 3 随机武器, 最高品质为 破烂</AKA_PoorWeaponsDrop.description>
+  
+</LanguageData>

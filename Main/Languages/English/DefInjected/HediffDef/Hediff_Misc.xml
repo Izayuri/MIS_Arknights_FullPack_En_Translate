@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 迷彩 -->
+  <AK_Hediff_Camouflage.label>迷彩</AK_Hediff_Camouflage.label>
+  <!-- EN: 迷彩desc -->
+  <AK_Hediff_Camouflage.description>迷彩desc</AK_Hediff_Camouflage.description>
+  
+  <!-- EN: 博士 -->
+  <AK_Hediff_DoctorScenario.label>博士</AK_Hediff_DoctorScenario.label>
+  <!-- EN: 博士 -->
+  <AK_Hediff_DoctorScenario.description>博士</AK_Hediff_DoctorScenario.description>
+  <!-- EN: 博士 -->
+  <AK_Hediff_DoctorScenario.labelNoun>博士</AK_Hediff_DoctorScenario.labelNoun>
+  
+</LanguageData>

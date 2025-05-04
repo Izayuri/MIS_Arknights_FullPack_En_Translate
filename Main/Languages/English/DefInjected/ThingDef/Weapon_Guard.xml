@@ -1,0 +1,565 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 斧枪的子弹 -->
+  <AK_Bullet_Frostleaf.label>斧枪的子弹</AK_Bullet_Frostleaf.label>
+  
+  <!-- EN: 狼魂 -->
+  <AK_Bullet_Lappland.label>狼魂</AK_Bullet_Lappland.label>
+  
+  <!-- EN: 剑气穿刺 -->
+  <AK_Bullet_Qiubai.label>剑气穿刺</AK_Bullet_Qiubai.label>
+  
+  <!-- EN: 丹增 -->
+  <AK_Bullet_Silverash.label>丹增</AK_Bullet_Silverash.label>
+  
+  <!-- EN: 至高之术 -->
+  <AK_Bullet_Thorns.label>至高之术</AK_Bullet_Thorns.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Viviana.label>法术射击</AK_Bullet_Viviana.label>
+  
+  <!-- EN: 星辉剑 -->
+  <AK_Weapon_Astesia.label>星辉剑</AK_Weapon_Astesia.label>
+  <!-- EN: 我之剑光，即为星光！ -->
+  <AK_Weapon_Astesia.description>我之剑光，即为星光！</AK_Weapon_Astesia.description>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Astesia.tools.0.label>剑柄猛砸</AK_Weapon_Astesia.tools.0.label>
+  <!-- EN: 法术剑捅 -->
+  <AK_Weapon_Astesia.tools.1.label>法术剑捅</AK_Weapon_Astesia.tools.1.label>
+  <!-- EN: 法术剑刺 -->
+  <AK_Weapon_Astesia.tools.2.label>法术剑刺</AK_Weapon_Astesia.tools.2.label>
+  <!-- EN: 法术剑刺 -->
+  <AK_Weapon_Astesia.tools.3.label>法术剑刺</AK_Weapon_Astesia.tools.3.label>
+  
+  <!-- EN: 星极-奇工妙想的星辉剑 -->
+  <AK_Weapon_AstesiaFantasticCrafts.label>星极-奇工妙想的星辉剑</AK_Weapon_AstesiaFantasticCrafts.label>
+  <!-- EN: 我之剑光，即为星光！ -->
+  <AK_Weapon_AstesiaFantasticCrafts.description>我之剑光，即为星光！</AK_Weapon_AstesiaFantasticCrafts.description>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_AstesiaFantasticCrafts.tools.0.label>剑柄猛砸</AK_Weapon_AstesiaFantasticCrafts.tools.0.label>
+  <!-- EN: 法术剑捅 -->
+  <AK_Weapon_AstesiaFantasticCrafts.tools.1.label>法术剑捅</AK_Weapon_AstesiaFantasticCrafts.tools.1.label>
+  <!-- EN: 法术剑刺 -->
+  <AK_Weapon_AstesiaFantasticCrafts.tools.2.label>法术剑刺</AK_Weapon_AstesiaFantasticCrafts.tools.2.label>
+  <!-- EN: 法术剑刺 -->
+  <AK_Weapon_AstesiaFantasticCrafts.tools.3.label>法术剑刺</AK_Weapon_AstesiaFantasticCrafts.tools.3.label>
+  
+  <!-- EN: 链锯 -->
+  <AK_Weapon_Blaze.label>链锯</AK_Weapon_Blaze.label>
+  <!-- EN: 罗德岛为精英干员打造的链锯，能够轻而易举破开铜墙铁壁。\n煌很喜欢用它来切西瓜。 -->
+  <AK_Weapon_Blaze.description>罗德岛为精英干员打造的链锯，能够轻而易举破开铜墙铁壁。
+煌很喜欢用它来切西瓜。</AK_Weapon_Blaze.description>
+  <!-- EN: 电锯猛砸 -->
+  <AK_Weapon_Blaze.tools.0.label>电锯猛砸</AK_Weapon_Blaze.tools.0.label>
+  <!-- EN: 快档切割 -->
+  <AK_Weapon_Blaze.tools.1.label>快档切割</AK_Weapon_Blaze.tools.1.label>
+  <!-- EN: 慢档切割 -->
+  <AK_Weapon_Blaze.tools.2.label>慢档切割</AK_Weapon_Blaze.tools.2.label>
+  
+  <!-- EN: 龙门制式长刀 -->
+  <AK_Weapon_ChenA.label>龙门制式长刀</AK_Weapon_ChenA.label>
+  <!-- EN: 赤霄不总是响应陈的召唤，因此她需要另一把武器去应付平时的战斗。 -->
+  <AK_Weapon_ChenA.description>赤霄不总是响应陈的召唤，因此她需要另一把武器去应付平时的战斗。</AK_Weapon_ChenA.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_ChenA.tools.0.label>剑捅</AK_Weapon_ChenA.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_ChenA.tools.1.label>剑柄猛砸</AK_Weapon_ChenA.tools.1.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_ChenA.tools.2.label>剑刺</AK_Weapon_ChenA.tools.2.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_ChenA.tools.3.label>剑劈</AK_Weapon_ChenA.tools.3.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_ChenA.tools.4.label>飞踢</AK_Weapon_ChenA.tools.4.label>
+  
+  <!-- EN: 赤霄 -->
+  <AK_Weapon_ChenB.label>赤霄</AK_Weapon_ChenB.label>
+  <!-- EN: 斩龙之剑 -->
+  <AK_Weapon_ChenB.description>斩龙之剑</AK_Weapon_ChenB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_ChenB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_ChenB.tools.0.label>
+  
+  <!-- EN: 重岳的拳套 -->
+  <AK_Weapon_Chongyue.label>重岳的拳套</AK_Weapon_Chongyue.label>
+  <!-- EN: 一对严重磨损的拳套，留下了无数搏击练习的痕迹。\n重岳从来不会仰仗神力和法术，他的武功都是实打实的，就像这双拳套一样 -->
+  <AK_Weapon_Chongyue.description>一对严重磨损的拳套，留下了无数搏击练习的痕迹。
+重岳从来不会仰仗神力和法术，他的武功都是实打实的，就像这双拳套一样</AK_Weapon_Chongyue.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Chongyue.tools.0.label>拳击</AK_Weapon_Chongyue.tools.0.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_Chongyue.tools.1.label>飞踢</AK_Weapon_Chongyue.tools.1.label>
+  <!-- EN: 手刀 -->
+  <AK_Weapon_Chongyue.tools.2.label>手刀</AK_Weapon_Chongyue.tools.2.label>
+  <!-- EN: 掌击 -->
+  <AK_Weapon_Chongyue.tools.3.label>掌击</AK_Weapon_Chongyue.tools.3.label>
+  
+  <!-- EN: 刻刀的长刀 -->
+  <AK_Weapon_Cutter.label>刻刀的长刀</AK_Weapon_Cutter.label>
+  <!-- EN: 自刻刀懂事以来这对长刀就一直伴随着她，这对长刀只为正确的事而挥动。 -->
+  <AK_Weapon_Cutter.description>自刻刀懂事以来这对长刀就一直伴随着她，这对长刀只为正确的事而挥动。</AK_Weapon_Cutter.description>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Cutter.tools.0.label>刀柄猛砸</AK_Weapon_Cutter.tools.0.label>
+  <!-- EN: 刀砍 -->
+  <AK_Weapon_Cutter.tools.1.label>刀砍</AK_Weapon_Cutter.tools.1.label>
+  
+  <!-- EN: 达格达的右爪 -->
+  <AK_Weapon_Dagda.label>达格达的右爪</AK_Weapon_Dagda.label>
+  <!-- EN: 达格达的钢爪，她认为很酷，但是问她本人她是不会承认的。 -->
+  <AK_Weapon_Dagda.description>达格达的钢爪，她认为很酷，但是问她本人她是不会承认的。</AK_Weapon_Dagda.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Dagda.tools.0.label>拳击</AK_Weapon_Dagda.tools.0.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_Dagda.tools.1.label>飞踢</AK_Weapon_Dagda.tools.1.label>
+  <!-- EN: 拳刺 -->
+  <AK_Weapon_Dagda.tools.2.label>拳刺</AK_Weapon_Dagda.tools.2.label>
+  
+  <!-- EN: 达格达的左爪 -->
+  <AK_Weapon_DagdaB.label>达格达的左爪</AK_Weapon_DagdaB.label>
+  <!-- EN: 达格达的钢爪，她认为很酷，但是问她本人她是不会承认的。 -->
+  <AK_Weapon_DagdaB.description>达格达的钢爪，她认为很酷，但是问她本人她是不会承认的。</AK_Weapon_DagdaB.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_DagdaB.tools.0.label>拳击</AK_Weapon_DagdaB.tools.0.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_DagdaB.tools.1.label>飞踢</AK_Weapon_DagdaB.tools.1.label>
+  <!-- EN: 拳刺 -->
+  <AK_Weapon_DagdaB.tools.2.label>拳刺</AK_Weapon_DagdaB.tools.2.label>
+  
+  <!-- EN: 锏的剑 -->
+  <AK_Weapon_DegenbrecherA.label>锏的剑</AK_Weapon_DegenbrecherA.label>
+  <!-- EN: 锏的双刀的其中一把，较长而直。 -->
+  <AK_Weapon_DegenbrecherA.description>锏的双刀的其中一把，较长而直。</AK_Weapon_DegenbrecherA.description>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_DegenbrecherA.tools.0.label>劈砍</AK_Weapon_DegenbrecherA.tools.0.label>
+  <!-- EN: 刀击 -->
+  <AK_Weapon_DegenbrecherA.tools.1.label>刀击</AK_Weapon_DegenbrecherA.tools.1.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_DegenbrecherA.tools.2.label>刀柄猛砸</AK_Weapon_DegenbrecherA.tools.2.label>
+  
+  <!-- EN: 锏的锏 -->
+  <AK_Weapon_DegenbrecherB.label>锏的锏</AK_Weapon_DegenbrecherB.label>
+  <!-- EN: 锏的双刀的其中一把，较短而弯。 -->
+  <AK_Weapon_DegenbrecherB.description>锏的双刀的其中一把，较短而弯。</AK_Weapon_DegenbrecherB.description>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_DegenbrecherB.tools.0.label>劈砍</AK_Weapon_DegenbrecherB.tools.0.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_DegenbrecherB.tools.1.label>刀劈</AK_Weapon_DegenbrecherB.tools.1.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_DegenbrecherB.tools.2.label>刀柄猛砸</AK_Weapon_DegenbrecherB.tools.2.label>
+  
+  <!-- EN: 艾斯黛尔的手套 -->
+  <AK_Weapon_Estelle.label>艾斯黛尔的手套</AK_Weapon_Estelle.label>
+  <!-- EN: 结实的手套，耐割耐磨，防水防火。\n她确实是怪胎，但她是想守护所有人的怪胎。 -->
+  <AK_Weapon_Estelle.description>结实的手套，耐割耐磨，防水防火。
+她确实是怪胎，但她是想守护所有人的怪胎。</AK_Weapon_Estelle.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Estelle.tools.0.label>拳击</AK_Weapon_Estelle.tools.0.label>
+  
+  <!-- EN: 燧石的拳套 -->
+  <AK_Weapon_Flint.label>燧石的拳套</AK_Weapon_Flint.label>
+  <!-- EN: 做工粗糙的拳套，有着严重的破损。\n绝不要因个头而看轻她。萨尔贡的战士从不畏惧挑战。 -->
+  <AK_Weapon_Flint.description>做工粗糙的拳套，有着严重的破损。
+绝不要因个头而看轻她。萨尔贡的战士从不畏惧挑战。</AK_Weapon_Flint.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Flint.tools.0.label>拳击</AK_Weapon_Flint.tools.0.label>
+  <!-- EN: 撕咬 -->
+  <AK_Weapon_Flint.tools.1.label>撕咬</AK_Weapon_Flint.tools.1.label>
+  
+  <!-- EN: 铝热剑 -->
+  <AK_Weapon_Franka.label>铝热剑</AK_Weapon_Franka.label>
+  <!-- EN: 黑钢配发的铝热剑，能够发挥出强大的破甲能力。\n不过芙兰卡更喜欢拿她去捉弄人。 -->
+  <AK_Weapon_Franka.description>黑钢配发的铝热剑，能够发挥出强大的破甲能力。
+不过芙兰卡更喜欢拿她去捉弄人。</AK_Weapon_Franka.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Franka.tools.0.label>剑捅</AK_Weapon_Franka.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Franka.tools.1.label>剑柄猛砸</AK_Weapon_Franka.tools.1.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Franka.tools.2.label>剑刺</AK_Weapon_Franka.tools.2.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_Franka.tools.3.label>剑劈</AK_Weapon_Franka.tools.3.label>
+  
+  <!-- EN: 霜叶的斧枪 -->
+  <AK_Weapon_Frostleaf.label>霜叶的斧枪</AK_Weapon_Frostleaf.label>
+  <!-- EN: 一把略有磨损的斧枪，哥伦比亚少年兵经常使用这把武器。也夺走了同样多的少年的生命。 -->
+  <AK_Weapon_Frostleaf.description>一把略有磨损的斧枪，哥伦比亚少年兵经常使用这把武器。也夺走了同样多的少年的生命。</AK_Weapon_Frostleaf.description>
+  <!-- EN: 枪刺 -->
+  <AK_Weapon_Frostleaf.tools.0.label>枪刺</AK_Weapon_Frostleaf.tools.0.label>
+  <!-- EN: 斧砍  -->
+  <AK_Weapon_Frostleaf.tools.1.label>斧砍 </AK_Weapon_Frostleaf.tools.1.label>
+  <!-- EN: 斧柄猛砸 -->
+  <AK_Weapon_Frostleaf.tools.2.label>斧柄猛砸</AK_Weapon_Frostleaf.tools.2.label>
+  <!-- EN: 枪捅 -->
+  <AK_Weapon_Frostleaf.tools.3.label>枪捅</AK_Weapon_Frostleaf.tools.3.label>
+  <!-- EN: 霜叶的斧枪 -->
+  <AK_Weapon_Frostleaf.verbs.Verb_Shoot.label>霜叶的斧枪</AK_Weapon_Frostleaf.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 因陀罗的指虎 -->
+  <AK_Weapon_Indra.label>因陀罗的指虎</AK_Weapon_Indra.label>
+  <!-- EN: 因陀罗的指虎，下置了一个尖刀，可以刺或捅。 -->
+  <AK_Weapon_Indra.description>因陀罗的指虎，下置了一个尖刀，可以刺或捅。</AK_Weapon_Indra.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Indra.tools.0.label>拳击</AK_Weapon_Indra.tools.0.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_Indra.tools.1.label>飞踢</AK_Weapon_Indra.tools.1.label>
+  <!-- EN: 拳刺 -->
+  <AK_Weapon_Indra.tools.2.label>拳刺</AK_Weapon_Indra.tools.2.label>
+  <!-- EN: 掌劈 -->
+  <AK_Weapon_Indra.tools.3.label>掌劈</AK_Weapon_Indra.tools.3.label>
+  
+  <!-- EN: 嘉维尔的折磨 -->
+  <AK_Weapon_InvincibleA.label>嘉维尔的折磨</AK_Weapon_InvincibleA.label>
+  <!-- EN: 锯链上没有杂物，传动轴上的油很新，手把绑带也更换过。传动系统运转良好，供能系统稳定。 -->
+  <AK_Weapon_InvincibleA.description>锯链上没有杂物，传动轴上的油很新，手把绑带也更换过。传动系统运转良好，供能系统稳定。</AK_Weapon_InvincibleA.description>
+  <!-- EN: 锯刃 -->
+  <AK_Weapon_InvincibleA.tools.0.label>锯刃</AK_Weapon_InvincibleA.tools.0.label>
+  
+  <!-- EN: 嘉维尔的美德 -->
+  <AK_Weapon_InvincibleB.label>嘉维尔的美德</AK_Weapon_InvincibleB.label>
+  <!-- EN: “嘉维尔曾经用那把大斧在阿卡胡拉的最高峰一击劈出一道瀑布，那道瀑布成了阿卡胡拉的地标” -->
+  <AK_Weapon_InvincibleB.description>“嘉维尔曾经用那把大斧在阿卡胡拉的最高峰一击劈出一道瀑布，那道瀑布成了阿卡胡拉的地标”</AK_Weapon_InvincibleB.description>
+  <!-- EN: 斧刃砍击 -->
+  <AK_Weapon_InvincibleB.tools.0.label>斧刃砍击</AK_Weapon_InvincibleB.tools.0.label>
+  <!-- EN: 斧柄猛砸 -->
+  <AK_Weapon_InvincibleB.tools.1.label>斧柄猛砸</AK_Weapon_InvincibleB.tools.1.label>
+  
+  <!-- EN: 净化之剑 -->
+  <AK_Weapon_Irene.label>净化之剑</AK_Weapon_Irene.label>
+  <!-- EN: 伊比利亚审判官常用的刺剑”利剑挑破黑夜“。 -->
+  <AK_Weapon_Irene.description>伊比利亚审判官常用的刺剑”利剑挑破黑夜“。</AK_Weapon_Irene.description>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Irene.tools.0.label>剑柄猛砸</AK_Weapon_Irene.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Irene.tools.1.label>剑捅</AK_Weapon_Irene.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Irene.tools.2.label>剑砍</AK_Weapon_Irene.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Irene.tools.3.label>剑刺</AK_Weapon_Irene.tools.3.label>
+  
+  <!-- EN: 审判之铳 -->
+  <AK_Weapon_IreneTypeB.label>审判之铳</AK_Weapon_IreneTypeB.label>
+  <!-- EN: 伊比利亚审判官常用的手泡”铳弹净化邪恶“。 -->
+  <AK_Weapon_IreneTypeB.description>伊比利亚审判官常用的手泡”铳弹净化邪恶“。</AK_Weapon_IreneTypeB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_IreneTypeB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_IreneTypeB.tools.0.label>
+  
+  <!-- EN: 杰克的拳套 -->
+  <AK_Weapon_Jackie.label>杰克的拳套</AK_Weapon_Jackie.label>
+  <!-- EN: 给你一拳！ -->
+  <AK_Weapon_Jackie.description>给你一拳！</AK_Weapon_Jackie.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Jackie.tools.0.label>拳击</AK_Weapon_Jackie.tools.0.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_Jackie.tools.1.label>飞踢</AK_Weapon_Jackie.tools.1.label>
+  
+  <!-- EN: 羽毛笔的镰刀 -->
+  <AK_Weapon_LaPluma.label>羽毛笔的镰刀</AK_Weapon_LaPluma.label>
+  <!-- EN: 一把造型奇特的镰刀，收割的是敌人的性命。 -->
+  <AK_Weapon_LaPluma.description>一把造型奇特的镰刀，收割的是敌人的性命。</AK_Weapon_LaPluma.description>
+  <!-- EN: 镰柄猛砸 -->
+  <AK_Weapon_LaPluma.tools.0.label>镰柄猛砸</AK_Weapon_LaPluma.tools.0.label>
+  <!-- EN: 镰刀砍 -->
+  <AK_Weapon_LaPluma.tools.1.label>镰刀砍</AK_Weapon_LaPluma.tools.1.label>
+  
+  <!-- EN: 羽毛笔-夏卉的镰刀 -->
+  <AK_Weapon_LaPlumaSummerFlower.label>羽毛笔-夏卉的镰刀</AK_Weapon_LaPlumaSummerFlower.label>
+  <!-- EN: 一把造型奇特的镰刀，收割的是敌人的性命。 -->
+  <AK_Weapon_LaPlumaSummerFlower.description>一把造型奇特的镰刀，收割的是敌人的性命。</AK_Weapon_LaPlumaSummerFlower.description>
+  <!-- EN: 镰柄猛砸 -->
+  <AK_Weapon_LaPlumaSummerFlower.tools.0.label>镰柄猛砸</AK_Weapon_LaPlumaSummerFlower.tools.0.label>
+  <!-- EN: 镰刀砍 -->
+  <AK_Weapon_LaPlumaSummerFlower.tools.1.label>镰刀砍</AK_Weapon_LaPlumaSummerFlower.tools.1.label>
+  
+  <!-- EN: 日晷剑 -->
+  <AK_Weapon_Lappland.label>日晷剑</AK_Weapon_Lappland.label>
+  <!-- EN: 充满了杀气的剑，伴随了她的主人经历过无数次搏命的厮杀。\n拉普兰德渴望力量，渴望战斗，这把剑就是最好的证明。 -->
+  <AK_Weapon_Lappland.description>充满了杀气的剑，伴随了她的主人经历过无数次搏命的厮杀。
+拉普兰德渴望力量，渴望战斗，这把剑就是最好的证明。</AK_Weapon_Lappland.description>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Lappland.tools.0.label>剑刺</AK_Weapon_Lappland.tools.0.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Lappland.tools.1.label>剑砍</AK_Weapon_Lappland.tools.1.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Lappland.tools.2.label>剑柄猛砸</AK_Weapon_Lappland.tools.2.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Lappland.tools.3.label>剑捅</AK_Weapon_Lappland.tools.3.label>
+  <!-- EN: 日晷剑 -->
+  <AK_Weapon_Lappland.verbs.Verb_Shoot.label>日晷剑</AK_Weapon_Lappland.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “卡西米尔之勋” -->
+  <AK_Weapon_Maynar.label>“卡西米尔之勋”</AK_Weapon_Maynar.label>
+  <!-- EN: 剑？......是能用的。一直是同一柄剑。 -->
+  <AK_Weapon_Maynar.description>剑？......是能用的。一直是同一柄剑。</AK_Weapon_Maynar.description>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Maynar.tools.0.label>剑柄猛砸</AK_Weapon_Maynar.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Maynar.tools.1.label>剑捅</AK_Weapon_Maynar.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Maynar.tools.2.label>剑砍</AK_Weapon_Maynar.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Maynar.tools.3.label>剑刺</AK_Weapon_Maynar.tools.3.label>
+  
+  <!-- EN: 摩根的大刀 -->
+  <AK_Weapon_Morgan.label>摩根的大刀</AK_Weapon_Morgan.label>
+  <!-- EN: 摩根的砍刀，她擅长挥舞着它冲入敌阵。但是打架也是有章法的。 -->
+  <AK_Weapon_Morgan.description>摩根的砍刀，她擅长挥舞着它冲入敌阵。但是打架也是有章法的。</AK_Weapon_Morgan.description>
+  <!-- EN: 重击 -->
+  <AK_Weapon_Morgan.tools.0.label>重击</AK_Weapon_Morgan.tools.0.label>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_Morgan.tools.1.label>劈砍</AK_Weapon_Morgan.tools.1.label>
+  <!-- EN: 猛砸 -->
+  <AK_Weapon_Morgan.tools.2.label>猛砸</AK_Weapon_Morgan.tools.2.label>
+  
+  <!-- EN: 慕斯的爪子 -->
+  <AK_Weapon_Mousse.label>慕斯的爪子</AK_Weapon_Mousse.label>
+  <!-- EN: 慕斯在战斗的诀窍就是把敌人想象成猫抓板，然后挠就完事。 -->
+  <AK_Weapon_Mousse.description>慕斯在战斗的诀窍就是把敌人想象成猫抓板，然后挠就完事。</AK_Weapon_Mousse.description>
+  <!-- EN: 暴打 -->
+  <AK_Weapon_Mousse.tools.0.label>暴打</AK_Weapon_Mousse.tools.0.label>
+  <!-- EN: 挠 -->
+  <AK_Weapon_Mousse.tools.1.label>挠</AK_Weapon_Mousse.tools.1.label>
+  
+  <!-- EN: “故乡的山岩” -->
+  <AK_Weapon_Pallas.label>“故乡的山岩”</AK_Weapon_Pallas.label>
+  <!-- EN: 一把造型古朴的流星锤，伴随着帕拉斯从米诺斯的中心来到边疆。\n胜利女神离开了万神殿，但是她的光芒不会随之黯淡。 -->
+  <AK_Weapon_Pallas.description>一把造型古朴的流星锤，伴随着帕拉斯从米诺斯的中心来到边疆。
+胜利女神离开了万神殿，但是她的光芒不会随之黯淡。</AK_Weapon_Pallas.description>
+  <!-- EN: 流星锤击 -->
+  <AK_Weapon_Pallas.tools.0.label>流星锤击</AK_Weapon_Pallas.tools.0.label>
+  
+  <!-- EN: 仇白之剑 -->
+  <AK_Weapon_Qiubai.label>仇白之剑</AK_Weapon_Qiubai.label>
+  <!-- EN: 仇白出剑从不按照所谓剑法，她只在最合适的时机出剑。 -->
+  <AK_Weapon_Qiubai.description>仇白出剑从不按照所谓剑法，她只在最合适的时机出剑。</AK_Weapon_Qiubai.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Qiubai.tools.0.label>拳击</AK_Weapon_Qiubai.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Qiubai.tools.1.label>剑捅</AK_Weapon_Qiubai.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Qiubai.tools.2.label>剑砍</AK_Weapon_Qiubai.tools.2.label>
+  <!-- EN: 飞踢 -->
+  <AK_Weapon_Qiubai.tools.3.label>飞踢</AK_Weapon_Qiubai.tools.3.label>
+  <!-- EN: 仇白之剑 -->
+  <AK_Weapon_Qiubai.verbs.Verb_Shoot.label>仇白之剑</AK_Weapon_Qiubai.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 耀阳锋刃 -->
+  <AK_Weapon_RadiantKnight.label>耀阳锋刃</AK_Weapon_RadiantKnight.label>
+  <!-- EN: 耀骑士降临大地，烈阳为她颔首，黑夜随之点亮。那一夜，卡西米尔的地平线上再一次呈现出两个太阳。 -->
+  <AK_Weapon_RadiantKnight.description>耀骑士降临大地，烈阳为她颔首，黑夜随之点亮。那一夜，卡西米尔的地平线上再一次呈现出两个太阳。</AK_Weapon_RadiantKnight.description>
+  <!-- EN: 重击 -->
+  <AK_Weapon_RadiantKnight.tools.0.label>重击</AK_Weapon_RadiantKnight.tools.0.label>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_RadiantKnight.tools.1.label>劈砍</AK_Weapon_RadiantKnight.tools.1.label>
+  <!-- EN: 剑刃长刺 -->
+  <AK_Weapon_RadiantKnight.tools.2.label>剑刃长刺</AK_Weapon_RadiantKnight.tools.2.label>
+  <!-- EN: 剑刃长刺 -->
+  <AK_Weapon_RadiantKnight.tools.3.label>剑刃长刺</AK_Weapon_RadiantKnight.tools.3.label>
+  
+  <!-- EN: 暴行的海绵拖 -->
+  <AK_Weapon_Savage.label>暴行的海绵拖</AK_Weapon_Savage.label>
+  <!-- EN: 暴行使用的武器，看上去很像随处可见的拖把。\n用拖把施展爆破法术确实是一个神奇的画面。 -->
+  <AK_Weapon_Savage.description>暴行使用的武器，看上去很像随处可见的拖把。
+用拖把施展爆破法术确实是一个神奇的画面。</AK_Weapon_Savage.description>
+  <!-- EN: 砸 -->
+  <AK_Weapon_Savage.tools.0.label>砸</AK_Weapon_Savage.tools.0.label>
+  <!-- EN: 猛砸 -->
+  <AK_Weapon_Savage.tools.1.label>猛砸</AK_Weapon_Savage.tools.1.label>
+  
+  <!-- EN: 佣兵之刃 -->
+  <AK_Weapon_Sideroca.label>佣兵之刃</AK_Weapon_Sideroca.label>
+  <!-- EN: 一把大的有点夸张的刀刃，普通人只是举起来就极度费力，但是对于丰蹄来说并不困难。 -->
+  <AK_Weapon_Sideroca.description>一把大的有点夸张的刀刃，普通人只是举起来就极度费力，但是对于丰蹄来说并不困难。</AK_Weapon_Sideroca.description>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Sideroca.tools.0.label>刀柄猛砸</AK_Weapon_Sideroca.tools.0.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Sideroca.tools.1.label>刀捅</AK_Weapon_Sideroca.tools.1.label>
+  <!-- EN: 刀砍 -->
+  <AK_Weapon_Sideroca.tools.2.label>刀砍</AK_Weapon_Sideroca.tools.2.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_Sideroca.tools.3.label>刀劈</AK_Weapon_Sideroca.tools.3.label>
+  
+  <!-- EN: 铸铁-轻风的大剑 -->
+  <AK_Weapon_SiderocaLightBreeze.label>铸铁-轻风的大剑</AK_Weapon_SiderocaLightBreeze.label>
+  <!-- EN: 一把大的有点夸张的刀刃，普通人只是举起来就极度费力，但是对于丰蹄来说并不困难。 -->
+  <AK_Weapon_SiderocaLightBreeze.description>一把大的有点夸张的刀刃，普通人只是举起来就极度费力，但是对于丰蹄来说并不困难。</AK_Weapon_SiderocaLightBreeze.description>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_SiderocaLightBreeze.tools.0.label>刀柄猛砸</AK_Weapon_SiderocaLightBreeze.tools.0.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_SiderocaLightBreeze.tools.1.label>刀捅</AK_Weapon_SiderocaLightBreeze.tools.1.label>
+  <!-- EN: 刀砍 -->
+  <AK_Weapon_SiderocaLightBreeze.tools.2.label>刀砍</AK_Weapon_SiderocaLightBreeze.tools.2.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_SiderocaLightBreeze.tools.3.label>刀劈</AK_Weapon_SiderocaLightBreeze.tools.3.label>
+  
+  <!-- EN: 银灰的手杖 -->
+  <AK_Weapon_Silverash.label>银灰的手杖</AK_Weapon_Silverash.label>
+  <!-- EN: 末端削尖的手杖，用料精致，造价不菲。象征着喀兰之主的权威与银灰色的荣耀。 -->
+  <AK_Weapon_Silverash.description>末端削尖的手杖，用料精致，造价不菲。象征着喀兰之主的权威与银灰色的荣耀。</AK_Weapon_Silverash.description>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Silverash.tools.0.label>剑刺</AK_Weapon_Silverash.tools.0.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Silverash.tools.1.label>剑砍</AK_Weapon_Silverash.tools.1.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Silverash.tools.2.label>剑柄猛砸</AK_Weapon_Silverash.tools.2.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Silverash.tools.3.label>剑捅</AK_Weapon_Silverash.tools.3.label>
+  <!-- EN: 银灰的手杖 -->
+  <AK_Weapon_Silverash.verbs.Verb_Shoot.label>银灰的手杖</AK_Weapon_Silverash.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 搅动潮汐之剑 -->
+  <AK_Weapon_Skadi.label>搅动潮汐之剑</AK_Weapon_Skadi.label>
+  <!-- EN: 沉重的巨剑，斩杀过无数骇人听闻的猛兽鬼神。\n没有什么特别的技巧，深海猎人就是依靠纯粹的力量与速度去压制来自深海的敌人。 -->
+  <AK_Weapon_Skadi.description>沉重的巨剑，斩杀过无数骇人听闻的猛兽鬼神。
+没有什么特别的技巧，深海猎人就是依靠纯粹的力量与速度去压制来自深海的敌人。</AK_Weapon_Skadi.description>
+  <!-- EN: 大剑重击 -->
+  <AK_Weapon_Skadi.tools.0.label>大剑重击</AK_Weapon_Skadi.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Skadi.tools.1.label>剑柄猛砸</AK_Weapon_Skadi.tools.1.label>
+  <!-- EN: 大剑劈砍 -->
+  <AK_Weapon_Skadi.tools.2.label>大剑劈砍</AK_Weapon_Skadi.tools.2.label>
+  
+  <!-- EN: 幽灵鲨的圆锯 -->
+  <AK_Weapon_Specter.label>幽灵鲨的圆锯</AK_Weapon_Specter.label>
+  <!-- EN: 沾满了鲜血的圆锯，能够轻而易举的破开血肉，切断骨头。\n与幽灵鲨狂暴血腥的作战风格完美契合。 -->
+  <AK_Weapon_Specter.description>沾满了鲜血的圆锯，能够轻而易举的破开血肉，切断骨头。
+与幽灵鲨狂暴血腥的作战风格完美契合。</AK_Weapon_Specter.description>
+  <!-- EN: 链锯猛砸 -->
+  <AK_Weapon_Specter.tools.0.label>链锯猛砸</AK_Weapon_Specter.tools.0.label>
+  <!-- EN: 链锯切割 -->
+  <AK_Weapon_Specter.tools.1.label>链锯切割</AK_Weapon_Specter.tools.1.label>
+  
+  <!-- EN: 莱瓦汀 -->
+  <AK_Weapon_Surtr.label>莱瓦汀</AK_Weapon_Surtr.label>
+  <!-- EN: «Lævateinn hann heitir,\nen hann gerði Loptr rýninn\nfyr nágrindr neðan;\ní seigjárnkeri\nliggr hann hjá Sinmöru,\nok halda njarðlásar níu.» -->
+  <AK_Weapon_Surtr.description>«Lævateinn hann heitir,
+en hann gerði Loptr rýninn
+fyr nágrindr neðan;
+í seigjárnkeri
+liggr hann hjá Sinmöru,
+ok halda njarðlásar níu.»</AK_Weapon_Surtr.description>
+  <!-- EN: 莱万汀捅 -->
+  <AK_Weapon_Surtr.tools.0.label>莱万汀捅</AK_Weapon_Surtr.tools.0.label>
+  <!-- EN: 莱万汀刺 -->
+  <AK_Weapon_Surtr.tools.1.label>莱万汀刺</AK_Weapon_Surtr.tools.1.label>
+  <!-- EN: 莱万汀劈 -->
+  <AK_Weapon_Surtr.tools.2.label>莱万汀劈</AK_Weapon_Surtr.tools.2.label>
+  
+  <!-- EN: 史尔特尔-缤纷奇境的莱瓦汀 -->
+  <AK_Weapon_SurtrColorfulWonderland.label>史尔特尔-缤纷奇境的莱瓦汀</AK_Weapon_SurtrColorfulWonderland.label>
+  <!-- EN: «Lævateinn hann heitir,\nen hann gerði Loptr rýninn\nfyr nágrindr neðan;\ní seigjárnkeri\nliggr hann hjá Sinmöru,\nok halda njarðlásar níu.» -->
+  <AK_Weapon_SurtrColorfulWonderland.description>«Lævateinn hann heitir,
+en hann gerði Loptr rýninn
+fyr nágrindr neðan;
+í seigjárnkeri
+liggr hann hjá Sinmöru,
+ok halda njarðlásar níu.»</AK_Weapon_SurtrColorfulWonderland.description>
+  <!-- EN: 莱万汀捅 -->
+  <AK_Weapon_SurtrColorfulWonderland.tools.0.label>莱万汀捅</AK_Weapon_SurtrColorfulWonderland.tools.0.label>
+  <!-- EN: 莱万汀刺 -->
+  <AK_Weapon_SurtrColorfulWonderland.tools.1.label>莱万汀刺</AK_Weapon_SurtrColorfulWonderland.tools.1.label>
+  <!-- EN: 莱万汀劈 -->
+  <AK_Weapon_SurtrColorfulWonderland.tools.2.label>莱万汀劈</AK_Weapon_SurtrColorfulWonderland.tools.2.label>
+  
+  <!-- EN: 诗怀雅的流星锤 -->
+  <AK_Weapon_Swire.label>诗怀雅的流星锤</AK_Weapon_Swire.label>
+  <!-- EN: 龙门近卫局使用流星锤作为武器的独诗怀雅一人，不过比起亲身战斗她更喜欢用无人机指挥其他人战斗。 -->
+  <AK_Weapon_Swire.description>龙门近卫局使用流星锤作为武器的独诗怀雅一人，不过比起亲身战斗她更喜欢用无人机指挥其他人战斗。</AK_Weapon_Swire.description>
+  <!-- EN: 流星锤猛砸 -->
+  <AK_Weapon_Swire.tools.0.label>流星锤猛砸</AK_Weapon_Swire.tools.0.label>
+  <!-- EN: 踢 -->
+  <AK_Weapon_Swire.tools.1.label>踢</AK_Weapon_Swire.tools.1.label>
+  
+  <!-- EN: 龙舌兰的长刀 -->
+  <AK_Weapon_Tequila.label>龙舌兰的长刀</AK_Weapon_Tequila.label>
+  <!-- EN: 龙舌兰喜欢伺机而动，出奇制胜，这把武器或许正是他所中意的。 -->
+  <AK_Weapon_Tequila.description>龙舌兰喜欢伺机而动，出奇制胜，这把武器或许正是他所中意的。</AK_Weapon_Tequila.description>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Tequila.tools.0.label>剑柄猛砸</AK_Weapon_Tequila.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Tequila.tools.1.label>剑捅</AK_Weapon_Tequila.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Tequila.tools.2.label>剑砍</AK_Weapon_Tequila.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Tequila.tools.3.label>剑刺</AK_Weapon_Tequila.tools.3.label>
+  
+  <!-- EN: 棘刺长剑 -->
+  <AK_Weapon_Thorns.label>棘刺长剑</AK_Weapon_Thorns.label>
+  <!-- EN: 造型独特的剑，配合棘刺的剑术能有出乎意料的效果。\n将棘刺的毒素融合进伊比利亚的剑术中，有着出乎意料的效果。 -->
+  <AK_Weapon_Thorns.description>造型独特的剑，配合棘刺的剑术能有出乎意料的效果。
+将棘刺的毒素融合进伊比利亚的剑术中，有着出乎意料的效果。</AK_Weapon_Thorns.description>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Thorns.tools.0.label>剑柄猛砸</AK_Weapon_Thorns.tools.0.label>
+  <!-- EN: 毒剑捅 -->
+  <AK_Weapon_Thorns.tools.1.label>毒剑捅</AK_Weapon_Thorns.tools.1.label>
+  <!-- EN: 毒剑砍 -->
+  <AK_Weapon_Thorns.tools.2.label>毒剑砍</AK_Weapon_Thorns.tools.2.label>
+  <!-- EN: 毒剑戳 -->
+  <AK_Weapon_Thorns.tools.3.label>毒剑戳</AK_Weapon_Thorns.tools.3.label>
+  <!-- EN: 棘刺长剑 -->
+  <AK_Weapon_Thorns.verbs.Verb_Shoot.label>棘刺长剑</AK_Weapon_Thorns.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 船锚 -->
+  <AK_Weapon_Ulpianus.label>船锚</AK_Weapon_Ulpianus.label>
+  <!-- EN: 乌尔比安的使用的船锚。每一次挥动，都必须给敌人带去创面巨大、难以恢复的撕裂伤。 -->
+  <AK_Weapon_Ulpianus.description>乌尔比安的使用的船锚。每一次挥动，都必须给敌人带去创面巨大、难以恢复的撕裂伤。</AK_Weapon_Ulpianus.description>
+  <!-- EN: 船锚猛砸 -->
+  <AK_Weapon_Ulpianus.tools.0.label>船锚猛砸</AK_Weapon_Ulpianus.tools.0.label>
+  <!-- EN: 猛力切割 -->
+  <AK_Weapon_Ulpianus.tools.1.label>猛力切割</AK_Weapon_Ulpianus.tools.1.label>
+  
+  <!-- EN: 狮子王 -->
+  <AK_Weapon_Utage.label>狮子王</AK_Weapon_Utage.label>
+  <!-- EN: 传说中东国国王授予一位武士的武器，作为他驱逐恶兽的奖励。 -->
+  <AK_Weapon_Utage.description>传说中东国国王授予一位武士的武器，作为他驱逐恶兽的奖励。</AK_Weapon_Utage.description>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Utage.tools.0.label>刀捅</AK_Weapon_Utage.tools.0.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Utage.tools.1.label>刀柄猛砸</AK_Weapon_Utage.tools.1.label>
+  <!-- EN: 刀砍 -->
+  <AK_Weapon_Utage.tools.2.label>刀砍</AK_Weapon_Utage.tools.2.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_Utage.tools.3.label>刀刺</AK_Weapon_Utage.tools.3.label>
+  
+  <!-- EN: 宴-夏卉的狮子王 -->
+  <AK_Weapon_UtageSummerFlower.label>宴-夏卉的狮子王</AK_Weapon_UtageSummerFlower.label>
+  <!-- EN: 传说中东国国王授予一位武士的武器，作为他驱逐恶兽的奖励。 -->
+  <AK_Weapon_UtageSummerFlower.description>传说中东国国王授予一位武士的武器，作为他驱逐恶兽的奖励。</AK_Weapon_UtageSummerFlower.description>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_UtageSummerFlower.tools.0.label>刀捅</AK_Weapon_UtageSummerFlower.tools.0.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_UtageSummerFlower.tools.1.label>刀柄猛砸</AK_Weapon_UtageSummerFlower.tools.1.label>
+  <!-- EN: 刀砍 -->
+  <AK_Weapon_UtageSummerFlower.tools.2.label>刀砍</AK_Weapon_UtageSummerFlower.tools.2.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_UtageSummerFlower.tools.3.label>刀刺</AK_Weapon_UtageSummerFlower.tools.3.label>
+  
+  <!-- EN: 薇薇安娜的剑 -->
+  <AK_Weapon_VivianaA.label>薇薇安娜的剑</AK_Weapon_VivianaA.label>
+  <!-- EN: 纹路繁复的剑，比起战斗用的杀器，更像是与烛骑士美貌相称的艺术品。 -->
+  <AK_Weapon_VivianaA.description>纹路繁复的剑，比起战斗用的杀器，更像是与烛骑士美貌相称的艺术品。</AK_Weapon_VivianaA.description>
+  <!-- EN: 剑柄猛击 -->
+  <AK_Weapon_VivianaA.tools.0.label>剑柄猛击</AK_Weapon_VivianaA.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_VivianaA.tools.1.label>剑捅</AK_Weapon_VivianaA.tools.1.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_VivianaA.tools.2.label>剑刺</AK_Weapon_VivianaA.tools.2.label>
+  <!-- EN: 薇薇安娜的剑 -->
+  <AK_Weapon_VivianaA.verbs.Verb_Shoot.label>薇薇安娜的剑</AK_Weapon_VivianaA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 薇薇安娜的蜡烛 -->
+  <AK_Weapon_VivianaB.label>薇薇安娜的蜡烛</AK_Weapon_VivianaB.label>
+  <!-- EN: 当烛骑士的烛火点燃时，璀璨的霓虹灯晦暗无光，世界上最美的画作再烛光下烛骑士的容颜相比也将黯然失色。 -->
+  <AK_Weapon_VivianaB.description>当烛骑士的烛火点燃时，璀璨的霓虹灯晦暗无光，世界上最美的画作再烛光下烛骑士的容颜相比也将黯然失色。</AK_Weapon_VivianaB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_VivianaB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_VivianaB.tools.0.label>
+  
+  <!-- EN: 鞭刃 -->
+  <AK_Weapon_Whislash.label>鞭刃</AK_Weapon_Whislash.label>
+  <!-- EN: 附带有刀刃的长鞭，佐菲娅在退出骑士竞技后常用的武器。\n驮兽要被鞭子抽了以后才会上工，比驮兽更固执的敌人用这把鞭刃去招呼他们再合适不过了。 -->
+  <AK_Weapon_Whislash.description>附带有刀刃的长鞭，佐菲娅在退出骑士竞技后常用的武器。
+驮兽要被鞭子抽了以后才会上工，比驮兽更固执的敌人用这把鞭刃去招呼他们再合适不过了。</AK_Weapon_Whislash.description>
+  <!-- EN: 刃柄猛砸 -->
+  <AK_Weapon_Whislash.tools.0.label>刃柄猛砸</AK_Weapon_Whislash.tools.0.label>
+  <!-- EN: 鞭刃劈 -->
+  <AK_Weapon_Whislash.tools.1.label>鞭刃劈</AK_Weapon_Whislash.tools.1.label>
+  
+</LanguageData>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 钢铁意志 -->
+  <AKS_ShieldBelt_Eunectes.label>钢铁意志</AKS_ShieldBelt_Eunectes.label>
+  <!-- EN: 干员森蚺，擅长在抵挡伤害的同时迎战敌人 -->
+  <AKS_ShieldBelt_Eunectes.description>干员森蚺，擅长在抵挡伤害的同时迎战敌人</AKS_ShieldBelt_Eunectes.description>
+  
+  <!-- EN: 维多利亚要塞 -->
+  <AKS_ShieldBelt_Horn.label>维多利亚要塞</AKS_ShieldBelt_Horn.label>
+  <!-- EN: 号角的护盾 -->
+  <AKS_ShieldBelt_Horn.description>号角的护盾</AKS_ShieldBelt_Horn.description>
+  
+  <!-- EN: 黑钢壁垒 -->
+  <AKS_ShieldBelt_Liberated.label>黑钢壁垒</AKS_ShieldBelt_Liberated.label>
+  <!-- EN: 涤火淬炼，黑钢之盾，无懈防御。 -->
+  <AKS_ShieldBelt_Liberated.description>涤火淬炼，黑钢之盾，无懈防御。</AKS_ShieldBelt_Liberated.description>
+  
+  <!-- EN: 沃土予身 -->
+  <AKS_ShieldBelt_Mudrock.label>沃土予身</AKS_ShieldBelt_Mudrock.label>
+  <!-- EN: 自她身后，山岳拔地而起，她扬起手，岩石瓦解，又再度汇聚。 -->
+  <AKS_ShieldBelt_Mudrock.description>自她身后，山岳拔地而起，她扬起手，岩石瓦解，又再度汇聚。</AKS_ShieldBelt_Mudrock.description>
+  
+  <!-- EN: 混沌列阵 -->
+  <AKS_ShieldBelt_Nian.label>混沌列阵</AKS_ShieldBelt_Nian.label>
+  <!-- EN: “明王圣帝，谁能去兵哉？” -->
+  <AKS_ShieldBelt_Nian.description>“明王圣帝，谁能去兵哉？”</AKS_ShieldBelt_Nian.description>
+  
+  <!-- EN: 混沌列阵 -->
+  <AKS_ShieldBelt_NianUnfetteredFreedom.label>混沌列阵</AKS_ShieldBelt_NianUnfetteredFreedom.label>
+  <!-- EN: “明王圣帝，谁能去兵哉？” -->
+  <AKS_ShieldBelt_NianUnfetteredFreedom.description>“明王圣帝，谁能去兵哉？”</AKS_ShieldBelt_NianUnfetteredFreedom.description>
+  
+  <!-- EN: 荆棘环身 -->
+  <AKS_ShieldBelt_Penance.label>荆棘环身</AKS_ShieldBelt_Penance.label>
+  <!-- EN: 捍卫法律应存的正义。 -->
+  <AKS_ShieldBelt_Penance.description>捍卫法律应存的正义。</AKS_ShieldBelt_Penance.description>
+  
+  <!-- EN: 荆棘环身 -->
+  <AKS_ShieldBelt_PenanceOccasionalFlush.label>荆棘环身</AKS_ShieldBelt_PenanceOccasionalFlush.label>
+  <!-- EN: 捍卫法律应存的正义。 -->
+  <AKS_ShieldBelt_PenanceOccasionalFlush.description>捍卫法律应存的正义。</AKS_ShieldBelt_PenanceOccasionalFlush.description>
+  
+  <!-- EN: 钙质壁垒 -->
+  <AKS_ShieldBelt_Saria.label>钙质壁垒</AKS_ShieldBelt_Saria.label>
+  <!-- EN: “将钙精炼成坚硬的珐琅质。就让敌人试试看吧，没人摧毁得了我的防壁。” -->
+  <AKS_ShieldBelt_Saria.description>“将钙精炼成坚硬的珐琅质。就让敌人试试看吧，没人摧毁得了我的防壁。”</AKS_ShieldBelt_Saria.description>
+  
+  <!-- EN: 嘉禾盈仓 -->
+  <AKS_ShieldBelt_Shu.label>嘉禾盈仓</AKS_ShieldBelt_Shu.label>
+  <!-- EN: “干戈相向，无休无止，莫种恶果” -->
+  <AKS_ShieldBelt_Shu.description>“干戈相向，无休无止，莫种恶果”</AKS_ShieldBelt_Shu.description>
+  
+</LanguageData>

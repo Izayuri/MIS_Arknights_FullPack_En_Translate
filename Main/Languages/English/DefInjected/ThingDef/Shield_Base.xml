@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 术士护盾 -->
+  <AKS_ShieldBelt_Caster.label>术士护盾</AKS_ShieldBelt_Caster.label>
+  <!-- EN: 术士干员专属护盾，在有了足够抵御敌人投射物攻击的同时能够在近战中留下足够的空间。 -->
+  <AKS_ShieldBelt_Caster.description>术士干员专属护盾，在有了足够抵御敌人投射物攻击的同时能够在近战中留下足够的空间。</AKS_ShieldBelt_Caster.description>
+  
+  <!-- EN: 重装护盾 -->
+  <AKS_ShieldBelt_Defender.label>重装护盾</AKS_ShieldBelt_Defender.label>
+  <!-- EN: 重装干员专属护盾，非常坚固，穿上它宛如被一座堡垒庇护，但是也对行动造成了不便。 -->
+  <AKS_ShieldBelt_Defender.description>重装干员专属护盾，非常坚固，穿上它宛如被一座堡垒庇护，但是也对行动造成了不便。</AKS_ShieldBelt_Defender.description>
+  
+  <!-- EN: 近卫护盾 -->
+  <AKS_ShieldBelt_Guard.label>近卫护盾</AKS_ShieldBelt_Guard.label>
+  <!-- EN: 近卫干员专属护盾，有着较强的续航功能，适合近卫干员的持续作战。 -->
+  <AKS_ShieldBelt_Guard.description>近卫干员专属护盾，有着较强的续航功能，适合近卫干员的持续作战。</AKS_ShieldBelt_Guard.description>
+  
+  <!-- EN: 医疗护盾 -->
+  <AKS_ShieldBelt_Medic.label>医疗护盾</AKS_ShieldBelt_Medic.label>
+  <!-- EN: 医疗干员专属护盾，为医疗和后勤干员准备，足够坚固，但是被击破后医疗干员基本上没有多的应对手段。 -->
+  <AKS_ShieldBelt_Medic.description>医疗干员专属护盾，为医疗和后勤干员准备，足够坚固，但是被击破后医疗干员基本上没有多的应对手段。</AKS_ShieldBelt_Medic.description>
+  
+  <!-- EN: 其他护盾 -->
+  <AKS_ShieldBelt_OtherLeader.label>其他护盾</AKS_ShieldBelt_OtherLeader.label>
+  <!-- EN: 其他护盾 -->
+  <AKS_ShieldBelt_OtherLeader.description>其他护盾</AKS_ShieldBelt_OtherLeader.description>
+  
+  <!-- EN: 狙击护盾 -->
+  <AKS_ShieldBelt_Sniper.label>狙击护盾</AKS_ShieldBelt_Sniper.label>
+  <!-- EN: 狙击干员专属护盾，在有了足够抵御敌人投射物攻击的同时能够在近战中留下足够的空间。 -->
+  <AKS_ShieldBelt_Sniper.description>狙击干员专属护盾，在有了足够抵御敌人投射物攻击的同时能够在近战中留下足够的空间。</AKS_ShieldBelt_Sniper.description>
+  
+  <!-- EN: 特种护盾 -->
+  <AKS_ShieldBelt_Specialist.label>特种护盾</AKS_ShieldBelt_Specialist.label>
+  <!-- EN: 特种干员专属护盾，进行了特化改造，允许特种干员穿着它进行各种特种行动。 -->
+  <AKS_ShieldBelt_Specialist.description>特种干员专属护盾，进行了特化改造，允许特种干员穿着它进行各种特种行动。</AKS_ShieldBelt_Specialist.description>
+  
+  <!-- EN: 辅助护盾 -->
+  <AKS_ShieldBelt_Supporter.label>辅助护盾</AKS_ShieldBelt_Supporter.label>
+  <!-- EN: 辅助干员专属护盾，在有了足够抵御敌人投射物攻击的同时能够在近战中留下足够的空间。 -->
+  <AKS_ShieldBelt_Supporter.description>辅助干员专属护盾，在有了足够抵御敌人投射物攻击的同时能够在近战中留下足够的空间。</AKS_ShieldBelt_Supporter.description>
+  
+  <!-- EN: 先锋护盾 -->
+  <AKS_ShieldBelt_Vanguard.label>先锋护盾</AKS_ShieldBelt_Vanguard.label>
+  <!-- EN: 先锋干员专属护盾，在足够轻量的同时提供了足够的防御，为第一线的先锋干员保驾护航。 -->
+  <AKS_ShieldBelt_Vanguard.description>先锋干员专属护盾，在足够轻量的同时提供了足够的防御，为第一线的先锋干员保驾护航。</AKS_ShieldBelt_Vanguard.description>
+  
+</LanguageData>

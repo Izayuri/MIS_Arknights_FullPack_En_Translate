@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 终末地工业的“管理员”。\n传言中，管理员曾多次在塔卫二和终末地发生重大变故时挺身而出，留下了不少传说和流言。\n在塔卫二各个组织的认知中，管理员是一个相当神秘的存在，外部势力普遍知道终末地有着一张十分特别的“底牌”，但也仅限于此。 -->
+  <AK_BackStory_Administrator_Adult.description>终末地工业的“管理员”。
+传言中，管理员曾多次在塔卫二和终末地发生重大变故时挺身而出，留下了不少传说和流言。
+在塔卫二各个组织的认知中，管理员是一个相当神秘的存在，外部势力普遍知道终末地有着一张十分特别的“底牌”，但也仅限于此。</AK_BackStory_Administrator_Adult.description>
+  <!-- EN: 管理员 -->
+  <AK_BackStory_Administrator_Adult.title>管理员</AK_BackStory_Administrator_Adult.title>
+  <!-- EN: 管理员 -->
+  <AK_BackStory_Administrator_Adult.titleShort>管理员</AK_BackStory_Administrator_Adult.titleShort>
+  
+  <!-- EN: /检索中\n/错误！未查询到相关档案\n/检索中（2）\n/错误！未查询到相关档案\n/检索中（3）\n/错误！未查询到相关档案\n\n严重错误！三次查询目标档案失败，请联系终末地工业文档管理员补充相关信息。 -->
+  <AK_BackStory_Administrator_Child.description>/检索中
+/错误！未查询到相关档案
+/检索中（2）
+/错误！未查询到相关档案
+/检索中（3）
+/错误！未查询到相关档案
+
+严重错误！三次查询目标档案失败，请联系终末地工业文档管理员补充相关信息。</AK_BackStory_Administrator_Child.description>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Administrator_Child.title>履历缺失</AK_BackStory_Administrator_Child.title>
+  <!-- EN: 履历缺失 -->
+  <AK_BackStory_Administrator_Child.titleShort>履历缺失</AK_BackStory_Administrator_Child.titleShort>
+  
+  <!-- EN: 兼任罗德岛采购部负责人，德岛建立最初的人员之一，亲手将罗德岛本舰设计改造成如今的状态。 -->
+  <AK_BackStory_Closure_Adult.description>兼任罗德岛采购部负责人，德岛建立最初的人员之一，亲手将罗德岛本舰设计改造成如今的状态。</AK_BackStory_Closure_Adult.description>
+  <!-- EN: 罗德岛舰船总工程师 -->
+  <AK_BackStory_Closure_Adult.title>罗德岛舰船总工程师</AK_BackStory_Closure_Adult.title>
+  <!-- EN: 罗德岛舰船总工程师 -->
+  <AK_BackStory_Closure_Adult.titleShort>罗德岛舰船总工程师</AK_BackStory_Closure_Adult.titleShort>
+  
+  <!-- EN: 卡兹戴尔为数不多的精通程序与工程设计的天才少女 -->
+  <AK_BackStory_Closure_Child.description>卡兹戴尔为数不多的精通程序与工程设计的天才少女</AK_BackStory_Closure_Child.description>
+  <!-- EN: 知名黑客 -->
+  <AK_BackStory_Closure_Child.title>知名黑客</AK_BackStory_Closure_Child.title>
+  <!-- EN: 知名黑客 -->
+  <AK_BackStory_Closure_Child.titleShort>知名黑客</AK_BackStory_Closure_Child.titleShort>
+  
+  <!-- EN: 作为当代温德米尔公爵，安费莉丝拥有自己的封地丽茵卡登和大量可供调遣的战舰和军人，在领地内说一不二的威权以及相当可观的财富。 -->
+  <AK_BackStory_DukeWindermere_Adult.description>作为当代温德米尔公爵，安费莉丝拥有自己的封地丽茵卡登和大量可供调遣的战舰和军人，在领地内说一不二的威权以及相当可观的财富。</AK_BackStory_DukeWindermere_Adult.description>
+  <!-- EN: 温德米尔公爵 -->
+  <AK_BackStory_DukeWindermere_Adult.title>温德米尔公爵</AK_BackStory_DukeWindermere_Adult.title>
+  <!-- EN: 温德米尔公爵 -->
+  <AK_BackStory_DukeWindermere_Adult.titleShort>温德米尔公爵</AK_BackStory_DukeWindermere_Adult.titleShort>
+  
+  <!-- EN: 作为温德米尔家族的第一顺位继承人，她自小受到了大量堪称严苛的军事训练，也在日复一日的成长中逐渐练就了铁血贵族的气质。 -->
+  <AK_BackStory_DukeWindermere_Child.description>作为温德米尔家族的第一顺位继承人，她自小受到了大量堪称严苛的军事训练，也在日复一日的成长中逐渐练就了铁血贵族的气质。</AK_BackStory_DukeWindermere_Child.description>
+  <!-- EN: 温德米尔公爵传人 -->
+  <AK_BackStory_DukeWindermere_Child.title>温德米尔公爵传人</AK_BackStory_DukeWindermere_Child.title>
+  <!-- EN: 温德米尔公爵传人 -->
+  <AK_BackStory_DukeWindermere_Child.titleShort>温德米尔公爵传人</AK_BackStory_DukeWindermere_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在成年后成为了塔拉民族分裂组织“深池”的领袖，作为能在多方势力中周旋自如的野心家和权术家，{PAWN_pronoun}对于权力有着毫不掩饰的觊觎。 -->
+  <AK_BackStory_Eblana_Adult.description>{PAWN_nameDef}在成年后成为了塔拉民族分裂组织“深池”的领袖，作为能在多方势力中周旋自如的野心家和权术家，{PAWN_pronoun}对于权力有着毫不掩饰的觊觎。</AK_BackStory_Eblana_Adult.description>
+  <!-- EN: “领袖” -->
+  <AK_BackStory_Eblana_Adult.title>“领袖”</AK_BackStory_Eblana_Adult.title>
+  <!-- EN: “领袖” -->
+  <AK_BackStory_Eblana_Adult.titleShort>“领袖”</AK_BackStory_Eblana_Adult.titleShort>
+  
+  <!-- EN: 作为血统高贵的德拉克，{PAWN_nameDef}自幼接受着高等教育，但是在其中也根植着塔拉人对维多利亚的仇恨。 -->
+  <AK_BackStory_Eblana_Child.description>作为血统高贵的德拉克，{PAWN_nameDef}自幼接受着高等教育，但是在其中也根植着塔拉人对维多利亚的仇恨。</AK_BackStory_Eblana_Child.description>
+  <!-- EN: 维多利亚的德拉克 -->
+  <AK_BackStory_Eblana_Child.title>维多利亚的德拉克</AK_BackStory_Eblana_Child.title>
+  <!-- EN: 维多利亚的德拉克 -->
+  <AK_BackStory_Eblana_Child.titleShort>维多利亚的德拉克</AK_BackStory_Eblana_Child.titleShort>
+  
+  <!-- EN: 曾经指挥旗下的雪怪小队与游击队取得了许多胜利，被乌萨斯军誉为“冻原中的白色死神” -->
+  <AK_BackStory_FrostNova_Adult.description>曾经指挥旗下的雪怪小队与游击队取得了许多胜利，被乌萨斯军誉为“冻原中的白色死神”</AK_BackStory_FrostNova_Adult.description>
+  <!-- EN: 游击队术师，雪怪小队领袖和“大姐” -->
+  <AK_BackStory_FrostNova_Adult.title>游击队术师，雪怪小队领袖和“大姐”</AK_BackStory_FrostNova_Adult.title>
+  <!-- EN: “大姐” -->
+  <AK_BackStory_FrostNova_Adult.titleShort>“大姐”</AK_BackStory_FrostNova_Adult.titleShort>
+  
+  <!-- EN: 父母因反对乌萨斯的战时策略而被送去某处矿场，祖母也受牵连迁至矿场，{PAWN_nameDef}则出生于此。五岁和十岁时，父母和祖母分别抽到黑签被矿场驻军杀害，十一岁时{PAWN_pronoun}抽到黑签险些被杀害时，被当时正在突袭矿场的“爱国者”救下。 -->
+  <AK_BackStory_FrostNova_Child.description>父母因反对乌萨斯的战时策略而被送去某处矿场，祖母也受牵连迁至矿场，{PAWN_nameDef}则出生于此。五岁和十岁时，父母和祖母分别抽到黑签被矿场驻军杀害，十一岁时{PAWN_pronoun}抽到黑签险些被杀害时，被当时正在突袭矿场的“爱国者”救下。</AK_BackStory_FrostNova_Child.description>
+  <!-- EN: 矿场奴隶 -->
+  <AK_BackStory_FrostNova_Child.title>矿场奴隶</AK_BackStory_FrostNova_Child.title>
+  <!-- EN: 矿场奴隶 -->
+  <AK_BackStory_FrostNova_Child.titleShort>矿场奴隶</AK_BackStory_FrostNova_Child.titleShort>
+  
+  <!-- EN: 后来，{PAWN_nameDef}与塞雷娅一同创立了莱茵生命并亲自担任总辖构建科主任。在所有人都认为{PAWN_pronoun}只是对哥伦比亚学术界及政府不满时，{PAWN_pronoun}却做出了一件超出所有人想象的事——成为泰拉第一名宇航员，并且有去无回。 -->
+  <AK_BackStory_Kristen_Adult.description>后来，{PAWN_nameDef}与塞雷娅一同创立了莱茵生命并亲自担任总辖构建科主任。在所有人都认为{PAWN_pronoun}只是对哥伦比亚学术界及政府不满时，{PAWN_pronoun}却做出了一件超出所有人想象的事——成为泰拉第一名宇航员，并且有去无回。</AK_BackStory_Kristen_Adult.description>
+  <!-- EN: 莱茵生命总辖构建科主任 -->
+  <AK_BackStory_Kristen_Adult.title>莱茵生命总辖构建科主任</AK_BackStory_Kristen_Adult.title>
+  <!-- EN: 构建科主任 -->
+  <AK_BackStory_Kristen_Adult.titleShort>构建科主任</AK_BackStory_Kristen_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出生于哥伦比亚一对飞行器研究员夫妻的家庭中，{PAWN_pronoun}本应受到良好的教育并拥有一个至少没有苦难的童年，但这一切在那次事故后戛然而止。\n这给{PAWN_pronoun}留下了严重的心理创伤。 -->
+  <AK_BackStory_Kristen_Child.description>{PAWN_nameDef}出生于哥伦比亚一对飞行器研究员夫妻的家庭中，{PAWN_pronoun}本应受到良好的教育并拥有一个至少没有苦难的童年，但这一切在那次事故后戛然而止。
+这给{PAWN_pronoun}留下了严重的心理创伤。</AK_BackStory_Kristen_Child.description>
+  <!-- EN: 飞行员的孩子 -->
+  <AK_BackStory_Kristen_Child.title>飞行员的孩子</AK_BackStory_Kristen_Child.title>
+  <!-- EN: 飞行员的孩子 -->
+  <AK_BackStory_Kristen_Child.titleShort>飞行员的孩子</AK_BackStory_Kristen_Child.titleShort>
+  
+  <!-- EN: {PAWN_pronoun}不是一个苛刻的管理者，严格但平易近人。 -->
+  <AK_BackStory_Perlica_Adult.description>{PAWN_pronoun}不是一个苛刻的管理者，严格但平易近人。</AK_BackStory_Perlica_Adult.description>
+  <!-- EN: 工业监督 -->
+  <AK_BackStory_Perlica_Adult.title>工业监督</AK_BackStory_Perlica_Adult.title>
+  <!-- EN: 工业监督 -->
+  <AK_BackStory_Perlica_Adult.titleShort>工业监督</AK_BackStory_Perlica_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}对于协议相关技术的使用出类拔萃。 -->
+  <AK_BackStory_Perlica_Child.description>{PAWN_nameDef}对于协议相关技术的使用出类拔萃。</AK_BackStory_Perlica_Child.description>
+  <!-- EN: 协议技术专家 -->
+  <AK_BackStory_Perlica_Child.title>协议技术专家</AK_BackStory_Perlica_Child.title>
+  <!-- EN: 协议技术专家 -->
+  <AK_BackStory_Perlica_Child.titleShort>协议技术专家</AK_BackStory_Perlica_Child.titleShort>
+  
+  <!-- EN: 档案yi dmae wu法ca……＊＆#@。 -->
+  <AK_BackStory_PRTS_Adult.description>档案yi dmae wu法ca……＊＆#@。</AK_BackStory_PRTS_Adult.description>
+  <!-- EN: #？%）￥！ -->
+  <AK_BackStory_PRTS_Adult.title>#？%）￥！</AK_BackStory_PRTS_Adult.title>
+  <!-- EN: #？%）￥！ -->
+  <AK_BackStory_PRTS_Adult.titleShort>#？%）￥！</AK_BackStory_PRTS_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出生在泰拉前人类时代，惊人的天赋让她自童年开始就备受瞩目。 -->
+  <AK_BackStory_PRTS_Child.description>{PAWN_nameDef}出生在泰拉前人类时代，惊人的天赋让她自童年开始就备受瞩目。</AK_BackStory_PRTS_Child.description>
+  <!-- EN: 前人类 -->
+  <AK_BackStory_PRTS_Child.title>前人类</AK_BackStory_PRTS_Child.title>
+  <!-- EN: 前人类 -->
+  <AK_BackStory_PRTS_Child.titleShort>前人类</AK_BackStory_PRTS_Child.titleShort>
+  
+</LanguageData>

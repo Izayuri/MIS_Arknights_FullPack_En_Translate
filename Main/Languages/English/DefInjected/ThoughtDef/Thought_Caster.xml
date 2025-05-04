@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 执法者 -->
+  <AK_Thought_Trait_Absinthe.stages.0.label>执法者</AK_Thought_Trait_Absinthe.stages.0.label>
+  <!-- EN: 谁要我的保护？我能保护谁？自那场动乱以来，我就一直在问自己...... -->
+  <AK_Thought_Trait_Absinthe.stages.0.description>谁要我的保护？我能保护谁？自那场动乱以来，我就一直在问自己......</AK_Thought_Trait_Absinthe.stages.0.description>
+  
+  <!-- EN: 救世的魔王 -->
+  <AK_Thought_Trait_Amiya.stages.0.label>救世的魔王</AK_Thought_Trait_Amiya.stages.0.label>
+  <!-- EN: 那一天所看到的光景，想要呐喊却无法发出声音的绝望......希望能把这些，永远藏在记忆的最深处...... -->
+  <AK_Thought_Trait_Amiya.stages.0.description>那一天所看到的光景，想要呐喊却无法发出声音的绝望......希望能把这些，永远藏在记忆的最深处......</AK_Thought_Trait_Amiya.stages.0.description>
+  
+  <!-- EN: 星束交汇 -->
+  <AK_Thought_Trait_Astgenne.stages.0.label>星束交汇</AK_Thought_Trait_Astgenne.stages.0.label>
+  <!-- EN: 哥伦比亚的科技日新月异，作为科研人员，我几乎看得到那个值得期待的未来。 -->
+  <AK_Thought_Trait_Astgenne.stages.0.description>哥伦比亚的科技日新月异，作为科研人员，我几乎看得到那个值得期待的未来。</AK_Thought_Trait_Astgenne.stages.0.description>
+  
+  <!-- EN: 独立 -->
+  <AK_Thought_Trait_AstgenneSecond.stages.0.label>独立</AK_Thought_Trait_AstgenneSecond.stages.0.label>
+  <!-- EN: 某些人帮助他人是衷心希望别人能过上更好的生活，而另一些人，只是为了让受助者成为更有用的工具，他们从不在意你的想法，只是享受掌控你的滋味，头疼的很。 -->
+  <AK_Thought_Trait_AstgenneSecond.stages.0.description>某些人帮助他人是衷心希望别人能过上更好的生活，而另一些人，只是为了让受助者成为更有用的工具，他们从不在意你的想法，只是享受掌控你的滋味，头疼的很。</AK_Thought_Trait_AstgenneSecond.stages.0.description>
+  
+  <!-- EN: 沙原的祝福 -->
+  <AK_Thought_Trait_Beeswax.stages.0.label>沙原的祝福</AK_Thought_Trait_Beeswax.stages.0.label>
+  <!-- EN: 烈阳、风暴、还有泛起波浪的金色沙原，神灵寄宿在孕养我们的这片地上，给予族人们庇佑和祝福。 -->
+  <AK_Thought_Trait_Beeswax.stages.0.description>烈阳、风暴、还有泛起波浪的金色沙原，神灵寄宿在孕养我们的这片地上，给予族人们庇佑和祝福。</AK_Thought_Trait_Beeswax.stages.0.description>
+  
+  <!-- EN: 真正的萨尔贡人 -->
+  <AK_Thought_Trait_Carnelian.stages.0.label>真正的萨尔贡人</AK_Thought_Trait_Carnelian.stages.0.label>
+  <!-- EN: 在那些贵族眼里，我应该是相当刺眼的异类吧？不过无所谓，我不在乎。 -->
+  <AK_Thought_Trait_Carnelian.stages.0.description>在那些贵族眼里，我应该是相当刺眼的异类吧？不过无所谓，我不在乎。</AK_Thought_Trait_Carnelian.stages.0.description>
+  
+  <!-- EN: 傻狗子 -->
+  <AK_Thought_Trait_Ceobe.stages.0.label>傻狗子</AK_Thought_Trait_Ceobe.stages.0.label>
+  <!-- EN: 咬你哦！ -->
+  <AK_Thought_Trait_Ceobe.stages.0.description>咬你哦！</AK_Thought_Trait_Ceobe.stages.0.description>
+  
+  <!-- EN: 正义黯淡 -->
+  <AK_Thought_Trait_Delphine.stages.0.label>正义黯淡</AK_Thought_Trait_Delphine.stages.0.label>
+  <!-- EN: 我更愿意去做那些具体的事情，去杀死那些具体的罪恶，而不是继续以“公爵之女”或者“公爵”的身份，同那些阴谋家纠缠不清。 -->
+  <AK_Thought_Trait_Delphine.stages.0.description>我更愿意去做那些具体的事情，去杀死那些具体的罪恶，而不是继续以“公爵之女”或者“公爵”的身份，同那些阴谋家纠缠不清。</AK_Thought_Trait_Delphine.stages.0.description>
+  
+  <!-- EN: 极度嗜睡 -->
+  <AK_Thought_Trait_Durin.stages.0.label>极度嗜睡</AK_Thought_Trait_Durin.stages.0.label>
+  <!-- EN: 健康的秘诀，是好好睡觉。 -->
+  <AK_Thought_Trait_Durin.stages.0.description>健康的秘诀，是好好睡觉。</AK_Thought_Trait_Durin.stages.0.description>
+  
+  <!-- EN: 尽波澜 -->
+  <AK_Thought_Trait_Dusk.stages.0.label>尽波澜</AK_Thought_Trait_Dusk.stages.0.label>
+  <!-- EN: 外面的世界，我不在乎了。不喜欢？\n我当然喜欢。山川风月，花羽林渊，贩夫走卒，老少男女，画不尽，也看不完，越不过，也走不出。我兴致尽了。 -->
+  <AK_Thought_Trait_Dusk.stages.0.description>外面的世界，我不在乎了。不喜欢？
+我当然喜欢。山川风月，花羽林渊，贩夫走卒，老少男女，画不尽，也看不完，越不过，也走不出。我兴致尽了。</AK_Thought_Trait_Dusk.stages.0.description>
+  
+  <!-- EN: 学者之心 -->
+  <AK_Thought_Trait_Eyjafjalla.stages.0.label>学者之心</AK_Thought_Trait_Eyjafjalla.stages.0.label>
+  <!-- EN: 为了完成父母的研究，我还得更努力才行。如果我能证明他们的研究是有意义的，说不定，将会有一个影响世界的大发现呢。 -->
+  <AK_Thought_Trait_Eyjafjalla.stages.0.description>为了完成父母的研究，我还得更努力才行。如果我能证明他们的研究是有意义的，说不定，将会有一个影响世界的大发现呢。</AK_Thought_Trait_Eyjafjalla.stages.0.description>
+  
+  <!-- EN: 随和 -->
+  <AK_Thought_Trait_GoldenglowSecond.stages.0.label>随和</AK_Thought_Trait_GoldenglowSecond.stages.0.label>
+  <!-- EN: 今天也要开开心心的哦 -->
+  <AK_Thought_Trait_GoldenglowSecond.stages.0.description>今天也要开开心心的哦</AK_Thought_Trait_GoldenglowSecond.stages.0.description>
+  
+  <!-- EN: 和弦 -->
+  <AK_Thought_Trait_Harmonie.stages.0.label>和弦</AK_Thought_Trait_Harmonie.stages.0.label>
+  <!-- EN: 我喜欢做的事，只是把人推到他们该去的地方，让那些互不相容的东西能演奏出一个协调的和弦罢了。 -->
+  <AK_Thought_Trait_Harmonie.stages.0.description>我喜欢做的事，只是把人推到他们该去的地方，让那些互不相容的东西能演奏出一个协调的和弦罢了。</AK_Thought_Trait_Harmonie.stages.0.description>
+  
+  <!-- EN: 界旅者 -->
+  <AK_Thought_Trait_Heteronucleoid.stages.0.label>界旅者</AK_Thought_Trait_Heteronucleoid.stages.0.label>
+  <!-- EN: 我不会为曾经的迷茫感到羞愧,这是我普通而又精彩的人生的一部分。每一步都是如此。你也是这样吗，安洁莉娜前辈·……. -->
+  <AK_Thought_Trait_Heteronucleoid.stages.0.description>我不会为曾经的迷茫感到羞愧,这是我普通而又精彩的人生的一部分。每一步都是如此。你也是这样吗，安洁莉娜前辈·…….</AK_Thought_Trait_Heteronucleoid.stages.0.description>
+  
+  <!-- EN: 曾有羽翼 -->
+  <AK_Thought_Trait_Hoolheyak.stages.0.label>曾有羽翼</AK_Thought_Trait_Hoolheyak.stages.0.label>
+  <!-- EN: 当我放下对“羽蛇”的追求以后，过去的答案已经失去了意义。\n克丽斯腾残忍地在推开了真理之门后抛弃了所有人，而我唯一的幸运， 是在门前发现了你们的存在。 -->
+  <AK_Thought_Trait_Hoolheyak.stages.0.description>当我放下对“羽蛇”的追求以后，过去的答案已经失去了意义。
+克丽斯腾残忍地在推开了真理之门后抛弃了所有人，而我唯一的幸运， 是在门前发现了你们的存在。</AK_Thought_Trait_Hoolheyak.stages.0.description>
+  
+  <!-- EN: 炎魔 -->
+  <AK_Thought_Trait_Ifrit.stages.0.label>炎魔</AK_Thought_Trait_Ifrit.stages.0.label>
+  <!-- EN: {0}时常会出现幻觉，她会看到烧焦的尸体与动物，或者亲密的人烈火焚身。\n每当此时，她就会变得意识恍惚，因此烧掉一条走廊的事也不是没有。 -->
+  <AK_Thought_Trait_Ifrit.stages.0.description>{0}时常会出现幻觉，她会看到烧焦的尸体与动物，或者亲密的人烈火焚身。
+每当此时，她就会变得意识恍惚，因此烧掉一条走廊的事也不是没有。</AK_Thought_Trait_Ifrit.stages.0.description>
+  
+  <!-- EN: 耶拉冈德 -->
+  <AK_Thought_Trait_Kjera.stages.0.label>耶拉冈德</AK_Thought_Trait_Kjera.stages.0.label>
+  <!-- EN: 祈祷便能有回报，诚心便能得所求......\n要是真的存在这么方便的东西，我也想见一见呢。 -->
+  <AK_Thought_Trait_Kjera.stages.0.description>祈祷便能有回报，诚心便能得所求......
+要是真的存在这么方便的东西，我也想见一见呢。</AK_Thought_Trait_Kjera.stages.0.description>
+  
+  <!-- EN: 中二病 -->
+  <AK_Thought_Trait_Lava.stages.0.label>中二病</AK_Thought_Trait_Lava.stages.0.label>
+  <!-- EN: 法术的最高境界，有点好奇啊。 -->
+  <AK_Thought_Trait_Lava.stages.0.description>法术的最高境界，有点好奇啊。</AK_Thought_Trait_Lava.stages.0.description>
+  
+  <!-- EN: 灰色的林 -->
+  <AK_Thought_Trait_Lin.stages.0.label>灰色的林</AK_Thought_Trait_Lin.stages.0.label>
+  <!-- EN: “龙门发展日新月异，也依然有霓虹灯无法照亮的角落......” -->
+  <AK_Thought_Trait_Lin.stages.0.description>“龙门发展日新月异，也依然有霓虹灯无法照亮的角落......”</AK_Thought_Trait_Lin.stages.0.description>
+  
+  <!-- EN: 堕天使 -->
+  <AK_Thought_Trait_Mostima.stages.0.label>堕天使</AK_Thought_Trait_Mostima.stages.0.label>
+  <!-- EN: 法令的效力是绝对的。当她将枪口对准同类时，她的命运就已经被决定了。 -->
+  <AK_Thought_Trait_Mostima.stages.0.description>法令的效力是绝对的。当她将枪口对准同类时，她的命运就已经被决定了。</AK_Thought_Trait_Mostima.stages.0.description>
+  
+  <!-- EN: 切尔诺伯格 -->
+  <AK_Thought_Trait_OperatorReceived.stages.0.label>切尔诺伯格</AK_Thought_Trait_OperatorReceived.stages.0.label>
+  <!-- EN: 我们无从得知从切尔诺伯格逃出来的人经历了什么。\n但无论如何这对他们来说都是地狱般的经历，并且毫无疑问需要很多时间去试图遗忘并适应新生活。 -->
+  <AK_Thought_Trait_OperatorReceived.stages.0.description>我们无从得知从切尔诺伯格逃出来的人经历了什么。
+但无论如何这对他们来说都是地狱般的经历，并且毫无疑问需要很多时间去试图遗忘并适应新生活。</AK_Thought_Trait_OperatorReceived.stages.0.description>
+  
+  <!-- EN: “今夕须臾之梦” -->
+  <AK_Thought_Trait_Passenger.stages.0.label>“今夕须臾之梦”</AK_Thought_Trait_Passenger.stages.0.label>
+  <!-- EN: 现在，我该和过去做个了断。\n可我接下来要做什么?去哪里? -->
+  <AK_Thought_Trait_Passenger.stages.0.description>现在，我该和过去做个了断。
+可我接下来要做什么?去哪里?</AK_Thought_Trait_Passenger.stages.0.description>
+  
+  <!-- EN: 融冰 -->
+  <AK_Thought_Trait_Santalla.stages.0.label>融冰</AK_Thought_Trait_Santalla.stages.0.label>
+  <!-- EN: 曾经我还像是头倔强的岩角兽，不愿接受一点善意。现在......应该没那么固执了吧。被太阳晒久了，坚冰也是会融成清泉的。 -->
+  <AK_Thought_Trait_Santalla.stages.0.description>曾经我还像是头倔强的岩角兽，不愿接受一点善意。现在......应该没那么固执了吧。被太阳晒久了，坚冰也是会融成清泉的。</AK_Thought_Trait_Santalla.stages.0.description>
+  
+  <!-- EN: 粗尾巴 -->
+  <AK_Thought_Trait_Tomimi.stages.0.label>粗尾巴</AK_Thought_Trait_Tomimi.stages.0.label>
+  <!-- EN: 尾巴，又长了啊，再这样长下去，真的会被人嫌弃的啊，呜呜......好烦恼。 -->
+  <AK_Thought_Trait_Tomimi.stages.0.description>尾巴，又长了啊，再这样长下去，真的会被人嫌弃的啊，呜呜......好烦恼。</AK_Thought_Trait_Tomimi.stages.0.description>
+  
+</LanguageData>

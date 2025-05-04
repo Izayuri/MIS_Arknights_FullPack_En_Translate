@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Blood Loss -->
+  <AK_Hediff_BloodLoss.label>Blood Loss</AK_Hediff_BloodLoss.label>
+  <!-- EN: Gradually loss blood -->
+  <AK_Hediff_BloodLoss.description>Gradually loss blood</AK_Hediff_BloodLoss.description>
+  
+  <!-- EN: MeleeEnhancer -->
+  <AK_Hediff_EnhancerMelee.label>MeleeEnhancer</AK_Hediff_EnhancerMelee.label>
+  <!-- EN: enhances melee damage -->
+  <AK_Hediff_EnhancerMelee.description>enhances melee damage</AK_Hediff_EnhancerMelee.description>
+  
+  <!-- EN: Regrow -->
+  <AK_Hediff_Regrow.label>Regrow</AK_Hediff_Regrow.label>
+  <!-- EN: This pawn was tented by medic's ability. Wounds will regrow quickly over time. -->
+  <AK_Hediff_Regrow.description>This pawn was tented by medic's ability. Wounds will regrow quickly over time.</AK_Hediff_Regrow.description>
+  
+  <!-- EN: selfExp -->
+  <AK_Hediff_SelfExplosion.label>selfExp</AK_Hediff_SelfExplosion.label>
+  <!-- EN: will do explosion on self -->
+  <AK_Hediff_SelfExplosion.description>will do explosion on self</AK_Hediff_SelfExplosion.description>
+  
+</LanguageData>

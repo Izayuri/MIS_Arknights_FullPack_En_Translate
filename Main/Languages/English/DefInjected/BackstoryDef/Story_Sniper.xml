@@ -1,0 +1,395 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {PAWN_nameDef}在长大后，{PAWN_pronoun}为了谋生也为了报答公司的救助，成为了一名在荒野中驱赶城市周围野兽或者护卫公司队伍的猎人，但因为感染矿石病失业并随后辗转加入罗德岛。 -->
+  <AK_BackStory_April_Adult.description>{PAWN_nameDef}在长大后，{PAWN_pronoun}为了谋生也为了报答公司的救助，成为了一名在荒野中驱赶城市周围野兽或者护卫公司队伍的猎人，但因为感染矿石病失业并随后辗转加入罗德岛。</AK_BackStory_April_Adult.description>
+  <!-- EN: 感染者猎手 -->
+  <AK_BackStory_April_Adult.title>感染者猎手</AK_BackStory_April_Adult.title>
+  <!-- EN: 猎手 -->
+  <AK_BackStory_April_Adult.titleShort>猎手</AK_BackStory_April_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}的父母在{PAWN_pronoun}很小的时候就因为矿难去世了，而{PAWN_pronoun}靠着公司的补助勉强长大了。 -->
+  <AK_BackStory_April_Child.description>{PAWN_nameDef}的父母在{PAWN_pronoun}很小的时候就因为矿难去世了，而{PAWN_pronoun}靠着公司的补助勉强长大了。</AK_BackStory_April_Child.description>
+  <!-- EN: 被公司养大的孤儿 -->
+  <AK_BackStory_April_Child.title>被公司养大的孤儿</AK_BackStory_April_Child.title>
+  <!-- EN: 孤儿 -->
+  <AK_BackStory_April_Child.titleShort>孤儿</AK_BackStory_April_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}本可以作为学者留在母校，或是继承{PAWN_pronoun}母亲的家具店铺，但当时年仅十岁的{PAWN_pronoun}选择了加入兰登修道院，成为光荣的兰登卫队的一员，为捍卫拉特兰奉献出自己应有的力量。 -->
+  <AK_BackStory_Archetto_Adult.description>{PAWN_nameDef}本可以作为学者留在母校，或是继承{PAWN_pronoun}母亲的家具店铺，但当时年仅十岁的{PAWN_pronoun}选择了加入兰登修道院，成为光荣的兰登卫队的一员，为捍卫拉特兰奉献出自己应有的力量。</AK_BackStory_Archetto_Adult.description>
+  <!-- EN: 兰登修道院修女 -->
+  <AK_BackStory_Archetto_Adult.title>兰登修道院修女</AK_BackStory_Archetto_Adult.title>
+  <!-- EN: 修女 -->
+  <AK_BackStory_Archetto_Adult.titleShort>修女</AK_BackStory_Archetto_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}小姐有着一半的维多利亚血统，一半的拉特兰血统。{PAWN_pronoun}从小在拉特兰长大，深爱着这片自由又开朗的故乡。 -->
+  <AK_BackStory_Archetto_Child.description>{PAWN_nameDef}小姐有着一半的维多利亚血统，一半的拉特兰血统。{PAWN_pronoun}从小在拉特兰长大，深爱着这片自由又开朗的故乡。</AK_BackStory_Archetto_Child.description>
+  <!-- EN: 拉特兰混血儿 -->
+  <AK_BackStory_Archetto_Child.title>拉特兰混血儿</AK_BackStory_Archetto_Child.title>
+  <!-- EN: 混血儿 -->
+  <AK_BackStory_Archetto_Child.titleShort>混血儿</AK_BackStory_Archetto_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}现作为狙击干员于罗德岛干员组任职，并定期为医疗组提供毒理学相关研究的协助。\n目前{PAWN_possessive}毒物生成能力由凯尔希医生亲自进行研究并进行日常采样工作。 -->
+  <AK_BackStory_Bluepoison_Adult.description>{PAWN_nameDef}现作为狙击干员于罗德岛干员组任职，并定期为医疗组提供毒理学相关研究的协助。
+目前{PAWN_possessive}毒物生成能力由凯尔希医生亲自进行研究并进行日常采样工作。</AK_BackStory_Bluepoison_Adult.description>
+  <!-- EN: 毒剂师 -->
+  <AK_BackStory_Bluepoison_Adult.title>毒剂师</AK_BackStory_Bluepoison_Adult.title>
+  <!-- EN: 毒剂师 -->
+  <AK_BackStory_Bluepoison_Adult.titleShort>毒剂师</AK_BackStory_Bluepoison_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}的祖辈都生活在萨尔贡的陆地上，但被阿戈尔人抓到伊比利亚，以研究其毒物的性质能不能用于抗击敌人。 -->
+  <AK_BackStory_Bluepoison_Child.description>{PAWN_nameDef}的祖辈都生活在萨尔贡的陆地上，但被阿戈尔人抓到伊比利亚，以研究其毒物的性质能不能用于抗击敌人。</AK_BackStory_Bluepoison_Child.description>
+  <!-- EN: 实验品 -->
+  <AK_BackStory_Bluepoison_Child.title>实验品</AK_BackStory_Bluepoison_Child.title>
+  <!-- EN: 实验品 -->
+  <AK_BackStory_Bluepoison_Child.titleShort>实验品</AK_BackStory_Bluepoison_Child.titleShort>
+  
+  <!-- EN: 为了制造混乱取乐，跃跃在玻利瓦尔冲突频发的地区，承接各方势力的短期雇佣，暗中给敌对势力制造混乱。 -->
+  <AK_BackStory_Caper_Adult.description>为了制造混乱取乐，跃跃在玻利瓦尔冲突频发的地区，承接各方势力的短期雇佣，暗中给敌对势力制造混乱。</AK_BackStory_Caper_Adult.description>
+  <!-- EN: 雇佣兵 -->
+  <AK_BackStory_Caper_Adult.title>雇佣兵</AK_BackStory_Caper_Adult.title>
+  <!-- EN: 雇佣兵 -->
+  <AK_BackStory_Caper_Adult.titleShort>雇佣兵</AK_BackStory_Caper_Adult.titleShort>
+  
+  <!-- EN: 出生于玻利瓦尔贫民窟的一个单亲家庭，从小被母亲带大，她的母亲是当地军工厂的一名装配工。卡莉到了年纪，自然就和贫民窟的其他孩子一样走上街头。此时的卡莉已经初露捣乱方面的天赋 -->
+  <AK_BackStory_Caper_Child.description>出生于玻利瓦尔贫民窟的一个单亲家庭，从小被母亲带大，她的母亲是当地军工厂的一名装配工。卡莉到了年纪，自然就和贫民窟的其他孩子一样走上街头。此时的卡莉已经初露捣乱方面的天赋</AK_BackStory_Caper_Child.description>
+  <!-- EN: 贫民窟的孩子 -->
+  <AK_BackStory_Caper_Child.title>贫民窟的孩子</AK_BackStory_Caper_Child.title>
+  <!-- EN: 孩子 -->
+  <AK_BackStory_Caper_Child.titleShort>孩子</AK_BackStory_Caper_Child.titleShort>
+  
+  <!-- EN: 罗德岛正式干员：前龙门高级警司，龙门近卫局特别督查组组长。现辞去职务，正式成为罗德岛的一员。依本人意愿，任务多以外拍为主，为各地外派干员提供有力支援及现场指导。 -->
+  <AK_BackStory_ChenHolungday_Adult.description>罗德岛正式干员：前龙门高级警司，龙门近卫局特别督查组组长。现辞去职务，正式成为罗德岛的一员。依本人意愿，任务多以外拍为主，为各地外派干员提供有力支援及现场指导。</AK_BackStory_ChenHolungday_Adult.description>
+  <!-- EN: 龙门近卫局局长 -->
+  <AK_BackStory_ChenHolungday_Adult.title>龙门近卫局局长</AK_BackStory_ChenHolungday_Adult.title>
+  <!-- EN: 局长 -->
+  <AK_BackStory_ChenHolungday_Adult.titleShort>局长</AK_BackStory_ChenHolungday_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，来自米诺斯的吟游诗人，对抗萨尔贡殖民者的游击队成员。\n至于本人反复强调的“蝉联三届勇士大会射箭项目冠军”和“米诺斯第一竖琴演奏家”的身份无法考证，暂不录入档案。 -->
+  <AK_BackStory_Erato_Adult.description>{PAWN_nameDef}，来自米诺斯的吟游诗人，对抗萨尔贡殖民者的游击队成员。
+至于本人反复强调的“蝉联三届勇士大会射箭项目冠军”和“米诺斯第一竖琴演奏家”的身份无法考证，暂不录入档案。</AK_BackStory_Erato_Adult.description>
+  <!-- EN: 吟游诗人 -->
+  <AK_BackStory_Erato_Adult.title>吟游诗人</AK_BackStory_Erato_Adult.title>
+  <!-- EN: 吟游诗人 -->
+  <AK_BackStory_Erato_Adult.titleShort>吟游诗人</AK_BackStory_Erato_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，出身于米诺斯南部某村庄。精于弓术与琴艺，参加过米诺斯对萨尔贡的反侵略战争，在战斗中立下杰出战功。以上信息经过人事部的深入调查，确认属实。 -->
+  <AK_BackStory_Erato_Child.description>{PAWN_nameDef}，出身于米诺斯南部某村庄。精于弓术与琴艺，参加过米诺斯对萨尔贡的反侵略战争，在战斗中立下杰出战功。以上信息经过人事部的深入调查，确认属实。</AK_BackStory_Erato_Child.description>
+  <!-- EN: 米诺斯战士 -->
+  <AK_BackStory_Erato_Child.title>米诺斯战士</AK_BackStory_Erato_Child.title>
+  <!-- EN: 米诺斯战士 -->
+  <AK_BackStory_Erato_Child.titleShort>米诺斯战士</AK_BackStory_Erato_Child.titleShort>
+  
+  <!-- EN: 拉特兰公证所需要独特的工作人员。公证所将他们派遣向各个城邦，专门监督和推动种种事务的解决和落实。\n干员{PAWN_nameDef}就是其中一员。他们这些工作人员被称作“执行者”，代表着拉特兰公证所的意志。 -->
+  <AK_BackStory_Executor_Adult.description>拉特兰公证所需要独特的工作人员。公证所将他们派遣向各个城邦，专门监督和推动种种事务的解决和落实。
+干员{PAWN_nameDef}就是其中一员。他们这些工作人员被称作“执行者”，代表着拉特兰公证所的意志。</AK_BackStory_Executor_Adult.description>
+  <!-- EN: 拉特兰公证所执行人 -->
+  <AK_BackStory_Executor_Adult.title>拉特兰公证所执行人</AK_BackStory_Executor_Adult.title>
+  <!-- EN: 执行人 -->
+  <AK_BackStory_Executor_Adult.titleShort>执行人</AK_BackStory_Executor_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，拉特兰公民，适用于拉特兰一至十三项公民权益。 -->
+  <AK_BackStory_Executor_Child.description>{PAWN_nameDef}，拉特兰公民，适用于拉特兰一至十三项公民权益。</AK_BackStory_Executor_Child.description>
+  <!-- EN: 拉特兰公民 -->
+  <AK_BackStory_Executor_Child.title>拉特兰公民</AK_BackStory_Executor_Child.title>
+  <!-- EN: 拉特兰公民 -->
+  <AK_BackStory_Executor_Child.titleShort>拉特兰公民</AK_BackStory_Executor_Child.titleShort>
+  
+  <!-- EN: 在毕业后，{PAWN_nameDef}前往龙门，并且在企鹅物流供职。\n从事秘密联络，武装押运等非公开活动，推测身份：信使。 -->
+  <AK_BackStory_Exusiai_Adult.description>在毕业后，{PAWN_nameDef}前往龙门，并且在企鹅物流供职。
+从事秘密联络，武装押运等非公开活动，推测身份：信使。</AK_BackStory_Exusiai_Adult.description>
+  <!-- EN: 企鹅物流职员 -->
+  <AK_BackStory_Exusiai_Adult.title>企鹅物流职员</AK_BackStory_Exusiai_Adult.title>
+  <!-- EN: 职员 -->
+  <AK_BackStory_Exusiai_Adult.titleShort>职员</AK_BackStory_Exusiai_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}曾经在教堂外搞摇滚乐演出，出了岔子被公证所的人追了三条街，还失手炸掉过自己的母校。\n有时候{PAWN_pronoun}制造爆炸事故甚至只是因为想要恶作剧。 -->
+  <AK_BackStory_Exusiai_Child.description>{PAWN_nameDef}曾经在教堂外搞摇滚乐演出，出了岔子被公证所的人追了三条街，还失手炸掉过自己的母校。
+有时候{PAWN_pronoun}制造爆炸事故甚至只是因为想要恶作剧。</AK_BackStory_Exusiai_Child.description>
+  <!-- EN: “传说中三年内炸毁母校十七次的传奇” -->
+  <AK_BackStory_Exusiai_Child.title>“传说中三年内炸毁母校十七次的传奇”</AK_BackStory_Exusiai_Child.title>
+  <!-- EN: 传奇 -->
+  <AK_BackStory_Exusiai_Child.titleShort>传奇</AK_BackStory_Exusiai_Child.titleShort>
+  
+  <!-- EN: 在血骑士的大力推行下感染者骑士法案得以施行，{PAWN_nameDef}得以成为一名感染者骑士并参与比赛，并在后来加入红松骑士团。 -->
+  <AK_BackStory_Fartooth_Adult.description>在血骑士的大力推行下感染者骑士法案得以施行，{PAWN_nameDef}得以成为一名感染者骑士并参与比赛，并在后来加入红松骑士团。</AK_BackStory_Fartooth_Adult.description>
+  <!-- EN: 远牙骑士 -->
+  <AK_BackStory_Fartooth_Adult.title>远牙骑士</AK_BackStory_Fartooth_Adult.title>
+  <!-- EN: 骑士 -->
+  <AK_BackStory_Fartooth_Adult.titleShort>骑士</AK_BackStory_Fartooth_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}的童年和其他同龄人一样是在对骑士憧憬中度过的，成年后因为渴望成为骑士，{PAWN_pronoun}只身前往大骑士岭，却在中途因为意外感染矿石病。 -->
+  <AK_BackStory_Fartooth_Child.description>{PAWN_nameDef}的童年和其他同龄人一样是在对骑士憧憬中度过的，成年后因为渴望成为骑士，{PAWN_pronoun}只身前往大骑士岭，却在中途因为意外感染矿石病。</AK_BackStory_Fartooth_Child.description>
+  <!-- EN: 卡西米尔青年 -->
+  <AK_BackStory_Fartooth_Child.title>卡西米尔青年</AK_BackStory_Fartooth_Child.title>
+  <!-- EN: 青年 -->
+  <AK_BackStory_Fartooth_Child.titleShort>青年</AK_BackStory_Fartooth_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在加入公证所之后原本同安多恩和他手下的小队一起行动，但是在某些变故后{PAWN_pronoun}现在的任务变成了监视莫斯提马。 -->
+  <AK_BackStory_Fiammetta_Adult.description>{PAWN_nameDef}在加入公证所之后原本同安多恩和他手下的小队一起行动，但是在某些变故后{PAWN_pronoun}现在的任务变成了监视莫斯提马。</AK_BackStory_Fiammetta_Adult.description>
+  <!-- EN: 拉特兰公证所高级特派员 -->
+  <AK_BackStory_Fiammetta_Adult.title>拉特兰公证所高级特派员</AK_BackStory_Fiammetta_Adult.title>
+  <!-- EN: 高级特派员 -->
+  <AK_BackStory_Fiammetta_Adult.titleShort>高级特派员</AK_BackStory_Fiammetta_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出生于拉特兰，在家乡的学校毕业后成为了公证所的一员。\n据说{PAWN_pronoun}在{PAWN_pronoun}当时的班级里成绩是最好的。 -->
+  <AK_BackStory_Fiammetta_Child.description>{PAWN_nameDef}出生于拉特兰，在家乡的学校毕业后成为了公证所的一员。
+据说{PAWN_pronoun}在{PAWN_pronoun}当时的班级里成绩是最好的。</AK_BackStory_Fiammetta_Child.description>
+  <!-- EN: 拉特兰的黎博利 -->
+  <AK_BackStory_Fiammetta_Child.title>拉特兰的黎博利</AK_BackStory_Fiammetta_Child.title>
+  <!-- EN: 黎博利 -->
+  <AK_BackStory_Fiammetta_Child.titleShort>黎博利</AK_BackStory_Fiammetta_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，出身不详，于卡西米尔-乌萨斯边境地区作战多年，推测身份：游击队员。在伏击、远程狙击、散兵战术、流动战术等非对称作战中展现出深厚经验。\n现于罗德岛狙击小组任职，提供射击援护方面的保障服务。 -->
+  <AK_BackStory_Firewatch_Adult.description>{PAWN_nameDef}，出身不详，于卡西米尔-乌萨斯边境地区作战多年，推测身份：游击队员。在伏击、远程狙击、散兵战术、流动战术等非对称作战中展现出深厚经验。
+现于罗德岛狙击小组任职，提供射击援护方面的保障服务。</AK_BackStory_Firewatch_Adult.description>
+  <!-- EN: 游击队员 -->
+  <AK_BackStory_Firewatch_Adult.title>游击队员</AK_BackStory_Firewatch_Adult.title>
+  <!-- EN: 游击队员 -->
+  <AK_BackStory_Firewatch_Adult.titleShort>游击队员</AK_BackStory_Firewatch_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}小姐心中的声音，来自于森林。而且来自于森林的最深处。\n只有最深处，才能听到这些静寂却又震耳欲聋的幽声。\n{PAWN_nameDef}小姐曾说过，{PAWN_possessive}族人和朋友，全都葬身在那里。\n究竟……{PAWN_pronoun}经历过什么呢……？ -->
+  <AK_BackStory_Firewatch_Child.description>{PAWN_nameDef}小姐心中的声音，来自于森林。而且来自于森林的最深处。
+只有最深处，才能听到这些静寂却又震耳欲聋的幽声。
+{PAWN_nameDef}小姐曾说过，{PAWN_possessive}族人和朋友，全都葬身在那里。
+究竟……{PAWN_pronoun}经历过什么呢……？</AK_BackStory_Firewatch_Child.description>
+  <!-- EN: 来自森林 -->
+  <AK_BackStory_Firewatch_Child.title>来自森林</AK_BackStory_Firewatch_Child.title>
+  <!-- EN: 来自森林 -->
+  <AK_BackStory_Firewatch_Child.titleShort>来自森林</AK_BackStory_Firewatch_Child.titleShort>
+  
+  <!-- EN: 在阿米娅的建议下，也为了回报罗德岛的收养之恩，{PAWN_nameDef}尝试着参加干员考核，开始学习弓弩等武器的使用。\n现通过考核后，{PAWN_pronoun}被允许成为罗德岛行动队成员。 -->
+  <AK_BackStory_Greythroat_Adult.description>在阿米娅的建议下，也为了回报罗德岛的收养之恩，{PAWN_nameDef}尝试着参加干员考核，开始学习弓弩等武器的使用。
+现通过考核后，{PAWN_pronoun}被允许成为罗德岛行动队成员。</AK_BackStory_Greythroat_Adult.description>
+  <!-- EN: 弩手 -->
+  <AK_BackStory_Greythroat_Adult.title>弩手</AK_BackStory_Greythroat_Adult.title>
+  <!-- EN: 弩手 -->
+  <AK_BackStory_Greythroat_Adult.titleShort>弩手</AK_BackStory_Greythroat_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}的双亲都是非常优秀的矿石病学者，曾与罗德岛的部分医疗干员有一些学术上的合作。但在某个时点后，{PAWN_possessive}父亲便彻底销声匿迹，再之后没多久，{PAWN_possessive}母亲便带着年幼的{PAWN_pronoun}来到了罗德岛，然而其母却拒绝了罗德岛提出的邀请，留下女儿后便不知所踪。{PAWN_possessive}母亲在离开罗德岛时的精神状态非常令人不安，即使后来派遣信使想要与{PAWN_pronoun}取得联系，也只是石沉大海。 -->
+  <AK_BackStory_Greythroat_Child.description>{PAWN_nameDef}的双亲都是非常优秀的矿石病学者，曾与罗德岛的部分医疗干员有一些学术上的合作。但在某个时点后，{PAWN_possessive}父亲便彻底销声匿迹，再之后没多久，{PAWN_possessive}母亲便带着年幼的{PAWN_pronoun}来到了罗德岛，然而其母却拒绝了罗德岛提出的邀请，留下女儿后便不知所踪。{PAWN_possessive}母亲在离开罗德岛时的精神状态非常令人不安，即使后来派遣信使想要与{PAWN_pronoun}取得联系，也只是石沉大海。</AK_BackStory_Greythroat_Child.description>
+  <!-- EN: 医者的孩子 -->
+  <AK_BackStory_Greythroat_Child.title>医者的孩子</AK_BackStory_Greythroat_Child.title>
+  <!-- EN: 医者的孩子 -->
+  <AK_BackStory_Greythroat_Child.titleShort>医者的孩子</AK_BackStory_Greythroat_Child.titleShort>
+  
+  <!-- EN: 极度缺乏自信的黑钢国际正式员工、派遣干员。似乎非常非常有钱！\n或许是性格软弱的原因，在黑钢时就经常被各方抓去测试一些新型的协议和器械，来到罗德岛后，这一点也延续了下来。\n对新晋干员来说，{PAWN_pronoun}们在使用大部分器械前，都要先观看{PAWN_nameDef}的演示。、\n某种意义上，这也是{PAWN_pronoun}值得信赖的表现。 -->
+  <AK_BackStory_Jessica_Adult.description>极度缺乏自信的黑钢国际正式员工、派遣干员。似乎非常非常有钱！
+或许是性格软弱的原因，在黑钢时就经常被各方抓去测试一些新型的协议和器械，来到罗德岛后，这一点也延续了下来。
+对新晋干员来说，{PAWN_pronoun}们在使用大部分器械前，都要先观看{PAWN_nameDef}的演示。、
+某种意义上，这也是{PAWN_pronoun}值得信赖的表现。</AK_BackStory_Jessica_Adult.description>
+  <!-- EN: 黑钢雇员（富婆） -->
+  <AK_BackStory_Jessica_Adult.title>黑钢雇员（富婆）</AK_BackStory_Jessica_Adult.title>
+  <!-- EN: 富婆 -->
+  <AK_BackStory_Jessica_Adult.titleShort>富婆</AK_BackStory_Jessica_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}是布林雷家的小女儿，作为雷神工业的千金小姐性格却异常怯弱胆小，也许去黑钢国际也是父母对{PAWN_possessive}锻炼吧。 -->
+  <AK_BackStory_Jessica_Child.description>{PAWN_nameDef}是布林雷家的小女儿，作为雷神工业的千金小姐性格却异常怯弱胆小，也许去黑钢国际也是父母对{PAWN_possessive}锻炼吧。</AK_BackStory_Jessica_Child.description>
+  <!-- EN: 雷神工业的大小姐 -->
+  <AK_BackStory_Jessica_Child.title>雷神工业的大小姐</AK_BackStory_Jessica_Child.title>
+  <!-- EN: 大小姐 -->
+  <AK_BackStory_Jessica_Child.titleShort>大小姐</AK_BackStory_Jessica_Child.titleShort>
+  
+  <!-- EN: 在通过干员考核加入罗德岛后，{PAWN_nameDef}作为预备队员加入了预备行动组A1 -->
+  <AK_BackStory_Kroos_Adult.description>在通过干员考核加入罗德岛后，{PAWN_nameDef}作为预备队员加入了预备行动组A1</AK_BackStory_Kroos_Adult.description>
+  <!-- EN: 预备行动组A1 -->
+  <AK_BackStory_Kroos_Adult.title>预备行动组A1</AK_BackStory_Kroos_Adult.title>
+  <!-- EN: 预备队员 -->
+  <AK_BackStory_Kroos_Adult.titleShort>预备队员</AK_BackStory_Kroos_Adult.titleShort>
+  
+  <!-- EN: 来自其他地区的{PAWN_nameDef}成为当地警备队成员后，因为遇上了突然降临的天灾，为了和芬保护感染者区块的人而感染矿石病并离开哥伦比亚，在线人的帮助下来到了罗德岛。 -->
+  <AK_BackStory_Kroos_Child.description>来自其他地区的{PAWN_nameDef}成为当地警备队成员后，因为遇上了突然降临的天灾，为了和芬保护感染者区块的人而感染矿石病并离开哥伦比亚，在线人的帮助下来到了罗德岛。</AK_BackStory_Kroos_Child.description>
+  <!-- EN: 提卡伦多预备警员 -->
+  <AK_BackStory_Kroos_Child.title>提卡伦多预备警员</AK_BackStory_Kroos_Child.title>
+  <!-- EN: 预备警员 -->
+  <AK_BackStory_Kroos_Child.titleShort>预备警员</AK_BackStory_Kroos_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，游荡在叙拉古荒野上的猎人，经由企鹅物流的介绍加入罗德岛，担任罗德岛在叙拉古野外行动的向导，兼职狙击干员。 -->
+  <AK_BackStory_Lunacub_Adult.description>{PAWN_nameDef}，游荡在叙拉古荒野上的猎人，经由企鹅物流的介绍加入罗德岛，担任罗德岛在叙拉古野外行动的向导，兼职狙击干员。</AK_BackStory_Lunacub_Adult.description>
+  <!-- EN: 猎人 -->
+  <AK_BackStory_Lunacub_Adult.title>猎人</AK_BackStory_Lunacub_Adult.title>
+  <!-- EN: 猎人 -->
+  <AK_BackStory_Lunacub_Adult.titleShort>猎人</AK_BackStory_Lunacub_Adult.titleShort>
+  
+  <!-- EN: 根据{PAWN_nameDef}本人的叙述，{PAWN_pronoun}自从记事起就和狼群生活在一起，据称{PAWN_pronoun}有一个朋友叫“阿涅赛”\n{PAWN_pronoun}在荒野上长大，荒野养育了{PAWN_pronoun}。 -->
+  <AK_BackStory_Lunacub_Child.description>根据{PAWN_nameDef}本人的叙述，{PAWN_pronoun}自从记事起就和狼群生活在一起，据称{PAWN_pronoun}有一个朋友叫“阿涅赛”
+{PAWN_pronoun}在荒野上长大，荒野养育了{PAWN_pronoun}。</AK_BackStory_Lunacub_Child.description>
+  <!-- EN: 狼孩 -->
+  <AK_BackStory_Lunacub_Child.title>狼孩</AK_BackStory_Lunacub_Child.title>
+  <!-- EN: 狼孩 -->
+  <AK_BackStory_Lunacub_Child.titleShort>狼孩</AK_BackStory_Lunacub_Child.titleShort>
+  
+  <!-- EN: 前“守林人”组织成员，现自由佣兵，此外履历不详。\n现作为狙击干员为罗德岛服务，使用手中的弩炮发挥出卓越的范围杀伤力。 -->
+  <AK_BackStory_Meteorite_Adult.description>前“守林人”组织成员，现自由佣兵，此外履历不详。
+现作为狙击干员为罗德岛服务，使用手中的弩炮发挥出卓越的范围杀伤力。</AK_BackStory_Meteorite_Adult.description>
+  <!-- EN: 自由佣兵 -->
+  <AK_BackStory_Meteorite_Adult.title>自由佣兵</AK_BackStory_Meteorite_Adult.title>
+  <!-- EN: 自由佣兵 -->
+  <AK_BackStory_Meteorite_Adult.titleShort>自由佣兵</AK_BackStory_Meteorite_Adult.titleShort>
+  
+  <!-- EN: 赤红的梦魇{PAWN_nameDef}，正走在自己的“天途”上。\n{PAWN_pronoun}相信自己即将名扬萨尔贡，{PAWN_pronoun}已经如此相信了很多年。 -->
+  <AK_BackStory_Narantuya_Adult.description>赤红的梦魇{PAWN_nameDef}，正走在自己的“天途”上。
+{PAWN_pronoun}相信自己即将名扬萨尔贡，{PAWN_pronoun}已经如此相信了很多年。</AK_BackStory_Narantuya_Adult.description>
+  <!-- EN: 天途行者 -->
+  <AK_BackStory_Narantuya_Adult.title>天途行者</AK_BackStory_Narantuya_Adult.title>
+  <!-- EN: 天途行者 -->
+  <AK_BackStory_Narantuya_Adult.titleShort>天途行者</AK_BackStory_Narantuya_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}自幼掌握了大量生活技艺与战斗技巧，{PAWN_pronoun}知晓如何驯服野生的角跳兽，如何将毛皮制成衣物与挂毯，也知晓如何凭两把弯刀和一捧沙子在任何搏斗中幸存。 -->
+  <AK_BackStory_Narantuya_Child.description>{PAWN_nameDef}自幼掌握了大量生活技艺与战斗技巧，{PAWN_pronoun}知晓如何驯服野生的角跳兽，如何将毛皮制成衣物与挂毯，也知晓如何凭两把弯刀和一捧沙子在任何搏斗中幸存。</AK_BackStory_Narantuya_Child.description>
+  <!-- EN: 梦魇部族的孩子 -->
+  <AK_BackStory_Narantuya_Child.title>梦魇部族的孩子</AK_BackStory_Narantuya_Child.title>
+  <!-- EN: 梦魇部族的孩子 -->
+  <AK_BackStory_Narantuya_Child.titleShort>梦魇部族的孩子</AK_BackStory_Narantuya_Child.titleShort>
+  
+  <!-- EN: 然而，数年前，{PAWN_nameDef}的家庭遭遇了一场变故——松果的父亲在施工事故中，几乎失去双臂，却因为公司的黑心合同迟迟得不到治疗费。多亏山无意之间的搭救才得到妥善的治疗。\n后来，在卡夫卡的口中，{PAWN_pronoun}得知了自己的恩人正身陷囹圄，为了帮助恩人，{PAWN_pronoun}决定协助山越狱，并在成功后随其加入罗德岛。 -->
+  <AK_BackStory_Pinecone_Adult.description>然而，数年前，{PAWN_nameDef}的家庭遭遇了一场变故——松果的父亲在施工事故中，几乎失去双臂，却因为公司的黑心合同迟迟得不到治疗费。多亏山无意之间的搭救才得到妥善的治疗。
+后来，在卡夫卡的口中，{PAWN_pronoun}得知了自己的恩人正身陷囹圄，为了帮助恩人，{PAWN_pronoun}决定协助山越狱，并在成功后随其加入罗德岛。</AK_BackStory_Pinecone_Adult.description>
+  <!-- EN: 临时工 -->
+  <AK_BackStory_Pinecone_Adult.title>临时工</AK_BackStory_Pinecone_Adult.title>
+  <!-- EN: 临时工 -->
+  <AK_BackStory_Pinecone_Adult.titleShort>临时工</AK_BackStory_Pinecone_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出生在哥伦比亚一个普通的工人家庭。{PAWN_possessive}父母如同大部分哥伦比亚工人一样，投身于哥伦比亚浩瀚的拓荒浪潮。在某个春天，{PAWN_pronoun}出生在一处偏僻却安宁的哥伦比亚城镇。在这座逐渐听不见拓荒队伍机械轰鸣的镇子里，{PAWN_pronoun}度过了短暂却幸福的童年。 -->
+  <AK_BackStory_Pinecone_Child.description>{PAWN_nameDef}出生在哥伦比亚一个普通的工人家庭。{PAWN_possessive}父母如同大部分哥伦比亚工人一样，投身于哥伦比亚浩瀚的拓荒浪潮。在某个春天，{PAWN_pronoun}出生在一处偏僻却安宁的哥伦比亚城镇。在这座逐渐听不见拓荒队伍机械轰鸣的镇子里，{PAWN_pronoun}度过了短暂却幸福的童年。</AK_BackStory_Pinecone_Child.description>
+  <!-- EN: 拓荒者的孩子 -->
+  <AK_BackStory_Pinecone_Child.title>拓荒者的孩子</AK_BackStory_Pinecone_Child.title>
+  <!-- EN: 拓荒者 -->
+  <AK_BackStory_Pinecone_Child.titleShort>拓荒者</AK_BackStory_Pinecone_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在一次被要求输掉的比赛中因为对方无视{PAWN_possessive}投降、继续攻击而心生愤懑，在无胄盟的诱导下暗杀了那位对手，成为了前任白金的学徒，最后被迫成为了新一任白金。为了任务去暗杀博士，却因为博士对商业联合会的深刻了解，成功威慑了{PAWN_pronoun}导致其无法下手甚至记仇，后来叛离无胄盟，在逃亡路上遇到了博士、砾和芙蓉，于是成功地被拐上罗德岛。 -->
+  <AK_BackStory_Platinum_Adult.description>{PAWN_nameDef}在一次被要求输掉的比赛中因为对方无视{PAWN_possessive}投降、继续攻击而心生愤懑，在无胄盟的诱导下暗杀了那位对手，成为了前任白金的学徒，最后被迫成为了新一任白金。为了任务去暗杀博士，却因为博士对商业联合会的深刻了解，成功威慑了{PAWN_pronoun}导致其无法下手甚至记仇，后来叛离无胄盟，在逃亡路上遇到了博士、砾和芙蓉，于是成功地被拐上罗德岛。</AK_BackStory_Platinum_Adult.description>
+  <!-- EN: 无胄盟白金 -->
+  <AK_BackStory_Platinum_Adult.title>无胄盟白金</AK_BackStory_Platinum_Adult.title>
+  <!-- EN: 白金 -->
+  <AK_BackStory_Platinum_Adult.titleShort>白金</AK_BackStory_Platinum_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}原本是个憧憬骑士身份的普通少女，却被商业联合会玩弄于鼓掌之中，始终得不到骑士称号。 -->
+  <AK_BackStory_Platinum_Child.description>{PAWN_nameDef}原本是个憧憬骑士身份的普通少女，却被商业联合会玩弄于鼓掌之中，始终得不到骑士称号。</AK_BackStory_Platinum_Child.description>
+  <!-- EN: 被玩弄的少女 -->
+  <AK_BackStory_Platinum_Child.title>被玩弄的少女</AK_BackStory_Platinum_Child.title>
+  <!-- EN: 少女 -->
+  <AK_BackStory_Platinum_Child.titleShort>少女</AK_BackStory_Platinum_Child.titleShort>
+  
+  <!-- EN: 阿芙朵嘉·锐笔，际崖城的文学代表，在说服杜林人前往阿卡胡拉避难的过程中发挥了重要作用，经际崖城商业代表克罗绮·砖石介绍来罗德岛考察，现作为狙击干员参与外勤任务。 -->
+  <AK_BackStory_Pozyomka_Adult.description>阿芙朵嘉·锐笔，际崖城的文学代表，在说服杜林人前往阿卡胡拉避难的过程中发挥了重要作用，经际崖城商业代表克罗绮·砖石介绍来罗德岛考察，现作为狙击干员参与外勤任务。</AK_BackStory_Pozyomka_Adult.description>
+  <!-- EN: 文学代表 -->
+  <AK_BackStory_Pozyomka_Adult.title>文学代表</AK_BackStory_Pozyomka_Adult.title>
+  <!-- EN: 文学代表 -->
+  <AK_BackStory_Pozyomka_Adult.titleShort>文学代表</AK_BackStory_Pozyomka_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}曾经是乌萨斯的贵族，在一场乏善可陈的政治阴谋中，{PAWN_pronoun}家人相继死去，最终只剩{PAWN_pronoun}一个人侥幸逃脱，误打误撞地进了际崖城。具体过程在风险研判后，人事部决定不进行进一步的询问。 -->
+  <AK_BackStory_Pozyomka_Child.description>{PAWN_nameDef}曾经是乌萨斯的贵族，在一场乏善可陈的政治阴谋中，{PAWN_pronoun}家人相继死去，最终只剩{PAWN_pronoun}一个人侥幸逃脱，误打误撞地进了际崖城。具体过程在风险研判后，人事部决定不进行进一步的询问。</AK_BackStory_Pozyomka_Child.description>
+  <!-- EN: 旧贵族 -->
+  <AK_BackStory_Pozyomka_Child.title>旧贵族</AK_BackStory_Pozyomka_Child.title>
+  <!-- EN: 旧贵族 -->
+  <AK_BackStory_Pozyomka_Child.titleShort>旧贵族</AK_BackStory_Pozyomka_Child.titleShort>
+  
+  <!-- EN: 无数次与天灾擦肩而过并不是一件轻松的事情，有许多天灾信使因为精神层面的原因而选择了放弃。\n但{PAWN_nameDef}义不容辞地背负着这些沉重的责任，{PAWN_pronoun}对天灾为人们带来的破坏与灾难有着清醒的认知，对生命的珍视是驱使{PAWN_pronoun}一次次投身于这份工作的根本动力。\n{PAWN_pronoun}带来的并非灾难将至的绝望，而是灯塔般的希望。 -->
+  <AK_BackStory_Provence_Adult.description>无数次与天灾擦肩而过并不是一件轻松的事情，有许多天灾信使因为精神层面的原因而选择了放弃。
+但{PAWN_nameDef}义不容辞地背负着这些沉重的责任，{PAWN_pronoun}对天灾为人们带来的破坏与灾难有着清醒的认知，对生命的珍视是驱使{PAWN_pronoun}一次次投身于这份工作的根本动力。
+{PAWN_pronoun}带来的并非灾难将至的绝望，而是灯塔般的希望。</AK_BackStory_Provence_Adult.description>
+  <!-- EN: 乐观的天灾信使 -->
+  <AK_BackStory_Provence_Adult.title>乐观的天灾信使</AK_BackStory_Provence_Adult.title>
+  <!-- EN: 天灾信使 -->
+  <AK_BackStory_Provence_Adult.titleShort>天灾信使</AK_BackStory_Provence_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}曾在雷姆必拓做过很多种散工，对各种技能都略有涉猎，修补电线、缝补衣服、训练沙地兽、通过手边材料搭建临时棚屋。同时，作为雷姆必拓的探井人，{PAWN_nameDef}拥有优秀的战斗能力和充足的专业知识。但{PAWN_pronoun}不太擅长与人交流。 -->
+  <AK_BackStory_Ray_Adult.description>{PAWN_nameDef}曾在雷姆必拓做过很多种散工，对各种技能都略有涉猎，修补电线、缝补衣服、训练沙地兽、通过手边材料搭建临时棚屋。同时，作为雷姆必拓的探井人，{PAWN_nameDef}拥有优秀的战斗能力和充足的专业知识。但{PAWN_pronoun}不太擅长与人交流。</AK_BackStory_Ray_Adult.description>
+  <!-- EN: “探井人” -->
+  <AK_BackStory_Ray_Adult.title>“探井人”</AK_BackStory_Ray_Adult.title>
+  <!-- EN: “探井人” -->
+  <AK_BackStory_Ray_Adult.titleShort>“探井人”</AK_BackStory_Ray_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出身于一个猎人家庭，那支猎人队伍常年游离城市文明之外，但在一次恶劣天气的重创中，一部分家庭成员失散，{PAWN_nameDef}自己幸存了下来，之后选择跟随一名远亲前往移动城市谋生，一个人埋头走得越来越远。 -->
+  <AK_BackStory_Ray_Child.description>{PAWN_nameDef}出身于一个猎人家庭，那支猎人队伍常年游离城市文明之外，但在一次恶劣天气的重创中，一部分家庭成员失散，{PAWN_nameDef}自己幸存了下来，之后选择跟随一名远亲前往移动城市谋生，一个人埋头走得越来越远。</AK_BackStory_Ray_Child.description>
+  <!-- EN: 猎人家庭的孩子 -->
+  <AK_BackStory_Ray_Child.title>猎人家庭的孩子</AK_BackStory_Ray_Child.title>
+  <!-- EN: 猎人家庭的孩子 -->
+  <AK_BackStory_Ray_Child.titleShort>猎人家庭的孩子</AK_BackStory_Ray_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}所在的的罗斯托夫家族，是乌萨斯大叛乱后兴起的新贵族中的一员，原本只是某位伯爵的扈从的他们得到了原本属于伯爵的一切。\n切尔诺伯格市的市长鲍里斯伯爵也是新贵之一，两家一拍即合，在切尔诺伯格经营着或明或暗的生意，这让{PAWN_possessive}家族在切尔诺伯格有着很高地位。\n当然，这一切都随着切尔诺伯格的覆灭化为乌有。\n在切城事变后，{PAWN_pronoun}随着乌萨斯学生自治团来到罗德岛寻求庇护。 -->
+  <AK_BackStory_Rosa_Child.description>{PAWN_nameDef}所在的的罗斯托夫家族，是乌萨斯大叛乱后兴起的新贵族中的一员，原本只是某位伯爵的扈从的他们得到了原本属于伯爵的一切。
+切尔诺伯格市的市长鲍里斯伯爵也是新贵之一，两家一拍即合，在切尔诺伯格经营着或明或暗的生意，这让{PAWN_possessive}家族在切尔诺伯格有着很高地位。
+当然，这一切都随着切尔诺伯格的覆灭化为乌有。
+在切城事变后，{PAWN_pronoun}随着乌萨斯学生自治团来到罗德岛寻求庇护。</AK_BackStory_Rosa_Child.description>
+  <!-- EN: 没落的贵族 -->
+  <AK_BackStory_Rosa_Child.title>没落的贵族</AK_BackStory_Rosa_Child.title>
+  <!-- EN: 贵族 -->
+  <AK_BackStory_Rosa_Child.titleShort>贵族</AK_BackStory_Rosa_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}和{PAWN_possessive}兄弟因为拥有些许独特的源石技艺天赋，就被一名叫洛肯的科学家卷入一场实验，{PAWN_pronoun}们家庭的破灭与之后的收养生活，虚构的监护人、违规的抚养院，全都与此有关。\n在洛肯水箱实验室被摧毁后，梅兰德儿童权益保障基金会从废墟中救出了这个特殊个体，再将{PAWN_pronoun}秘密转移到了凯尔希手中。 -->
+  <AK_BackStory_Rosmontis_Child.description>{PAWN_nameDef}和{PAWN_possessive}兄弟因为拥有些许独特的源石技艺天赋，就被一名叫洛肯的科学家卷入一场实验，{PAWN_pronoun}们家庭的破灭与之后的收养生活，虚构的监护人、违规的抚养院，全都与此有关。
+在洛肯水箱实验室被摧毁后，梅兰德儿童权益保障基金会从废墟中救出了这个特殊个体，再将{PAWN_pronoun}秘密转移到了凯尔希手中。</AK_BackStory_Rosmontis_Child.description>
+  <!-- EN: 洛肯水箱试验品 -->
+  <AK_BackStory_Rosmontis_Child.title>洛肯水箱试验品</AK_BackStory_Rosmontis_Child.title>
+  <!-- EN: 试验品 -->
+  <AK_BackStory_Rosmontis_Child.titleShort>试验品</AK_BackStory_Rosmontis_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在{PAWN_pronoun}12岁那年收到了当时赫尔曼市长的帮助，全灭了自己所属的佣兵团并成为了赫尔曼市长的保镖，随后成为了锡兰的保姆兼保镖直到现在 -->
+  <AK_BackStory_Schwarz_Adult.description>{PAWN_nameDef}在{PAWN_pronoun}12岁那年收到了当时赫尔曼市长的帮助，全灭了自己所属的佣兵团并成为了赫尔曼市长的保镖，随后成为了锡兰的保姆兼保镖直到现在</AK_BackStory_Schwarz_Adult.description>
+  <!-- EN: 精锐保镖 -->
+  <AK_BackStory_Schwarz_Adult.title>精锐保镖</AK_BackStory_Schwarz_Adult.title>
+  <!-- EN: 保镖 -->
+  <AK_BackStory_Schwarz_Adult.titleShort>保镖</AK_BackStory_Schwarz_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}原本是一个商人家庭的孩子，但是在{PAWN_pronoun}6岁那年，因为家人被蒙骗而死。造成自己贩卖为奴，一个佣兵团体最后买下了{PAWN_pronoun}。并将{PAWN_pronoun}培养成了一个孩童杀手。\n{PAWN_pronoun}最擅长替人处理上不得台面的脏活。 -->
+  <AK_BackStory_Schwarz_Child.description>{PAWN_nameDef}原本是一个商人家庭的孩子，但是在{PAWN_pronoun}6岁那年，因为家人被蒙骗而死。造成自己贩卖为奴，一个佣兵团体最后买下了{PAWN_pronoun}。并将{PAWN_pronoun}培养成了一个孩童杀手。
+{PAWN_pronoun}最擅长替人处理上不得台面的脏活。</AK_BackStory_Schwarz_Child.description>
+  <!-- EN: 孩童杀手 -->
+  <AK_BackStory_Schwarz_Child.title>孩童杀手</AK_BackStory_Schwarz_Child.title>
+  <!-- EN: 杀手 -->
+  <AK_BackStory_Schwarz_Child.titleShort>杀手</AK_BackStory_Schwarz_Child.titleShort>
+  
+  <!-- EN: 维多利亚西尔军事学院肄业生，虽非正式服役的职业军人，但接受过系统训练，在各个方面都出类拔萃，尤以攻城战术与相关武器制造为最。\n现已加入罗德岛，担任狙击干员与初级工匠，主要负责远距离摧毁敌方工事与炮火压制。 -->
+  <AK_BackStory_Toddifons_Adult.description>维多利亚西尔军事学院肄业生，虽非正式服役的职业军人，但接受过系统训练，在各个方面都出类拔萃，尤以攻城战术与相关武器制造为最。
+现已加入罗德岛，担任狙击干员与初级工匠，主要负责远距离摧毁敌方工事与炮火压制。</AK_BackStory_Toddifons_Adult.description>
+  <!-- EN: 罗德岛工匠 -->
+  <AK_BackStory_Toddifons_Adult.title>罗德岛工匠</AK_BackStory_Toddifons_Adult.title>
+  <!-- EN: 工匠 -->
+  <AK_BackStory_Toddifons_Adult.titleShort>工匠</AK_BackStory_Toddifons_Adult.titleShort>
+  
+  <!-- EN: {PAWN_pronoun}还清楚记得，某种只有在那个小社区才被要求跳的健身操、若干摸不着头脑的礼仪习俗、还有专门给孩子们办“运动会”准备的“运动场”，里面每个项目都和正规的运动会搭不上一点关系。耳濡目染间，除了多过几个节日，多走几场仪式，多参加几次聚会，顺带打倒一大堆与{PAWN_pronoun}年龄相仿的瓦伊凡之外，{PAWN_pronoun}并不觉得自己学到了什么。 -->
+  <AK_BackStory_Toddifons_Child.description>{PAWN_pronoun}还清楚记得，某种只有在那个小社区才被要求跳的健身操、若干摸不着头脑的礼仪习俗、还有专门给孩子们办“运动会”准备的“运动场”，里面每个项目都和正规的运动会搭不上一点关系。耳濡目染间，除了多过几个节日，多走几场仪式，多参加几次聚会，顺带打倒一大堆与{PAWN_pronoun}年龄相仿的瓦伊凡之外，{PAWN_pronoun}并不觉得自己学到了什么。</AK_BackStory_Toddifons_Child.description>
+  <!-- EN: 维多利亚的瓦伊凡 -->
+  <AK_BackStory_Toddifons_Child.title>维多利亚的瓦伊凡</AK_BackStory_Toddifons_Child.title>
+  <!-- EN: 瓦伊凡 -->
+  <AK_BackStory_Toddifons_Child.titleShort>瓦伊凡</AK_BackStory_Toddifons_Child.titleShort>
+  
+  <!-- EN: 幼兽目睹了父母的死，成年后便会回头寻仇，哪怕是草食动物，也可能生生撞穿猎食者的肚子。 -->
+  <AK_BackStory_Typhon_Adult.description>幼兽目睹了父母的死，成年后便会回头寻仇，哪怕是草食动物，也可能生生撞穿猎食者的肚子。</AK_BackStory_Typhon_Adult.description>
+  <!-- EN: 灾厄猎人 -->
+  <AK_BackStory_Typhon_Adult.title>灾厄猎人</AK_BackStory_Typhon_Adult.title>
+  <!-- EN: 灾厄猎人 -->
+  <AK_BackStory_Typhon_Adult.titleShort>灾厄猎人</AK_BackStory_Typhon_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}对自己的童年一无所知，只知道自己的扶养人是凛视，除此之外没有别的记忆，{PAWN_pronoun}想不起来自己的父母是谁，也想不起他们的模样。 -->
+  <AK_BackStory_Typhon_Child.description>{PAWN_nameDef}对自己的童年一无所知，只知道自己的扶养人是凛视，除此之外没有别的记忆，{PAWN_pronoun}想不起来自己的父母是谁，也想不起他们的模样。</AK_BackStory_Typhon_Child.description>
+  <!-- EN: 遗忘 -->
+  <AK_BackStory_Typhon_Child.title>遗忘</AK_BackStory_Typhon_Child.title>
+  <!-- EN: 遗忘 -->
+  <AK_BackStory_Typhon_Child.titleShort>遗忘</AK_BackStory_Typhon_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}曾经属于一个叙拉古偏远地区的聚落，归属的聚落因为与一个乌萨斯佣兵团的纠纷被灭后{PAWN_pronoun}通过训练消灭了佣兵团所有的成员。 -->
+  <AK_BackStory_Vermeil_Child.description>{PAWN_nameDef}曾经属于一个叙拉古偏远地区的聚落，归属的聚落因为与一个乌萨斯佣兵团的纠纷被灭后{PAWN_pronoun}通过训练消灭了佣兵团所有的成员。</AK_BackStory_Vermeil_Child.description>
+  <!-- EN: 猎人 -->
+  <AK_BackStory_Vermeil_Child.title>猎人</AK_BackStory_Vermeil_Child.title>
+  <!-- EN: 猎人 -->
+  <AK_BackStory_Vermeil_Child.titleShort>猎人</AK_BackStory_Vermeil_Child.titleShort>
+  
+  <!-- EN: 在卡兹戴尔战乱时期，{PAWN_nameDef}曾隶属于卡兹戴尔某支独立雇佣兵小队。该队伍曾频繁袭击拉特兰商旅队伍并因此闻名。\n更多的...了解对你没有任何好处。 -->
+  <AK_BackStory_W_Adult.description>在卡兹戴尔战乱时期，{PAWN_nameDef}曾隶属于卡兹戴尔某支独立雇佣兵小队。该队伍曾频繁袭击拉特兰商旅队伍并因此闻名。
+更多的...了解对你没有任何好处。</AK_BackStory_W_Adult.description>
+  <!-- EN: 狡猾的佣兵 -->
+  <AK_BackStory_W_Adult.title>狡猾的佣兵</AK_BackStory_W_Adult.title>
+  <!-- EN: 佣兵 -->
+  <AK_BackStory_W_Adult.titleShort>佣兵</AK_BackStory_W_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，雇佣兵的领袖，萨卡兹的新希望。/n{PAWN_pronoun}习惯黑夜，甚至称得上喜欢黑夜。在{PAWN_pronoun}尚不知如何处置自己的时候，黑夜是庇护性命的大衣。等到{PAWN_pronoun}学会了填饱肚子的方法，黑夜又成了能涂黑匕首的迷彩。每个能从卡兹戴尔的荒野上走出来的人，都知晓该怎么利用永远暗沉的夜色，因为没有学会的那些人，都已被它一一溺死。 -->
+  <AK_BackStory_Wisadel_Adult.description>{PAWN_nameDef}，雇佣兵的领袖，萨卡兹的新希望。/n{PAWN_pronoun}习惯黑夜，甚至称得上喜欢黑夜。在{PAWN_pronoun}尚不知如何处置自己的时候，黑夜是庇护性命的大衣。等到{PAWN_pronoun}学会了填饱肚子的方法，黑夜又成了能涂黑匕首的迷彩。每个能从卡兹戴尔的荒野上走出来的人，都知晓该怎么利用永远暗沉的夜色，因为没有学会的那些人，都已被它一一溺死。</AK_BackStory_Wisadel_Adult.description>
+  <!-- EN: 萨卡兹雇佣兵领袖 -->
+  <AK_BackStory_Wisadel_Adult.title>萨卡兹雇佣兵领袖</AK_BackStory_Wisadel_Adult.title>
+  <!-- EN: 萨卡兹雇佣兵领袖 -->
+  <AK_BackStory_Wisadel_Adult.titleShort>萨卡兹雇佣兵领袖</AK_BackStory_Wisadel_Adult.titleShort>
+  
+</LanguageData>

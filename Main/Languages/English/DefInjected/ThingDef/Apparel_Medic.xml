@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 锡兰服装 -->
+  <AK_Apparel_Ceylon.label>锡兰服装</AK_Apparel_Ceylon.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Ceylon.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Ceylon.description>
+  
+  <!-- EN: 纯烬艾雅法拉服装 -->
+  <AK_Apparel_EyjafjallaHvitAska.label>纯烬艾雅法拉服装</AK_Apparel_EyjafjallaHvitAska.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_EyjafjallaHvitAska.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_EyjafjallaHvitAska.description>
+  
+  <!-- EN: 纯烬艾雅法拉服装 -->
+  <AK_Apparel_EyjafjallaHvitAskaPicnicBeforeLongTrip.label>纯烬艾雅法拉服装</AK_Apparel_EyjafjallaHvitAskaPicnicBeforeLongTrip.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_EyjafjallaHvitAskaPicnicBeforeLongTrip.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_EyjafjallaHvitAskaPicnicBeforeLongTrip.description>
+  
+  <!-- EN: 焰影苇草服装 -->
+  <AK_Apparel_FlameShadow.label>焰影苇草服装</AK_Apparel_FlameShadow.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_FlameShadow.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_FlameShadow.description>
+  
+  <!-- EN: 焰影苇草_博物 -->
+  <AK_Apparel_FlameShadowCurator.label>焰影苇草_博物</AK_Apparel_FlameShadowCurator.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_FlameShadowCurator.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_FlameShadowCurator.description>
+  
+  <!-- EN: 焰影苇草_夏卉 -->
+  <AK_Apparel_FlameSummerFlower.label>焰影苇草_夏卉</AK_Apparel_FlameSummerFlower.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_FlameSummerFlower.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_FlameSummerFlower.description>
+  
+  <!-- EN: 嘉维尔服装 -->
+  <AK_Apparel_Gavial.label>嘉维尔服装</AK_Apparel_Gavial.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Gavial.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Gavial.description>
+  
+  <!-- EN: 凯尔希服装 -->
+  <AK_Apparel_Kaltsit.label>凯尔希服装</AK_Apparel_Kaltsit.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Kaltsit.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Kaltsit.description>
+  
+  <!-- EN: 桑葚服装 -->
+  <AK_Apparel_Mulberry.label>桑葚服装</AK_Apparel_Mulberry.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Mulberry.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Mulberry.description>
+  
+  <!-- EN: 末药服装 -->
+  <AK_Apparel_Myrrh.label>末药服装</AK_Apparel_Myrrh.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Myrrh.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Myrrh.description>
+  
+  <!-- EN: 夜莺服装 -->
+  <AK_Apparel_Nightingale.label>夜莺服装</AK_Apparel_Nightingale.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Nightingale.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Nightingale.description>
+  
+  <!-- EN: 挽歌 -->
+  <AK_Apparel_NightingaleElegy.label>挽歌</AK_Apparel_NightingaleElegy.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_NightingaleElegy.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_NightingaleElegy.description>
+  
+  <!-- EN: 错位巡礼 -->
+  <AK_Apparel_NightingaleIakhuOfFlows.label>错位巡礼</AK_Apparel_NightingaleIakhuOfFlows.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_NightingaleIakhuOfFlows.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_NightingaleIakhuOfFlows.description>
+  
+  <!-- EN: 莎草服装 -->
+  <AK_Apparel_Papyrus.label>莎草服装</AK_Apparel_Papyrus.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Papyrus.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Papyrus.description>
+  
+  <!-- EN: 调香师服装 -->
+  <AK_Apparel_Perfumer.label>调香师服装</AK_Apparel_Perfumer.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Perfumer.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Perfumer.description>
+  
+  <!-- EN: 白面鸮服装 -->
+  <AK_Apparel_Ptilopsis.label>白面鸮服装</AK_Apparel_Ptilopsis.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Ptilopsis.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Ptilopsis.description>
+  
+  <!-- EN: 清流服装 -->
+  <AK_Apparel_Purestream.label>清流服装</AK_Apparel_Purestream.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Purestream.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Purestream.description>
+  
+  <!-- EN: 闪灵服装 -->
+  <AK_Apparel_Shining.label>闪灵服装</AK_Apparel_Shining.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Shining.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Shining.description>
+  
+  <!-- EN: 静谧午夜 -->
+  <AK_Apparel_ShiningSilentNight.label>静谧午夜</AK_Apparel_ShiningSilentNight.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_ShiningSilentNight.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_ShiningSilentNight.description>
+  
+  <!-- EN: 赫默服装 -->
+  <AK_Apparel_Silence.label>赫默服装</AK_Apparel_Silence.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Silence.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Silence.description>
+  
+  <!-- EN: 苏苏洛服装 -->
+  <AK_Apparel_Sussurro.label>苏苏洛服装</AK_Apparel_Sussurro.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Sussurro.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Sussurro.description>
+  
+  <!-- EN: 刺玫服装 -->
+  <AK_Apparel_Vendela.label>刺玫服装</AK_Apparel_Vendela.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Vendela.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Vendela.description>
+  
+  <!-- EN: 华法林服装 -->
+  <AK_Apparel_Warfarin.label>华法林服装</AK_Apparel_Warfarin.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Warfarin.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Warfarin.description>
+  
+  <!-- EN: 絮雨服装 -->
+  <AK_Apparel_Whisperain.label>絮雨服装</AK_Apparel_Whisperain.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Whisperain.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Whisperain.description>
+  
+  <!-- EN: 絮雨-幽邃隐修 -->
+  <AK_Apparel_WhisperainPrioryOfAbyss.label>絮雨-幽邃隐修</AK_Apparel_WhisperainPrioryOfAbyss.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_WhisperainPrioryOfAbyss.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_WhisperainPrioryOfAbyss.description>
+  
+</LanguageData>

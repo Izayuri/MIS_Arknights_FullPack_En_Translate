@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 管理员发型 -->
+  <AK_Hair_Administrator.label>管理员发型</AK_Hair_Administrator.label>
+  
+  <!-- EN: 管理员发型(男) -->
+  <AK_Hair_AdministratorMale.label>管理员发型(男)</AK_Hair_AdministratorMale.label>
+  
+  <!-- EN: 可露希尔发型 -->
+  <AK_Hair_Closure.label>可露希尔发型</AK_Hair_Closure.label>
+  
+  <!-- EN: 温德米尔公爵发型 -->
+  <AK_Hair_DukeWindermere.label>温德米尔公爵发型</AK_Hair_DukeWindermere.label>
+  
+  <!-- EN: 爱布拉娜发型 -->
+  <AK_Hair_Eblana.label>爱布拉娜发型</AK_Hair_Eblana.label>
+  
+  <!-- EN: 霜星发型 -->
+  <AK_Hair_FrostNova.label>霜星发型</AK_Hair_FrostNova.label>
+  
+  <!-- EN: 克丽斯腾发型 -->
+  <AK_Hair_Kristen.label>克丽斯腾发型</AK_Hair_Kristen.label>
+  
+  <!-- EN: 佩丽卡发型 -->
+  <AK_Hair_Perlica.label>佩丽卡发型</AK_Hair_Perlica.label>
+  
+  <!-- EN: 普瑞赛斯发型 -->
+  <AK_Hair_PRTS.label>普瑞赛斯发型</AK_Hair_PRTS.label>
+  
+  <!-- EN: 普瑞赛斯-战败 -->
+  <AK_Hair_PRTSDefeat.label>普瑞赛斯-战败</AK_Hair_PRTSDefeat.label>
+  
+</LanguageData>

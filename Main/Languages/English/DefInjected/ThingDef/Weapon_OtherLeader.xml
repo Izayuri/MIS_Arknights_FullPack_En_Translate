@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Eblana.label>法术射击</AK_Bullet_Eblana.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_FrostNova.label>法术射击</AK_Bullet_FrostNova.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Kristen.label>法术射击</AK_Bullet_Kristen.label>
+  
+  <!-- EN: 温德米尔公爵之剑 -->
+  <AK_Weapon_DukeWindermere.label>温德米尔公爵之剑</AK_Weapon_DukeWindermere.label>
+  <!-- EN: 温德米尔家族的佩剑，与其他贵族的名贵宝物不同，它经历了无数厮杀而磨损。 -->
+  <AK_Weapon_DukeWindermere.description>温德米尔家族的佩剑，与其他贵族的名贵宝物不同，它经历了无数厮杀而磨损。</AK_Weapon_DukeWindermere.description>
+  <!-- EN: 剑柄重击 -->
+  <AK_Weapon_DukeWindermere.tools.0.label>剑柄重击</AK_Weapon_DukeWindermere.tools.0.label>
+  <!-- EN: 剑劈砍 -->
+  <AK_Weapon_DukeWindermere.tools.1.label>剑劈砍</AK_Weapon_DukeWindermere.tools.1.label>
+  <!-- EN: 剑长刺 -->
+  <AK_Weapon_DukeWindermere.tools.2.label>剑长刺</AK_Weapon_DukeWindermere.tools.2.label>
+  <!-- EN: 剑直劈 -->
+  <AK_Weapon_DukeWindermere.tools.3.label>剑直劈</AK_Weapon_DukeWindermere.tools.3.label>
+  
+  <!-- EN: 死火之枪 -->
+  <AK_Weapon_Eblana.label>死火之枪</AK_Weapon_Eblana.label>
+  <!-- EN: 能够焚烧生命的长枪。 -->
+  <AK_Weapon_Eblana.description>能够焚烧生命的长枪。</AK_Weapon_Eblana.description>
+  <!-- EN: 长枪猛劈 -->
+  <AK_Weapon_Eblana.tools.0.label>长枪猛劈</AK_Weapon_Eblana.tools.0.label>
+  <!-- EN: 旋枪 -->
+  <AK_Weapon_Eblana.tools.1.label>旋枪</AK_Weapon_Eblana.tools.1.label>
+  <!-- EN: 死火之枪 -->
+  <AK_Weapon_Eblana.verbs.Verb_Shoot.label>死火之枪</AK_Weapon_Eblana.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 爱布拉娜的法术符 -->
+  <AK_Weapon_EblanaB.label>爱布拉娜的法术符</AK_Weapon_EblanaB.label>
+  <!-- EN: 爱布拉娜的法术符。 -->
+  <AK_Weapon_EblanaB.description>爱布拉娜的法术符。</AK_Weapon_EblanaB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_EblanaB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_EblanaB.tools.0.label>
+  
+  <!-- EN: 寒冬之刃 -->
+  <AK_Weapon_FrostNova.label>寒冬之刃</AK_Weapon_FrostNova.label>
+  <!-- EN: 霜星的匕首，实际上只是很常见的材质，只是更加抗寒。\n冰环的寒光如同匕首一般冷酷，但是即使是这样，她的灵魂却是沸腾的 -->
+  <AK_Weapon_FrostNova.description>霜星的匕首，实际上只是很常见的材质，只是更加抗寒。
+冰环的寒光如同匕首一般冷酷，但是即使是这样，她的灵魂却是沸腾的</AK_Weapon_FrostNova.description>
+  <!-- EN: 匕首砍击 -->
+  <AK_Weapon_FrostNova.tools.0.label>匕首砍击</AK_Weapon_FrostNova.tools.0.label>
+  <!-- EN: 法杖柄击 -->
+  <AK_Weapon_FrostNova.tools.1.label>法杖柄击</AK_Weapon_FrostNova.tools.1.label>
+  <!-- EN: 匕首捅击 -->
+  <AK_Weapon_FrostNova.tools.2.label>匕首捅击</AK_Weapon_FrostNova.tools.2.label>
+  <!-- EN: 匕首猛刺 -->
+  <AK_Weapon_FrostNova.tools.3.label>匕首猛刺</AK_Weapon_FrostNova.tools.3.label>
+  <!-- EN: 寒冬之刃 -->
+  <AK_Weapon_FrostNova.verbs.Verb_Shoot.label>寒冬之刃</AK_Weapon_FrostNova.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “波骇”施术单元 -->
+  <AK_Weapon_Kristen.label>“波骇”施术单元</AK_Weapon_Kristen.label>
+  <!-- EN: 能够近乎完美地适配克丽斯腾源石技艺的施术单元，通过操控重力来到达某些自卫或战术目的。\n现在它被调整了出力，用于瞬间对小范围内施加达到两位数的G力以对目标造成严重损伤。 -->
+  <AK_Weapon_Kristen.description>能够近乎完美地适配克丽斯腾源石技艺的施术单元，通过操控重力来到达某些自卫或战术目的。
+现在它被调整了出力，用于瞬间对小范围内施加达到两位数的G力以对目标造成严重损伤。</AK_Weapon_Kristen.description>
+  <!-- EN: 猛击 -->
+  <AK_Weapon_Kristen.tools.0.label>猛击</AK_Weapon_Kristen.tools.0.label>
+  <!-- EN: “波骇”施术单元 -->
+  <AK_Weapon_Kristen.verbs.Verb_Shoot.label>“波骇”施术单元</AK_Weapon_Kristen.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 普瑞赛斯的文具 -->
+  <AK_Weapon_PRTS.label>普瑞赛斯的文具</AK_Weapon_PRTS.label>
+  <!-- EN: 很普通的圆珠笔和书。 -->
+  <AK_Weapon_PRTS.description>很普通的圆珠笔和书。</AK_Weapon_PRTS.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_PRTS.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_PRTS.tools.0.label>
+  
+</LanguageData>

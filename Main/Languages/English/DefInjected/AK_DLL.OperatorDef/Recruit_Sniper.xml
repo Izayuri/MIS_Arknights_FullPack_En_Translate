@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Nothing good ever comes of her laughter. And she's always laughing.\nW, Sarkaz\n			mercenary, is the single most dangerous signal on the battlefield. -->
+  <AK_Recruit_AgentW.description>Nothing good ever comes of her laughter. And she's always laughing.
+W, Sarkaz
+			mercenary, is the single most dangerous signal on the battlefield.</AK_Recruit_AgentW.description>
+  <!-- EN: W -->
+  <AK_Recruit_AgentW.name>W</AK_Recruit_AgentW.name>
+  <!-- EN: W -->
+  <AK_Recruit_AgentW.nickname>W</AK_Recruit_AgentW.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_AgentW.surname>罗德岛</AK_Recruit_AgentW.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_April.description>FIXME</AK_Recruit_April.description>
+  <!-- EN: April -->
+  <AK_Recruit_April.name>April</AK_Recruit_April.name>
+  <!-- EN: April -->
+  <AK_Recruit_April.nickname>April</AK_Recruit_April.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_April.surname>罗德岛</AK_Recruit_April.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Archetto.description>FIXME</AK_Recruit_Archetto.description>
+  <!-- EN: Archetto -->
+  <AK_Recruit_Archetto.name>Archetto</AK_Recruit_Archetto.name>
+  <!-- EN: Archetto -->
+  <AK_Recruit_Archetto.nickname>Archetto</AK_Recruit_Archetto.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Archetto.surname>罗德岛</AK_Recruit_Archetto.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Bluepoison.description>FIXME</AK_Recruit_Bluepoison.description>
+  <!-- EN: Bluepoison -->
+  <AK_Recruit_Bluepoison.name>Bluepoison</AK_Recruit_Bluepoison.name>
+  <!-- EN: Bluepoison -->
+  <AK_Recruit_Bluepoison.nickname>Bluepoison</AK_Recruit_Bluepoison.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Bluepoison.surname>罗德岛</AK_Recruit_Bluepoison.surname>
+  
+  <!-- EN: Fixme -->
+  <AK_Recruit_Caper.description>Fixme</AK_Recruit_Caper.description>
+  <!-- EN: Caper -->
+  <AK_Recruit_Caper.name>Caper</AK_Recruit_Caper.name>
+  <!-- EN: Caper -->
+  <AK_Recruit_Caper.nickname>Caper</AK_Recruit_Caper.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Caper.surname>罗德岛</AK_Recruit_Caper.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_ChenHolungday.description>FIXMEDESC</AK_Recruit_ChenHolungday.description>
+  <!-- EN: ChenHolungday -->
+  <AK_Recruit_ChenHolungday.name>ChenHolungday</AK_Recruit_ChenHolungday.name>
+  <!-- EN: ChenHolungday -->
+  <AK_Recruit_ChenHolungday.nickname>ChenHolungday</AK_Recruit_ChenHolungday.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_ChenHolungday.surname>罗德岛</AK_Recruit_ChenHolungday.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Erato.description>FIXMEDESC</AK_Recruit_Erato.description>
+  <!-- EN: Erato -->
+  <AK_Recruit_Erato.name>Erato</AK_Recruit_Erato.name>
+  <!-- EN: Erato -->
+  <AK_Recruit_Erato.nickname>Erato</AK_Recruit_Erato.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Erato.surname>罗德岛</AK_Recruit_Erato.surname>
+  
+  <!-- EN: Be careful what you wish for, because he really can accomplish things that\n			border on absurdity or impossibility.\nExecutor, a professional undertaker sent from the\n			Laterano Embassy, is glad to fulfill any and all contracts. -->
+  <AK_Recruit_Executor.description>Be careful what you wish for, because he really can accomplish things that
+			border on absurdity or impossibility.
+Executor, a professional undertaker sent from the
+			Laterano Embassy, is glad to fulfill any and all contracts.</AK_Recruit_Executor.description>
+  <!-- EN: Executor -->
+  <AK_Recruit_Executor.name>Executor</AK_Recruit_Executor.name>
+  <!-- EN: Executor -->
+  <AK_Recruit_Executor.nickname>Executor</AK_Recruit_Executor.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Executor.surname>罗德岛</AK_Recruit_Executor.surname>
+  
+  <!-- EN: Is it really fine to trust her with any cargo?\n			Exusiai, employee of Penguin Logistics, will clear out everything in the way using her\n			guns. -->
+  <AK_Recruit_Exusiai.description>Is it really fine to trust her with any cargo?
+			Exusiai, employee of Penguin Logistics, will clear out everything in the way using her
+			guns.</AK_Recruit_Exusiai.description>
+  <!-- EN: Exusiai -->
+  <AK_Recruit_Exusiai.name>Exusiai</AK_Recruit_Exusiai.name>
+  <!-- EN: Exusiai -->
+  <AK_Recruit_Exusiai.nickname>Exusiai</AK_Recruit_Exusiai.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Exusiai.surname>罗德岛</AK_Recruit_Exusiai.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Fartooth.description>FIXME</AK_Recruit_Fartooth.description>
+  <!-- EN: Fartooth -->
+  <AK_Recruit_Fartooth.name>Fartooth</AK_Recruit_Fartooth.name>
+  <!-- EN: Fartooth -->
+  <AK_Recruit_Fartooth.nickname>Fartooth</AK_Recruit_Fartooth.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Fartooth.surname>罗德岛</AK_Recruit_Fartooth.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Fiammetta.description>FIXME</AK_Recruit_Fiammetta.description>
+  <!-- EN: Fiammetta -->
+  <AK_Recruit_Fiammetta.name>Fiammetta</AK_Recruit_Fiammetta.name>
+  <!-- EN: Fiammetta -->
+  <AK_Recruit_Fiammetta.nickname>Fiammetta</AK_Recruit_Fiammetta.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Fiammetta.surname>罗德岛</AK_Recruit_Fiammetta.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Firewatch.description>FIXMEDESC</AK_Recruit_Firewatch.description>
+  <!-- EN: Firewatch -->
+  <AK_Recruit_Firewatch.name>Firewatch</AK_Recruit_Firewatch.name>
+  <!-- EN: Firewatch -->
+  <AK_Recruit_Firewatch.nickname>Firewatch</AK_Recruit_Firewatch.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Firewatch.surname>罗德岛</AK_Recruit_Firewatch.surname>
+  
+  <!-- EN: If you're ever on the receiving end of her evil eye, it's not necessarily meant\n			for you.\nGreyThroat, Sniper Operator of Rhodes Island, brings eternal peace with each\n			of her steady shots. -->
+  <AK_Recruit_Greythroat.description>If you're ever on the receiving end of her evil eye, it's not necessarily meant
+			for you.
+GreyThroat, Sniper Operator of Rhodes Island, brings eternal peace with each
+			of her steady shots.</AK_Recruit_Greythroat.description>
+  <!-- EN: Greythroat -->
+  <AK_Recruit_Greythroat.name>Greythroat</AK_Recruit_Greythroat.name>
+  <!-- EN: Greythroat -->
+  <AK_Recruit_Greythroat.nickname>Greythroat</AK_Recruit_Greythroat.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Greythroat.surname>罗德岛</AK_Recruit_Greythroat.surname>
+  
+  <!-- EN: If only she wasn't such a scaredy-cat…\n			Jessica, Sniper Operator of Blacksteel, will provide effective attack power for the\n			squad with her professional skills. -->
+  <AK_Recruit_Jessica.description>If only she wasn't such a scaredy-cat…
+			Jessica, Sniper Operator of Blacksteel, will provide effective attack power for the
+			squad with her professional skills.</AK_Recruit_Jessica.description>
+  <!-- EN: Jessica -->
+  <AK_Recruit_Jessica.name>Jessica</AK_Recruit_Jessica.name>
+  <!-- EN: Jessica -->
+  <AK_Recruit_Jessica.nickname>Jessica</AK_Recruit_Jessica.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Jessica.surname>罗德岛</AK_Recruit_Jessica.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Kroos.description>FIXMEDESC</AK_Recruit_Kroos.description>
+  <!-- EN: Kroos -->
+  <AK_Recruit_Kroos.name>Kroos</AK_Recruit_Kroos.name>
+  <!-- EN: Kroos -->
+  <AK_Recruit_Kroos.nickname>Kroos</AK_Recruit_Kroos.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Kroos.surname>罗德岛</AK_Recruit_Kroos.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Lunacub.description>FIXMEDESC</AK_Recruit_Lunacub.description>
+  <!-- EN: Lunacub -->
+  <AK_Recruit_Lunacub.name>Lunacub</AK_Recruit_Lunacub.name>
+  <!-- EN: Lunacub -->
+  <AK_Recruit_Lunacub.nickname>Lunacub</AK_Recruit_Lunacub.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Lunacub.surname>罗德岛</AK_Recruit_Lunacub.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Meteorite.description>FIXME</AK_Recruit_Meteorite.description>
+  <!-- EN: Meteorite -->
+  <AK_Recruit_Meteorite.name>Meteorite</AK_Recruit_Meteorite.name>
+  <!-- EN: Meteorite -->
+  <AK_Recruit_Meteorite.nickname>Meteorite</AK_Recruit_Meteorite.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Meteorite.surname>罗德岛</AK_Recruit_Meteorite.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Narantuya.description>FIXMEDESC</AK_Recruit_Narantuya.description>
+  <!-- EN: Narantuya -->
+  <AK_Recruit_Narantuya.name>Narantuya</AK_Recruit_Narantuya.name>
+  <!-- EN: Narantuya -->
+  <AK_Recruit_Narantuya.nickname>Narantuya</AK_Recruit_Narantuya.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Narantuya.surname>罗德岛</AK_Recruit_Narantuya.surname>
+  
+  <!-- EN: She looks half-asleep, but her work's laser-accurate. How does she do it?\n			Construction worker Pinecone, all spaced out while she gets the job done. -->
+  <AK_Recruit_Pinecone.description>She looks half-asleep, but her work's laser-accurate. How does she do it?
+			Construction worker Pinecone, all spaced out while she gets the job done.</AK_Recruit_Pinecone.description>
+  <!-- EN: Pinecone -->
+  <AK_Recruit_Pinecone.name>Pinecone</AK_Recruit_Pinecone.name>
+  <!-- EN: Pinecone -->
+  <AK_Recruit_Pinecone.nickname>Pinecone</AK_Recruit_Pinecone.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Pinecone.surname>罗德岛</AK_Recruit_Pinecone.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Platinum.description>FIXME</AK_Recruit_Platinum.description>
+  <!-- EN: Platinum -->
+  <AK_Recruit_Platinum.name>Platinum</AK_Recruit_Platinum.name>
+  <!-- EN: Platinum -->
+  <AK_Recruit_Platinum.nickname>Platinum</AK_Recruit_Platinum.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Platinum.surname>罗德岛</AK_Recruit_Platinum.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Pozyomka.description>FIXMEDESC</AK_Recruit_Pozyomka.description>
+  <!-- EN: Pozyomka -->
+  <AK_Recruit_Pozyomka.name>Pozyomka</AK_Recruit_Pozyomka.name>
+  <!-- EN: Pozyomka -->
+  <AK_Recruit_Pozyomka.nickname>Pozyomka</AK_Recruit_Pozyomka.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Pozyomka.surname>罗德岛</AK_Recruit_Pozyomka.surname>
+  
+  <!-- EN: She also keeps an eye on everyone's health.\nProvence, Catastrophe Messenger of\n			Rhodes Island, always keeps an eye on the movements of Catastrophes and the enemy. -->
+  <AK_Recruit_Provence.description>She also keeps an eye on everyone's health.
+Provence, Catastrophe Messenger of
+			Rhodes Island, always keeps an eye on the movements of Catastrophes and the enemy.</AK_Recruit_Provence.description>
+  <!-- EN: Provence -->
+  <AK_Recruit_Provence.name>Provence</AK_Recruit_Provence.name>
+  <!-- EN: Provence -->
+  <AK_Recruit_Provence.nickname>Provence</AK_Recruit_Provence.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Provence.surname>罗德岛</AK_Recruit_Provence.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Ray.description>FIXMEDESC</AK_Recruit_Ray.description>
+  <!-- EN: Ray -->
+  <AK_Recruit_Ray.name>Ray</AK_Recruit_Ray.name>
+  <!-- EN: Ray -->
+  <AK_Recruit_Ray.nickname>Ray</AK_Recruit_Ray.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ray.surname>罗德岛</AK_Recruit_Ray.surname>
+  
+  <!-- EN: Give her some time.\nRosa, a member of the Ursus Student Self-Government Group,\n			is ready to welcome a new life. -->
+  <AK_Recruit_Rosa.description>Give her some time.
+Rosa, a member of the Ursus Student Self-Government Group,
+			is ready to welcome a new life.</AK_Recruit_Rosa.description>
+  <!-- EN: Rosa -->
+  <AK_Recruit_Rosa.name>Rosa</AK_Recruit_Rosa.name>
+  <!-- EN: Rosa -->
+  <AK_Recruit_Rosa.nickname>Rosa</AK_Recruit_Rosa.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Rosa.surname>罗德岛</AK_Recruit_Rosa.surname>
+  
+  <!-- EN: Her equipment's not on her. No need to worry about her remembering you ate her\n			snacks yesterday. Probably.\nRosmontis, Rhodes Island Elite Operator, pushes open your\n			office door by hand. -->
+  <AK_Recruit_Rosmontis.description>Her equipment's not on her. No need to worry about her remembering you ate her
+			snacks yesterday. Probably.
+Rosmontis, Rhodes Island Elite Operator, pushes open your
+			office door by hand.</AK_Recruit_Rosmontis.description>
+  <!-- EN: Rosmontis -->
+  <AK_Recruit_Rosmontis.name>Rosmontis</AK_Recruit_Rosmontis.name>
+  <!-- EN: Rosmontis -->
+  <AK_Recruit_Rosmontis.nickname>Rosmontis</AK_Recruit_Rosmontis.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Rosmontis.surname>罗德岛</AK_Recruit_Rosmontis.surname>
+  
+  <!-- EN: Keep her away from the faint of heart.\nSchwarz, Operator of Rhodes Island,\n			will protect you from the shadows. -->
+  <AK_Recruit_Schwarz.description>Keep her away from the faint of heart.
+Schwarz, Operator of Rhodes Island,
+			will protect you from the shadows.</AK_Recruit_Schwarz.description>
+  <!-- EN: Schwarz -->
+  <AK_Recruit_Schwarz.name>Schwarz</AK_Recruit_Schwarz.name>
+  <!-- EN: Schwarz -->
+  <AK_Recruit_Schwarz.nickname>Schwarz</AK_Recruit_Schwarz.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Schwarz.surname>罗德岛</AK_Recruit_Schwarz.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Toddifons.description>FIXMEDESC</AK_Recruit_Toddifons.description>
+  <!-- EN: Toddifons -->
+  <AK_Recruit_Toddifons.name>Toddifons</AK_Recruit_Toddifons.name>
+  <!-- EN: Toddifons -->
+  <AK_Recruit_Toddifons.nickname>Toddifons</AK_Recruit_Toddifons.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Toddifons.surname>罗德岛</AK_Recruit_Toddifons.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Typhon.description>FIXMEDESC</AK_Recruit_Typhon.description>
+  <!-- EN: Typhon -->
+  <AK_Recruit_Typhon.name>Typhon</AK_Recruit_Typhon.name>
+  <!-- EN: Typhon -->
+  <AK_Recruit_Typhon.nickname>Typhon</AK_Recruit_Typhon.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Typhon.surname>罗德岛</AK_Recruit_Typhon.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Vermeil.description>FIXMEDESC</AK_Recruit_Vermeil.description>
+  <!-- EN: Vermeil -->
+  <AK_Recruit_Vermeil.name>Vermeil</AK_Recruit_Vermeil.name>
+  <!-- EN: Vermeil -->
+  <AK_Recruit_Vermeil.nickname>Vermeil</AK_Recruit_Vermeil.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Vermeil.surname>罗德岛</AK_Recruit_Vermeil.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Wisadel.description>FIXMEDESC</AK_Recruit_Wisadel.description>
+  <!-- EN: Wisadel -->
+  <AK_Recruit_Wisadel.name>Wisadel</AK_Recruit_Wisadel.name>
+  <!-- EN: Wisadel -->
+  <AK_Recruit_Wisadel.nickname>Wisadel</AK_Recruit_Wisadel.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Wisadel.surname>罗德岛</AK_Recruit_Wisadel.surname>
+  
+</LanguageData>

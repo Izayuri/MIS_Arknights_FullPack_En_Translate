@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 火炮射击 -->
+  <AK_Bullet_Ashlock.label>火炮射击</AK_Bullet_Ashlock.label>
+  
+  <!-- EN: 火炮射击 -->
+  <AK_Bullet_Horn.label>火炮射击</AK_Bullet_Horn.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Liberated.label>射击</AK_Bullet_Liberated.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Liskarm.label>射击</AK_Bullet_Liskarm.label>
+  
+  <!-- EN: 灰豪的火炮 -->
+  <AK_Weapon_AshlockA.label>灰豪的火炮</AK_Weapon_AshlockA.label>
+  <!-- EN: 灰豪所使用的火炮，能够对敌人造成巨大的杀伤。\n格蕾纳蒂的祖辈们依靠这种武器为家族挣得了未来，但现在的卡利斯卡子弟已经鲜少有人熟悉这项技术了。 -->
+  <AK_Weapon_AshlockA.description>灰豪所使用的火炮，能够对敌人造成巨大的杀伤。
+格蕾纳蒂的祖辈们依靠这种武器为家族挣得了未来，但现在的卡利斯卡子弟已经鲜少有人熟悉这项技术了。</AK_Weapon_AshlockA.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_AshlockA.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_AshlockA.tools.0.label>
+  <!-- EN: 灰豪的火炮 -->
+  <AK_Weapon_AshlockA.verbs.Verb_Shoot.label>灰豪的火炮</AK_Weapon_AshlockA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 灰豪的重盾 -->
+  <AK_Weapon_AshlockB.label>灰豪的重盾</AK_Weapon_AshlockB.label>
+  <!-- EN: 灰豪使用的盾牌，能够阻挡住所有的敌人。\n她的意志在经受磨难后比手中的盾更加坚不可摧。 -->
+  <AK_Weapon_AshlockB.description>灰豪使用的盾牌，能够阻挡住所有的敌人。
+她的意志在经受磨难后比手中的盾更加坚不可摧。</AK_Weapon_AshlockB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_AshlockB.tools.0.label>盾击</AK_Weapon_AshlockB.tools.0.label>
+  
+  <!-- EN: 极光的武器 -->
+  <AK_Weapon_Aurora.label>极光的武器</AK_Weapon_Aurora.label>
+  <!-- EN: 极光亲手打造的武器，将施法装置与盾牌巧妙的结合在了一起。\n守卫与杀伤都很杰出的利器。 -->
+  <AK_Weapon_Aurora.description>极光亲手打造的武器，将施法装置与盾牌巧妙的结合在了一起。
+守卫与杀伤都很杰出的利器。</AK_Weapon_Aurora.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_Aurora.tools.0.label>盾击</AK_Weapon_Aurora.tools.0.label>
+  <!-- EN: 盾尖猛击 -->
+  <AK_Weapon_Aurora.tools.1.label>盾尖猛击</AK_Weapon_Aurora.tools.1.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Aurora.tools.2.label>拳击</AK_Weapon_Aurora.tools.2.label>
+  
+  <!-- EN: 米格鲁的剑 -->
+  <AK_Weapon_Beagle.label>米格鲁的剑</AK_Weapon_Beagle.label>
+  <!-- EN: 米格鲁的剑，她很喜欢，甩起来就像个大英雄。 -->
+  <AK_Weapon_Beagle.description>米格鲁的剑，她很喜欢，甩起来就像个大英雄。</AK_Weapon_Beagle.description>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_Beagle.tools.0.label>劈砍</AK_Weapon_Beagle.tools.0.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Beagle.tools.1.label>剑刺</AK_Weapon_Beagle.tools.1.label>
+  <!-- EN: 重击 -->
+  <AK_Weapon_Beagle.tools.2.label>重击</AK_Weapon_Beagle.tools.2.label>
+  
+  <!-- EN: 米格鲁的盾 -->
+  <AK_Weapon_BeagleB.label>米格鲁的盾</AK_Weapon_BeagleB.label>
+  <!-- EN: 米格鲁的盾，很重，但是米格鲁甩起来没啥阻碍。 -->
+  <AK_Weapon_BeagleB.description>米格鲁的盾，很重，但是米格鲁甩起来没啥阻碍。</AK_Weapon_BeagleB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_BeagleB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_BeagleB.tools.0.label>
+  
+  <!-- EN: 瑕光的剑 -->
+  <AK_Weapon_BlemishineA.label>瑕光的剑</AK_Weapon_BlemishineA.label>
+  <!-- EN: 耀骑士曾经使用的剑，如今传到了小耀骑士手里。\n剑中闪耀的不只是源石技艺产生的光芒，还有闪光的骑士精神。 -->
+  <AK_Weapon_BlemishineA.description>耀骑士曾经使用的剑，如今传到了小耀骑士手里。
+剑中闪耀的不只是源石技艺产生的光芒，还有闪光的骑士精神。</AK_Weapon_BlemishineA.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_BlemishineA.tools.0.label>剑捅</AK_Weapon_BlemishineA.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_BlemishineA.tools.1.label>剑捅</AK_Weapon_BlemishineA.tools.1.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_BlemishineA.tools.2.label>剑捅</AK_Weapon_BlemishineA.tools.2.label>
+  
+  <!-- EN: 瑕光的盾 -->
+  <AK_Weapon_BlemishineB.label>瑕光的盾</AK_Weapon_BlemishineB.label>
+  <!-- EN: 耀骑士曾经使用的盾，如今传到了小耀骑士手里。\n盾所守卫的不止是家族荣誉，还有那被人遗忘的荣耀与光辉。 -->
+  <AK_Weapon_BlemishineB.description>耀骑士曾经使用的盾，如今传到了小耀骑士手里。
+盾所守卫的不止是家族荣誉，还有那被人遗忘的荣耀与光辉。</AK_Weapon_BlemishineB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_BlemishineB.tools.0.label>盾击</AK_Weapon_BlemishineB.tools.0.label>
+  
+  <!-- EN: 可颂的磁暴锤 -->
+  <AK_Weapon_CroissantA.label>可颂的磁暴锤</AK_Weapon_CroissantA.label>
+  <!-- EN: 可颂用的大锤，和她少女的身姿很不匹配。\n可颂很喜欢花钱买新装备，无论是看到什么都想买下来。于是她陷入了无止境的购物漩涡。 -->
+  <AK_Weapon_CroissantA.description>可颂用的大锤，和她少女的身姿很不匹配。
+可颂很喜欢花钱买新装备，无论是看到什么都想买下来。于是她陷入了无止境的购物漩涡。</AK_Weapon_CroissantA.description>
+  <!-- EN: 锤击 -->
+  <AK_Weapon_CroissantA.tools.0.label>锤击</AK_Weapon_CroissantA.tools.0.label>
+  <!-- EN: 轰击 -->
+  <AK_Weapon_CroissantA.tools.1.label>轰击</AK_Weapon_CroissantA.tools.1.label>
+  
+  <!-- EN: 可颂的盾牌 -->
+  <AK_Weapon_CroissantB.label>可颂的盾牌</AK_Weapon_CroissantB.label>
+  <!-- EN: 可颂用的盾牌，和她少女的身姿很不匹配。\n可颂很喜欢花钱买新装备，无论是看到什么都想买下来。于是她陷入了无止境的购物漩涡。 -->
+  <AK_Weapon_CroissantB.description>可颂用的盾牌，和她少女的身姿很不匹配。
+可颂很喜欢花钱买新装备，无论是看到什么都想买下来。于是她陷入了无止境的购物漩涡。</AK_Weapon_CroissantB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CroissantB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CroissantB.tools.0.label>
+  
+  <!-- EN: 满是签名的棒球棍 -->
+  <AK_Weapon_Cuora.label>满是签名的棒球棍</AK_Weapon_Cuora.label>
+  <!-- EN: 普通的棒球棍，棍身歪歪扭扭地写着数位知名球手的签名。\n虽然，也许，大概，即使签名是模仿的，想要分享的心情却是真实的。 -->
+  <AK_Weapon_Cuora.description>普通的棒球棍，棍身歪歪扭扭地写着数位知名球手的签名。
+虽然，也许，大概，即使签名是模仿的，想要分享的心情却是真实的。</AK_Weapon_Cuora.description>
+  <!-- EN: 球棒猛敲 -->
+  <AK_Weapon_Cuora.tools.0.label>球棒猛敲</AK_Weapon_Cuora.tools.0.label>
+  
+  <!-- EN: 蛇屠箱的背包 -->
+  <AK_Weapon_CuoraTypeB.label>蛇屠箱的背包</AK_Weapon_CuoraTypeB.label>
+  <!-- EN: 蛇屠箱的背包，由高强度金属材料缝合而成。\n很硬，超级硬。 -->
+  <AK_Weapon_CuoraTypeB.description>蛇屠箱的背包，由高强度金属材料缝合而成。
+很硬，超级硬。</AK_Weapon_CuoraTypeB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CuoraTypeB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CuoraTypeB.tools.0.label>
+  
+  <!-- EN: 轻型挂斧 -->
+  <AK_Weapon_EunectesA.label>轻型挂斧</AK_Weapon_EunectesA.label>
+  <!-- EN: 森蚺的挂斧，看上去像建筑垃圾拼起来的。\n森蚺虽然力气不如嘉伟尔大，但是打人也挺疼的。 -->
+  <AK_Weapon_EunectesA.description>森蚺的挂斧，看上去像建筑垃圾拼起来的。
+森蚺虽然力气不如嘉伟尔大，但是打人也挺疼的。</AK_Weapon_EunectesA.description>
+  <!-- EN: 斧砍 -->
+  <AK_Weapon_EunectesA.tools.0.label>斧砍</AK_Weapon_EunectesA.tools.0.label>
+  <!-- EN: 斧柄猛砸 -->
+  <AK_Weapon_EunectesA.tools.1.label>斧柄猛砸</AK_Weapon_EunectesA.tools.1.label>
+  
+  <!-- EN: 森蚺的盾 -->
+  <AK_Weapon_EunectesB.label>森蚺的盾</AK_Weapon_EunectesB.label>
+  <!-- EN: 森蚺的盾，看上去像是从哪拆下来的铁门。\n森蚺的身体素质虽然不如嘉伟尔好，但是也是挺扛揍的。 -->
+  <AK_Weapon_EunectesB.description>森蚺的盾，看上去像是从哪拆下来的铁门。
+森蚺的身体素质虽然不如嘉伟尔好，但是也是挺扛揍的。</AK_Weapon_EunectesB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_EunectesB.tools.0.label>盾击</AK_Weapon_EunectesB.tools.0.label>
+  
+  <!-- EN: 平底锅 -->
+  <AK_Weapon_GummyA.label>平底锅</AK_Weapon_GummyA.label>
+  <!-- EN: 家用的烹调工具 -->
+  <AK_Weapon_GummyA.description>家用的烹调工具</AK_Weapon_GummyA.description>
+  <!-- EN: 拍击 -->
+  <AK_Weapon_GummyA.tools.0.label>拍击</AK_Weapon_GummyA.tools.0.label>
+  
+  <!-- EN: 金库大门 -->
+  <AK_Weapon_GummyB.label>金库大门</AK_Weapon_GummyB.label>
+  <!-- EN: 很坚固厚重的大门，可能是从某处的金库上拆下来的。 -->
+  <AK_Weapon_GummyB.description>很坚固厚重的大门，可能是从某处的金库上拆下来的。</AK_Weapon_GummyB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_GummyB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_GummyB.tools.0.label>
+  
+  <!-- EN: 号角的火炮 -->
+  <AK_Weapon_HornA.label>号角的火炮</AK_Weapon_HornA.label>
+  <!-- EN: 炮弹迅疾如风暴！ -->
+  <AK_Weapon_HornA.description>炮弹迅疾如风暴！</AK_Weapon_HornA.description>
+  <!-- EN: 轰击 -->
+  <AK_Weapon_HornA.tools.0.label>轰击</AK_Weapon_HornA.tools.0.label>
+  <!-- EN: 号角的火炮 -->
+  <AK_Weapon_HornA.verbs.Verb_Shoot.label>号角的火炮</AK_Weapon_HornA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 号角的盾牌 -->
+  <AK_Weapon_HornB.label>号角的盾牌</AK_Weapon_HornB.label>
+  <!-- EN: 盾牌坚硬似铁壁！ -->
+  <AK_Weapon_HornB.description>盾牌坚硬似铁壁！</AK_Weapon_HornB.description>
+  <!-- EN: 重击 -->
+  <AK_Weapon_HornB.tools.0.label>重击</AK_Weapon_HornB.tools.0.label>
+  
+  <!-- EN: 般若 -->
+  <AK_Weapon_Hoshiguma.label>般若</AK_Weapon_Hoshiguma.label>
+  <!-- EN: 那面盾——般若，等到有一天你能让她亲自告诉你那面盾的来历......\n你才算真正了解了她。 -->
+  <AK_Weapon_Hoshiguma.description>那面盾——般若，等到有一天你能让她亲自告诉你那面盾的来历......
+你才算真正了解了她。</AK_Weapon_Hoshiguma.description>
+  <!-- EN: 般若切割 -->
+  <AK_Weapon_Hoshiguma.tools.0.label>般若切割</AK_Weapon_Hoshiguma.tools.0.label>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_Hoshiguma.tools.1.label>盾击</AK_Weapon_Hoshiguma.tools.1.label>
+  
+  <!-- EN: 杰西卡的铳 -->
+  <AK_Weapon_Liberated.label>杰西卡的铳</AK_Weapon_Liberated.label>
+  <!-- EN: 杰西卡的长铳，经常需要保养，结构与拉特兰人用的有许多不同。 -->
+  <AK_Weapon_Liberated.description>杰西卡的长铳，经常需要保养，结构与拉特兰人用的有许多不同。</AK_Weapon_Liberated.description>
+  <!-- EN: 铳柄重击 -->
+  <AK_Weapon_Liberated.tools.0.label>铳柄重击</AK_Weapon_Liberated.tools.0.label>
+  <!-- EN: 长铳猛砸 -->
+  <AK_Weapon_Liberated.tools.1.label>长铳猛砸</AK_Weapon_Liberated.tools.1.label>
+  <!-- EN: 杰西卡的铳 -->
+  <AK_Weapon_Liberated.verbs.Verb_Shoot.label>杰西卡的铳</AK_Weapon_Liberated.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 黑钢制式铳 -->
+  <AK_Weapon_LiberatedB.label>黑钢制式铳</AK_Weapon_LiberatedB.label>
+  <!-- EN: 黑钢常见的核铳，很多黑钢干员都很喜欢用。 -->
+  <AK_Weapon_LiberatedB.description>黑钢常见的核铳，很多黑钢干员都很喜欢用。</AK_Weapon_LiberatedB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_LiberatedB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_LiberatedB.tools.0.label>
+  
+  <!-- EN: 杰西卡的长炮 -->
+  <AK_Weapon_LiberatedC.label>杰西卡的长炮</AK_Weapon_LiberatedC.label>
+  <!-- EN: 在荒地遇上紧急情况时，普通的武器不起作用，这时候这门长炮就起到作用了。 -->
+  <AK_Weapon_LiberatedC.description>在荒地遇上紧急情况时，普通的武器不起作用，这时候这门长炮就起到作用了。</AK_Weapon_LiberatedC.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_LiberatedC.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_LiberatedC.tools.0.label>
+  
+  <!-- EN: 黑钢制式铳 -->
+  <AK_Weapon_LiskarmA.label>黑钢制式铳</AK_Weapon_LiskarmA.label>
+  <!-- EN: 黑钢常见的核铳，很多黑钢干员都很喜欢用。 -->
+  <AK_Weapon_LiskarmA.description>黑钢常见的核铳，很多黑钢干员都很喜欢用。</AK_Weapon_LiskarmA.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_LiskarmA.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_LiskarmA.tools.0.label>
+  <!-- EN: 黑钢制式铳 -->
+  <AK_Weapon_LiskarmA.verbs.Verb_Shoot.label>黑钢制式铳</AK_Weapon_LiskarmA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 雷蛇的盾牌 -->
+  <AK_Weapon_LiskarmB.label>雷蛇的盾牌</AK_Weapon_LiskarmB.label>
+  <!-- EN: 盾牌外形的大型施术设备，只有雷蛇的源石技艺能驾驭。\n雷蛇使用过后会极度疲乏，这是芙兰卡恶作剧的绝佳时机。 -->
+  <AK_Weapon_LiskarmB.description>盾牌外形的大型施术设备，只有雷蛇的源石技艺能驾驭。
+雷蛇使用过后会极度疲乏，这是芙兰卡恶作剧的绝佳时机。</AK_Weapon_LiskarmB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_LiskarmB.tools.0.label>盾击</AK_Weapon_LiskarmB.tools.0.label>
+  
+  <!-- EN: 谢拉格弯刀 -->
+  <AK_Weapon_MatterhornA.label>谢拉格弯刀</AK_Weapon_MatterhornA.label>
+  <!-- EN: 一把谢拉格样式的弯刀，在哥伦比亚经常播出的野外求生节目很常见。\n不论是做饭，求生还是用来战斗都很合适。 -->
+  <AK_Weapon_MatterhornA.description>一把谢拉格样式的弯刀，在哥伦比亚经常播出的野外求生节目很常见。
+不论是做饭，求生还是用来战斗都很合适。</AK_Weapon_MatterhornA.description>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_MatterhornA.tools.0.label>刀捅</AK_Weapon_MatterhornA.tools.0.label>
+  <!-- EN: 刀劈砍 -->
+  <AK_Weapon_MatterhornA.tools.1.label>刀劈砍</AK_Weapon_MatterhornA.tools.1.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_MatterhornA.tools.2.label>刀刺</AK_Weapon_MatterhornA.tools.2.label>
+  
+  <!-- EN: 谢拉格重盾 -->
+  <AK_Weapon_MatterhornB.label>谢拉格重盾</AK_Weapon_MatterhornB.label>
+  <!-- EN: 很沉重的盾，一般人举都很难举起来。\n伴随着角峰愈加频繁的踏入战场，他的盾需要维修的次数的也愈加频繁，他就是这么与火神认识的。 -->
+  <AK_Weapon_MatterhornB.description>很沉重的盾，一般人举都很难举起来。
+伴随着角峰愈加频繁的踏入战场，他的盾需要维修的次数的也愈加频繁，他就是这么与火神认识的。</AK_Weapon_MatterhornB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_MatterhornB.tools.0.label>盾击</AK_Weapon_MatterhornB.tools.0.label>
+  
+  <!-- EN: 岩崩锤 -->
+  <AK_Weapon_Mudrock.label>岩崩锤</AK_Weapon_Mudrock.label>
+  <!-- EN: 泥岩所使用的锤子，沾染了泥土的气息。\n当她挥动这柄锤子时，大地都为之颤动。 -->
+  <AK_Weapon_Mudrock.description>泥岩所使用的锤子，沾染了泥土的气息。
+当她挥动这柄锤子时，大地都为之颤动。</AK_Weapon_Mudrock.description>
+  <!-- EN: 锤击 -->
+  <AK_Weapon_Mudrock.tools.0.label>锤击</AK_Weapon_Mudrock.tools.0.label>
+  <!-- EN: 轰击 -->
+  <AK_Weapon_Mudrock.tools.1.label>轰击</AK_Weapon_Mudrock.tools.1.label>
+  
+  <!-- EN: 泥岩-静谧午夜的锤子 -->
+  <AK_Weapon_MudrockSilentNight.label>泥岩-静谧午夜的锤子</AK_Weapon_MudrockSilentNight.label>
+  <!-- EN: 泥岩所使用的锤子，沾染了泥土的气息。\n当她挥动这柄锤子时，大地都为之颤动。 -->
+  <AK_Weapon_MudrockSilentNight.description>泥岩所使用的锤子，沾染了泥土的气息。
+当她挥动这柄锤子时，大地都为之颤动。</AK_Weapon_MudrockSilentNight.description>
+  <!-- EN: 锤击 -->
+  <AK_Weapon_MudrockSilentNight.tools.0.label>锤击</AK_Weapon_MudrockSilentNight.tools.0.label>
+  <!-- EN: 轰击 -->
+  <AK_Weapon_MudrockSilentNight.tools.1.label>轰击</AK_Weapon_MudrockSilentNight.tools.1.label>
+  
+  <!-- EN: 临光的战锤 -->
+  <AK_Weapon_NearlA.label>临光的战锤</AK_Weapon_NearlA.label>
+  <!-- EN: 临光的战锤，布满了磨损的痕迹。\n从未有人见过临光双手持锤的样子。 -->
+  <AK_Weapon_NearlA.description>临光的战锤，布满了磨损的痕迹。
+从未有人见过临光双手持锤的样子。</AK_Weapon_NearlA.description>
+  <!-- EN: 锤击 -->
+  <AK_Weapon_NearlA.tools.0.label>锤击</AK_Weapon_NearlA.tools.0.label>
+  
+  <!-- EN: 临光的盾牌 -->
+  <AK_Weapon_NearlB.label>临光的盾牌</AK_Weapon_NearlB.label>
+  <!-- EN: 临光的盾牌，布满了磨损的痕迹。\n从未有人见过临光放下盾牌的样子。 -->
+  <AK_Weapon_NearlB.description>临光的盾牌，布满了磨损的痕迹。
+从未有人见过临光放下盾牌的样子。</AK_Weapon_NearlB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_NearlB.tools.0.label>盾击</AK_Weapon_NearlB.tools.0.label>
+  
+  <!-- EN: 干明可鉴 -->
+  <AK_Weapon_NianA.label>干明可鉴</AK_Weapon_NianA.label>
+  <!-- EN: “生杀之机，焉能拱手相让？” -->
+  <AK_Weapon_NianA.description>“生杀之机，焉能拱手相让？”</AK_Weapon_NianA.description>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_NianA.tools.0.label>刀劈</AK_Weapon_NianA.tools.0.label>
+  
+  <!-- EN: 积甲成山 -->
+  <AK_Weapon_NianB.label>积甲成山</AK_Weapon_NianB.label>
+  <!-- EN: “明王圣帝，谁能去兵哉？” -->
+  <AK_Weapon_NianB.description>“明王圣帝，谁能去兵哉？”</AK_Weapon_NianB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_NianB.tools.0.label>盾击</AK_Weapon_NianB.tools.0.label>
+  
+  <!-- EN: 年-乐逍遥的剑 -->
+  <AK_Weapon_NianUnfetteredFreedom.label>年-乐逍遥的剑</AK_Weapon_NianUnfetteredFreedom.label>
+  <!-- EN: “生杀之机，焉能拱手相让？” -->
+  <AK_Weapon_NianUnfetteredFreedom.description>“生杀之机，焉能拱手相让？”</AK_Weapon_NianUnfetteredFreedom.description>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_NianUnfetteredFreedom.tools.0.label>刀劈</AK_Weapon_NianUnfetteredFreedom.tools.0.label>
+  
+  <!-- EN: 年-乐逍遥的扇子 -->
+  <AK_Weapon_NianUnfetteredFreedomB.label>年-乐逍遥的扇子</AK_Weapon_NianUnfetteredFreedomB.label>
+  <!-- EN: “明王圣帝，谁能去兵哉？” -->
+  <AK_Weapon_NianUnfetteredFreedomB.description>“明王圣帝，谁能去兵哉？”</AK_Weapon_NianUnfetteredFreedomB.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_NianUnfetteredFreedomB.tools.0.label>盾击</AK_Weapon_NianUnfetteredFreedomB.tools.0.label>
+  
+  <!-- EN: 斥罪的刺锤 -->
+  <AK_Weapon_Penance.label>斥罪的刺锤</AK_Weapon_Penance.label>
+  <!-- EN: 布满了荆棘的锤子，锐气逼人。\n越能感受到拿起它时之轻，越能感受到敲下它时之重。 -->
+  <AK_Weapon_Penance.description>布满了荆棘的锤子，锐气逼人。
+越能感受到拿起它时之轻，越能感受到敲下它时之重。</AK_Weapon_Penance.description>
+  <!-- EN: 刺锤猛砸 -->
+  <AK_Weapon_Penance.tools.0.label>刺锤猛砸</AK_Weapon_Penance.tools.0.label>
+  <!-- EN: 刺锤重击 -->
+  <AK_Weapon_Penance.tools.1.label>刺锤重击</AK_Weapon_Penance.tools.1.label>
+  
+  <!-- EN: 斥罪-偶尔熏陶的手提包 -->
+  <AK_Weapon_PenanceOccasionalFlush.label>斥罪-偶尔熏陶的手提包</AK_Weapon_PenanceOccasionalFlush.label>
+  <!-- EN: 布满了荆棘的锤子，锐气逼人。\n越能感受到拿起它时之轻，越能感受到敲下它时之重。 -->
+  <AK_Weapon_PenanceOccasionalFlush.description>布满了荆棘的锤子，锐气逼人。
+越能感受到拿起它时之轻，越能感受到敲下它时之重。</AK_Weapon_PenanceOccasionalFlush.description>
+  <!-- EN: 刺锤猛砸 -->
+  <AK_Weapon_PenanceOccasionalFlush.tools.0.label>刺锤猛砸</AK_Weapon_PenanceOccasionalFlush.tools.0.label>
+  <!-- EN: 刺锤重击 -->
+  <AK_Weapon_PenanceOccasionalFlush.tools.1.label>刺锤重击</AK_Weapon_PenanceOccasionalFlush.tools.1.label>
+  
+  <!-- EN: 塞雷娅的盾 -->
+  <AK_Weapon_SariaA.label>塞雷娅的盾</AK_Weapon_SariaA.label>
+  <!-- EN: 塞雷娅的盾形法杖，覆盖上珐琅质后坚硬无比。\n明明能用拳击却偏偏要用盾，没有人知道为何。 -->
+  <AK_Weapon_SariaA.description>塞雷娅的盾形法杖，覆盖上珐琅质后坚硬无比。
+明明能用拳击却偏偏要用盾，没有人知道为何。</AK_Weapon_SariaA.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_SariaA.tools.0.label>盾击</AK_Weapon_SariaA.tools.0.label>
+  
+  <!-- EN: 塞雷娅的医疗铳 -->
+  <AK_Weapon_SariaB.label>塞雷娅的医疗铳</AK_Weapon_SariaB.label>
+  <!-- EN: 莱茵生命通用的医疗铳，配合治疗法术能发挥更大的效果。\n“…提高个体细胞全能性，治愈一切伤痛不适…”——塞雷娅桌上的说明手册 -->
+  <AK_Weapon_SariaB.description>莱茵生命通用的医疗铳，配合治疗法术能发挥更大的效果。
+“…提高个体细胞全能性，治愈一切伤痛不适…”——塞雷娅桌上的说明手册</AK_Weapon_SariaB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_SariaB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_SariaB.tools.0.label>
+  
+  <!-- EN: 钦天司时 -->
+  <AK_Weapon_Shu.label>钦天司时</AK_Weapon_Shu.label>
+  <!-- EN: 节气歌也好，天师仪也罢，都是钦天司时的力量。 -->
+  <AK_Weapon_Shu.description>节气歌也好，天师仪也罢，都是钦天司时的力量。</AK_Weapon_Shu.description>
+  <!-- EN: 捅击 -->
+  <AK_Weapon_Shu.tools.0.label>捅击</AK_Weapon_Shu.tools.0.label>
+  <!-- EN: 敲击 -->
+  <AK_Weapon_Shu.tools.1.label>敲击</AK_Weapon_Shu.tools.1.label>
+  
+  <!-- EN: 火神的锤子 -->
+  <AK_Weapon_VulcanA.label>火神的锤子</AK_Weapon_VulcanA.label>
+  <!-- EN: 火神的锤头，顶端被改成了适合战斗的样子。 -->
+  <AK_Weapon_VulcanA.description>火神的锤头，顶端被改成了适合战斗的样子。</AK_Weapon_VulcanA.description>
+  <!-- EN: 盾击 -->
+  <AK_Weapon_VulcanA.tools.0.label>盾击</AK_Weapon_VulcanA.tools.0.label>
+  <!-- EN: 轰击 -->
+  <AK_Weapon_VulcanA.tools.1.label>轰击</AK_Weapon_VulcanA.tools.1.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_VulcanA.tools.2.label>踢击</AK_Weapon_VulcanA.tools.2.label>
+  
+  <!-- EN: 火神的盾 -->
+  <AK_Weapon_VulcanB.label>火神的盾</AK_Weapon_VulcanB.label>
+  <!-- EN: 火神的盾，在千锤百炼后坚不可摧。 -->
+  <AK_Weapon_VulcanB.description>火神的盾，在千锤百炼后坚不可摧。</AK_Weapon_VulcanB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_VulcanB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_VulcanB.tools.0.label>
+  
+  <!-- EN: 灶里乾坤 -->
+  <AK_Weapon_Yu.label>灶里乾坤</AK_Weapon_Yu.label>
+  <!-- EN: 那一点疑惑，那一瞥为人类造就后世，也为自己埋下苦果的好奇，我还得沥水下锅，好好翻炒一下嘞 -->
+  <AK_Weapon_Yu.description>那一点疑惑，那一瞥为人类造就后世，也为自己埋下苦果的好奇，我还得沥水下锅，好好翻炒一下嘞</AK_Weapon_Yu.description>
+  <!-- EN: 捅击 -->
+  <AK_Weapon_Yu.tools.0.label>捅击</AK_Weapon_Yu.tools.0.label>
+  
+</LanguageData>

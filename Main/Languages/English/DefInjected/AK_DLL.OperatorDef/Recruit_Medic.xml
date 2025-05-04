@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Ceylon.description>FIXMEDESC</AK_Recruit_Ceylon.description>
+  <!-- EN: Ceylon -->
+  <AK_Recruit_Ceylon.name>Ceylon</AK_Recruit_Ceylon.name>
+  <!-- EN: Ceylon -->
+  <AK_Recruit_Ceylon.nickname>Ceylon</AK_Recruit_Ceylon.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ceylon.surname>罗德岛</AK_Recruit_Ceylon.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_EyjafjallaHvitAska.description>FIXMEDESC</AK_Recruit_EyjafjallaHvitAska.description>
+  <!-- EN: EyjafjallaHvitAska -->
+  <AK_Recruit_EyjafjallaHvitAska.name>EyjafjallaHvitAska</AK_Recruit_EyjafjallaHvitAska.name>
+  <!-- EN: EyjafjallaHvitAska -->
+  <AK_Recruit_EyjafjallaHvitAska.nickname>EyjafjallaHvitAska</AK_Recruit_EyjafjallaHvitAska.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_EyjafjallaHvitAska.surname>罗德岛</AK_Recruit_EyjafjallaHvitAska.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_FlameShadow.description>FIXMEDESC</AK_Recruit_FlameShadow.description>
+  <!-- EN: FlameShadow -->
+  <AK_Recruit_FlameShadow.name>FlameShadow</AK_Recruit_FlameShadow.name>
+  <!-- EN: FlameShadow -->
+  <AK_Recruit_FlameShadow.nickname>FlameShadow</AK_Recruit_FlameShadow.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_FlameShadow.surname>罗德岛</AK_Recruit_FlameShadow.surname>
+  
+  <!-- EN: Her patients always have a peaceful look on their faces.\nGavial, Medic Operator of Rhodes Island, will protect the lives of her squad members using her special techniques. -->
+  <AK_Recruit_Gavial.description>Her patients always have a peaceful look on their faces.
+Gavial, Medic Operator of Rhodes Island, will protect the lives of her squad members using her special techniques.</AK_Recruit_Gavial.description>
+  <!-- EN: Gavial -->
+  <AK_Recruit_Gavial.name>Gavial</AK_Recruit_Gavial.name>
+  <!-- EN: Gavial -->
+  <AK_Recruit_Gavial.nickname>Gavial</AK_Recruit_Gavial.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Gavial.surname>罗德岛</AK_Recruit_Gavial.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Kaltsit.description>FIXME</AK_Recruit_Kaltsit.description>
+  <!-- EN: Kaltsit -->
+  <AK_Recruit_Kaltsit.name>Kaltsit</AK_Recruit_Kaltsit.name>
+  <!-- EN: Kaltsit -->
+  <AK_Recruit_Kaltsit.nickname>Kaltsit</AK_Recruit_Kaltsit.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Kaltsit.surname>罗德岛</AK_Recruit_Kaltsit.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Mulberry.description>FIXMEDESC</AK_Recruit_Mulberry.description>
+  <!-- EN: Mulberry -->
+  <AK_Recruit_Mulberry.name>Mulberry</AK_Recruit_Mulberry.name>
+  <!-- EN: Mulberry -->
+  <AK_Recruit_Mulberry.nickname>Mulberry</AK_Recruit_Mulberry.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mulberry.surname>罗德岛</AK_Recruit_Mulberry.surname>
+  
+  <!-- EN: FIXME-MyrrhDesc -->
+  <AK_Recruit_Myrrh.description>FIXME-MyrrhDesc</AK_Recruit_Myrrh.description>
+  <!-- EN: Myrrh -->
+  <AK_Recruit_Myrrh.name>Myrrh</AK_Recruit_Myrrh.name>
+  <!-- EN: Myrrh -->
+  <AK_Recruit_Myrrh.nickname>Myrrh</AK_Recruit_Myrrh.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Myrrh.surname>罗德岛</AK_Recruit_Myrrh.surname>
+  
+  <!-- EN: As simple as a blank sheet.\nNightingale, Sarkaz healer, will do everything she can to provide medical care for the squad. -->
+  <AK_Recruit_Nightingale.description>As simple as a blank sheet.
+Nightingale, Sarkaz healer, will do everything she can to provide medical care for the squad.</AK_Recruit_Nightingale.description>
+  <!-- EN: Nightingale -->
+  <AK_Recruit_Nightingale.name>Nightingale</AK_Recruit_Nightingale.name>
+  <!-- EN: Nightingale -->
+  <AK_Recruit_Nightingale.nickname>Nightingale</AK_Recruit_Nightingale.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Nightingale.surname>罗德岛</AK_Recruit_Nightingale.surname>
+  
+  <!-- EN: Fixme -->
+  <AK_Recruit_Papyrus.description>Fixme</AK_Recruit_Papyrus.description>
+  <!-- EN: Papyrus -->
+  <AK_Recruit_Papyrus.name>Papyrus</AK_Recruit_Papyrus.name>
+  <!-- EN: Papyrus -->
+  <AK_Recruit_Papyrus.nickname>Papyrus</AK_Recruit_Papyrus.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Papyrus.surname>罗德岛</AK_Recruit_Papyrus.surname>
+  
+  <!-- EN: Anyone with a pollen allergy should stay away.\nPerfumer, manager of 'Health Garden,' will use her fragrant aromatherapy to heal the squad. -->
+  <AK_Recruit_Perfumer.description>Anyone with a pollen allergy should stay away.
+Perfumer, manager of 'Health Garden,' will use her fragrant aromatherapy to heal the squad.</AK_Recruit_Perfumer.description>
+  <!-- EN: Perfumer -->
+  <AK_Recruit_Perfumer.name>Perfumer</AK_Recruit_Perfumer.name>
+  <!-- EN: Perfumer -->
+  <AK_Recruit_Perfumer.nickname>Perfumer</AK_Recruit_Perfumer.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Perfumer.surname>罗德岛</AK_Recruit_Perfumer.surname>
+  
+  <!-- EN: 101010111101000\nPtilopsis, database maintainer of Rhine Lab, activated. Please enter commands to operate. -->
+  <AK_Recruit_Ptilopsis.description>101010111101000
+Ptilopsis, database maintainer of Rhine Lab, activated. Please enter commands to operate.</AK_Recruit_Ptilopsis.description>
+  <!-- EN: Ptilopsis -->
+  <AK_Recruit_Ptilopsis.name>Ptilopsis</AK_Recruit_Ptilopsis.name>
+  <!-- EN: Ptilopsis -->
+  <AK_Recruit_Ptilopsis.nickname>Ptilopsis</AK_Recruit_Ptilopsis.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ptilopsis.surname>罗德岛</AK_Recruit_Ptilopsis.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Purestream.description>FIXME</AK_Recruit_Purestream.description>
+  <!-- EN: Purestream -->
+  <AK_Recruit_Purestream.name>Purestream</AK_Recruit_Purestream.name>
+  <!-- EN: Purestream -->
+  <AK_Recruit_Purestream.nickname>Purestream</AK_Recruit_Purestream.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Purestream.surname>罗德岛</AK_Recruit_Purestream.surname>
+  
+  <!-- EN: Simple, yet a mystery you can't seem to solve no matter what.\nShining, Sarkaz healer, will do everything she can to provide medical care for the squad. -->
+  <AK_Recruit_Shining.description>Simple, yet a mystery you can't seem to solve no matter what.
+Shining, Sarkaz healer, will do everything she can to provide medical care for the squad.</AK_Recruit_Shining.description>
+  <!-- EN: Shining -->
+  <AK_Recruit_Shining.name>Shining</AK_Recruit_Shining.name>
+  <!-- EN: Shining -->
+  <AK_Recruit_Shining.nickname>Shining</AK_Recruit_Shining.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Shining.surname>罗德岛</AK_Recruit_Shining.surname>
+  
+  <!-- EN: There’s no risk in the fruits of research, as they are only byproducts after all. Experimentation, on the other hand…/nSilence, medical specialist of Rhine Lab, will make use of the latest scientific developments on the battlefield. -->
+  <AK_Recruit_Silence.description>There’s no risk in the fruits of research, as they are only byproducts after all. Experimentation, on the other hand…/nSilence, medical specialist of Rhine Lab, will make use of the latest scientific developments on the battlefield.</AK_Recruit_Silence.description>
+  <!-- EN: left lung -->
+  <AK_Recruit_Silence.hediffInate.0.partCustomLabel>left lung</AK_Recruit_Silence.hediffInate.0.partCustomLabel>
+  <!-- EN: right leg -->
+  <AK_Recruit_Silence.hediffInate.1.partCustomLabel>right leg</AK_Recruit_Silence.hediffInate.1.partCustomLabel>
+  <!-- EN: Silence -->
+  <AK_Recruit_Silence.name>Silence</AK_Recruit_Silence.name>
+  <!-- EN: Silence -->
+  <AK_Recruit_Silence.nickname>Silence</AK_Recruit_Silence.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Silence.surname>罗德岛</AK_Recruit_Silence.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Sussurro.description>FIXMEDESC</AK_Recruit_Sussurro.description>
+  <!-- EN: Sussurro -->
+  <AK_Recruit_Sussurro.name>Sussurro</AK_Recruit_Sussurro.name>
+  <!-- EN: Sussurro -->
+  <AK_Recruit_Sussurro.nickname>Sussurro</AK_Recruit_Sussurro.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Sussurro.surname>罗德岛</AK_Recruit_Sussurro.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Vendela.description>FIXMEDESC</AK_Recruit_Vendela.description>
+  <!-- EN: Vendela -->
+  <AK_Recruit_Vendela.name>Vendela</AK_Recruit_Vendela.name>
+  <!-- EN: Vendela -->
+  <AK_Recruit_Vendela.nickname>Vendela</AK_Recruit_Vendela.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Vendela.surname>罗德岛</AK_Recruit_Vendela.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Warfarin.description>FIXMEDESC</AK_Recruit_Warfarin.description>
+  <!-- EN: Warfarin -->
+  <AK_Recruit_Warfarin.name>Warfarin</AK_Recruit_Warfarin.name>
+  <!-- EN: Warfarin -->
+  <AK_Recruit_Warfarin.nickname>Warfarin</AK_Recruit_Warfarin.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Warfarin.surname>罗德岛</AK_Recruit_Warfarin.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Whisperain.description>FIXMEDESC</AK_Recruit_Whisperain.description>
+  <!-- EN: Whisperain -->
+  <AK_Recruit_Whisperain.name>Whisperain</AK_Recruit_Whisperain.name>
+  <!-- EN: Whisperain -->
+  <AK_Recruit_Whisperain.nickname>Whisperain</AK_Recruit_Whisperain.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Whisperain.surname>罗德岛</AK_Recruit_Whisperain.surname>
+  
+</LanguageData>

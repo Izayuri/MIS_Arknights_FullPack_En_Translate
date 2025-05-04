@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Green, but full of potential.\nAngelina, Supporter Operator and Messenger of Rhodes Island, would like to provide help with her amazing Originium Arts. -->
+  <AK_Recruit_Angelina.description>Green, but full of potential.
+Angelina, Supporter Operator and Messenger of Rhodes Island, would like to provide help with her amazing Originium Arts.</AK_Recruit_Angelina.description>
+  <!-- EN: Angelina -->
+  <AK_Recruit_Angelina.name>Angelina</AK_Recruit_Angelina.name>
+  <!-- EN: Angelina -->
+  <AK_Recruit_Angelina.nickname>Angelina</AK_Recruit_Angelina.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Angelina.surname>罗德岛</AK_Recruit_Angelina.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_CivilightEterna.description>FIXMEDESC</AK_Recruit_CivilightEterna.description>
+  <!-- EN: CivilightEterna -->
+  <AK_Recruit_CivilightEterna.name>CivilightEterna</AK_Recruit_CivilightEterna.name>
+  <!-- EN: CivilightEterna -->
+  <AK_Recruit_CivilightEterna.nickname>CivilightEterna</AK_Recruit_CivilightEterna.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_CivilightEterna.surname>罗德岛</AK_Recruit_CivilightEterna.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_CorruptingHeart.description>FIXMEDESC</AK_Recruit_CorruptingHeart.description>
+  <!-- EN: CorruptingHeart -->
+  <AK_Recruit_CorruptingHeart.name>CorruptingHeart</AK_Recruit_CorruptingHeart.name>
+  <!-- EN: CorruptingHeart -->
+  <AK_Recruit_CorruptingHeart.nickname>CorruptingHeart</AK_Recruit_CorruptingHeart.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_CorruptingHeart.surname>罗德岛</AK_Recruit_CorruptingHeart.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Deepcolor.description>FIXME</AK_Recruit_Deepcolor.description>
+  <!-- EN: Deepcolor -->
+  <AK_Recruit_Deepcolor.name>Deepcolor</AK_Recruit_Deepcolor.name>
+  <!-- EN: Deepcolor -->
+  <AK_Recruit_Deepcolor.nickname>Deepcolor</AK_Recruit_Deepcolor.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Deepcolor.surname>罗德岛</AK_Recruit_Deepcolor.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Glaucus.description>FIXME</AK_Recruit_Glaucus.description>
+  <!-- EN: Glaucus -->
+  <AK_Recruit_Glaucus.name>Glaucus</AK_Recruit_Glaucus.name>
+  <!-- EN: Glaucus -->
+  <AK_Recruit_Glaucus.nickname>Glaucus</AK_Recruit_Glaucus.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Glaucus.surname>罗德岛</AK_Recruit_Glaucus.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Gnosis.description>FIXMEDESC</AK_Recruit_Gnosis.description>
+  <!-- EN: Gnosis -->
+  <AK_Recruit_Gnosis.name>Gnosis</AK_Recruit_Gnosis.name>
+  <!-- EN: Gnosis -->
+  <AK_Recruit_Gnosis.nickname>Gnosis</AK_Recruit_Gnosis.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Gnosis.surname>罗德岛</AK_Recruit_Gnosis.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Heidi.description>FIXMEDESC</AK_Recruit_Heidi.description>
+  <!-- EN: Heidi -->
+  <AK_Recruit_Heidi.name>Heidi</AK_Recruit_Heidi.name>
+  <!-- EN: Heidi -->
+  <AK_Recruit_Heidi.nickname>Heidi</AK_Recruit_Heidi.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Heidi.surname>罗德岛</AK_Recruit_Heidi.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Istina.description>FIXME</AK_Recruit_Istina.description>
+  <!-- EN: Istina -->
+  <AK_Recruit_Istina.name>Istina</AK_Recruit_Istina.name>
+  <!-- EN: Istina -->
+  <AK_Recruit_Istina.nickname>Istina</AK_Recruit_Istina.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Istina.surname>罗德岛</AK_Recruit_Istina.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Ling.description>FIXME</AK_Recruit_Ling.description>
+  <!-- EN: Ling -->
+  <AK_Recruit_Ling.name>Ling</AK_Recruit_Ling.name>
+  <!-- EN: Ling -->
+  <AK_Recruit_Ling.nickname>Ling</AK_Recruit_Ling.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ling.surname>罗德岛</AK_Recruit_Ling.surname>
+  
+  <!-- EN: Many things can happen when she presses that button, but she swears that explosions aren't one of them.\nMagallan, the Commissioner of Rhine Labs, is glad to welcome new adventures. -->
+  <AK_Recruit_Magallan.description>Many things can happen when she presses that button, but she swears that explosions aren't one of them.
+Magallan, the Commissioner of Rhine Labs, is glad to welcome new adventures.</AK_Recruit_Magallan.description>
+  <!-- EN: Magallan -->
+  <AK_Recruit_Magallan.name>Magallan</AK_Recruit_Magallan.name>
+  <!-- EN: Magallan -->
+  <AK_Recruit_Magallan.nickname>Magallan</AK_Recruit_Magallan.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Magallan.surname>罗德岛</AK_Recruit_Magallan.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Mayer.description>FIXMEDESC</AK_Recruit_Mayer.description>
+  <!-- EN: Mayer -->
+  <AK_Recruit_Mayer.name>Mayer</AK_Recruit_Mayer.name>
+  <!-- EN: Mayer -->
+  <AK_Recruit_Mayer.nickname>Mayer</AK_Recruit_Mayer.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mayer.surname>罗德岛</AK_Recruit_Mayer.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Pramanix.description>FIXME</AK_Recruit_Pramanix.description>
+  <!-- EN: Pramanix -->
+  <AK_Recruit_Pramanix.name>Pramanix</AK_Recruit_Pramanix.name>
+  <!-- EN: Pramanix -->
+  <AK_Recruit_Pramanix.nickname>Pramanix</AK_Recruit_Pramanix.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Pramanix.surname>罗德岛</AK_Recruit_Pramanix.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Proviso.description>FIXMEDESC</AK_Recruit_Proviso.description>
+  <!-- EN: Proviso -->
+  <AK_Recruit_Proviso.name>Proviso</AK_Recruit_Proviso.name>
+  <!-- EN: Proviso -->
+  <AK_Recruit_Proviso.nickname>Proviso</AK_Recruit_Proviso.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Proviso.surname>罗德岛</AK_Recruit_Proviso.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Quercus.description>FIXMEDESC</AK_Recruit_Quercus.description>
+  <!-- EN: Quercus -->
+  <AK_Recruit_Quercus.name>Quercus</AK_Recruit_Quercus.name>
+  <!-- EN: Quercus -->
+  <AK_Recruit_Quercus.nickname>Quercus</AK_Recruit_Quercus.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Quercus.surname>罗德岛</AK_Recruit_Quercus.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Roberta.description>FIXMEDESC</AK_Recruit_Roberta.description>
+  <!-- EN: Roberta -->
+  <AK_Recruit_Roberta.name>Roberta</AK_Recruit_Roberta.name>
+  <!-- EN: Roberta -->
+  <AK_Recruit_Roberta.nickname>Roberta</AK_Recruit_Roberta.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Roberta.surname>罗德岛</AK_Recruit_Roberta.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Scene.description>FIXME</AK_Recruit_Scene.description>
+  <!-- EN: Scene -->
+  <AK_Recruit_Scene.name>Scene</AK_Recruit_Scene.name>
+  <!-- EN: Scene -->
+  <AK_Recruit_Scene.nickname>Scene</AK_Recruit_Scene.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Scene.surname>罗德岛</AK_Recruit_Scene.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Sora.description>FIXME</AK_Recruit_Sora.description>
+  <!-- EN: Sora -->
+  <AK_Recruit_Sora.name>Sora</AK_Recruit_Sora.name>
+  <!-- EN: Sora -->
+  <AK_Recruit_Sora.nickname>Sora</AK_Recruit_Sora.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Sora.surname>罗德岛</AK_Recruit_Sora.surname>
+  
+  <!-- EN: The mysticism and artistry of Higashi, the freedom and yearning of Siracusa.\nSuzuran, Rhodes Island Operator, has nine times the strength, and the fluffiness. -->
+  <AK_Recruit_Suzuran.description>The mysticism and artistry of Higashi, the freedom and yearning of Siracusa.
+Suzuran, Rhodes Island Operator, has nine times the strength, and the fluffiness.</AK_Recruit_Suzuran.description>
+  <!-- EN: Suzuran -->
+  <AK_Recruit_Suzuran.name>Suzuran</AK_Recruit_Suzuran.name>
+  <!-- EN: Suzuran -->
+  <AK_Recruit_Suzuran.nickname>Suzuran</AK_Recruit_Suzuran.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Suzuran.surname>罗德岛</AK_Recruit_Suzuran.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Valarqvin.description>FIXMEDESC</AK_Recruit_Valarqvin.description>
+  <!-- EN: Valarqvin -->
+  <AK_Recruit_Valarqvin.name>Valarqvin</AK_Recruit_Valarqvin.name>
+  <!-- EN: Valarqvin -->
+  <AK_Recruit_Valarqvin.nickname>Valarqvin</AK_Recruit_Valarqvin.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Valarqvin.surname>罗德岛</AK_Recruit_Valarqvin.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Virtuosa.description>FIXMEDESC</AK_Recruit_Virtuosa.description>
+  <!-- EN: Virtuosa -->
+  <AK_Recruit_Virtuosa.name>Virtuosa</AK_Recruit_Virtuosa.name>
+  <!-- EN: Virtuosa -->
+  <AK_Recruit_Virtuosa.nickname>Virtuosa</AK_Recruit_Virtuosa.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Virtuosa.surname>罗德岛</AK_Recruit_Virtuosa.surname>
+  
+</LanguageData>

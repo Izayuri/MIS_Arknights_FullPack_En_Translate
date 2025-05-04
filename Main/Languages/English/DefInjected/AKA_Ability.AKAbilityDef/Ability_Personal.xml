@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 抓走马马 -->
+  <AKA_Ability_CatchMother.label>抓走马马</AKA_Ability_CatchMother.label>
+  <!-- EN: 可以定期抓走一个人的马马 -->
+  <AKA_Ability_CatchMother.description>可以定期抓走一个人的马马</AKA_Ability_CatchMother.description>
+  
+  <!-- EN: 战术面板 -->
+  <AKA_Ability_CommandTable.label>战术面板</AKA_Ability_CommandTable.label>
+  <!-- EN: 杰西卡的战场终端\n可以定期请求空投物资 -->
+  <AKA_Ability_CommandTable.description>杰西卡的战场终端
+可以定期请求空投物资</AKA_Ability_CommandTable.description>
+  
+  <!-- EN: 复制技能 -->
+  <AKA_Ability_CopySkill.label>复制技能</AKA_Ability_CopySkill.label>
+  <!-- EN: 可以指定复制一个人的一项技能覆盖到使用者身上 -->
+  <AKA_Ability_CopySkill.description>可以指定复制一个人的一项技能覆盖到使用者身上</AKA_Ability_CopySkill.description>
+  
+</LanguageData>

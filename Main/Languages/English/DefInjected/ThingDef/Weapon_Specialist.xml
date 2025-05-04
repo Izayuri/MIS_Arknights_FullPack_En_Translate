@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 子弹射击 -->
+  <AK_Bullet_Dorothy.label>子弹射击</AK_Bullet_Dorothy.label>
+  
+  <!-- EN: 多萝西的针 -->
+  <AK_Bullet_DorothyHandOfDestiny.label>多萝西的针</AK_Bullet_DorothyHandOfDestiny.label>
+  
+  <!-- EN: 毒液喷射 -->
+  <AK_Bullet_Manticore.label>毒液喷射</AK_Bullet_Manticore.label>
+  
+  <!-- EN: 投掷飞刀 -->
+  <AK_Bullet_Robin.label>投掷飞刀</AK_Bullet_Robin.label>
+  
+  <!-- EN: 杏仁的钩锁 -->
+  <AK_Weapon_Almond.label>杏仁的钩锁</AK_Weapon_Almond.label>
+  <!-- EN: 杏仁的工程学钩锁，不要乱碰或者不小心被绊倒了。 -->
+  <AK_Weapon_Almond.description>杏仁的工程学钩锁，不要乱碰或者不小心被绊倒了。</AK_Weapon_Almond.description>
+  <!-- EN: 钩刺 -->
+  <AK_Weapon_Almond.tools.0.label>钩刺</AK_Weapon_Almond.tools.0.label>
+  <!-- EN: 钩锁猛砸 -->
+  <AK_Weapon_Almond.tools.1.label>钩锁猛砸</AK_Weapon_Almond.tools.1.label>
+  
+  <!-- EN: “无形，无情” -->
+  <AK_Weapon_Ascalon.label>“无形，无情”</AK_Weapon_Ascalon.label>
+  <!-- EN: 刽子手的手指勾回，轻触掌根。利刃在暴烈的日光下沿轨道滑出，细小的光点顺着锋刃边缘坠向交会处，如铁水无声地注入模具。 -->
+  <AK_Weapon_Ascalon.description>刽子手的手指勾回，轻触掌根。利刃在暴烈的日光下沿轨道滑出，细小的光点顺着锋刃边缘坠向交会处，如铁水无声地注入模具。</AK_Weapon_Ascalon.description>
+  <!-- EN: 拳刃 -->
+  <AK_Weapon_Ascalon.tools.0.label>拳刃</AK_Weapon_Ascalon.tools.0.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Ascalon.tools.1.label>拳击</AK_Weapon_Ascalon.tools.1.label>
+  
+  <!-- EN: 凌绝顶 -->
+  <AK_Weapon_Cliffheart.label>凌绝顶</AK_Weapon_Cliffheart.label>
+  <!-- EN: 你征服了这个高度，你触摸了天空，你就证明了自己的价值。 -->
+  <AK_Weapon_Cliffheart.description>你征服了这个高度，你触摸了天空，你就证明了自己的价值。</AK_Weapon_Cliffheart.description>
+  <!-- EN: 链钩捅 -->
+  <AK_Weapon_Cliffheart.tools.0.label>链钩捅</AK_Weapon_Cliffheart.tools.0.label>
+  <!-- EN: 链柄猛砸 -->
+  <AK_Weapon_Cliffheart.tools.1.label>链柄猛砸</AK_Weapon_Cliffheart.tools.1.label>
+  <!-- EN: 链钩劈砍 -->
+  <AK_Weapon_Cliffheart.tools.2.label>链钩劈砍</AK_Weapon_Cliffheart.tools.2.label>
+  <!-- EN: 链钩刺 -->
+  <AK_Weapon_Cliffheart.tools.3.label>链钩刺</AK_Weapon_Cliffheart.tools.3.label>
+  
+  <!-- EN: 多萝西的手提箱 -->
+  <AK_Weapon_DorothyA.label>多萝西的手提箱</AK_Weapon_DorothyA.label>
+  <!-- EN: 一个手提箱，侧面有数个插口。\n别担心，里面没有什么奇怪的东西，这只是单纯用来操控共振装置的。 -->
+  <AK_Weapon_DorothyA.description>一个手提箱，侧面有数个插口。
+别担心，里面没有什么奇怪的东西，这只是单纯用来操控共振装置的。</AK_Weapon_DorothyA.description>
+  <!-- EN: 箱子扑打 -->
+  <AK_Weapon_DorothyA.tools.0.label>箱子扑打</AK_Weapon_DorothyA.tools.0.label>
+  
+  <!-- EN: 多萝西的实验报告 -->
+  <AK_Weapon_DorothyB.label>多萝西的实验报告</AK_Weapon_DorothyB.label>
+  <!-- EN: 一本记载着密密麻麻实验报告的笔记。\n一些内容令人不寒而栗。 -->
+  <AK_Weapon_DorothyB.description>一本记载着密密麻麻实验报告的笔记。
+一些内容令人不寒而栗。</AK_Weapon_DorothyB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_DorothyB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_DorothyB.tools.0.label>
+  
+  <!-- EN: 多萝西的机械臂 -->
+  <AK_Weapon_DorothyC.label>多萝西的机械臂</AK_Weapon_DorothyC.label>
+  <!-- EN: 一条电子驱动的机械臂，顶部原本抓取部分被改成了射弹功能。\n莱茵生命的科研工作总是繁重的，主任级的更是两只手都忙不过来，因此很多莱茵生命科学家都会有这样一条机械臂辅助工作。 -->
+  <AK_Weapon_DorothyC.description>一条电子驱动的机械臂，顶部原本抓取部分被改成了射弹功能。
+莱茵生命的科研工作总是繁重的，主任级的更是两只手都忙不过来，因此很多莱茵生命科学家都会有这样一条机械臂辅助工作。</AK_Weapon_DorothyC.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_DorothyC.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_DorothyC.tools.0.label>
+  <!-- EN: 多萝西的机械臂 -->
+  <AK_Weapon_DorothyC.verbs.Verb_Shoot.label>多萝西的机械臂</AK_Weapon_DorothyC.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 多萝西的共振装置 -->
+  <AK_Weapon_DorothyHandOfDestiny.label>多萝西的共振装置</AK_Weapon_DorothyHandOfDestiny.label>
+  <!-- EN: 多萝西的共振装置 -->
+  <AK_Weapon_DorothyHandOfDestiny.description>多萝西的共振装置</AK_Weapon_DorothyHandOfDestiny.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_DorothyHandOfDestiny.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_DorothyHandOfDestiny.tools.0.label>
+  <!-- EN: 多萝西的共振装置 -->
+  <AK_Weapon_DorothyHandOfDestiny.verbs.Verb_Shoot.label>多萝西的共振装置</AK_Weapon_DorothyHandOfDestiny.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 歌雷蒂娅的长槊 -->
+  <AK_Weapon_Gladiia.label>歌雷蒂娅的长槊</AK_Weapon_Gladiia.label>
+  <!-- EN: 陆地的泥土是如此缺水，陆地的空气是如此干燥。离开了大海的歌蕾蒂娅如同一条搁浅的鲸鱼一样。\n或许每一个被迫离开大海的阿戈尔人都不得不忍受这种痛苦。 -->
+  <AK_Weapon_Gladiia.description>陆地的泥土是如此缺水，陆地的空气是如此干燥。离开了大海的歌蕾蒂娅如同一条搁浅的鲸鱼一样。
+或许每一个被迫离开大海的阿戈尔人都不得不忍受这种痛苦。</AK_Weapon_Gladiia.description>
+  <!-- EN: 槊柄猛砸 -->
+  <AK_Weapon_Gladiia.tools.0.label>槊柄猛砸</AK_Weapon_Gladiia.tools.0.label>
+  <!-- EN: 槊捅 -->
+  <AK_Weapon_Gladiia.tools.1.label>槊捅</AK_Weapon_Gladiia.tools.1.label>
+  <!-- EN: 槊劈砍 -->
+  <AK_Weapon_Gladiia.tools.2.label>槊劈砍</AK_Weapon_Gladiia.tools.2.label>
+  <!-- EN: 槊刺 -->
+  <AK_Weapon_Gladiia.tools.3.label>槊刺</AK_Weapon_Gladiia.tools.3.label>
+  <!-- EN: 槊重击 -->
+  <AK_Weapon_Gladiia.tools.4.label>槊重击</AK_Weapon_Gladiia.tools.4.label>
+  
+  <!-- EN: 歌雷蒂亚-返航的长槊 -->
+  <AK_Weapon_GladiiaReturn.label>歌雷蒂亚-返航的长槊</AK_Weapon_GladiiaReturn.label>
+  <!-- EN: 陆地的泥土是如此缺水，陆地的空气是如此干燥。离开了大海的歌蕾蒂娅如同一条搁浅的鲸鱼一样。\n或许每一个被迫离开大海的阿戈尔人都不得不忍受这种痛苦。 -->
+  <AK_Weapon_GladiiaReturn.description>陆地的泥土是如此缺水，陆地的空气是如此干燥。离开了大海的歌蕾蒂娅如同一条搁浅的鲸鱼一样。
+或许每一个被迫离开大海的阿戈尔人都不得不忍受这种痛苦。</AK_Weapon_GladiiaReturn.description>
+  <!-- EN: 槊柄猛砸 -->
+  <AK_Weapon_GladiiaReturn.tools.0.label>槊柄猛砸</AK_Weapon_GladiiaReturn.tools.0.label>
+  <!-- EN: 槊捅 -->
+  <AK_Weapon_GladiiaReturn.tools.1.label>槊捅</AK_Weapon_GladiiaReturn.tools.1.label>
+  <!-- EN: 槊劈砍 -->
+  <AK_Weapon_GladiiaReturn.tools.2.label>槊劈砍</AK_Weapon_GladiiaReturn.tools.2.label>
+  <!-- EN: 槊刺 -->
+  <AK_Weapon_GladiiaReturn.tools.3.label>槊刺</AK_Weapon_GladiiaReturn.tools.3.label>
+  <!-- EN: 槊重击 -->
+  <AK_Weapon_GladiiaReturn.tools.4.label>槊重击</AK_Weapon_GladiiaReturn.tools.4.label>
+  
+  <!-- EN: 隐秘行动工具 -->
+  <AK_Weapon_Gravel.label>隐秘行动工具</AK_Weapon_Gravel.label>
+  <!-- EN: 用来执行特殊任务的短刀，被磨得很锋利。\n传统的骑士精神厌弃阴暗的手段，不过总是有例外。 -->
+  <AK_Weapon_Gravel.description>用来执行特殊任务的短刀，被磨得很锋利。
+传统的骑士精神厌弃阴暗的手段，不过总是有例外。</AK_Weapon_Gravel.description>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Gravel.tools.0.label>刀捅</AK_Weapon_Gravel.tools.0.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Gravel.tools.1.label>刀柄猛砸</AK_Weapon_Gravel.tools.1.label>
+  <!-- EN: 小刀劈砍 -->
+  <AK_Weapon_Gravel.tools.2.label>小刀劈砍</AK_Weapon_Gravel.tools.2.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_Gravel.tools.3.label>刀刺</AK_Weapon_Gravel.tools.3.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Gravel.tools.4.label>踢击</AK_Weapon_Gravel.tools.4.label>
+  
+  <!-- EN: 卡夫卡的小刀 -->
+  <AK_Weapon_Kafka.label>卡夫卡的小刀</AK_Weapon_Kafka.label>
+  <!-- EN: 割草还是捅人都很好用。 -->
+  <AK_Weapon_Kafka.description>割草还是捅人都很好用。</AK_Weapon_Kafka.description>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Kafka.tools.0.label>刀捅</AK_Weapon_Kafka.tools.0.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Kafka.tools.1.label>刀柄猛砸</AK_Weapon_Kafka.tools.1.label>
+  <!-- EN: 小刀劈砍 -->
+  <AK_Weapon_Kafka.tools.2.label>小刀劈砍</AK_Weapon_Kafka.tools.2.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_Kafka.tools.3.label>刀刺</AK_Weapon_Kafka.tools.3.label>
+  
+  <!-- EN: 风丸的刀 -->
+  <AK_Weapon_Kazemaru.label>风丸的刀</AK_Weapon_Kazemaru.label>
+  <!-- EN: 风丸的忍者刀，很符合忍者敏捷的行动方式。 -->
+  <AK_Weapon_Kazemaru.description>风丸的忍者刀，很符合忍者敏捷的行动方式。</AK_Weapon_Kazemaru.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_Kazemaru.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_Kazemaru.tools.0.label>
+  
+  <!-- EN: 麒麟双刀A -->
+  <AK_Weapon_Kirin.label>麒麟双刀A</AK_Weapon_Kirin.label>
+  <!-- EN: 麒麟双刀的其中一把，较长而直。 -->
+  <AK_Weapon_Kirin.description>麒麟双刀的其中一把，较长而直。</AK_Weapon_Kirin.description>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_Kirin.tools.0.label>劈砍</AK_Weapon_Kirin.tools.0.label>
+  <!-- EN: 鬼人化 -->
+  <AK_Weapon_Kirin.tools.1.label>鬼人化</AK_Weapon_Kirin.tools.1.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Kirin.tools.2.label>刀捅</AK_Weapon_Kirin.tools.2.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Kirin.tools.3.label>刀柄猛砸</AK_Weapon_Kirin.tools.3.label>
+  
+  <!-- EN: 麒麟双刀B -->
+  <AK_Weapon_KirinB.label>麒麟双刀B</AK_Weapon_KirinB.label>
+  <!-- EN: 麒麟双刀的其中一把，较短而弯。 -->
+  <AK_Weapon_KirinB.description>麒麟双刀的其中一把，较短而弯。</AK_Weapon_KirinB.description>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_KirinB.tools.0.label>劈砍</AK_Weapon_KirinB.tools.0.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_KirinB.tools.1.label>刀劈</AK_Weapon_KirinB.tools.1.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_KirinB.tools.2.label>刀捅</AK_Weapon_KirinB.tools.2.label>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_KirinB.tools.3.label>刀柄猛砸</AK_Weapon_KirinB.tools.3.label>
+  
+  <!-- EN: 狮蝎的毒刺 -->
+  <AK_Weapon_Manticore.label>狮蝎的毒刺</AK_Weapon_Manticore.label>
+  <!-- EN: 尾端像蝎子一样致命的毒刺，这些毒刺可以向任何方向发射出去。 -->
+  <AK_Weapon_Manticore.description>尾端像蝎子一样致命的毒刺，这些毒刺可以向任何方向发射出去。</AK_Weapon_Manticore.description>
+  <!-- EN: 毒蛰 -->
+  <AK_Weapon_Manticore.tools.0.label>毒蛰</AK_Weapon_Manticore.tools.0.label>
+  <!-- EN: 扑打 -->
+  <AK_Weapon_Manticore.tools.1.label>扑打</AK_Weapon_Manticore.tools.1.label>
+  <!-- EN: 毒刺 -->
+  <AK_Weapon_Manticore.tools.2.label>毒刺</AK_Weapon_Manticore.tools.2.label>
+  <!-- EN: 狮蝎的毒刺 -->
+  <AK_Weapon_Manticore.verbs.Verb_Shoot.label>狮蝎的毒刺</AK_Weapon_Manticore.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “使者之约” -->
+  <AK_Weapon_Mizuki.label>“使者之约”</AK_Weapon_Mizuki.label>
+  <!-- EN: 我本以为这个孩子早晚会泯然众人。\n但当他的舌尖触碰到使者的馈赠，当他将这一切纳为己有，而不是被大群的声音淹没，成为一只卑微的恐鱼，事情就似乎变得有些不同了。 -->
+  <AK_Weapon_Mizuki.description>我本以为这个孩子早晚会泯然众人。
+但当他的舌尖触碰到使者的馈赠，当他将这一切纳为己有，而不是被大群的声音淹没，成为一只卑微的恐鱼，事情就似乎变得有些不同了。</AK_Weapon_Mizuki.description>
+  <!-- EN: 触须捅 -->
+  <AK_Weapon_Mizuki.tools.0.label>触须捅</AK_Weapon_Mizuki.tools.0.label>
+  <!-- EN: 触须抽打 -->
+  <AK_Weapon_Mizuki.tools.1.label>触须抽打</AK_Weapon_Mizuki.tools.1.label>
+  <!-- EN: 触须劈砍 -->
+  <AK_Weapon_Mizuki.tools.2.label>触须劈砍</AK_Weapon_Mizuki.tools.2.label>
+  <!-- EN: 触须突刺 -->
+  <AK_Weapon_Mizuki.tools.3.label>触须突刺</AK_Weapon_Mizuki.tools.3.label>
+  <!-- EN: 触须撕咬 -->
+  <AK_Weapon_Mizuki.tools.4.label>触须撕咬</AK_Weapon_Mizuki.tools.4.label>
+  
+  <!-- EN: 红的小刀 -->
+  <AK_Weapon_Red.label>红的小刀</AK_Weapon_Red.label>
+  <!-- EN: 红有一把小刀，她有一把小刀。 -->
+  <AK_Weapon_Red.description>红有一把小刀，她有一把小刀。</AK_Weapon_Red.description>
+  <!-- EN: 刀柄敲击 -->
+  <AK_Weapon_Red.tools.0.label>刀柄敲击</AK_Weapon_Red.tools.0.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Red.tools.1.label>刀捅</AK_Weapon_Red.tools.1.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_Red.tools.2.label>刀劈</AK_Weapon_Red.tools.2.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_Red.tools.3.label>刀刺</AK_Weapon_Red.tools.3.label>
+  <!-- EN: 撕咬 -->
+  <AK_Weapon_Red.tools.4.label>撕咬</AK_Weapon_Red.tools.4.label>
+  <!-- EN: 脚踢 -->
+  <AK_Weapon_Red.tools.5.label>脚踢</AK_Weapon_Red.tools.5.label>
+  
+  <!-- EN: 红-轻风的小刀 -->
+  <AK_Weapon_RedLightBreeze.label>红-轻风的小刀</AK_Weapon_RedLightBreeze.label>
+  <!-- EN: 红有一把小刀，她有一把小刀。 -->
+  <AK_Weapon_RedLightBreeze.description>红有一把小刀，她有一把小刀。</AK_Weapon_RedLightBreeze.description>
+  <!-- EN: 刀柄敲击 -->
+  <AK_Weapon_RedLightBreeze.tools.0.label>刀柄敲击</AK_Weapon_RedLightBreeze.tools.0.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_RedLightBreeze.tools.1.label>刀捅</AK_Weapon_RedLightBreeze.tools.1.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_RedLightBreeze.tools.2.label>刀劈</AK_Weapon_RedLightBreeze.tools.2.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_RedLightBreeze.tools.3.label>刀刺</AK_Weapon_RedLightBreeze.tools.3.label>
+  <!-- EN: 撕咬 -->
+  <AK_Weapon_RedLightBreeze.tools.4.label>撕咬</AK_Weapon_RedLightBreeze.tools.4.label>
+  <!-- EN: 脚踢 -->
+  <AK_Weapon_RedLightBreeze.tools.5.label>脚踢</AK_Weapon_RedLightBreeze.tools.5.label>
+  
+  <!-- EN: 罗宾的道具箱 -->
+  <AK_Weapon_Robin.label>罗宾的道具箱</AK_Weapon_Robin.label>
+  <!-- EN: 一把没有开封的匕首，设计很精致，柄上还有刻字。\n似乎是某部电影的限量版周边，不过这款是仿制的。 -->
+  <AK_Weapon_Robin.description>一把没有开封的匕首，设计很精致，柄上还有刻字。
+似乎是某部电影的限量版周边，不过这款是仿制的。</AK_Weapon_Robin.description>
+  <!-- EN: 道具箱猛砸 -->
+  <AK_Weapon_Robin.tools.0.label>道具箱猛砸</AK_Weapon_Robin.tools.0.label>
+  <!-- EN: 捅 -->
+  <AK_Weapon_Robin.tools.1.label>捅</AK_Weapon_Robin.tools.1.label>
+  <!-- EN: 劈砍 -->
+  <AK_Weapon_Robin.tools.2.label>劈砍</AK_Weapon_Robin.tools.2.label>
+  <!-- EN: 刺 -->
+  <AK_Weapon_Robin.tools.3.label>刺</AK_Weapon_Robin.tools.3.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Robin.tools.4.label>拳击</AK_Weapon_Robin.tools.4.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Robin.tools.5.label>踢击</AK_Weapon_Robin.tools.5.label>
+  <!-- EN: 罗宾的道具箱 -->
+  <AK_Weapon_Robin.verbs.Verb_Shoot.label>罗宾的道具箱</AK_Weapon_Robin.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 归溟幽灵鲨的圆锯 -->
+  <AK_Weapon_SpecterUnchained.label>归溟幽灵鲨的圆锯</AK_Weapon_SpecterUnchained.label>
+  <!-- EN: 沾满了鲜血的圆锯，能够轻而易举的破开血肉，切断骨头。\n与幽灵鲨狂暴血腥的作战风格完美契合。 -->
+  <AK_Weapon_SpecterUnchained.description>沾满了鲜血的圆锯，能够轻而易举的破开血肉，切断骨头。
+与幽灵鲨狂暴血腥的作战风格完美契合。</AK_Weapon_SpecterUnchained.description>
+  <!-- EN: 链锯猛砸 -->
+  <AK_Weapon_SpecterUnchained.tools.0.label>链锯猛砸</AK_Weapon_SpecterUnchained.tools.0.label>
+  <!-- EN: 链锯切割 -->
+  <AK_Weapon_SpecterUnchained.tools.1.label>链锯切割</AK_Weapon_SpecterUnchained.tools.1.label>
+  <!-- EN: 圆锯劈砍 -->
+  <AK_Weapon_SpecterUnchained.tools.2.label>圆锯劈砍</AK_Weapon_SpecterUnchained.tools.2.label>
+  
+  <!-- EN: 琳琅诗怀雅的“金币辉煌”手提包 -->
+  <AK_Weapon_SwireElegantWit.label>琳琅诗怀雅的“金币辉煌”手提包</AK_Weapon_SwireElegantWit.label>
+  <!-- EN: 琳琅诗怀雅的手提包，用钱砸人？ -->
+  <AK_Weapon_SwireElegantWit.description>琳琅诗怀雅的手提包，用钱砸人？</AK_Weapon_SwireElegantWit.description>
+  <!-- EN: 砸 -->
+  <AK_Weapon_SwireElegantWit.tools.0.label>砸</AK_Weapon_SwireElegantWit.tools.0.label>
+  <!-- EN: 猛砸 -->
+  <AK_Weapon_SwireElegantWit.tools.1.label>猛砸</AK_Weapon_SwireElegantWit.tools.1.label>
+  
+  <!-- EN: 蓝莓 -->
+  <AK_Weapon_TexastheOmertosaA.label>蓝莓</AK_Weapon_TexastheOmertosaA.label>
+  <!-- EN: Fixme -->
+  <AK_Weapon_TexastheOmertosaA.description>Fixme</AK_Weapon_TexastheOmertosaA.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_TexastheOmertosaA.tools.0.label>剑捅</AK_Weapon_TexastheOmertosaA.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_TexastheOmertosaA.tools.1.label>剑柄猛砸</AK_Weapon_TexastheOmertosaA.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_TexastheOmertosaA.tools.2.label>剑砍</AK_Weapon_TexastheOmertosaA.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_TexastheOmertosaA.tools.3.label>剑刺</AK_Weapon_TexastheOmertosaA.tools.3.label>
+  
+  <!-- EN: 黑巧 -->
+  <AK_Weapon_TexastheOmertosaB.label>黑巧</AK_Weapon_TexastheOmertosaB.label>
+  <!-- EN: Fixme -->
+  <AK_Weapon_TexastheOmertosaB.description>Fixme</AK_Weapon_TexastheOmertosaB.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_TexastheOmertosaB.tools.0.label>剑捅</AK_Weapon_TexastheOmertosaB.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_TexastheOmertosaB.tools.1.label>剑柄猛砸</AK_Weapon_TexastheOmertosaB.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_TexastheOmertosaB.tools.2.label>剑砍</AK_Weapon_TexastheOmertosaB.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_TexastheOmertosaB.tools.3.label>剑刺</AK_Weapon_TexastheOmertosaB.tools.3.label>
+  
+  <!-- EN: 缄默德克萨斯的幽兰秘辛 -->
+  <AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.label>缄默德克萨斯的幽兰秘辛</AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.label>
+  <!-- EN: Fixme -->
+  <AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.description>Fixme</AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.0.label>剑捅</AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.1.label>剑柄猛砸</AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.2.label>剑砍</AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.3.label>剑刺</AK_Weapon_TexastheOmertosaIlSegretoDellaNotte.tools.3.label>
+  
+  <!-- EN: 工程蓄水炮 -->
+  <AK_Weapon_Weedy.label>工程蓄水炮</AK_Weapon_Weedy.label>
+  <!-- EN: 没有煌快，但是比煌大姐远，而且很能喷水！！！ -->
+  <AK_Weapon_Weedy.description>没有煌快，但是比煌大姐远，而且很能喷水！！！</AK_Weapon_Weedy.description>
+  <!-- EN: 炮管敲击 -->
+  <AK_Weapon_Weedy.tools.0.label>炮管敲击</AK_Weapon_Weedy.tools.0.label>
+  <!-- EN: 炮管猛砸 -->
+  <AK_Weapon_Weedy.tools.1.label>炮管猛砸</AK_Weapon_Weedy.tools.1.label>
+  
+  <!-- EN: 温蒂-倾听的工程蓄水炮 -->
+  <AK_Weapon_WeedySedjem.label>温蒂-倾听的工程蓄水炮</AK_Weapon_WeedySedjem.label>
+  <!-- EN: 没有煌快，但是比煌大姐远，而且很能喷水！！！ -->
+  <AK_Weapon_WeedySedjem.description>没有煌快，但是比煌大姐远，而且很能喷水！！！</AK_Weapon_WeedySedjem.description>
+  <!-- EN: 炮管敲击 -->
+  <AK_Weapon_WeedySedjem.tools.0.label>炮管敲击</AK_Weapon_WeedySedjem.tools.0.label>
+  <!-- EN: 炮管猛砸 -->
+  <AK_Weapon_WeedySedjem.tools.1.label>炮管猛砸</AK_Weapon_WeedySedjem.tools.1.label>
+  
+</LanguageData>

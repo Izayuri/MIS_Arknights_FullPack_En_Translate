@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 法术射弹 -->
+  <AK_Injury_MagicShot.label>法术射弹</AK_Injury_MagicShot.label>
+  <!-- EN: 一个法术射击造成的伤口. -->
+  <AK_Injury_MagicShot.description>一个法术射击造成的伤口.</AK_Injury_MagicShot.description>
+  <!-- EN: 永久法术旧伤 -->
+  <AK_Injury_MagicShot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>永久法术旧伤</AK_Injury_MagicShot.comps.HediffComp_GetsPermanent.instantlyPermanentLabel>
+  <!-- EN: 旧法术伤口 -->
+  <AK_Injury_MagicShot.comps.HediffComp_GetsPermanent.permanentLabel>旧法术伤口</AK_Injury_MagicShot.comps.HediffComp_GetsPermanent.permanentLabel>
+  <!-- EN: 法术射击造成的伤口. -->
+  <AK_Injury_MagicShot.labelNoun>法术射击造成的伤口.</AK_Injury_MagicShot.labelNoun>
+  <!-- EN: {0} in the {1} -->
+  <AK_Injury_MagicShot.labelNounPretty>{0} in the {1}</AK_Injury_MagicShot.labelNounPretty>
+  
+</LanguageData>

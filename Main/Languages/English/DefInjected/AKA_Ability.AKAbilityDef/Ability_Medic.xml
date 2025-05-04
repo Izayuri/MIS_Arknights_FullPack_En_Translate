@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 治疗 -->
+  <AKA_Ability_BaseHeal.label>治疗</AKA_Ability_BaseHeal.label>
+  <!-- EN: 每位医疗干员都掌握的，非常基础的伤口处理。 -->
+  <AKA_Ability_BaseHeal.description>每位医疗干员都掌握的，非常基础的伤口处理。</AKA_Ability_BaseHeal.description>
+  
+  <!-- EN: 再生 -->
+  <AKA_Ability_Regrow.label>再生</AKA_Ability_Regrow.label>
+  <!-- EN: 每位医疗干员都掌握的，非常基础的伤口处理。 -->
+  <AKA_Ability_Regrow.description>每位医疗干员都掌握的，非常基础的伤口处理。</AKA_Ability_Regrow.description>
+  
+</LanguageData>

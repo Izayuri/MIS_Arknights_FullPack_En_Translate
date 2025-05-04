@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Absinthe.label>法术射击</AK_Bullet_Absinthe.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Amiya.label>法术射击</AK_Bullet_Amiya.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Astgenne.label>法术射击</AK_Bullet_Astgenne.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Ceobe.label>法术射击</AK_Bullet_Ceobe.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Delphine.label>法术射击</AK_Bullet_Delphine.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Dusk.label>法术射击</AK_Bullet_Dusk.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Eyjafjalla.label>法术射击</AK_Bullet_Eyjafjalla.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Goldenglow.label>法术射击</AK_Bullet_Goldenglow.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Harmonie.label>法术射击</AK_Bullet_Harmonie.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Hoolheyak.label>法术射击</AK_Bullet_Hoolheyak.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Ifrit.label>法术射击</AK_Bullet_Ifrit.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Indigo.label>法术射击</AK_Bullet_Indigo.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Kjera.label>法术射击</AK_Bullet_Kjera.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_LapplandTheDecadenza.label>法术射击</AK_Bullet_LapplandTheDecadenza.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Lava.label>法术射击</AK_Bullet_Lava.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Mostima.label>法术射击</AK_Bullet_Mostima.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Nymph.label>法术射击</AK_Bullet_Nymph.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Passenger.label>法术射击</AK_Bullet_Passenger.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Santalla.label>法术射击</AK_Bullet_Santalla.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Skyfire.label>法术射击</AK_Bullet_Skyfire.label>
+  
+  <!-- EN: 铳形法杖 -->
+  <AK_Weapon_Absinthe.label>铳形法杖</AK_Weapon_Absinthe.label>
+  <!-- EN: 尽管言语中充斥茫然，曾经所相信的都摇摇欲坠，但继承自父亲的装备，她却从未真正松开过手。 -->
+  <AK_Weapon_Absinthe.description>尽管言语中充斥茫然，曾经所相信的都摇摇欲坠，但继承自父亲的装备，她却从未真正松开过手。</AK_Weapon_Absinthe.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Absinthe.tools.0.label>法杖猛击</AK_Weapon_Absinthe.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Absinthe.tools.1.label>踢击</AK_Weapon_Absinthe.tools.1.label>
+  <!-- EN: 铳形法杖 -->
+  <AK_Weapon_Absinthe.verbs.Verb_Shoot.label>铳形法杖</AK_Weapon_Absinthe.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 蓝色的戒指 -->
+  <AK_Weapon_Amiya.label>蓝色的戒指</AK_Weapon_Amiya.label>
+  <!-- EN: 一串蓝色的戒指，内部有黑色的能量在涌动 -->
+  <AK_Weapon_Amiya.description>一串蓝色的戒指，内部有黑色的能量在涌动</AK_Weapon_Amiya.description>
+  <!-- EN: 法术切割 -->
+  <AK_Weapon_Amiya.tools.0.label>法术切割</AK_Weapon_Amiya.tools.0.label>
+  <!-- EN: 蓝色的戒指 -->
+  <AK_Weapon_Amiya.verbs.Verb_Shoot.label>蓝色的戒指</AK_Weapon_Amiya.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 法术串联单元 -->
+  <AK_Weapon_Astgenne.label>法术串联单元</AK_Weapon_Astgenne.label>
+  <!-- EN: 以我电光，闪耀星空吧！ -->
+  <AK_Weapon_Astgenne.description>以我电光，闪耀星空吧！</AK_Weapon_Astgenne.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Astgenne.tools.0.label>法杖猛击</AK_Weapon_Astgenne.tools.0.label>
+  <!-- EN: 法术串联单元 -->
+  <AK_Weapon_Astgenne.verbs.Verb_Shoot.label>法术串联单元</AK_Weapon_Astgenne.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 星源-所愿的法杖 -->
+  <AK_Weapon_AstgenneHerAspiration.label>星源-所愿的法杖</AK_Weapon_AstgenneHerAspiration.label>
+  <!-- EN: 以我电光，闪耀星空吧！ -->
+  <AK_Weapon_AstgenneHerAspiration.description>以我电光，闪耀星空吧！</AK_Weapon_AstgenneHerAspiration.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_AstgenneHerAspiration.tools.0.label>法杖猛击</AK_Weapon_AstgenneHerAspiration.tools.0.label>
+  <!-- EN: 星源-所愿的法杖 -->
+  <AK_Weapon_AstgenneHerAspiration.verbs.Verb_Shoot.label>星源-所愿的法杖</AK_Weapon_AstgenneHerAspiration.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 沙原的祝福 -->
+  <AK_Weapon_Beeswax.label>沙原的祝福</AK_Weapon_Beeswax.label>
+  <!-- EN: 请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。 -->
+  <AK_Weapon_Beeswax.description>请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。</AK_Weapon_Beeswax.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Beeswax.tools.0.label>法杖敲击</AK_Weapon_Beeswax.tools.0.label>
+  
+  <!-- EN: 蜜蜡-悠然假日的沙原的祝福 -->
+  <AK_Weapon_BeeswaxCasualVacation.label>蜜蜡-悠然假日的沙原的祝福</AK_Weapon_BeeswaxCasualVacation.label>
+  <!-- EN: 请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。 -->
+  <AK_Weapon_BeeswaxCasualVacation.description>请记住，不论我们各自去往何方，她给出的那份祝福，都将随你一路前行。</AK_Weapon_BeeswaxCasualVacation.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_BeeswaxCasualVacation.tools.0.label>法杖敲击</AK_Weapon_BeeswaxCasualVacation.tools.0.label>
+  
+  <!-- EN: 红玉髓 -->
+  <AK_Weapon_Carnelian.label>红玉髓</AK_Weapon_Carnelian.label>
+  <!-- EN: 卡涅利安的长剑，做工有着莱塔尼亚的细致，却散发着萨尔贡的狂野。\n这把剑在卡涅利安的手中就犹如巨兽的利齿一样能够轻而易举的撕碎任何敌人。 -->
+  <AK_Weapon_Carnelian.description>卡涅利安的长剑，做工有着莱塔尼亚的细致，却散发着萨尔贡的狂野。
+这把剑在卡涅利安的手中就犹如巨兽的利齿一样能够轻而易举的撕碎任何敌人。</AK_Weapon_Carnelian.description>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Carnelian.tools.0.label>剑砍</AK_Weapon_Carnelian.tools.0.label>
+  <!-- EN: 剑柄猛击 -->
+  <AK_Weapon_Carnelian.tools.1.label>剑柄猛击</AK_Weapon_Carnelian.tools.1.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Carnelian.tools.2.label>剑捅</AK_Weapon_Carnelian.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Carnelian.tools.3.label>剑刺</AK_Weapon_Carnelian.tools.3.label>
+  
+  <!-- EN: 卡涅利安-灿阳朝露的红玉髓 -->
+  <AK_Weapon_CarnelianShimmeringDew.label>卡涅利安-灿阳朝露的红玉髓</AK_Weapon_CarnelianShimmeringDew.label>
+  <!-- EN: 卡涅利安的长剑，做工有着莱塔尼亚的细致，却散发着萨尔贡的狂野。\n这把剑在卡涅利安的手中就犹如巨兽的利齿一样能够轻而易举的撕碎任何敌人。 -->
+  <AK_Weapon_CarnelianShimmeringDew.description>卡涅利安的长剑，做工有着莱塔尼亚的细致，却散发着萨尔贡的狂野。
+这把剑在卡涅利安的手中就犹如巨兽的利齿一样能够轻而易举的撕碎任何敌人。</AK_Weapon_CarnelianShimmeringDew.description>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_CarnelianShimmeringDew.tools.0.label>剑砍</AK_Weapon_CarnelianShimmeringDew.tools.0.label>
+  <!-- EN: 剑柄猛击 -->
+  <AK_Weapon_CarnelianShimmeringDew.tools.1.label>剑柄猛击</AK_Weapon_CarnelianShimmeringDew.tools.1.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_CarnelianShimmeringDew.tools.2.label>剑捅</AK_Weapon_CarnelianShimmeringDew.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_CarnelianShimmeringDew.tools.3.label>剑刺</AK_Weapon_CarnelianShimmeringDew.tools.3.label>
+  
+  <!-- EN: 刻俄柏的法杖 -->
+  <AK_Weapon_CeobeA.label>刻俄柏的法杖</AK_Weapon_CeobeA.label>
+  <!-- EN: 能敲一个两个三个，又快又准。 -->
+  <AK_Weapon_CeobeA.description>能敲一个两个三个，又快又准。</AK_Weapon_CeobeA.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_CeobeA.tools.0.label>法杖猛击</AK_Weapon_CeobeA.tools.0.label>
+  <!-- EN: 扑打 -->
+  <AK_Weapon_CeobeA.tools.1.label>扑打</AK_Weapon_CeobeA.tools.1.label>
+  <!-- EN: 刻俄柏的法杖 -->
+  <AK_Weapon_CeobeA.verbs.Verb_Shoot.label>刻俄柏的法杖</AK_Weapon_CeobeA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “很重的枪” -->
+  <AK_Weapon_CeobeB.label>“很重的枪”</AK_Weapon_CeobeB.label>
+  <!-- EN: 很重的枪 -->
+  <AK_Weapon_CeobeB.description>很重的枪</AK_Weapon_CeobeB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CeobeB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CeobeB.tools.0.label>
+  <!-- EN: “很重的枪” -->
+  <AK_Weapon_CeobeB.verbs.Verb_Shoot.label>“很重的枪”</AK_Weapon_CeobeB.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “很热的刀” -->
+  <AK_Weapon_CeobeC.label>“很热的刀”</AK_Weapon_CeobeC.label>
+  <!-- EN: 很热的刀 -->
+  <AK_Weapon_CeobeC.description>很热的刀</AK_Weapon_CeobeC.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CeobeC.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CeobeC.tools.0.label>
+  <!-- EN: “很热的刀” -->
+  <AK_Weapon_CeobeC.verbs.Verb_Shoot.label>“很热的刀”</AK_Weapon_CeobeC.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “很冰的斧” -->
+  <AK_Weapon_CeobeD.label>“很冰的斧”</AK_Weapon_CeobeD.label>
+  <!-- EN: 很冰的斧 -->
+  <AK_Weapon_CeobeD.description>很冰的斧</AK_Weapon_CeobeD.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CeobeD.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CeobeD.tools.0.label>
+  <!-- EN: “很冰的斧” -->
+  <AK_Weapon_CeobeD.verbs.Verb_Shoot.label>“很冰的斧”</AK_Weapon_CeobeD.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 戴菲恩的剑 -->
+  <AK_Weapon_Delphine.label>戴菲恩的剑</AK_Weapon_Delphine.label>
+  <!-- EN: 当她以游侠的身份重新游历维多利亚的边陲时，她看到了太多未曾留意的不公，也渐渐习惯了用剑去执行自己心中的正义。 -->
+  <AK_Weapon_Delphine.description>当她以游侠的身份重新游历维多利亚的边陲时，她看到了太多未曾留意的不公，也渐渐习惯了用剑去执行自己心中的正义。</AK_Weapon_Delphine.description>
+  <!-- EN: 剑柄猛击 -->
+  <AK_Weapon_Delphine.tools.0.label>剑柄猛击</AK_Weapon_Delphine.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Delphine.tools.1.label>剑捅</AK_Weapon_Delphine.tools.1.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Delphine.tools.2.label>剑柄猛砸</AK_Weapon_Delphine.tools.2.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_Delphine.tools.3.label>剑劈</AK_Weapon_Delphine.tools.3.label>
+  <!-- EN: 戴菲恩的剑 -->
+  <AK_Weapon_Delphine.verbs.Verb_Shoot.label>戴菲恩的剑</AK_Weapon_Delphine.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 无题长卷 -->
+  <AK_Weapon_Dusk.label>无题长卷</AK_Weapon_Dusk.label>
+  <!-- EN: 以有形摹无垠，以无形应天下。 -->
+  <AK_Weapon_Dusk.description>以有形摹无垠，以无形应天下。</AK_Weapon_Dusk.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Dusk.tools.0.label>法杖猛击</AK_Weapon_Dusk.tools.0.label>
+  <!-- EN: 无题长卷 -->
+  <AK_Weapon_Dusk.verbs.Verb_Shoot.label>无题长卷</AK_Weapon_Dusk.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 夕-染尘烟的剑 -->
+  <AK_Weapon_DuskEverythingIsaMiracle.label>夕-染尘烟的剑</AK_Weapon_DuskEverythingIsaMiracle.label>
+  <!-- EN: 以有形摹无垠，以无形应天下。 -->
+  <AK_Weapon_DuskEverythingIsaMiracle.description>以有形摹无垠，以无形应天下。</AK_Weapon_DuskEverythingIsaMiracle.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_DuskEverythingIsaMiracle.tools.0.label>法杖猛击</AK_Weapon_DuskEverythingIsaMiracle.tools.0.label>
+  <!-- EN: 夕-染尘烟的剑 -->
+  <AK_Weapon_DuskEverythingIsaMiracle.verbs.Verb_Shoot.label>夕-染尘烟的剑</AK_Weapon_DuskEverythingIsaMiracle.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 火山之杖 -->
+  <AK_Weapon_Eyjafjalla.label>火山之杖</AK_Weapon_Eyjafjalla.label>
+  <!-- EN: 艾雅法拉的源石法杖，内部蕴含的能量宛如一座火山。\n中间被打磨的很光滑，很适合少女的双手。 -->
+  <AK_Weapon_Eyjafjalla.description>艾雅法拉的源石法杖，内部蕴含的能量宛如一座火山。
+中间被打磨的很光滑，很适合少女的双手。</AK_Weapon_Eyjafjalla.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Eyjafjalla.tools.0.label>法杖猛击</AK_Weapon_Eyjafjalla.tools.0.label>
+  <!-- EN: 火山之杖 -->
+  <AK_Weapon_Eyjafjalla.verbs.Verb_Shoot.label>火山之杖</AK_Weapon_Eyjafjalla.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 艾雅法拉-夏卉的火山之杖 -->
+  <AK_Weapon_EyjafjallaSummerFlower.label>艾雅法拉-夏卉的火山之杖</AK_Weapon_EyjafjallaSummerFlower.label>
+  <!-- EN: 艾雅法拉的源石法杖，内部蕴含的能量宛如一座火山。\n中间被打磨的很光滑，很适合少女的双手。 -->
+  <AK_Weapon_EyjafjallaSummerFlower.description>艾雅法拉的源石法杖，内部蕴含的能量宛如一座火山。
+中间被打磨的很光滑，很适合少女的双手。</AK_Weapon_EyjafjallaSummerFlower.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_EyjafjallaSummerFlower.tools.0.label>法杖猛击</AK_Weapon_EyjafjallaSummerFlower.tools.0.label>
+  <!-- EN: 艾雅法拉-夏卉的火山之杖 -->
+  <AK_Weapon_EyjafjallaSummerFlower.verbs.Verb_Shoot.label>艾雅法拉-夏卉的火山之杖</AK_Weapon_EyjafjallaSummerFlower.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 澄闪的法杖 -->
+  <AK_Weapon_Goldenglow.label>澄闪的法杖</AK_Weapon_Goldenglow.label>
+  <!-- EN: 澄闪的法杖，内置了一个静电球，保证了澄闪的静电不会散的到处都是。\n不过听说有个不知名的近卫干员喜欢被她电。 -->
+  <AK_Weapon_Goldenglow.description>澄闪的法杖，内置了一个静电球，保证了澄闪的静电不会散的到处都是。
+不过听说有个不知名的近卫干员喜欢被她电。</AK_Weapon_Goldenglow.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Goldenglow.tools.0.label>法杖猛击</AK_Weapon_Goldenglow.tools.0.label>
+  <!-- EN: 澄闪的法杖 -->
+  <AK_Weapon_Goldenglow.verbs.Verb_Shoot.label>澄闪的法杖</AK_Weapon_Goldenglow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 澄闪-喜夜侍者的法杖 -->
+  <AK_Weapon_GoldenglowMaidenfortheBrightNight.label>澄闪-喜夜侍者的法杖</AK_Weapon_GoldenglowMaidenfortheBrightNight.label>
+  <!-- EN: 澄闪的法杖，内置了一个静电球，保证了澄闪的静电不会散的到处都是。\n不过听说有个不知名的近卫干员喜欢被她电。 -->
+  <AK_Weapon_GoldenglowMaidenfortheBrightNight.description>澄闪的法杖，内置了一个静电球，保证了澄闪的静电不会散的到处都是。
+不过听说有个不知名的近卫干员喜欢被她电。</AK_Weapon_GoldenglowMaidenfortheBrightNight.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_GoldenglowMaidenfortheBrightNight.tools.0.label>法杖猛击</AK_Weapon_GoldenglowMaidenfortheBrightNight.tools.0.label>
+  <!-- EN: 澄闪-喜夜侍者的法杖 -->
+  <AK_Weapon_GoldenglowMaidenfortheBrightNight.verbs.Verb_Shoot.label>澄闪-喜夜侍者的法杖</AK_Weapon_GoldenglowMaidenfortheBrightNight.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 和弦的法杖 -->
+  <AK_Weapon_Harmonie.label>和弦的法杖</AK_Weapon_Harmonie.label>
+  <!-- EN: 一把结构简单的法杖，能够发挥出略低于使用者潜能的源石技艺，很难想象作为深池高层的和弦用的武器只有这个。 -->
+  <AK_Weapon_Harmonie.description>一把结构简单的法杖，能够发挥出略低于使用者潜能的源石技艺，很难想象作为深池高层的和弦用的武器只有这个。</AK_Weapon_Harmonie.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Harmonie.tools.0.label>法杖猛击</AK_Weapon_Harmonie.tools.0.label>
+  <!-- EN: 和弦的法杖 -->
+  <AK_Weapon_Harmonie.verbs.Verb_Shoot.label>和弦的法杖</AK_Weapon_Harmonie.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 和弦_邀约的法杖 -->
+  <AK_Weapon_HarmonieInvitation.label>和弦_邀约的法杖</AK_Weapon_HarmonieInvitation.label>
+  <!-- EN: 一把结构简单的法杖，能够发挥出略低于使用者潜能的源石技艺，很难想象作为深池高层的和弦用的武器只有这个。 -->
+  <AK_Weapon_HarmonieInvitation.description>一把结构简单的法杖，能够发挥出略低于使用者潜能的源石技艺，很难想象作为深池高层的和弦用的武器只有这个。</AK_Weapon_HarmonieInvitation.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_HarmonieInvitation.tools.0.label>法杖猛击</AK_Weapon_HarmonieInvitation.tools.0.label>
+  <!-- EN: 和弦_邀约的法杖 -->
+  <AK_Weapon_HarmonieInvitation.verbs.Verb_Shoot.label>和弦_邀约的法杖</AK_Weapon_HarmonieInvitation.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 霍尔海雅的法杖 -->
+  <AK_Weapon_Hoolheyak.label>霍尔海雅的法杖</AK_Weapon_Hoolheyak.label>
+  <!-- EN: 奇特的法杖，能够释放出浮空和失效法术 -->
+  <AK_Weapon_Hoolheyak.description>奇特的法杖，能够释放出浮空和失效法术</AK_Weapon_Hoolheyak.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Hoolheyak.tools.0.label>法杖猛击</AK_Weapon_Hoolheyak.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Hoolheyak.tools.1.label>踢击</AK_Weapon_Hoolheyak.tools.1.label>
+  <!-- EN: 霍尔海雅的法杖 -->
+  <AK_Weapon_Hoolheyak.verbs.Verb_Shoot.label>霍尔海雅的法杖</AK_Weapon_Hoolheyak.verbs.Verb_Shoot.label>
+  
+  <!-- EN: W-0502 -->
+  <AK_Weapon_Ifrit.label>W-0502</AK_Weapon_Ifrit.label>
+  <!-- EN: 莱茵生命的杰作 -->
+  <AK_Weapon_Ifrit.description>莱茵生命的杰作</AK_Weapon_Ifrit.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Ifrit.tools.0.label>法杖猛击</AK_Weapon_Ifrit.tools.0.label>
+  <!-- EN: W-0502 -->
+  <AK_Weapon_Ifrit.verbs.Verb_Shoot.label>W-0502</AK_Weapon_Ifrit.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 深靛的法杖 -->
+  <AK_Weapon_Indigo.label>深靛的法杖</AK_Weapon_Indigo.label>
+  <!-- EN: 深靛的法杖，能够使光从无形变为有形。\n深靛的心志就如她法杖发出来的光一样，或许最初微小，但始终稳定，并且在一点一点、毫无争议地变强。 -->
+  <AK_Weapon_Indigo.description>深靛的法杖，能够使光从无形变为有形。
+深靛的心志就如她法杖发出来的光一样，或许最初微小，但始终稳定，并且在一点一点、毫无争议地变强。</AK_Weapon_Indigo.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Indigo.tools.0.label>法杖猛击</AK_Weapon_Indigo.tools.0.label>
+  <!-- EN: 深靛的法杖 -->
+  <AK_Weapon_Indigo.verbs.Verb_Shoot.label>深靛的法杖</AK_Weapon_Indigo.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 耶拉冈德的浮游单元 -->
+  <AK_Weapon_Kjera.label>耶拉冈德的浮游单元</AK_Weapon_Kjera.label>
+  <!-- EN: 心随意动 -->
+  <AK_Weapon_Kjera.description>心随意动</AK_Weapon_Kjera.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Kjera.tools.0.label>法杖猛击</AK_Weapon_Kjera.tools.0.label>
+  <!-- EN: 耶拉冈德的浮游单元 -->
+  <AK_Weapon_Kjera.verbs.Verb_Shoot.label>耶拉冈德的浮游单元</AK_Weapon_Kjera.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “狼群的獠牙” -->
+  <AK_Weapon_LapplandTheDecadenza.label>“狼群的獠牙”</AK_Weapon_LapplandTheDecadenza.label>
+  <!-- EN: 拉普兰德的剑式法杖 -->
+  <AK_Weapon_LapplandTheDecadenza.description>拉普兰德的剑式法杖</AK_Weapon_LapplandTheDecadenza.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_LapplandTheDecadenza.tools.0.label>法杖猛击</AK_Weapon_LapplandTheDecadenza.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_LapplandTheDecadenza.tools.1.label>剑捅</AK_Weapon_LapplandTheDecadenza.tools.1.label>
+  <!-- EN: “狼群的獠牙” -->
+  <AK_Weapon_LapplandTheDecadenza.verbs.Verb_Shoot.label>“狼群的獠牙”</AK_Weapon_LapplandTheDecadenza.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 炎熔的匕首 -->
+  <AK_Weapon_Lava.label>炎熔的匕首</AK_Weapon_Lava.label>
+  <!-- EN: “从源石技艺施法的媒介性能上说，书和法杖并无差别。反倒是小刀一直是最实用的工具，不论是战斗到力量枯竭不得不肉身搏击，亦或是在荒野生存的时候，书里教条式的文字是毫无用处的。” -->
+  <AK_Weapon_Lava.description>“从源石技艺施法的媒介性能上说，书和法杖并无差别。反倒是小刀一直是最实用的工具，不论是战斗到力量枯竭不得不肉身搏击，亦或是在荒野生存的时候，书里教条式的文字是毫无用处的。”</AK_Weapon_Lava.description>
+  <!-- EN: 匕首猛击 -->
+  <AK_Weapon_Lava.tools.0.label>匕首猛击</AK_Weapon_Lava.tools.0.label>
+  <!-- EN: 匕首捅击 -->
+  <AK_Weapon_Lava.tools.1.label>匕首捅击</AK_Weapon_Lava.tools.1.label>
+  <!-- EN: 匕首刺击 -->
+  <AK_Weapon_Lava.tools.2.label>匕首刺击</AK_Weapon_Lava.tools.2.label>
+  <!-- EN: 炎熔的匕首 -->
+  <AK_Weapon_Lava.verbs.Verb_Shoot.label>炎熔的匕首</AK_Weapon_Lava.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 炎熔的法书 -->
+  <AK_Weapon_LavaB.label>炎熔的法书</AK_Weapon_LavaB.label>
+  <!-- EN: 炎熔的法书 -->
+  <AK_Weapon_LavaB.description>炎熔的法书</AK_Weapon_LavaB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_LavaB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_LavaB.tools.0.label>
+  
+  <!-- EN: 琉璃剑 -->
+  <AK_Weapon_Lin.label>琉璃剑</AK_Weapon_Lin.label>
+  <!-- EN: 一把做工精致，外表华丽的琉璃剑，虽然外表看上去像是随时都可能会碎裂的艺术品，但是作为林雨霞的佩剑，它拥有着能够逼退赤霄的锋芒 -->
+  <AK_Weapon_Lin.description>一把做工精致，外表华丽的琉璃剑，虽然外表看上去像是随时都可能会碎裂的艺术品，但是作为林雨霞的佩剑，它拥有着能够逼退赤霄的锋芒</AK_Weapon_Lin.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Lin.tools.0.label>法杖敲击</AK_Weapon_Lin.tools.0.label>
+  <!-- EN: 法杖砍 -->
+  <AK_Weapon_Lin.tools.1.label>法杖砍</AK_Weapon_Lin.tools.1.label>
+  <!-- EN: 法杖捅 -->
+  <AK_Weapon_Lin.tools.2.label>法杖捅</AK_Weapon_Lin.tools.2.label>
+  <!-- EN: 法杖刺 -->
+  <AK_Weapon_Lin.tools.3.label>法杖刺</AK_Weapon_Lin.tools.3.label>
+  
+  <!-- EN: 薄绿的法杖 -->
+  <AK_Weapon_MintA.label>薄绿的法杖</AK_Weapon_MintA.label>
+  <!-- EN: 有点老旧的法杖，据说是从学校附近的旧货市场随便淘过来的。\n不过没有点识物的本事是没法从那边买到东西的。 -->
+  <AK_Weapon_MintA.description>有点老旧的法杖，据说是从学校附近的旧货市场随便淘过来的。
+不过没有点识物的本事是没法从那边买到东西的。</AK_Weapon_MintA.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_MintA.tools.0.label>法杖敲击</AK_Weapon_MintA.tools.0.label>
+  
+  <!-- EN: 咬人的书 -->
+  <AK_Weapon_MintB.label>咬人的书</AK_Weapon_MintB.label>
+  <!-- EN: 一本陈旧的硬皮书，敲人和咬人都很疼。\n在真正被咬之前，没人知道这本书会不会咬人。 -->
+  <AK_Weapon_MintB.description>一本陈旧的硬皮书，敲人和咬人都很疼。
+在真正被咬之前，没人知道这本书会不会咬人。</AK_Weapon_MintB.description>
+  <!-- EN: 书咬 -->
+  <AK_Weapon_MintB.tools.0.label>书咬</AK_Weapon_MintB.tools.0.label>
+  
+  <!-- EN: 荒时之锁 -->
+  <AK_Weapon_MostimaA.label>荒时之锁</AK_Weapon_MostimaA.label>
+  <!-- EN: 他有锁，可是钥匙在哪里？ -->
+  <AK_Weapon_MostimaA.description>他有锁，可是钥匙在哪里？</AK_Weapon_MostimaA.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_MostimaA.tools.0.label>法杖猛击</AK_Weapon_MostimaA.tools.0.label>
+  <!-- EN: 荒时之锁 -->
+  <AK_Weapon_MostimaA.verbs.Verb_Shoot.label>荒时之锁</AK_Weapon_MostimaA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 序时之钥 -->
+  <AK_Weapon_MostimaB.label>序时之钥</AK_Weapon_MostimaB.label>
+  <!-- EN: 他有钥匙，可是锁在哪里？ -->
+  <AK_Weapon_MostimaB.description>他有钥匙，可是锁在哪里？</AK_Weapon_MostimaB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_MostimaB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_MostimaB.tools.0.label>
+  <!-- EN: 序时之钥 -->
+  <AK_Weapon_MostimaB.verbs.Verb_Shoot.label>序时之钥</AK_Weapon_MostimaB.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 莫斯提马的法杖 -->
+  <AK_Weapon_MostimaC.label>莫斯提马的法杖</AK_Weapon_MostimaC.label>
+  <!-- EN: 只是一把拉特兰术士常用的法杖。 -->
+  <AK_Weapon_MostimaC.description>只是一把拉特兰术士常用的法杖。</AK_Weapon_MostimaC.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_MostimaC.tools.0.label>法杖猛击</AK_Weapon_MostimaC.tools.0.label>
+  <!-- EN: 莫斯提马的法杖 -->
+  <AK_Weapon_MostimaC.verbs.Verb_Shoot.label>莫斯提马的法杖</AK_Weapon_MostimaC.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 窥心钥 -->
+  <AK_Weapon_Nymph.label>窥心钥</AK_Weapon_Nymph.label>
+  <!-- EN: 妮芙的窥心钥 -->
+  <AK_Weapon_Nymph.description>妮芙的窥心钥</AK_Weapon_Nymph.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Nymph.tools.0.label>法杖猛击</AK_Weapon_Nymph.tools.0.label>
+  <!-- EN: 窥心钥 -->
+  <AK_Weapon_Nymph.verbs.Verb_Shoot.label>窥心钥</AK_Weapon_Nymph.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 雷霆之杖 -->
+  <AK_Weapon_Passenger.label>雷霆之杖</AK_Weapon_Passenger.label>
+  <!-- EN: 雷电也只是刑罚的一种形式，据异客本人所说，他所降下的只不过是惩罚而已 -->
+  <AK_Weapon_Passenger.description>雷电也只是刑罚的一种形式，据异客本人所说，他所降下的只不过是惩罚而已</AK_Weapon_Passenger.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Passenger.tools.0.label>法杖猛击</AK_Weapon_Passenger.tools.0.label>
+  <!-- EN: 雷霆之杖 -->
+  <AK_Weapon_Passenger.verbs.Verb_Shoot.label>雷霆之杖</AK_Weapon_Passenger.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 异客的武器 -->
+  <AK_Weapon_PassengerB.label>异客的武器</AK_Weapon_PassengerB.label>
+  <!-- EN: 异客的武器 -->
+  <AK_Weapon_PassengerB.description>异客的武器</AK_Weapon_PassengerB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_PassengerB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_PassengerB.tools.0.label>
+  
+  <!-- EN: 异客的武器炮台 -->
+  <AK_Weapon_PassengerC.label>异客的武器炮台</AK_Weapon_PassengerC.label>
+  <!-- EN: 异客的武器炮台 -->
+  <AK_Weapon_PassengerC.description>异客的武器炮台</AK_Weapon_PassengerC.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_PassengerC.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_PassengerC.tools.0.label>
+  
+  <!-- EN: 异客的悬浮机器 -->
+  <AK_Weapon_PassengerD.label>异客的悬浮机器</AK_Weapon_PassengerD.label>
+  <!-- EN: 异客的悬浮机器 -->
+  <AK_Weapon_PassengerD.description>异客的悬浮机器</AK_Weapon_PassengerD.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_PassengerD.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_PassengerD.tools.0.label>
+  
+  <!-- EN: 寒檀的法杖 -->
+  <AK_Weapon_Santalla.label>寒檀的法杖</AK_Weapon_Santalla.label>
+  <!-- EN: 寒檀的法杖与现在的服饰由她人一并赠与她，作为她开始接纳她人的证明。 -->
+  <AK_Weapon_Santalla.description>寒檀的法杖与现在的服饰由她人一并赠与她，作为她开始接纳她人的证明。</AK_Weapon_Santalla.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Santalla.tools.0.label>法杖猛击</AK_Weapon_Santalla.tools.0.label>
+  <!-- EN: 寒檀的法杖 -->
+  <AK_Weapon_Santalla.verbs.Verb_Shoot.label>寒檀的法杖</AK_Weapon_Santalla.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 寒檀-悠然假日的法杖 -->
+  <AK_Weapon_SantallaLeisurelyHoliday.label>寒檀-悠然假日的法杖</AK_Weapon_SantallaLeisurelyHoliday.label>
+  <!-- EN: 寒檀的法杖与现在的服饰由她人一并赠与她，作为她开始接纳她人的证明。 -->
+  <AK_Weapon_SantallaLeisurelyHoliday.description>寒檀的法杖与现在的服饰由她人一并赠与她，作为她开始接纳她人的证明。</AK_Weapon_SantallaLeisurelyHoliday.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_SantallaLeisurelyHoliday.tools.0.label>法杖猛击</AK_Weapon_SantallaLeisurelyHoliday.tools.0.label>
+  <!-- EN: 寒檀-悠然假日的法杖 -->
+  <AK_Weapon_SantallaLeisurelyHoliday.verbs.Verb_Shoot.label>寒檀-悠然假日的法杖</AK_Weapon_SantallaLeisurelyHoliday.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 天火的法杖 -->
+  <AK_Weapon_Skyfire.label>天火的法杖</AK_Weapon_Skyfire.label>
+  <!-- EN: 天火的法杖，散发着一股逼人的热气。\n对于天火来说法杖不是用来增强法术的，而是保证法术不会失控的烧掉自己的裙子。 -->
+  <AK_Weapon_Skyfire.description>天火的法杖，散发着一股逼人的热气。
+对于天火来说法杖不是用来增强法术的，而是保证法术不会失控的烧掉自己的裙子。</AK_Weapon_Skyfire.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Skyfire.tools.0.label>法杖猛击</AK_Weapon_Skyfire.tools.0.label>
+  <!-- EN: 天火的法杖 -->
+  <AK_Weapon_Skyfire.verbs.Verb_Shoot.label>天火的法杖</AK_Weapon_Skyfire.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 特米米的法杖 -->
+  <AK_Weapon_Tomimi.label>特米米的法杖</AK_Weapon_Tomimi.label>
+  <!-- EN: 特米米的法杖，外形根据他们故乡的捕梦网做成。\n特米米对源石技艺的运用毫无章法且粗糙，而她的肉搏欲望也完全和对术师干员的需求背道而驰。 -->
+  <AK_Weapon_Tomimi.description>特米米的法杖，外形根据他们故乡的捕梦网做成。
+特米米对源石技艺的运用毫无章法且粗糙，而她的肉搏欲望也完全和对术师干员的需求背道而驰。</AK_Weapon_Tomimi.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Tomimi.tools.0.label>法杖敲击</AK_Weapon_Tomimi.tools.0.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Tomimi.tools.1.label>拳击</AK_Weapon_Tomimi.tools.1.label>
+  <!-- EN: 猛砸 -->
+  <AK_Weapon_Tomimi.tools.2.label>猛砸</AK_Weapon_Tomimi.tools.2.label>
+  
+</LanguageData>

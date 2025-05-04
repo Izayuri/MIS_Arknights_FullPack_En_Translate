@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 协议核心 -->
+  <AK_Building_RecruitTower.label>协议核心</AK_Building_RecruitTower.label>
+  <!-- EN: 能用于招募干员的特殊通讯设施，整合了瞬时传送模块，可以将覆盖范围内的殖民者瞬间传送到塔下。\n\n该设施已支持名称自定义，欢迎各位用户搭建自己的个性化传送网络。 -->
+  <AK_Building_RecruitTower.description>能用于招募干员的特殊通讯设施，整合了瞬时传送模块，可以将覆盖范围内的殖民者瞬间传送到塔下。
+
+该设施已支持名称自定义，欢迎各位用户搭建自己的个性化传送网络。</AK_Building_RecruitTower.description>
+  
+  <!-- EN: 协议分塔 -->
+  <AK_Building_SubclassTower.label>协议分塔</AK_Building_SubclassTower.label>
+  <!-- EN: 搭载瞬时传送模块的塔型通讯设施，可以将覆盖范围内的殖民者瞬间传送到任何登记在协议网络中的核心附近。 -->
+  <AK_Building_SubclassTower.description>搭载瞬时传送模块的塔型通讯设施，可以将覆盖范围内的殖民者瞬间传送到任何登记在协议网络中的核心附近。</AK_Building_SubclassTower.description>
+  
+</LanguageData>

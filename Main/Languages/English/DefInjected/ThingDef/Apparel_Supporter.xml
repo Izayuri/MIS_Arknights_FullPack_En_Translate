@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 安洁莉娜的服装 -->
+  <AK_Apparel_Angelina.label>安洁莉娜的服装</AK_Apparel_Angelina.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Angelina.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Angelina.description>
+  
+  <!-- EN: 魔王服装 -->
+  <AK_Apparel_CivilightEterna.label>魔王服装</AK_Apparel_CivilightEterna.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_CivilightEterna.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_CivilightEterna.description>
+  
+  <!-- EN: 浊心斯卡蒂服装 -->
+  <AK_Apparel_CorruptingHeart.label>浊心斯卡蒂服装</AK_Apparel_CorruptingHeart.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_CorruptingHeart.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_CorruptingHeart.description>
+  
+  <!-- EN: 浊心斯卡蒂-升华 -->
+  <AK_Apparel_CorruptingHeartSublimation.label>浊心斯卡蒂-升华</AK_Apparel_CorruptingHeartSublimation.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_CorruptingHeartSublimation.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_CorruptingHeartSublimation.description>
+  
+  <!-- EN: 深海色服装 -->
+  <AK_Apparel_Deepcolor.label>深海色服装</AK_Apparel_Deepcolor.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Deepcolor.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Deepcolor.description>
+  
+  <!-- EN: 深海色-绘声绘影 -->
+  <AK_Apparel_DeepcolorMelodicPortrayal.label>深海色-绘声绘影</AK_Apparel_DeepcolorMelodicPortrayal.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_DeepcolorMelodicPortrayal.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_DeepcolorMelodicPortrayal.description>
+  
+  <!-- EN: 格劳克斯服装 -->
+  <AK_Apparel_Glaucus.label>格劳克斯服装</AK_Apparel_Glaucus.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Glaucus.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Glaucus.description>
+  
+  <!-- EN: 灵知服装 -->
+  <AK_Apparel_Gnosis.label>灵知服装</AK_Apparel_Gnosis.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Gnosis.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Gnosis.description>
+  
+  <!-- EN: 海蒂服装 -->
+  <AK_Apparel_Heidi.label>海蒂服装</AK_Apparel_Heidi.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Heidi.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Heidi.description>
+  
+  <!-- EN: 真理服装 -->
+  <AK_Apparel_Istina.label>真理服装</AK_Apparel_Istina.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Istina.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Istina.description>
+  
+  <!-- EN: 令服装 -->
+  <AK_Apparel_Ling.label>令服装</AK_Apparel_Ling.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Ling.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Ling.description>
+  
+  <!-- EN: 麦哲伦的服装 -->
+  <AK_Apparel_Magallan.label>麦哲伦的服装</AK_Apparel_Magallan.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Magallan.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Magallan.description>
+  
+  <!-- EN: 梅尔的服装 -->
+  <AK_Apparel_MayerA.label>梅尔的服装</AK_Apparel_MayerA.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_MayerA.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_MayerA.description>
+  
+  <!-- EN: 梅尔的服装（无线控装置） -->
+  <AK_Apparel_MayerB.label>梅尔的服装（无线控装置）</AK_Apparel_MayerB.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_MayerB.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_MayerB.description>
+  
+  <!-- EN: 初雪服装 -->
+  <AK_Apparel_Pramanix.label>初雪服装</AK_Apparel_Pramanix.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Pramanix.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Pramanix.description>
+  
+  <!-- EN: 但书服装 -->
+  <AK_Apparel_Proviso.label>但书服装</AK_Apparel_Proviso.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Proviso.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Proviso.description>
+  
+  <!-- EN: 夏栎服装 -->
+  <AK_Apparel_Quercus.label>夏栎服装</AK_Apparel_Quercus.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Quercus.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Quercus.description>
+  
+  <!-- EN: 夏栎-树影吟游 -->
+  <AK_Apparel_QuercusBardsTale.label>夏栎-树影吟游</AK_Apparel_QuercusBardsTale.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_QuercusBardsTale.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_QuercusBardsTale.description>
+  
+  <!-- EN: 罗比菈塔服装 -->
+  <AK_Apparel_Roberta.label>罗比菈塔服装</AK_Apparel_Roberta.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Roberta.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Roberta.description>
+  
+  <!-- EN: 稀音服装 -->
+  <AK_Apparel_Scene.label>稀音服装</AK_Apparel_Scene.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Scene.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Scene.description>
+  
+  <!-- EN: 空服装 -->
+  <AK_Apparel_Sora.label>空服装</AK_Apparel_Sora.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Sora.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Sora.description>
+  
+  <!-- EN: 铃兰的服装 -->
+  <AK_Apparel_Suzuran.label>铃兰的服装</AK_Apparel_Suzuran.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Suzuran.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Suzuran.description>
+  
+  <!-- EN: 铃兰-春之颂 -->
+  <AK_Apparel_SuzuranSpringPraise.label>铃兰-春之颂</AK_Apparel_SuzuranSpringPraise.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_SuzuranSpringPraise.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_SuzuranSpringPraise.description>
+  
+  <!-- EN: 凛视服装 -->
+  <AK_Apparel_Valarqvin.label>凛视服装</AK_Apparel_Valarqvin.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Valarqvin.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Valarqvin.description>
+  
+  <!-- EN: 塑心服装 -->
+  <AK_Apparel_Virtuosa.label>塑心服装</AK_Apparel_Virtuosa.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Virtuosa.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Virtuosa.description>
+  
+  <!-- EN: 塑心-无我唯识 -->
+  <AK_Apparel_VirtuosaDiversityOneness.label>塑心-无我唯识</AK_Apparel_VirtuosaDiversityOneness.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_VirtuosaDiversityOneness.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_VirtuosaDiversityOneness.description>
+  
+</LanguageData>

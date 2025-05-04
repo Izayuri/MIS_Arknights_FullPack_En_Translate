@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>AK_Basic_Chat_Adverb->随意地</li>
+    <li>AK_Basic_Chat_Adverb->严肃地</li>
+    <li>AK_Basic_Chat_Adverb->谨慎地</li>
+    <li>AK_Basic_Chat_Adverb->大声地</li>
+    <li>AK_Basic_Chat_Adverb->小声地</li>
+    <li>AK_Basic_Chat_Adverb->简单地</li>
+    <li>AK_Basic_Chat_Adverb->漫不经心地</li>
+    <li>AK_Basic_Chat_Adverb->滔滔不绝地</li>
+    <li>AK_Basic_Chat_Adverb->长篇大论地</li>
+    <li>AK_Basic_Chat_Adverb->针锋相对地</li>
+  -->
+  <AK_Basic_Chat_Adverb.rulePack.rulesStrings>
+    <li>AK_Basic_Chat_Adverb->随意地</li>
+    <li>AK_Basic_Chat_Adverb->严肃地</li>
+    <li>AK_Basic_Chat_Adverb->谨慎地</li>
+    <li>AK_Basic_Chat_Adverb->大声地</li>
+    <li>AK_Basic_Chat_Adverb->小声地</li>
+    <li>AK_Basic_Chat_Adverb->简单地</li>
+    <li>AK_Basic_Chat_Adverb->漫不经心地</li>
+    <li>AK_Basic_Chat_Adverb->滔滔不绝地</li>
+    <li>AK_Basic_Chat_Adverb->长篇大论地</li>
+    <li>AK_Basic_Chat_Adverb->针锋相对地</li>
+  </AK_Basic_Chat_Adverb.rulePack.rulesStrings>
+  
+</LanguageData>

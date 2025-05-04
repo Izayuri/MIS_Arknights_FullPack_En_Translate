@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Angelina.label>射击</AK_Bullet_Angelina.label>
+  
+  <!-- EN: 轻吟 -->
+  <AK_Bullet_CorruptingHeartI.label>轻吟</AK_Bullet_CorruptingHeartI.label>
+  
+  <!-- EN: 咏唱 -->
+  <AK_Bullet_CorruptingHeartII.label>咏唱</AK_Bullet_CorruptingHeartII.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Deepcolor.label>射击</AK_Bullet_Deepcolor.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Glaucus.label>射击</AK_Bullet_Glaucus.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Gnosis.label>射击</AK_Bullet_Gnosis.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Istina.label>射击</AK_Bullet_Istina.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Ling.label>射击</AK_Bullet_Ling.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Magallan.label>射击</AK_Bullet_Magallan.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Mayer.label>射击</AK_Bullet_Mayer.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Pramanix.label>射击</AK_Bullet_Pramanix.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Proviso.label>射击</AK_Bullet_Proviso.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Quercus.label>射击</AK_Bullet_Quercus.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Scene.label>射击</AK_Bullet_Scene.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Suzuran.label>射击</AK_Bullet_Suzuran.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Valarqvin.label>射击</AK_Bullet_Valarqvin.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Virtuosa.label>射击</AK_Bullet_Virtuosa.label>
+  
+  <!-- EN: 安洁莉娜的奇妙创想 -->
+  <AK_Weapon_Angelina.label>安洁莉娜的奇妙创想</AK_Weapon_Angelina.label>
+  <!-- EN: 跑得不够快的信使，是会被风吹落的。 -->
+  <AK_Weapon_Angelina.description>跑得不够快的信使，是会被风吹落的。</AK_Weapon_Angelina.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Angelina.tools.0.label>法杖敲击</AK_Weapon_Angelina.tools.0.label>
+  <!-- EN: 安洁莉娜的奇妙创想 -->
+  <AK_Weapon_Angelina.verbs.Verb_Shoot.label>安洁莉娜的奇妙创想</AK_Weapon_Angelina.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 斯卡蒂的法杖 -->
+  <AK_Weapon_CorruptingHeart.label>斯卡蒂的法杖</AK_Weapon_CorruptingHeart.label>
+  <!-- EN: 她的剑承载着她的过去，她手中的法杖吟唱着大群的歌谣。\n这些剩下的碎片都是她的过去。\n但哪怕只是些碎片，也能证明现在的她不是一个空壳。 -->
+  <AK_Weapon_CorruptingHeart.description>她的剑承载着她的过去，她手中的法杖吟唱着大群的歌谣。
+这些剩下的碎片都是她的过去。
+但哪怕只是些碎片，也能证明现在的她不是一个空壳。</AK_Weapon_CorruptingHeart.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CorruptingHeart.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CorruptingHeart.tools.0.label>
+  
+  <!-- EN: 浊心斯卡蒂-升华的法杖 -->
+  <AK_Weapon_CorruptingHeartSublimation.label>浊心斯卡蒂-升华的法杖</AK_Weapon_CorruptingHeartSublimation.label>
+  <!-- EN: 她的剑承载着她的过去，她手中的法杖吟唱着大群的歌谣。\n这些剩下的碎片都是她的过去。\n但哪怕只是些碎片，也能证明现在的她不是一个空壳。 -->
+  <AK_Weapon_CorruptingHeartSublimation.description>她的剑承载着她的过去，她手中的法杖吟唱着大群的歌谣。
+这些剩下的碎片都是她的过去。
+但哪怕只是些碎片，也能证明现在的她不是一个空壳。</AK_Weapon_CorruptingHeartSublimation.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_CorruptingHeartSublimation.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_CorruptingHeartSublimation.tools.0.label>
+  
+  <!-- EN: 诡异的调色盘 -->
+  <AK_Weapon_Deepcolor.label>诡异的调色盘</AK_Weapon_Deepcolor.label>
+  <!-- EN: 深海色的调色盘，散发着不详的光芒。\n你不会想知道深海色是怎样作画的。 -->
+  <AK_Weapon_Deepcolor.description>深海色的调色盘，散发着不详的光芒。
+你不会想知道深海色是怎样作画的。</AK_Weapon_Deepcolor.description>
+  <!-- EN: 书本敲打 -->
+  <AK_Weapon_Deepcolor.tools.0.label>书本敲打</AK_Weapon_Deepcolor.tools.0.label>
+  <!-- EN: 诡异的调色盘 -->
+  <AK_Weapon_Deepcolor.verbs.Verb_Shoot.label>诡异的调色盘</AK_Weapon_Deepcolor.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 深海色-绘声绘影的绘板 -->
+  <AK_Weapon_DeepcolorMelodicPortrayal.label>深海色-绘声绘影的绘板</AK_Weapon_DeepcolorMelodicPortrayal.label>
+  <!-- EN: 深海色的调色盘，散发着不详的光芒。\n你不会想知道深海色是怎样作画的。 -->
+  <AK_Weapon_DeepcolorMelodicPortrayal.description>深海色的调色盘，散发着不详的光芒。
+你不会想知道深海色是怎样作画的。</AK_Weapon_DeepcolorMelodicPortrayal.description>
+  <!-- EN: 书本敲打 -->
+  <AK_Weapon_DeepcolorMelodicPortrayal.tools.0.label>书本敲打</AK_Weapon_DeepcolorMelodicPortrayal.tools.0.label>
+  <!-- EN: 深海色-绘声绘影的绘板 -->
+  <AK_Weapon_DeepcolorMelodicPortrayal.verbs.Verb_Shoot.label>深海色-绘声绘影的绘板</AK_Weapon_DeepcolorMelodicPortrayal.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 雷神倾诉者试做型 -->
+  <AK_Weapon_Glaucus.label>雷神倾诉者试做型</AK_Weapon_Glaucus.label>
+  <!-- EN: 格劳克斯改装过的干扰装备，能够对器械产生巨大的杀伤。\n干员是否能肩负起单兵任务仅以客观条件判断，绝不会掺杂个人因素。——凯尔 -->
+  <AK_Weapon_Glaucus.description>格劳克斯改装过的干扰装备，能够对器械产生巨大的杀伤。
+干员是否能肩负起单兵任务仅以客观条件判断，绝不会掺杂个人因素。——凯尔</AK_Weapon_Glaucus.description>
+  <!-- EN: 敲击 -->
+  <AK_Weapon_Glaucus.tools.0.label>敲击</AK_Weapon_Glaucus.tools.0.label>
+  <!-- EN: 雷神倾诉者试做型 -->
+  <AK_Weapon_Glaucus.verbs.Verb_Shoot.label>雷神倾诉者试做型</AK_Weapon_Glaucus.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 灵知的法杖 -->
+  <AK_Weapon_Gnosis.label>灵知的法杖</AK_Weapon_Gnosis.label>
+  <!-- EN: 灵知的法杖，打造成了一把短剑的形式。\n打造短剑，这是埃德怀斯家表示友情的一种方式。 -->
+  <AK_Weapon_Gnosis.description>灵知的法杖，打造成了一把短剑的形式。
+打造短剑，这是埃德怀斯家表示友情的一种方式。</AK_Weapon_Gnosis.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Gnosis.tools.0.label>法杖敲击</AK_Weapon_Gnosis.tools.0.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Gnosis.tools.1.label>剑捅</AK_Weapon_Gnosis.tools.1.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Gnosis.tools.2.label>剑刺</AK_Weapon_Gnosis.tools.2.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_Gnosis.tools.3.label>剑劈</AK_Weapon_Gnosis.tools.3.label>
+  <!-- EN: 灵知的法杖 -->
+  <AK_Weapon_Gnosis.verbs.Verb_Shoot.label>灵知的法杖</AK_Weapon_Gnosis.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 海蒂的手杖 -->
+  <AK_Weapon_Heidi.label>海蒂的手杖</AK_Weapon_Heidi.label>
+  <!-- EN: 海蒂的手杖，做工精致，内置施术单元。\n不引人注目就是她最好的自保方式，但这不代表她没有其他的能力。 -->
+  <AK_Weapon_Heidi.description>海蒂的手杖，做工精致，内置施术单元。
+不引人注目就是她最好的自保方式，但这不代表她没有其他的能力。</AK_Weapon_Heidi.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_Heidi.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_Heidi.tools.0.label>
+  
+  <!-- EN: “真理之书” -->
+  <AK_Weapon_Istina.label>“真理之书”</AK_Weapon_Istina.label>
+  <!-- EN: 只要有人愿意死盯着，喊出声来，这片混沌就能被破开。 -->
+  <AK_Weapon_Istina.description>只要有人愿意死盯着，喊出声来，这片混沌就能被破开。</AK_Weapon_Istina.description>
+  <!-- EN: 书本敲击 -->
+  <AK_Weapon_Istina.tools.0.label>书本敲击</AK_Weapon_Istina.tools.0.label>
+  <!-- EN: “真理之书” -->
+  <AK_Weapon_Istina.verbs.Verb_Shoot.label>“真理之书”</AK_Weapon_Istina.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “诗短梦长” -->
+  <AK_Weapon_Ling.label>“诗短梦长”</AK_Weapon_Ling.label>
+  <!-- EN: 一盏灯。你十分确定你曾在某个夜晚梦见过这个场景，灯挑夜，箭如雨，大漠飞火。 -->
+  <AK_Weapon_Ling.description>一盏灯。你十分确定你曾在某个夜晚梦见过这个场景，灯挑夜，箭如雨，大漠飞火。</AK_Weapon_Ling.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Ling.tools.0.label>法杖敲击</AK_Weapon_Ling.tools.0.label>
+  <!-- EN: “诗短梦长” -->
+  <AK_Weapon_Ling.verbs.Verb_Shoot.label>“诗短梦长”</AK_Weapon_Ling.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 龙腾操控装置 -->
+  <AK_Weapon_Magallan.label>龙腾操控装置</AK_Weapon_Magallan.label>
+  <!-- EN: 手提式龙腾操控装置，内置的照相功能能够发出强光。\n她摁下按钮后会发生很多事情，但其中绝对不包括爆炸。 -->
+  <AK_Weapon_Magallan.description>手提式龙腾操控装置，内置的照相功能能够发出强光。
+她摁下按钮后会发生很多事情，但其中绝对不包括爆炸。</AK_Weapon_Magallan.description>
+  <!-- EN: 相机敲打 -->
+  <AK_Weapon_Magallan.tools.0.label>相机敲打</AK_Weapon_Magallan.tools.0.label>
+  <!-- EN: 龙腾操控装置 -->
+  <AK_Weapon_Magallan.verbs.Verb_Shoot.label>龙腾操控装置</AK_Weapon_Magallan.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 咪波控制终端XP -->
+  <AK_Weapon_Mayer.label>咪波控制终端XP</AK_Weapon_Mayer.label>
+  <!-- EN: 咪波控制装置，能够操控咪波完成从走动到自爆的所有操作。\n咪波不是数控的而是线控的。 -->
+  <AK_Weapon_Mayer.description>咪波控制装置，能够操控咪波完成从走动到自爆的所有操作。
+咪波不是数控的而是线控的。</AK_Weapon_Mayer.description>
+  <!-- EN: 扑打 -->
+  <AK_Weapon_Mayer.tools.0.label>扑打</AK_Weapon_Mayer.tools.0.label>
+  <!-- EN: 撕咬 -->
+  <AK_Weapon_Mayer.tools.1.label>撕咬</AK_Weapon_Mayer.tools.1.label>
+  <!-- EN: 咪波控制终端XP -->
+  <AK_Weapon_Mayer.verbs.Verb_Shoot.label>咪波控制终端XP</AK_Weapon_Mayer.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 喀兰圣器 -->
+  <AK_Weapon_Pramanix.label>喀兰圣器</AK_Weapon_Pramanix.label>
+  <!-- EN: 初雪的铃铛，喀兰圣女的圣器。\n现实中虽然没有传说中这样夸张，但作为武器仍旧比普通法杖要强上不少。 -->
+  <AK_Weapon_Pramanix.description>初雪的铃铛，喀兰圣女的圣器。
+现实中虽然没有传说中这样夸张，但作为武器仍旧比普通法杖要强上不少。</AK_Weapon_Pramanix.description>
+  <!-- EN: 铃铛敲打 -->
+  <AK_Weapon_Pramanix.tools.0.label>铃铛敲打</AK_Weapon_Pramanix.tools.0.label>
+  <!-- EN: 喀兰圣器 -->
+  <AK_Weapon_Pramanix.verbs.Verb_Shoot.label>喀兰圣器</AK_Weapon_Pramanix.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 卡西米尔制式法杖 -->
+  <AK_Weapon_Proviso.label>卡西米尔制式法杖</AK_Weapon_Proviso.label>
+  <!-- EN: 卡西米尔新款法杖，坚固，造型独特，而且非常酷 -->
+  <AK_Weapon_Proviso.description>卡西米尔新款法杖，坚固，造型独特，而且非常酷</AK_Weapon_Proviso.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Proviso.tools.0.label>法杖敲击</AK_Weapon_Proviso.tools.0.label>
+  <!-- EN: 卡西米尔制式法杖 -->
+  <AK_Weapon_Proviso.verbs.Verb_Shoot.label>卡西米尔制式法杖</AK_Weapon_Proviso.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 德鲁伊之杖 -->
+  <AK_Weapon_Quercus.label>德鲁伊之杖</AK_Weapon_Quercus.label>
+  <!-- EN: 大地终将宽恕所有人，但不是现在。 -->
+  <AK_Weapon_Quercus.description>大地终将宽恕所有人，但不是现在。</AK_Weapon_Quercus.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Quercus.tools.0.label>法杖敲击</AK_Weapon_Quercus.tools.0.label>
+  <!-- EN: 德鲁伊之杖 -->
+  <AK_Weapon_Quercus.verbs.Verb_Shoot.label>德鲁伊之杖</AK_Weapon_Quercus.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 夏栎-树影吟游的德鲁伊之杖 -->
+  <AK_Weapon_QuercusBardsTale.label>夏栎-树影吟游的德鲁伊之杖</AK_Weapon_QuercusBardsTale.label>
+  <!-- EN: 大地终将宽恕所有人，但不是现在。 -->
+  <AK_Weapon_QuercusBardsTale.description>大地终将宽恕所有人，但不是现在。</AK_Weapon_QuercusBardsTale.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_QuercusBardsTale.tools.0.label>法杖敲击</AK_Weapon_QuercusBardsTale.tools.0.label>
+  <!-- EN: 夏栎-树影吟游的德鲁伊之杖 -->
+  <AK_Weapon_QuercusBardsTale.verbs.Verb_Shoot.label>夏栎-树影吟游的德鲁伊之杖</AK_Weapon_QuercusBardsTale.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 化妆刷 -->
+  <AK_Weapon_Roberta.label>化妆刷</AK_Weapon_Roberta.label>
+  <!-- EN: 一支化妆刷，做工粗糙，看起来有些年头了，但每一根褐色刷毛都干干净净，还很柔软。 -->
+  <AK_Weapon_Roberta.description>一支化妆刷，做工粗糙，看起来有些年头了，但每一根褐色刷毛都干干净净，还很柔软。</AK_Weapon_Roberta.description>
+  <!-- EN: 刷柄猛砸 -->
+  <AK_Weapon_Roberta.tools.0.label>刷柄猛砸</AK_Weapon_Roberta.tools.0.label>
+  
+  <!-- EN: 稀音的法杖 -->
+  <AK_Weapon_Scene.label>稀音的法杖</AK_Weapon_Scene.label>
+  <!-- EN: 稀音的法杖，很常见的款式。\n平时的时候很迟缓，但是紧张时是个例外。 -->
+  <AK_Weapon_Scene.description>稀音的法杖，很常见的款式。
+平时的时候很迟缓，但是紧张时是个例外。</AK_Weapon_Scene.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Scene.tools.0.label>法杖敲击</AK_Weapon_Scene.tools.0.label>
+  <!-- EN: 稀音的法杖 -->
+  <AK_Weapon_Scene.verbs.Verb_Shoot.label>稀音的法杖</AK_Weapon_Scene.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 空的麦克风 -->
+  <AK_Weapon_Sora.label>空的麦克风</AK_Weapon_Sora.label>
+  <!-- EN: 空所使用的麦克风，平常使用的版本。\n空能用源石技艺让歌唱产生奇特的效果，只不过演出时不会使用。 -->
+  <AK_Weapon_Sora.description>空所使用的麦克风，平常使用的版本。
+空能用源石技艺让歌唱产生奇特的效果，只不过演出时不会使用。</AK_Weapon_Sora.description>
+  <!-- EN: 麦克风敲击 -->
+  <AK_Weapon_Sora.tools.0.label>麦克风敲击</AK_Weapon_Sora.tools.0.label>
+  
+  <!-- EN: 铃兰的法杖 -->
+  <AK_Weapon_Suzuran.label>铃兰的法杖</AK_Weapon_Suzuran.label>
+  <!-- EN: 铃兰的法杖，混合了叙拉古和东国的设计。\n东国的神秘技艺，叙拉古的自由与向往。 -->
+  <AK_Weapon_Suzuran.description>铃兰的法杖，混合了叙拉古和东国的设计。
+东国的神秘技艺，叙拉古的自由与向往。</AK_Weapon_Suzuran.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Suzuran.tools.0.label>法杖敲击</AK_Weapon_Suzuran.tools.0.label>
+  <!-- EN: 铃兰的法杖 -->
+  <AK_Weapon_Suzuran.verbs.Verb_Shoot.label>铃兰的法杖</AK_Weapon_Suzuran.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 铃兰-春之颂的法杖 -->
+  <AK_Weapon_SuzuranSpringPraise.label>铃兰-春之颂的法杖</AK_Weapon_SuzuranSpringPraise.label>
+  <!-- EN: 铃兰的法杖，混合了叙拉古和东国的设计。\n东国的神秘技艺，叙拉古的自由与向往。 -->
+  <AK_Weapon_SuzuranSpringPraise.description>铃兰的法杖，混合了叙拉古和东国的设计。
+东国的神秘技艺，叙拉古的自由与向往。</AK_Weapon_SuzuranSpringPraise.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_SuzuranSpringPraise.tools.0.label>法杖敲击</AK_Weapon_SuzuranSpringPraise.tools.0.label>
+  <!-- EN: 铃兰-春之颂的法杖 -->
+  <AK_Weapon_SuzuranSpringPraise.verbs.Verb_Shoot.label>铃兰-春之颂的法杖</AK_Weapon_SuzuranSpringPraise.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 崩毁 -->
+  <AK_Weapon_Valarqvin.label>崩毁</AK_Weapon_Valarqvin.label>
+  <!-- EN: 她看见终局，她寻找起因。 -->
+  <AK_Weapon_Valarqvin.description>她看见终局，她寻找起因。</AK_Weapon_Valarqvin.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Valarqvin.tools.0.label>法杖敲击</AK_Weapon_Valarqvin.tools.0.label>
+  <!-- EN: 崩毁 -->
+  <AK_Weapon_Valarqvin.verbs.Verb_Shoot.label>崩毁</AK_Weapon_Valarqvin.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 弥撒“君王” -->
+  <AK_Weapon_Virtuosa.label>弥撒“君王”</AK_Weapon_Virtuosa.label>
+  <!-- EN: 这首乐曲不是为哪一位君王而作，我想这首乐曲应是为了所有君王而作。\n永远铭记崔林特尔梅的晚霞。再见君王。成为君王。 -->
+  <AK_Weapon_Virtuosa.description>这首乐曲不是为哪一位君王而作，我想这首乐曲应是为了所有君王而作。
+永远铭记崔林特尔梅的晚霞。再见君王。成为君王。</AK_Weapon_Virtuosa.description>
+  <!-- EN: 琴弓敲击 -->
+  <AK_Weapon_Virtuosa.tools.0.label>琴弓敲击</AK_Weapon_Virtuosa.tools.0.label>
+  <!-- EN: 弥撒“君王” -->
+  <AK_Weapon_Virtuosa.verbs.Verb_Shoot.label>弥撒“君王”</AK_Weapon_Virtuosa.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 塑心-无我唯识 -->
+  <AK_Weapon_VirtuosaDiversityOneness.label>塑心-无我唯识</AK_Weapon_VirtuosaDiversityOneness.label>
+  <!-- EN: 这首乐曲不是为哪一位君王而作，我想这首乐曲应是为了所有君王而作。\n永远铭记崔林特尔梅的晚霞。再见君王。成为君王。 -->
+  <AK_Weapon_VirtuosaDiversityOneness.description>这首乐曲不是为哪一位君王而作，我想这首乐曲应是为了所有君王而作。
+永远铭记崔林特尔梅的晚霞。再见君王。成为君王。</AK_Weapon_VirtuosaDiversityOneness.description>
+  <!-- EN: 琴弓敲击 -->
+  <AK_Weapon_VirtuosaDiversityOneness.tools.0.label>琴弓敲击</AK_Weapon_VirtuosaDiversityOneness.tools.0.label>
+  <!-- EN: 塑心-无我唯识 -->
+  <AK_Weapon_VirtuosaDiversityOneness.verbs.Verb_Shoot.label>塑心-无我唯识</AK_Weapon_VirtuosaDiversityOneness.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 同乌萨斯学生自治团其他团员一样，{PAWN_nameDef}原本是就读于彼得海姆的普通学生，但{PAWN_pronoun}们原本可以被称为平静的生活因为切尔诺伯格发生的灾难戛然而止了。 -->
+  <AK_BackStory_UrsusStudent.description>同乌萨斯学生自治团其他团员一样，{PAWN_nameDef}原本是就读于彼得海姆的普通学生，但{PAWN_pronoun}们原本可以被称为平静的生活因为切尔诺伯格发生的灾难戛然而止了。</AK_BackStory_UrsusStudent.description>
+  <!-- EN: 乌萨斯学生自治团团员 -->
+  <AK_BackStory_UrsusStudent.title>乌萨斯学生自治团团员</AK_BackStory_UrsusStudent.title>
+  <!-- EN: 团员 -->
+  <AK_BackStory_UrsusStudent.titleShort>团员</AK_BackStory_UrsusStudent.titleShort>
+  
+</LanguageData>

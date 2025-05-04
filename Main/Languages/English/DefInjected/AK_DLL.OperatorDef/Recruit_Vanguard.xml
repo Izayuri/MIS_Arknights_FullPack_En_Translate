@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Meticulous when it comes to fighting and farming, utterly clueless when it comes to electronics and trends.\nBagpipe, former Victorian soldier, has come in search of the truth. -->
+  <AK_Recruit_Bagpipe.description>Meticulous when it comes to fighting and farming, utterly clueless when it comes to electronics and trends.
+Bagpipe, former Victorian soldier, has come in search of the truth.</AK_Recruit_Bagpipe.description>
+  <!-- EN: Bagpipe -->
+  <AK_Recruit_Bagpipe.name>Bagpipe</AK_Recruit_Bagpipe.name>
+  <!-- EN: Bagpipe -->
+  <AK_Recruit_Bagpipe.nickname>Bagpipe</AK_Recruit_Bagpipe.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Bagpipe.surname>罗德岛</AK_Recruit_Bagpipe.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Beanstalk.description>FIXMEDESC</AK_Recruit_Beanstalk.description>
+  <!-- EN: Beanstalk -->
+  <AK_Recruit_Beanstalk.name>Beanstalk</AK_Recruit_Beanstalk.name>
+  <!-- EN: Beanstalk -->
+  <AK_Recruit_Beanstalk.nickname>Beanstalk</AK_Recruit_Beanstalk.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Beanstalk.surname>罗德岛</AK_Recruit_Beanstalk.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Blacknight.description>FIXMEDESC</AK_Recruit_Blacknight.description>
+  <!-- EN: Blacknight -->
+  <AK_Recruit_Blacknight.name>Blacknight</AK_Recruit_Blacknight.name>
+  <!-- EN: Blacknight -->
+  <AK_Recruit_Blacknight.nickname>Blacknight</AK_Recruit_Blacknight.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Blacknight.surname>罗德岛</AK_Recruit_Blacknight.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Courier.description>FIXMEDESC</AK_Recruit_Courier.description>
+  <!-- EN: Courier -->
+  <AK_Recruit_Courier.name>Courier</AK_Recruit_Courier.name>
+  <!-- EN: Courier -->
+  <AK_Recruit_Courier.nickname>Courier</AK_Recruit_Courier.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Courier.surname>罗德岛</AK_Recruit_Courier.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Fang.description>FIXMEDESC</AK_Recruit_Fang.description>
+  <!-- EN: Fang -->
+  <AK_Recruit_Fang.name>Fang</AK_Recruit_Fang.name>
+  <!-- EN: Fang -->
+  <AK_Recruit_Fang.nickname>Fang</AK_Recruit_Fang.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Fang.surname>罗德岛</AK_Recruit_Fang.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Flametail.description>FIXME</AK_Recruit_Flametail.description>
+  <!-- EN: Flametail -->
+  <AK_Recruit_Flametail.name>Flametail</AK_Recruit_Flametail.name>
+  <!-- EN: Flametail -->
+  <AK_Recruit_Flametail.nickname>Flametail</AK_Recruit_Flametail.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Flametail.surname>罗德岛</AK_Recruit_Flametail.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Grani.description>FIXMEDESC</AK_Recruit_Grani.description>
+  <!-- EN: Grani -->
+  <AK_Recruit_Grani.name>Grani</AK_Recruit_Grani.name>
+  <!-- EN: Grani -->
+  <AK_Recruit_Grani.nickname>Grani</AK_Recruit_Grani.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Grani.surname>罗德岛</AK_Recruit_Grani.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Ines.description>FIXMEDESC</AK_Recruit_Ines.description>
+  <!-- EN: Ines -->
+  <AK_Recruit_Ines.name>Ines</AK_Recruit_Ines.name>
+  <!-- EN: Ines -->
+  <AK_Recruit_Ines.nickname>Ines</AK_Recruit_Ines.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ines.surname>罗德岛</AK_Recruit_Ines.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Muelsyse.description>FIXMEDESC</AK_Recruit_Muelsyse.description>
+  <!-- EN: Muelsyse -->
+  <AK_Recruit_Muelsyse.name>Muelsyse</AK_Recruit_Muelsyse.name>
+  <!-- EN: Muelsyse -->
+  <AK_Recruit_Muelsyse.nickname>Muelsyse</AK_Recruit_Muelsyse.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Muelsyse.surname>罗德岛</AK_Recruit_Muelsyse.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Myrtle.description>FIXMEDESC</AK_Recruit_Myrtle.description>
+  <!-- EN: Myrtle -->
+  <AK_Recruit_Myrtle.name>Myrtle</AK_Recruit_Myrtle.name>
+  <!-- EN: Myrtle -->
+  <AK_Recruit_Myrtle.nickname>Myrtle</AK_Recruit_Myrtle.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Myrtle.surname>罗德岛</AK_Recruit_Myrtle.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Plume.description>FIXMEDESC</AK_Recruit_Plume.description>
+  <!-- EN: Plume -->
+  <AK_Recruit_Plume.name>Plume</AK_Recruit_Plume.name>
+  <!-- EN: Plume -->
+  <AK_Recruit_Plume.nickname>Plume</AK_Recruit_Plume.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Plume.surname>罗德岛</AK_Recruit_Plume.surname>
+  
+  <!-- EN: Using her is more dangerous than protecting her.\nReed, Rhodes Island inpatient, will provide personal assistance to those who are trustworthy. -->
+  <AK_Recruit_Reed.description>Using her is more dangerous than protecting her.
+Reed, Rhodes Island inpatient, will provide personal assistance to those who are trustworthy.</AK_Recruit_Reed.description>
+  <!-- EN: Reed -->
+  <AK_Recruit_Reed.name>Reed</AK_Recruit_Reed.name>
+  <!-- EN: Reed -->
+  <AK_Recruit_Reed.nickname>Reed</AK_Recruit_Reed.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Reed.surname>罗德岛</AK_Recruit_Reed.surname>
+  
+  <!-- EN: A heart like lapis. Cleanse the six senses.\nThe wandering monk, Saga, joins in on the action wherever she goes. -->
+  <AK_Recruit_Saga.description>A heart like lapis. Cleanse the six senses.
+The wandering monk, Saga, joins in on the action wherever she goes.</AK_Recruit_Saga.description>
+  <!-- EN: Saga -->
+  <AK_Recruit_Saga.name>Saga</AK_Recruit_Saga.name>
+  <!-- EN: Saga -->
+  <AK_Recruit_Saga.nickname>Saga</AK_Recruit_Saga.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Saga.surname>罗德岛</AK_Recruit_Saga.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Saileach.description>FIXME</AK_Recruit_Saileach.description>
+  <!-- EN: Saileach -->
+  <AK_Recruit_Saileach.name>Saileach</AK_Recruit_Saileach.name>
+  <!-- EN: Saileach -->
+  <AK_Recruit_Saileach.nickname>Saileach</AK_Recruit_Saileach.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Saileach.surname>罗德岛</AK_Recruit_Saileach.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Siege.description>FIXME</AK_Recruit_Siege.description>
+  <!-- EN: Siege -->
+  <AK_Recruit_Siege.name>Siege</AK_Recruit_Siege.name>
+  <!-- EN: Siege -->
+  <AK_Recruit_Siege.nickname>Siege</AK_Recruit_Siege.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Siege.surname>罗德岛</AK_Recruit_Siege.surname>
+  
+  <!-- EN: You can trust her with your cargo.\nTexas, employee of Penguin Logistics, will give the squad a tactical advantage with her Originium Arts at the start of every battle. -->
+  <AK_Recruit_Texas.description>You can trust her with your cargo.
+Texas, employee of Penguin Logistics, will give the squad a tactical advantage with her Originium Arts at the start of every battle.</AK_Recruit_Texas.description>
+  <!-- EN: Texas -->
+  <AK_Recruit_Texas.name>Texas</AK_Recruit_Texas.name>
+  <!-- EN: Texas -->
+  <AK_Recruit_Texas.nickname>Texas</AK_Recruit_Texas.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Texas.surname>罗德岛</AK_Recruit_Texas.surname>
+  
+  <!-- EN: Don't let her know if you meet any wild animals.\nVanilla, Vanguard Operator of Blacksteel, will make way for the squad on the battlefield with her professional skills. -->
+  <AK_Recruit_Vanilla.description>Don't let her know if you meet any wild animals.
+Vanilla, Vanguard Operator of Blacksteel, will make way for the squad on the battlefield with her professional skills.</AK_Recruit_Vanilla.description>
+  <!-- EN: Vanilla -->
+  <AK_Recruit_Vanilla.name>Vanilla</AK_Recruit_Vanilla.name>
+  <!-- EN: Vanilla -->
+  <AK_Recruit_Vanilla.nickname>Vanilla</AK_Recruit_Vanilla.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Vanilla.surname>罗德岛</AK_Recruit_Vanilla.surname>
+  
+  <!-- EN: Fixme -->
+  <AK_Recruit_Vulpisfoglia.description>Fixme</AK_Recruit_Vulpisfoglia.description>
+  <!-- EN: Vulpisfoglia -->
+  <AK_Recruit_Vulpisfoglia.name>Vulpisfoglia</AK_Recruit_Vulpisfoglia.name>
+  <!-- EN: Vulpisfoglia -->
+  <AK_Recruit_Vulpisfoglia.nickname>Vulpisfoglia</AK_Recruit_Vulpisfoglia.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Vulpisfoglia.surname>罗德岛</AK_Recruit_Vulpisfoglia.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Wild.description>FIXME</AK_Recruit_Wild.description>
+  <!-- EN: Wild -->
+  <AK_Recruit_Wild.name>Wild</AK_Recruit_Wild.name>
+  <!-- EN: Wild -->
+  <AK_Recruit_Wild.nickname>Wild</AK_Recruit_Wild.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Wild.surname>罗德岛</AK_Recruit_Wild.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Yato.description>FIXMEDESC</AK_Recruit_Yato.description>
+  <!-- EN: Yato -->
+  <AK_Recruit_Yato.name>Yato</AK_Recruit_Yato.name>
+  <!-- EN: Yato -->
+  <AK_Recruit_Yato.nickname>Yato</AK_Recruit_Yato.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Yato.surname>罗德岛</AK_Recruit_Yato.surname>
+  
+  <!-- EN: Fixme -->
+  <AK_Recruit_Zima.description>Fixme</AK_Recruit_Zima.description>
+  <!-- EN: Zima -->
+  <AK_Recruit_Zima.name>Zima</AK_Recruit_Zima.name>
+  <!-- EN: Zima -->
+  <AK_Recruit_Zima.nickname>Zima</AK_Recruit_Zima.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Zima.surname>罗德岛</AK_Recruit_Zima.surname>
+  
+</LanguageData>

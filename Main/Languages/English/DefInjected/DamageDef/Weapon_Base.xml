@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 法术弹 -->
+  <AK_Projectile_Magic.label>法术弹</AK_Projectile_Magic.label>
+  <!-- EN: {0} 被法术杀死了. -->
+  <AK_Projectile_Magic.deathMessage>{0} 被法术杀死了.</AK_Projectile_Magic.deathMessage>
+  
+</LanguageData>

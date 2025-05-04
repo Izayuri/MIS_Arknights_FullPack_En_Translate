@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Astesia.description>FIXMEDESC</AK_Recruit_Astesia.description>
+  <!-- EN: Astesia -->
+  <AK_Recruit_Astesia.name>Astesia</AK_Recruit_Astesia.name>
+  <!-- EN: Astesia -->
+  <AK_Recruit_Astesia.nickname>Astesia</AK_Recruit_Astesia.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Astesia.surname>罗德岛</AK_Recruit_Astesia.surname>
+  
+  <!-- EN: Please, it's okay to dial it down a bit…\n			Blaze, Rhodes Island's most fired-up Operator, will spread her enthusiasm like a\n			wildfire. -->
+  <AK_Recruit_Blaze.description>Please, it's okay to dial it down a bit…
+			Blaze, Rhodes Island's most fired-up Operator, will spread her enthusiasm like a
+			wildfire.</AK_Recruit_Blaze.description>
+  <!-- EN: Blaze -->
+  <AK_Recruit_Blaze.name>Blaze</AK_Recruit_Blaze.name>
+  <!-- EN: Blaze -->
+  <AK_Recruit_Blaze.nickname>Blaze</AK_Recruit_Blaze.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Blaze.surname>罗德岛</AK_Recruit_Blaze.surname>
+  
+  <!-- EN: She's terrifying when she's mad, but you don't want to mess with her even when\n			she's not.\nCh'en, Special Inspection Unit Chief, L.G.D., is cooperating with Rhodes\n			Island to fulfill the obligations outlined in her contract. -->
+  <AK_Recruit_Chen.description>She's terrifying when she's mad, but you don't want to mess with her even when
+			she's not.
+Ch'en, Special Inspection Unit Chief, L.G.D., is cooperating with Rhodes
+			Island to fulfill the obligations outlined in her contract.</AK_Recruit_Chen.description>
+  <!-- EN: Chen -->
+  <AK_Recruit_Chen.name>Chen</AK_Recruit_Chen.name>
+  <!-- EN: Chen -->
+  <AK_Recruit_Chen.nickname>Chen</AK_Recruit_Chen.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Chen.surname>罗德岛</AK_Recruit_Chen.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Chongyue.description>FIXMEDESC</AK_Recruit_Chongyue.description>
+  <!-- EN: Chongyue -->
+  <AK_Recruit_Chongyue.name>Chongyue</AK_Recruit_Chongyue.name>
+  <!-- EN: Chongyue -->
+  <AK_Recruit_Chongyue.nickname>Chongyue</AK_Recruit_Chongyue.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Chongyue.surname>罗德岛</AK_Recruit_Chongyue.surname>
+  
+  <!-- EN: The kitchen is more dangerous than the battlefield, and it would be best to not\n			let her in the kitchen.\nCutter, mercenary, will complete all tasks on the battlefield\n			in a calm and disciplined manner. -->
+  <AK_Recruit_Cutter.description>The kitchen is more dangerous than the battlefield, and it would be best to not
+			let her in the kitchen.
+Cutter, mercenary, will complete all tasks on the battlefield
+			in a calm and disciplined manner.</AK_Recruit_Cutter.description>
+  <!-- EN: Cutter -->
+  <AK_Recruit_Cutter.name>Cutter</AK_Recruit_Cutter.name>
+  <!-- EN: Cutter -->
+  <AK_Recruit_Cutter.nickname>Cutter</AK_Recruit_Cutter.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Cutter.surname>罗德岛</AK_Recruit_Cutter.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Dagda.description>FIXMEDESC</AK_Recruit_Dagda.description>
+  <!-- EN: Dagda -->
+  <AK_Recruit_Dagda.name>Dagda</AK_Recruit_Dagda.name>
+  <!-- EN: Dagda -->
+  <AK_Recruit_Dagda.nickname>Dagda</AK_Recruit_Dagda.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Dagda.surname>罗德岛</AK_Recruit_Dagda.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Degenbrecher.description>FIXMEDESC</AK_Recruit_Degenbrecher.description>
+  <!-- EN: Degenbrecher -->
+  <AK_Recruit_Degenbrecher.name>Degenbrecher</AK_Recruit_Degenbrecher.name>
+  <!-- EN: Degenbrecher -->
+  <AK_Recruit_Degenbrecher.nickname>Degenbrecher</AK_Recruit_Degenbrecher.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Degenbrecher.surname>罗德岛</AK_Recruit_Degenbrecher.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Estelle.description>FIXMEDESC</AK_Recruit_Estelle.description>
+  <!-- EN: Estelle -->
+  <AK_Recruit_Estelle.name>Estelle</AK_Recruit_Estelle.name>
+  <!-- EN: Estelle -->
+  <AK_Recruit_Estelle.nickname>Estelle</AK_Recruit_Estelle.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Estelle.surname>罗德岛</AK_Recruit_Estelle.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Flint.description>FIXMEDESC</AK_Recruit_Flint.description>
+  <!-- EN: Flint -->
+  <AK_Recruit_Flint.name>Flint</AK_Recruit_Flint.name>
+  <!-- EN: Flint -->
+  <AK_Recruit_Flint.nickname>Flint</AK_Recruit_Flint.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Flint.surname>罗德岛</AK_Recruit_Flint.surname>
+  
+  <!-- EN: This scorching thermite blade shall penetrate all defenses.\nFranka, Guard\n			Operator of B.P.R.S. of Blacksteel, is waiting for your orders. -->
+  <AK_Recruit_Franka.description>This scorching thermite blade shall penetrate all defenses.
+Franka, Guard
+			Operator of B.P.R.S. of Blacksteel, is waiting for your orders.</AK_Recruit_Franka.description>
+  <!-- EN: Franka -->
+  <AK_Recruit_Franka.name>Franka</AK_Recruit_Franka.name>
+  <!-- EN: Franka -->
+  <AK_Recruit_Franka.nickname>Franka</AK_Recruit_Franka.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Franka.surname>罗德岛</AK_Recruit_Franka.surname>
+  
+  <!-- EN: Try to become her beacon.\nFrostleaf, Guard Operator of Rhodes Island, will\n			obey all your orders. -->
+  <AK_Recruit_Frostleaf.description>Try to become her beacon.
+Frostleaf, Guard Operator of Rhodes Island, will
+			obey all your orders.</AK_Recruit_Frostleaf.description>
+  <!-- EN: Frostleaf -->
+  <AK_Recruit_Frostleaf.name>Frostleaf</AK_Recruit_Frostleaf.name>
+  <!-- EN: Frostleaf -->
+  <AK_Recruit_Frostleaf.nickname>Frostleaf</AK_Recruit_Frostleaf.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Frostleaf.surname>罗德岛</AK_Recruit_Frostleaf.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Indra.description>FIXMEDESC</AK_Recruit_Indra.description>
+  <!-- EN: Indra -->
+  <AK_Recruit_Indra.name>Indra</AK_Recruit_Indra.name>
+  <!-- EN: Indra -->
+  <AK_Recruit_Indra.nickname>Indra</AK_Recruit_Indra.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Indra.surname>罗德岛</AK_Recruit_Indra.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Invincible.description>FIXMEDESC</AK_Recruit_Invincible.description>
+  <!-- EN: Invincible -->
+  <AK_Recruit_Invincible.name>Invincible</AK_Recruit_Invincible.name>
+  <!-- EN: Invincible -->
+  <AK_Recruit_Invincible.nickname>Invincible</AK_Recruit_Invincible.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Invincible.surname>罗德岛</AK_Recruit_Invincible.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Irene.description>FIXME</AK_Recruit_Irene.description>
+  <!-- EN: Irene -->
+  <AK_Recruit_Irene.name>Irene</AK_Recruit_Irene.name>
+  <!-- EN: Irene -->
+  <AK_Recruit_Irene.nickname>Irene</AK_Recruit_Irene.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Irene.surname>罗德岛</AK_Recruit_Irene.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Jackie.description>FIXMEDESC</AK_Recruit_Jackie.description>
+  <!-- EN: Jackie -->
+  <AK_Recruit_Jackie.name>Jackie</AK_Recruit_Jackie.name>
+  <!-- EN: Jackie -->
+  <AK_Recruit_Jackie.nickname>Jackie</AK_Recruit_Jackie.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Jackie.surname>罗德岛</AK_Recruit_Jackie.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_LaPluma.description>FIXME</AK_Recruit_LaPluma.description>
+  <!-- EN: LaPluma -->
+  <AK_Recruit_LaPluma.name>LaPluma</AK_Recruit_LaPluma.name>
+  <!-- EN: LaPluma -->
+  <AK_Recruit_LaPluma.nickname>LaPluma</AK_Recruit_LaPluma.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_LaPluma.surname>罗德岛</AK_Recruit_LaPluma.surname>
+  
+  <!-- EN: Just pray. Pray that she will listen to your orders.\nOperator Lappland can't\n			wait to slash apart the enemies in front of her. -->
+  <AK_Recruit_Lappland.description>Just pray. Pray that she will listen to your orders.
+Operator Lappland can't
+			wait to slash apart the enemies in front of her.</AK_Recruit_Lappland.description>
+  <!-- EN: Lappland -->
+  <AK_Recruit_Lappland.name>Lappland</AK_Recruit_Lappland.name>
+  <!-- EN: Lappland -->
+  <AK_Recruit_Lappland.nickname>Lappland</AK_Recruit_Lappland.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Lappland.surname>罗德岛</AK_Recruit_Lappland.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Maynar.description>FIXMEDESC</AK_Recruit_Maynar.description>
+  <!-- EN: Maynar -->
+  <AK_Recruit_Maynar.name>Maynar</AK_Recruit_Maynar.name>
+  <!-- EN: Maynar -->
+  <AK_Recruit_Maynar.nickname>Maynar</AK_Recruit_Maynar.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Maynar.surname>罗德岛</AK_Recruit_Maynar.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Morgan.description>FIXMEDESC</AK_Recruit_Morgan.description>
+  <!-- EN: Morgan -->
+  <AK_Recruit_Morgan.name>Morgan</AK_Recruit_Morgan.name>
+  <!-- EN: Morgan -->
+  <AK_Recruit_Morgan.nickname>Morgan</AK_Recruit_Morgan.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Morgan.surname>罗德岛</AK_Recruit_Morgan.surname>
+  
+  <!-- EN: In a word, scratch.\nMousse, Guard Operator of Rhodes Island, thinks of her\n			enemies as oversized scratching posts. -->
+  <AK_Recruit_Mousse.description>In a word, scratch.
+Mousse, Guard Operator of Rhodes Island, thinks of her
+			enemies as oversized scratching posts.</AK_Recruit_Mousse.description>
+  <!-- EN: Mousse -->
+  <AK_Recruit_Mousse.name>Mousse</AK_Recruit_Mousse.name>
+  <!-- EN: Mousse -->
+  <AK_Recruit_Mousse.nickname>Mousse</AK_Recruit_Mousse.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mousse.surname>罗德岛</AK_Recruit_Mousse.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Pallas.description>FIXME</AK_Recruit_Pallas.description>
+  <!-- EN: Pallas -->
+  <AK_Recruit_Pallas.name>Pallas</AK_Recruit_Pallas.name>
+  <!-- EN: Pallas -->
+  <AK_Recruit_Pallas.nickname>Pallas</AK_Recruit_Pallas.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Pallas.surname>罗德岛</AK_Recruit_Pallas.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Qiubai.description>FIXMEDESC</AK_Recruit_Qiubai.description>
+  <!-- EN: Qiubai -->
+  <AK_Recruit_Qiubai.name>Qiubai</AK_Recruit_Qiubai.name>
+  <!-- EN: Qiubai -->
+  <AK_Recruit_Qiubai.nickname>Qiubai</AK_Recruit_Qiubai.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Qiubai.surname>罗德岛</AK_Recruit_Qiubai.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_RadiantKnight.description>FIXMEDESC</AK_Recruit_RadiantKnight.description>
+  <!-- EN: RadiantKnight -->
+  <AK_Recruit_RadiantKnight.name>RadiantKnight</AK_Recruit_RadiantKnight.name>
+  <!-- EN: RadiantKnight -->
+  <AK_Recruit_RadiantKnight.nickname>RadiantKnight</AK_Recruit_RadiantKnight.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_RadiantKnight.surname>罗德岛</AK_Recruit_RadiantKnight.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Savage.description>FIXMEDESC</AK_Recruit_Savage.description>
+  <!-- EN: Savage -->
+  <AK_Recruit_Savage.name>Savage</AK_Recruit_Savage.name>
+  <!-- EN: Savage -->
+  <AK_Recruit_Savage.nickname>Savage</AK_Recruit_Savage.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Savage.surname>罗德岛</AK_Recruit_Savage.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Sideroca.description>FIXMEDESC</AK_Recruit_Sideroca.description>
+  <!-- EN: Sideroca -->
+  <AK_Recruit_Sideroca.name>Sideroca</AK_Recruit_Sideroca.name>
+  <!-- EN: Sideroca -->
+  <AK_Recruit_Sideroca.nickname>Sideroca</AK_Recruit_Sideroca.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Sideroca.surname>罗德岛</AK_Recruit_Sideroca.surname>
+  
+  <!-- EN: Let your guard down. There are no traps in the conditions she offer. Well, you\n			won't know even if there is one.\nSilverAsh, President of Karlan Trade CO., LTD, has\n			signed the contract with Rhodes Island and is ready to join the field. -->
+  <AK_Recruit_Silverash.description>Let your guard down. There are no traps in the conditions she offer. Well, you
+			won't know even if there is one.
+SilverAsh, President of Karlan Trade CO., LTD, has
+			signed the contract with Rhodes Island and is ready to join the field.</AK_Recruit_Silverash.description>
+  <!-- EN: Silverash -->
+  <AK_Recruit_Silverash.name>Silverash</AK_Recruit_Silverash.name>
+  <!-- EN: Silverash -->
+  <AK_Recruit_Silverash.nickname>Silverash</AK_Recruit_Silverash.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Silverash.surname>罗德岛</AK_Recruit_Silverash.surname>
+  
+  <!-- EN: She’s a bit out of her element, literally.\nSkadi, bounty hunter, has come with\n			the tide to drown your enemies. -->
+  <AK_Recruit_Skadi.description>She’s a bit out of her element, literally.
+Skadi, bounty hunter, has come with
+			the tide to drown your enemies.</AK_Recruit_Skadi.description>
+  <!-- EN: Skadi -->
+  <AK_Recruit_Skadi.name>Skadi</AK_Recruit_Skadi.name>
+  <!-- EN: Skadi -->
+  <AK_Recruit_Skadi.nickname>Skadi</AK_Recruit_Skadi.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Skadi.surname>罗德岛</AK_Recruit_Skadi.surname>
+  
+  <!-- EN: Her madness is terrifying.\nSpecter from the Abyssal Hunters is already done\n			with her prayer and is now prowling the battlefield. -->
+  <AK_Recruit_Specter.description>Her madness is terrifying.
+Specter from the Abyssal Hunters is already done
+			with her prayer and is now prowling the battlefield.</AK_Recruit_Specter.description>
+  <!-- EN: Specter -->
+  <AK_Recruit_Specter.name>Specter</AK_Recruit_Specter.name>
+  <!-- EN: Specter -->
+  <AK_Recruit_Specter.nickname>Specter</AK_Recruit_Specter.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Specter.surname>罗德岛</AK_Recruit_Specter.surname>
+  
+  <!-- EN: Hopefully she will make an exception for the Doctor.\nRhodes Island Guard\n			Operator Surtr, a person difficult to approach. -->
+  <AK_Recruit_Surtr.description>Hopefully she will make an exception for the Doctor.
+Rhodes Island Guard
+			Operator Surtr, a person difficult to approach.</AK_Recruit_Surtr.description>
+  <!-- EN: Surtr -->
+  <AK_Recruit_Surtr.name>Surtr</AK_Recruit_Surtr.name>
+  <!-- EN: Surtr -->
+  <AK_Recruit_Surtr.nickname>Surtr</AK_Recruit_Surtr.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Surtr.surname>罗德岛</AK_Recruit_Surtr.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Swire.description>FIXME</AK_Recruit_Swire.description>
+  <!-- EN: Swire -->
+  <AK_Recruit_Swire.name>Swire</AK_Recruit_Swire.name>
+  <!-- EN: Swire -->
+  <AK_Recruit_Swire.nickname>Swire</AK_Recruit_Swire.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Swire.surname>罗德岛</AK_Recruit_Swire.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Tequila.description>FIXME</AK_Recruit_Tequila.description>
+  <!-- EN: Tequila -->
+  <AK_Recruit_Tequila.name>Tequila</AK_Recruit_Tequila.name>
+  <!-- EN: Tequila -->
+  <AK_Recruit_Tequila.nickname>Tequila</AK_Recruit_Tequila.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Tequila.surname>罗德岛</AK_Recruit_Tequila.surname>
+  
+  <!-- EN: He'll cooperate according to his own interpretation of the commands.\nThorns,\n			Guard Operator of Rhodes Island, wastes not an ounce of energy, calculating each strike\n			meticulously. -->
+  <AK_Recruit_Thorns.description>He'll cooperate according to his own interpretation of the commands.
+Thorns,
+			Guard Operator of Rhodes Island, wastes not an ounce of energy, calculating each strike
+			meticulously.</AK_Recruit_Thorns.description>
+  <!-- EN: Thorns -->
+  <AK_Recruit_Thorns.name>Thorns</AK_Recruit_Thorns.name>
+  <!-- EN: Thorns -->
+  <AK_Recruit_Thorns.nickname>Thorns</AK_Recruit_Thorns.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Thorns.surname>罗德岛</AK_Recruit_Thorns.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Ulpianus.description>FIXMEDESC</AK_Recruit_Ulpianus.description>
+  <!-- EN: Ulpianus -->
+  <AK_Recruit_Ulpianus.name>Ulpianus</AK_Recruit_Ulpianus.name>
+  <!-- EN: Ulpianus -->
+  <AK_Recruit_Ulpianus.nickname>Ulpianus</AK_Recruit_Ulpianus.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ulpianus.surname>罗德岛</AK_Recruit_Ulpianus.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Utage.description>FIXMEDESC</AK_Recruit_Utage.description>
+  <!-- EN: Utage -->
+  <AK_Recruit_Utage.name>Utage</AK_Recruit_Utage.name>
+  <!-- EN: Utage -->
+  <AK_Recruit_Utage.nickname>Utage</AK_Recruit_Utage.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Utage.surname>罗德岛</AK_Recruit_Utage.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Viviana.description>FIXMEDESC</AK_Recruit_Viviana.description>
+  <!-- EN: Viviana -->
+  <AK_Recruit_Viviana.name>Viviana</AK_Recruit_Viviana.name>
+  <!-- EN: Viviana -->
+  <AK_Recruit_Viviana.nickname>Viviana</AK_Recruit_Viviana.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Viviana.surname>罗德岛</AK_Recruit_Viviana.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Whislash.description>FIXME</AK_Recruit_Whislash.description>
+  <!-- EN: Whislash -->
+  <AK_Recruit_Whislash.name>Whislash</AK_Recruit_Whislash.name>
+  <!-- EN: Whislash -->
+  <AK_Recruit_Whislash.nickname>Whislash</AK_Recruit_Whislash.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Whislash.surname>罗德岛</AK_Recruit_Whislash.surname>
+  
+</LanguageData>

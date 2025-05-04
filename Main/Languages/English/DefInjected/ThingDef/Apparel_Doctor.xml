@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 博士衣服 -->
+  <AK_Apparel_Doctor.label>博士衣服</AK_Apparel_Doctor.label>
+  <!-- EN: 博士的衣服。 -->
+  <AK_Apparel_Doctor.description>博士的衣服。</AK_Apparel_Doctor.description>
+  
+  <!-- EN: 博士兜帽 -->
+  <AK_Hat_Doctor.label>博士兜帽</AK_Hat_Doctor.label>
+  <!-- EN: 博士的兜帽。 -->
+  <AK_Hat_Doctor.description>博士的兜帽。</AK_Hat_Doctor.description>
+  
+  <!-- EN: 博士衣物（未完成） -->
+  <AK_Unfinished_DoctorCloth.label>博士衣物（未完成）</AK_Unfinished_DoctorCloth.label>
+  <!-- EN: 未完成的博士的衣物。 -->
+  <AK_Unfinished_DoctorCloth.description>未完成的博士的衣物。</AK_Unfinished_DoctorCloth.description>
+  
+</LanguageData>

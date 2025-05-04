@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Caster -->
+  <AK_OperatorClass_Caster.label>Caster</AK_OperatorClass_Caster.label>
+  
+  <!-- EN: Defender -->
+  <AK_OperatorClass_Defender.label>Defender</AK_OperatorClass_Defender.label>
+  
+  <!-- EN: Guard -->
+  <AK_OperatorClass_Guard.label>Guard</AK_OperatorClass_Guard.label>
+  
+  <!-- EN: Medic -->
+  <AK_OperatorClass_Medic.label>Medic</AK_OperatorClass_Medic.label>
+  
+  <!-- EN: Sniper -->
+  <AK_OperatorClass_Sniper.label>Sniper</AK_OperatorClass_Sniper.label>
+  
+  <!-- EN: Specialist -->
+  <AK_OperatorClass_Specialist.label>Specialist</AK_OperatorClass_Specialist.label>
+  
+  <!-- EN: Supporter -->
+  <AK_OperatorClass_Supporter.label>Supporter</AK_OperatorClass_Supporter.label>
+  
+  <!-- EN: Vanguard -->
+  <AK_OperatorClass_Vanguard.label>Vanguard</AK_OperatorClass_Vanguard.label>
+  
+</LanguageData>

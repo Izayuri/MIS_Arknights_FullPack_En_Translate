@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: {PAWN_nameDef}的人生本应像{PAWN_possessive}同龄人一样平常而快乐，然而当{PAWN_pronoun}意外成为感染者之后，{PAWN_pronoun}选择了悄无声息的从自己的生活中消失。\n当罗德岛寻访{PAWN_objective}时，{PAWN_pronoun}却正穿梭在城市的黑夜中，于大楼间轻巧地滑翔而过。 -->
+  <AK_BackStory_Angelina_Child.description>{PAWN_nameDef}的人生本应像{PAWN_possessive}同龄人一样平常而快乐，然而当{PAWN_pronoun}意外成为感染者之后，{PAWN_pronoun}选择了悄无声息的从自己的生活中消失。
+当罗德岛寻访{PAWN_objective}时，{PAWN_pronoun}却正穿梭在城市的黑夜中，于大楼间轻巧地滑翔而过。</AK_BackStory_Angelina_Child.description>
+  <!-- EN: 信使 -->
+  <AK_BackStory_Angelina_Child.title>信使</AK_BackStory_Angelina_Child.title>
+  <!-- EN: 信使 -->
+  <AK_BackStory_Angelina_Child.titleShort>信使</AK_BackStory_Angelina_Child.titleShort>
+  
+  <!-- EN: 特蕾西娅，卡兹戴尔移动城市的建立者，卡兹戴尔军事委员会创始人之一，巴别塔组织的创立者，曾是卡兹戴尔的最高领袖。 -->
+  <AK_BackStory_CivilightEterna_Adult.description>特蕾西娅，卡兹戴尔移动城市的建立者，卡兹戴尔军事委员会创始人之一，巴别塔组织的创立者，曾是卡兹戴尔的最高领袖。</AK_BackStory_CivilightEterna_Adult.description>
+  <!-- EN: 魔王 -->
+  <AK_BackStory_CivilightEterna_Adult.title>魔王</AK_BackStory_CivilightEterna_Adult.title>
+  <!-- EN: 魔王 -->
+  <AK_BackStory_CivilightEterna_Adult.titleShort>魔王</AK_BackStory_CivilightEterna_Adult.titleShort>
+  
+  <!-- EN: 她不再歌唱，她为大群发声。 -->
+  <AK_BackStory_CorruptingHeart_Adult.description>她不再歌唱，她为大群发声。</AK_BackStory_CorruptingHeart_Adult.description>
+  <!-- EN: Ishar-mla -->
+  <AK_BackStory_CorruptingHeart_Adult.title>Ishar-mla</AK_BackStory_CorruptingHeart_Adult.title>
+  <!-- EN: Ishar-mla -->
+  <AK_BackStory_CorruptingHeart_Adult.titleShort>Ishar-mla</AK_BackStory_CorruptingHeart_Adult.titleShort>
+  
+  <!-- EN: 错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误 -->
+  <AK_BackStory_CorruptingHeart_Child.description>错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误错误</AK_BackStory_CorruptingHeart_Child.description>
+  <!-- EN: 错误 -->
+  <AK_BackStory_CorruptingHeart_Child.title>错误</AK_BackStory_CorruptingHeart_Child.title>
+  <!-- EN: 错误 -->
+  <AK_BackStory_CorruptingHeart_Child.titleShort>错误</AK_BackStory_CorruptingHeart_Child.titleShort>
+  
+  <!-- EN: 尽管履历有造假之嫌，但是{PAWN_nameDef}的绘画水平并非常人所及，而且{PAWN_possessive}画作有种异样不安与强烈的吸引力。\n再加上{PAWN_pronoun}役使的触手，听上去很可怕不是吗？ -->
+  <AK_BackStory_Deepcolor_Adult.description>尽管履历有造假之嫌，但是{PAWN_nameDef}的绘画水平并非常人所及，而且{PAWN_possessive}画作有种异样不安与强烈的吸引力。
+再加上{PAWN_pronoun}役使的触手，听上去很可怕不是吗？</AK_BackStory_Deepcolor_Adult.description>
+  <!-- EN: 画家 -->
+  <AK_BackStory_Deepcolor_Adult.title>画家</AK_BackStory_Deepcolor_Adult.title>
+  <!-- EN: 画家 -->
+  <AK_BackStory_Deepcolor_Adult.titleShort>画家</AK_BackStory_Deepcolor_Adult.titleShort>
+  
+  <!-- EN: 据{PAWN_nameDef}本人所述，{PAWN_pronoun}收到父亲的影响，对绘画产生了浓厚的兴趣，并且在蒂森美术大学接受深造期间，赢得了维多利亚某高等源石技艺学府的青睐，主修三门控制类源石技艺课程。毕业后应邀前往哈尔曼松美术设计工作室，并在此工作了近三年时间。\n然而根据信人和信使所提供的情报，{PAWN_possessive}履历有多处不符。 -->
+  <AK_BackStory_Deepcolor_Child.description>据{PAWN_nameDef}本人所述，{PAWN_pronoun}收到父亲的影响，对绘画产生了浓厚的兴趣，并且在蒂森美术大学接受深造期间，赢得了维多利亚某高等源石技艺学府的青睐，主修三门控制类源石技艺课程。毕业后应邀前往哈尔曼松美术设计工作室，并在此工作了近三年时间。
+然而根据信人和信使所提供的情报，{PAWN_possessive}履历有多处不符。</AK_BackStory_Deepcolor_Child.description>
+  <!-- EN: 画家？ -->
+  <AK_BackStory_Deepcolor_Child.title>画家？</AK_BackStory_Deepcolor_Child.title>
+  <!-- EN: 画家？ -->
+  <AK_BackStory_Deepcolor_Child.titleShort>画家？</AK_BackStory_Deepcolor_Child.titleShort>
+  
+  <!-- EN: 在加入罗德岛后，在电力应用及电磁学方面展现出了惊人的天赋。在经过可露希尔引荐后，干员{PAWN_nameDef}成为了雷神工业武器测评师的一员，除了对尖端武器进行研究调整之外，{PAWN_pronoun}也会在需求对空特化的任务中亲自出击。 -->
+  <AK_BackStory_Glaucus_Adult.description>在加入罗德岛后，在电力应用及电磁学方面展现出了惊人的天赋。在经过可露希尔引荐后，干员{PAWN_nameDef}成为了雷神工业武器测评师的一员，除了对尖端武器进行研究调整之外，{PAWN_pronoun}也会在需求对空特化的任务中亲自出击。</AK_BackStory_Glaucus_Adult.description>
+  <!-- EN: 雷神工业先端武器测评师 -->
+  <AK_BackStory_Glaucus_Adult.title>雷神工业先端武器测评师</AK_BackStory_Glaucus_Adult.title>
+  <!-- EN: 测评师 -->
+  <AK_BackStory_Glaucus_Adult.titleShort>测评师</AK_BackStory_Glaucus_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出生于阿戈尔地区，却早早离开家园四处流浪，机缘巧合下加入了罗德岛，仅此而已。 -->
+  <AK_BackStory_Glaucus_Child.description>{PAWN_nameDef}出生于阿戈尔地区，却早早离开家园四处流浪，机缘巧合下加入了罗德岛，仅此而已。</AK_BackStory_Glaucus_Child.description>
+  <!-- EN: 阿戈尔流浪者 -->
+  <AK_BackStory_Glaucus_Child.title>阿戈尔流浪者</AK_BackStory_Glaucus_Child.title>
+  <!-- EN: 流浪者 -->
+  <AK_BackStory_Glaucus_Child.titleShort>流浪者</AK_BackStory_Glaucus_Child.titleShort>
+  
+  <!-- EN: 前喀兰贸易首席技术执行官。{PAWN_nameDef}通过喀兰贸易与罗德岛的特别协议，作为干员加入罗德岛。\n主导了喀兰贸易众多核心技术的开发以及工业设施的设计，同时在喀兰贸易时期就已对源石有相当深入的研究。现作为罗德岛主要研究室的一员，活跃于科研一线。 -->
+  <AK_BackStory_Gnosis_Adult.description>前喀兰贸易首席技术执行官。{PAWN_nameDef}通过喀兰贸易与罗德岛的特别协议，作为干员加入罗德岛。
+主导了喀兰贸易众多核心技术的开发以及工业设施的设计，同时在喀兰贸易时期就已对源石有相当深入的研究。现作为罗德岛主要研究室的一员，活跃于科研一线。</AK_BackStory_Gnosis_Adult.description>
+  <!-- EN: 前喀兰贸易首席技术执行官 -->
+  <AK_BackStory_Gnosis_Adult.title>前喀兰贸易首席技术执行官</AK_BackStory_Gnosis_Adult.title>
+  <!-- EN: 首席技术执行官 -->
+  <AK_BackStory_Gnosis_Adult.titleShort>首席技术执行官</AK_BackStory_Gnosis_Adult.titleShort>
+  
+  <!-- EN: 从谢拉格有史可载开始，{PAWN_nameDef}的家族——埃德怀斯家就为整个地区保管着珍贵卷宗与先民记录，因此，整个家族代代的使命便是维护、撰写、管理这些资料。 -->
+  <AK_BackStory_Gnosis_Child.description>从谢拉格有史可载开始，{PAWN_nameDef}的家族——埃德怀斯家就为整个地区保管着珍贵卷宗与先民记录，因此，整个家族代代的使命便是维护、撰写、管理这些资料。</AK_BackStory_Gnosis_Child.description>
+  <!-- EN: 埃德怀斯家族 -->
+  <AK_BackStory_Gnosis_Child.title>埃德怀斯家族</AK_BackStory_Gnosis_Child.title>
+  <!-- EN: 家族 -->
+  <AK_BackStory_Gnosis_Child.titleShort>家族</AK_BackStory_Gnosis_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，以小说家的名义在维多利亚活动，同时已担任凯尔希的私人信使多年。因参与市民自救军的行动而遭萨卡兹军抓捕，在罗德岛进入伦蒂尼姆时被救出，随后正式以干员身份加入罗德岛。 -->
+  <AK_BackStory_Heidi_Adult.description>{PAWN_nameDef}，以小说家的名义在维多利亚活动，同时已担任凯尔希的私人信使多年。因参与市民自救军的行动而遭萨卡兹军抓捕，在罗德岛进入伦蒂尼姆时被救出，随后正式以干员身份加入罗德岛。</AK_BackStory_Heidi_Adult.description>
+  <!-- EN: “小说家” -->
+  <AK_BackStory_Heidi_Adult.title>“小说家”</AK_BackStory_Heidi_Adult.title>
+  <!-- EN: “小说家” -->
+  <AK_BackStory_Heidi_Adult.titleShort>“小说家”</AK_BackStory_Heidi_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}作为汤姆森家族的孩子，自小就喜欢看{PAWN_pronoun}父亲写小说。\n听说{PAWN_pronoun}少女时代沉迷那些庸俗的爱情小说，令其父亲头疼。 -->
+  <AK_BackStory_Heidi_Child.description>{PAWN_nameDef}作为汤姆森家族的孩子，自小就喜欢看{PAWN_pronoun}父亲写小说。
+听说{PAWN_pronoun}少女时代沉迷那些庸俗的爱情小说，令其父亲头疼。</AK_BackStory_Heidi_Child.description>
+  <!-- EN: 汤姆森家族的孩子 -->
+  <AK_BackStory_Heidi_Child.title>汤姆森家族的孩子</AK_BackStory_Heidi_Child.title>
+  <!-- EN: 家族的孩子 -->
+  <AK_BackStory_Heidi_Child.titleShort>家族的孩子</AK_BackStory_Heidi_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，寓居尚蜀的诗人，与炎国司岁台等政府部门均有联系，在尚蜀事件中接触罗德岛，现通过审核，以访客身份驻留本舰。 -->
+  <AK_BackStory_Ling_Adult.description>{PAWN_nameDef}，寓居尚蜀的诗人，与炎国司岁台等政府部门均有联系，在尚蜀事件中接触罗德岛，现通过审核，以访客身份驻留本舰。</AK_BackStory_Ling_Adult.description>
+  <!-- EN: 诗人 -->
+  <AK_BackStory_Ling_Adult.title>诗人</AK_BackStory_Ling_Adult.title>
+  <!-- EN: 诗人 -->
+  <AK_BackStory_Ling_Adult.titleShort>诗人</AK_BackStory_Ling_Adult.titleShort>
+  
+  <!-- EN: 人重于器 兽悯于情\n长河远上 埋骸其下 吾自逍遥 -->
+  <AK_BackStory_Ling_Child.description>人重于器 兽悯于情
+长河远上 埋骸其下 吾自逍遥</AK_BackStory_Ling_Child.description>
+  <!-- EN: 神灵碎片（其三） -->
+  <AK_BackStory_Ling_Child.title>神灵碎片（其三）</AK_BackStory_Ling_Child.title>
+  <!-- EN: 碎片 -->
+  <AK_BackStory_Ling_Child.titleShort>碎片</AK_BackStory_Ling_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}独自一人驻足于荒凉的冰漠。在那里，{PAWN_pronoun}远离亲友，身处恶劣的环境之中，似乎除了手握的冰雪之外一无所有。即使{PAWN_pronoun}频频带回极具研究价值的考察成果，却依旧有许多人无法理解{PAWN_possessive}选择。只是，在{PAWN_pronoun}心中，{PAWN_pronoun}所追求的目标总是清晰而明朗，从来没有半分改变。 -->
+  <AK_BackStory_Magallan_Adult.description>{PAWN_nameDef}独自一人驻足于荒凉的冰漠。在那里，{PAWN_pronoun}远离亲友，身处恶劣的环境之中，似乎除了手握的冰雪之外一无所有。即使{PAWN_pronoun}频频带回极具研究价值的考察成果，却依旧有许多人无法理解{PAWN_possessive}选择。只是，在{PAWN_pronoun}心中，{PAWN_pronoun}所追求的目标总是清晰而明朗，从来没有半分改变。</AK_BackStory_Magallan_Adult.description>
+  <!-- EN: 莱茵生命外勤干员 -->
+  <AK_BackStory_Magallan_Adult.title>莱茵生命外勤干员</AK_BackStory_Magallan_Adult.title>
+  <!-- EN: 莱茵外勤 -->
+  <AK_BackStory_Magallan_Adult.titleShort>莱茵外勤</AK_BackStory_Magallan_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}从小就受到极北之地传说的熏陶，梦幻般的歌谣成了{PAWN_possessive}梦想。小时候，那些人赞许{PAWN_pronoun}；少年时，那些人怀疑{PAWN_pronoun}；成年后，那些人批评{PAWN_pronoun}。{PAWN_possessive}选择没人能理解，但{PAWN_pronoun}不断探险的动力，既来自{PAWN_pronoun}对一切知识的热爱，也来自于{PAWN_pronoun}对梦想的坚持。 -->
+  <AK_BackStory_Magallan_Child.description>{PAWN_nameDef}从小就受到极北之地传说的熏陶，梦幻般的歌谣成了{PAWN_possessive}梦想。小时候，那些人赞许{PAWN_pronoun}；少年时，那些人怀疑{PAWN_pronoun}；成年后，那些人批评{PAWN_pronoun}。{PAWN_possessive}选择没人能理解，但{PAWN_pronoun}不断探险的动力，既来自{PAWN_pronoun}对一切知识的热爱，也来自于{PAWN_pronoun}对梦想的坚持。</AK_BackStory_Magallan_Child.description>
+  <!-- EN: 渴望冒险的孩子 -->
+  <AK_BackStory_Magallan_Child.title>渴望冒险的孩子</AK_BackStory_Magallan_Child.title>
+  <!-- EN: 冒险家 -->
+  <AK_BackStory_Magallan_Child.titleShort>冒险家</AK_BackStory_Magallan_Child.titleShort>
+  
+  <!-- EN: 在加入莱茵生命后，{PAWN_nameDef}对于工程学的天赋和能力发挥到了极限，在{PAWN_pronoun}身上，科学家的缜密思维和工程师的动手能力融合地恰到好处。如果说产生了什么副作用，那一定是{PAWN_possessive}时间实在是不够用。{PAWN_possessive}脑袋中总是有各种点子在碰撞、收缩、爆炸，因此在{PAWN_pronoun}手中，创造出什么东西都不奇怪。\n在莱茵生命总部工作的时候，{PAWN_pronoun}时常能够见到赫默。在那个涉及多部门的大项目里，{PAWN_pronoun}负责为赫默筹备、安装、调试实验装置。但最终，赫默消失，整个计划戛然而止。 -->
+  <AK_BackStory_Mayer_Adult.description>在加入莱茵生命后，{PAWN_nameDef}对于工程学的天赋和能力发挥到了极限，在{PAWN_pronoun}身上，科学家的缜密思维和工程师的动手能力融合地恰到好处。如果说产生了什么副作用，那一定是{PAWN_possessive}时间实在是不够用。{PAWN_possessive}脑袋中总是有各种点子在碰撞、收缩、爆炸，因此在{PAWN_pronoun}手中，创造出什么东西都不奇怪。
+在莱茵生命总部工作的时候，{PAWN_pronoun}时常能够见到赫默。在那个涉及多部门的大项目里，{PAWN_pronoun}负责为赫默筹备、安装、调试实验装置。但最终，赫默消失，整个计划戛然而止。</AK_BackStory_Mayer_Adult.description>
+  <!-- EN: 鲁特拉工作室工程师 -->
+  <AK_BackStory_Mayer_Adult.title>鲁特拉工作室工程师</AK_BackStory_Mayer_Adult.title>
+  <!-- EN: 工程师 -->
+  <AK_BackStory_Mayer_Adult.titleShort>工程师</AK_BackStory_Mayer_Adult.titleShort>
+  
+  <!-- EN: 出生于哥伦比亚的{PAWN_nameDef}，小时候就对工程学展现出了极大的兴趣，并且在大学深造后，受到了莱茵生命的邀请函。 -->
+  <AK_BackStory_Mayer_Child.description>出生于哥伦比亚的{PAWN_nameDef}，小时候就对工程学展现出了极大的兴趣，并且在大学深造后，受到了莱茵生命的邀请函。</AK_BackStory_Mayer_Child.description>
+  <!-- EN: 工程学发烧友 -->
+  <AK_BackStory_Mayer_Child.title>工程学发烧友</AK_BackStory_Mayer_Child.title>
+  <!-- EN: 发烧友 -->
+  <AK_BackStory_Mayer_Child.titleShort>发烧友</AK_BackStory_Mayer_Child.titleShort>
+  
+  <!-- EN: 也许是另一场政治阴谋，{PAWN_nameDef}再经历了极度严苛的选拔仪式后，成为了谢拉格的圣女。\n作为整个谢拉格地方宗教至高无上的权首，{PAWN_pronoun}拥有着一系列特权，即使是{PAWN_possessive}哥哥，谢拉格名义上的最高长官银灰，在公开场合见到{PAWN_pronoun}时也必须合掌行礼。\n但是{PAWN_pronoun}似乎不是很想承担圣女繁杂的工作？ -->
+  <AK_BackStory_Pramanix_Adult.description>也许是另一场政治阴谋，{PAWN_nameDef}再经历了极度严苛的选拔仪式后，成为了谢拉格的圣女。
+作为整个谢拉格地方宗教至高无上的权首，{PAWN_pronoun}拥有着一系列特权，即使是{PAWN_possessive}哥哥，谢拉格名义上的最高长官银灰，在公开场合见到{PAWN_pronoun}时也必须合掌行礼。
+但是{PAWN_pronoun}似乎不是很想承担圣女繁杂的工作？</AK_BackStory_Pramanix_Adult.description>
+  <!-- EN: 谢拉格圣女 -->
+  <AK_BackStory_Pramanix_Adult.title>谢拉格圣女</AK_BackStory_Pramanix_Adult.title>
+  <!-- EN: 圣女 -->
+  <AK_BackStory_Pramanix_Adult.titleShort>圣女</AK_BackStory_Pramanix_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}本来是谢拉格贵族——希瓦艾什家族的成员，但是{PAWN_possessive}父母遇害之后，{PAWN_possessive}哥哥又做出了那样的选择。\n这造成了初雪与{PAWN_pronoun}哥哥的感情产生了难以愈合的伤痕。即使是血亲，也无法弥补{PAWN_pronoun}对银灰的失望。 -->
+  <AK_BackStory_Pramanix_Child.description>{PAWN_nameDef}本来是谢拉格贵族——希瓦艾什家族的成员，但是{PAWN_possessive}父母遇害之后，{PAWN_possessive}哥哥又做出了那样的选择。
+这造成了初雪与{PAWN_pronoun}哥哥的感情产生了难以愈合的伤痕。即使是血亲，也无法弥补{PAWN_pronoun}对银灰的失望。</AK_BackStory_Pramanix_Child.description>
+  <!-- EN: 希瓦艾什家族的长女 -->
+  <AK_BackStory_Pramanix_Child.title>希瓦艾什家族的长女</AK_BackStory_Pramanix_Child.title>
+  <!-- EN: 长女 -->
+  <AK_BackStory_Pramanix_Child.titleShort>长女</AK_BackStory_Pramanix_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，本名黛丝特。原卡西米尔长缰律所律师。现于后勤部工作，担任罗德岛法律顾问一职。 -->
+  <AK_BackStory_Proviso_Adult.description>{PAWN_nameDef}，本名黛丝特。原卡西米尔长缰律所律师。现于后勤部工作，担任罗德岛法律顾问一职。</AK_BackStory_Proviso_Adult.description>
+  <!-- EN: 律师 -->
+  <AK_BackStory_Proviso_Adult.title>律师</AK_BackStory_Proviso_Adult.title>
+  <!-- EN: 律师 -->
+  <AK_BackStory_Proviso_Adult.titleShort>律师</AK_BackStory_Proviso_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}还是学生时，充满憧憬地去旁观前辈的庭审现场。那时前辈明明是被告董事的辩护律师，却处处为原告职员说话，在最后他深深地向旁观席鞠躬，“护卫公正”，前辈那时说。 -->
+  <AK_BackStory_Proviso_Child.description>{PAWN_nameDef}还是学生时，充满憧憬地去旁观前辈的庭审现场。那时前辈明明是被告董事的辩护律师，却处处为原告职员说话，在最后他深深地向旁观席鞠躬，“护卫公正”，前辈那时说。</AK_BackStory_Proviso_Child.description>
+  <!-- EN: 法学生 -->
+  <AK_BackStory_Proviso_Child.title>法学生</AK_BackStory_Proviso_Child.title>
+  <!-- EN: 法学生 -->
+  <AK_BackStory_Proviso_Child.titleShort>法学生</AK_BackStory_Proviso_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，罗德岛驻维多利亚情报人员之一，掌握着维多利亚高多汀人传统的源石技艺，在加入罗德岛之前长期巡游于维多利亚南部荒地，以医治荒地聚落的同胞为己任。 -->
+  <AK_BackStory_Quercus_Adult.description>{PAWN_nameDef}，罗德岛驻维多利亚情报人员之一，掌握着维多利亚高多汀人传统的源石技艺，在加入罗德岛之前长期巡游于维多利亚南部荒地，以医治荒地聚落的同胞为己任。</AK_BackStory_Quercus_Adult.description>
+  <!-- EN: 维多利亚情报人员 -->
+  <AK_BackStory_Quercus_Adult.title>维多利亚情报人员</AK_BackStory_Quercus_Adult.title>
+  <!-- EN: 情报人员 -->
+  <AK_BackStory_Quercus_Adult.titleShort>情报人员</AK_BackStory_Quercus_Adult.titleShort>
+  
+  <!-- EN: 直到现在，{PAWN_nameDef}家乡一带的住民中，对{PAWN_pronoun}抱有怀疑与敌意的依然大有人在，也有一些村落至今不接受{PAWN_possessive}医治与祝福。\n许多心中有愧的人会不愿返回故乡，但从战场上回来的夏栎背着沉重的愧疚，逐一敲开了每一名死者的家门，向门内等待的亲属道歉，诚实地告诉他们自己连一枚身份牌都没能带回来。 -->
+  <AK_BackStory_Quercus_Child.description>直到现在，{PAWN_nameDef}家乡一带的住民中，对{PAWN_pronoun}抱有怀疑与敌意的依然大有人在，也有一些村落至今不接受{PAWN_possessive}医治与祝福。
+许多心中有愧的人会不愿返回故乡，但从战场上回来的夏栎背着沉重的愧疚，逐一敲开了每一名死者的家门，向门内等待的亲属道歉，诚实地告诉他们自己连一枚身份牌都没能带回来。</AK_BackStory_Quercus_Child.description>
+  <!-- EN: 军人 -->
+  <AK_BackStory_Quercus_Child.title>军人</AK_BackStory_Quercus_Child.title>
+  <!-- EN: 军人 -->
+  <AK_BackStory_Quercus_Child.titleShort>军人</AK_BackStory_Quercus_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，来自哥伦比亚的知名化妆师。在本人的强烈要求下，参加了工程部门的考核，表现出在自动化机械领域的专业素养，经可露希尔同意，成为罗德岛驻舰干员。 -->
+  <AK_BackStory_Roberta_Adult.description>{PAWN_nameDef}，来自哥伦比亚的知名化妆师。在本人的强烈要求下，参加了工程部门的考核，表现出在自动化机械领域的专业素养，经可露希尔同意，成为罗德岛驻舰干员。</AK_BackStory_Roberta_Adult.description>
+  <!-- EN: 化妆师 -->
+  <AK_BackStory_Roberta_Adult.title>化妆师</AK_BackStory_Roberta_Adult.title>
+  <!-- EN: 化妆师 -->
+  <AK_BackStory_Roberta_Adult.titleShort>化妆师</AK_BackStory_Roberta_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}的童年生活并不美好。{PAWN_possessive}家族在哥伦比亚的一座小城里，为同样来自叙拉古的大家族工作。这些工作大部分称不上体面。{PAWN_pronoun}见惯了贫穷、疾病与犯罪，也早早意识到了金钱能给人的生活带来多大改变。 -->
+  <AK_BackStory_Roberta_Child.description>{PAWN_nameDef}的童年生活并不美好。{PAWN_possessive}家族在哥伦比亚的一座小城里，为同样来自叙拉古的大家族工作。这些工作大部分称不上体面。{PAWN_pronoun}见惯了贫穷、疾病与犯罪，也早早意识到了金钱能给人的生活带来多大改变。</AK_BackStory_Roberta_Child.description>
+  <!-- EN: 哥伦比亚底层 -->
+  <AK_BackStory_Roberta_Child.title>哥伦比亚底层</AK_BackStory_Roberta_Child.title>
+  <!-- EN: 底层 -->
+  <AK_BackStory_Roberta_Child.titleShort>底层</AK_BackStory_Roberta_Child.titleShort>
+  
+  <!-- EN: 当然，也许是天生的不敏感——又或许有其他原因——{PAWN_nameDef}没有被他人的言语所击败，更加幸运的是，{PAWN_pronoun}找到了自己真正喜爱的事业。摄影。\n很快的，{PAWN_pronoun}拥有了自己的名声、财富，还有各种各样随之而来的东西。\n但{PAWN_pronoun}沉默以对，除了偶尔为达官贵人拍照以外，{PAWN_pronoun}喜欢的依旧是在远离人群的地方拍摄自己执着的事物。 -->
+  <AK_BackStory_Scene_Adult.description>当然，也许是天生的不敏感——又或许有其他原因——{PAWN_nameDef}没有被他人的言语所击败，更加幸运的是，{PAWN_pronoun}找到了自己真正喜爱的事业。摄影。
+很快的，{PAWN_pronoun}拥有了自己的名声、财富，还有各种各样随之而来的东西。
+但{PAWN_pronoun}沉默以对，除了偶尔为达官贵人拍照以外，{PAWN_pronoun}喜欢的依旧是在远离人群的地方拍摄自己执着的事物。</AK_BackStory_Scene_Adult.description>
+  <!-- EN: 摄影师 -->
+  <AK_BackStory_Scene_Adult.title>摄影师</AK_BackStory_Scene_Adult.title>
+  <!-- EN: 摄影师 -->
+  <AK_BackStory_Scene_Adult.titleShort>摄影师</AK_BackStory_Scene_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}的特性在童年就体现了出来，{PAWN_pronoun}说一句话往往都需要老半天。\n这造成在孩提时代，{PAWN_pronoun}经常被别人捉弄，学校的教师们也基本对{PAWN_pronoun}采取忽视策略。\n这导致{PAWN_pronoun}很快就离开了学校，在这之后都只接受私人教育。 -->
+  <AK_BackStory_Scene_Child.description>{PAWN_nameDef}的特性在童年就体现了出来，{PAWN_pronoun}说一句话往往都需要老半天。
+这造成在孩提时代，{PAWN_pronoun}经常被别人捉弄，学校的教师们也基本对{PAWN_pronoun}采取忽视策略。
+这导致{PAWN_pronoun}很快就离开了学校，在这之后都只接受私人教育。</AK_BackStory_Scene_Child.description>
+  <!-- EN: 不受欢迎的显贵子弟 -->
+  <AK_BackStory_Scene_Child.title>不受欢迎的显贵子弟</AK_BackStory_Scene_Child.title>
+  <!-- EN: 显贵子弟 -->
+  <AK_BackStory_Scene_Child.titleShort>显贵子弟</AK_BackStory_Scene_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在成年后成为了企鹅物流一名小有名气的偶像少女，以其活泼可爱，充满朝气的性格赢得了许多人的欢心。 -->
+  <AK_BackStory_Sora_Adult.description>{PAWN_nameDef}在成年后成为了企鹅物流一名小有名气的偶像少女，以其活泼可爱，充满朝气的性格赢得了许多人的欢心。</AK_BackStory_Sora_Adult.description>
+  <!-- EN: 偶像少女 -->
+  <AK_BackStory_Sora_Adult.title>偶像少女</AK_BackStory_Sora_Adult.title>
+  <!-- EN: 偶像少女 -->
+  <AK_BackStory_Sora_Adult.titleShort>偶像少女</AK_BackStory_Sora_Adult.titleShort>
+  
+  <!-- EN: 应经纪公司要求不公开。 -->
+  <AK_BackStory_Sora_Child.description>应经纪公司要求不公开。</AK_BackStory_Sora_Child.description>
+  <!-- EN: 商业机密 -->
+  <AK_BackStory_Sora_Child.title>商业机密</AK_BackStory_Sora_Child.title>
+  <!-- EN: 商业机密 -->
+  <AK_BackStory_Sora_Child.titleShort>商业机密</AK_BackStory_Sora_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}从小到大都被父母保护的很好，但是{PAWN_pronoun}很懂事，也很听话。然而好景不长，其母所在的家族被卷入了一场针对■■■■家族的而掀起的城邦内乱，亦是在这场叛乱中，身为其母软肋所在的铃兰也被阴谋伤害，藏在玩偶中的源石结晶准确地刺入了{PAWN_possessive}左臂。可以想象{PAWN_possessive}母亲有多么懊悔，在将{PAWN_pronoun}托付给罗德岛后，她主导了一场针对行凶家族的刺杀，从此销声匿迹。 -->
+  <AK_BackStory_Suzuran_Child.description>{PAWN_nameDef}从小到大都被父母保护的很好，但是{PAWN_pronoun}很懂事，也很听话。然而好景不长，其母所在的家族被卷入了一场针对■■■■家族的而掀起的城邦内乱，亦是在这场叛乱中，身为其母软肋所在的铃兰也被阴谋伤害，藏在玩偶中的源石结晶准确地刺入了{PAWN_possessive}左臂。可以想象{PAWN_possessive}母亲有多么懊悔，在将{PAWN_pronoun}托付给罗德岛后，她主导了一场针对行凶家族的刺杀，从此销声匿迹。</AK_BackStory_Suzuran_Child.description>
+  <!-- EN: 坚强的好孩子 -->
+  <AK_BackStory_Suzuran_Child.title>坚强的好孩子</AK_BackStory_Suzuran_Child.title>
+  <!-- EN: 好孩子 -->
+  <AK_BackStory_Suzuran_Child.titleShort>好孩子</AK_BackStory_Suzuran_Child.titleShort>
+  
+  <!-- EN: 为了其预见的某种未来，正在积极主动地向各方寻求合作，现与罗德岛达成协议，为罗德岛在萨米及其北方冰原上的相关事务提供帮助。 -->
+  <AK_BackStory_Valarqvin_Adult.description>为了其预见的某种未来，正在积极主动地向各方寻求合作，现与罗德岛达成协议，为罗德岛在萨米及其北方冰原上的相关事务提供帮助。</AK_BackStory_Valarqvin_Adult.description>
+  <!-- EN: 罗德岛萨米合作人 -->
+  <AK_BackStory_Valarqvin_Adult.title>罗德岛萨米合作人</AK_BackStory_Valarqvin_Adult.title>
+  <!-- EN: 罗德岛萨米合作人 -->
+  <AK_BackStory_Valarqvin_Adult.titleShort>罗德岛萨米合作人</AK_BackStory_Valarqvin_Adult.titleShort>
+  
+  <!-- EN: 预见苦难与未来的萨卡兹部族。 -->
+  <AK_BackStory_Valarqvin_Child.description>预见苦难与未来的萨卡兹部族。</AK_BackStory_Valarqvin_Child.description>
+  <!-- EN: 独眼巨人 -->
+  <AK_BackStory_Valarqvin_Child.title>独眼巨人</AK_BackStory_Valarqvin_Child.title>
+  <!-- EN: 独眼巨人 -->
+  <AK_BackStory_Valarqvin_Child.titleShort>独眼巨人</AK_BackStory_Valarqvin_Child.titleShort>
+  
+  <!-- EN: 阿尔图罗·吉亚洛，出身于拉特兰、活跃于泰拉大地的著名音乐家。受莱塔尼亚帝国宫廷、拉特兰教皇厅委托，罗德岛与两方签署协议确认，在受相应人员的严格监管下，允许其以干员“塑心”身份暂留罗德岛。 -->
+  <AK_BackStory_Virtuosa_Adult.description>阿尔图罗·吉亚洛，出身于拉特兰、活跃于泰拉大地的著名音乐家。受莱塔尼亚帝国宫廷、拉特兰教皇厅委托，罗德岛与两方签署协议确认，在受相应人员的严格监管下，允许其以干员“塑心”身份暂留罗德岛。</AK_BackStory_Virtuosa_Adult.description>
+  <!-- EN: 塑心 -->
+  <AK_BackStory_Virtuosa_Adult.title>塑心</AK_BackStory_Virtuosa_Adult.title>
+  <!-- EN: 塑心 -->
+  <AK_BackStory_Virtuosa_Adult.titleShort>塑心</AK_BackStory_Virtuosa_Adult.titleShort>
+  
+  <!-- EN: 年幼时与失去双亲的从堂弟费德里科一起生活，在父母的照顾下如同亲姐弟一般生活着。年幼时，阿尔图罗就以显现出了用音乐调动他人内心隐藏感情的源石技艺。 -->
+  <AK_BackStory_Virtuosa_Child.description>年幼时与失去双亲的从堂弟费德里科一起生活，在父母的照顾下如同亲姐弟一般生活着。年幼时，阿尔图罗就以显现出了用音乐调动他人内心隐藏感情的源石技艺。</AK_BackStory_Virtuosa_Child.description>
+  <!-- EN: 阿尔图罗 -->
+  <AK_BackStory_Virtuosa_Child.title>阿尔图罗</AK_BackStory_Virtuosa_Child.title>
+  <!-- EN: 阿尔图罗 -->
+  <AK_BackStory_Virtuosa_Child.titleShort>阿尔图罗</AK_BackStory_Virtuosa_Child.titleShort>
+  
+</LanguageData>

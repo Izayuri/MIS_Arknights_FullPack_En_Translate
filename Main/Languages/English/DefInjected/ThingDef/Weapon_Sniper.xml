@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_AgentW.label>射击</AK_Bullet_AgentW.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_April.label>射击</AK_Bullet_April.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Archetto.label>射击</AK_Bullet_Archetto.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Bluepoison.label>射击</AK_Bullet_Bluepoison.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Caper.label>射击</AK_Bullet_Caper.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_ChenHolungday.label>射击</AK_Bullet_ChenHolungday.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Erato.label>射击</AK_Bullet_Erato.label>
+  
+  <!-- EN: 霰弹射击 -->
+  <AK_Bullet_Executor.label>霰弹射击</AK_Bullet_Executor.label>
+  
+  <!-- EN: 瞄准射击 -->
+  <AK_Bullet_ExusiaiI.label>瞄准射击</AK_Bullet_ExusiaiI.label>
+  
+  <!-- EN: 短点射击 -->
+  <AK_Bullet_ExusiaiII.label>短点射击</AK_Bullet_ExusiaiII.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Fartooth.label>射击</AK_Bullet_Fartooth.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Fiammetta.label>射击</AK_Bullet_Fiammetta.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Firewatch.label>射击</AK_Bullet_Firewatch.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Greythroat.label>射击</AK_Bullet_Greythroat.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Jessica.label>射击</AK_Bullet_Jessica.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Kroos.label>射击</AK_Bullet_Kroos.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Lunacub.label>射击</AK_Bullet_Lunacub.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Meteorite.label>射击</AK_Bullet_Meteorite.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Narantuya.label>射击</AK_Bullet_Narantuya.label>
+  
+  <!-- EN: 霰弹射击 -->
+  <AK_Bullet_Pinecone.label>霰弹射击</AK_Bullet_Pinecone.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Platinum.label>射击</AK_Bullet_Platinum.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Pozyomka.label>射击</AK_Bullet_Pozyomka.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Provence.label>射击</AK_Bullet_Provence.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Ray.label>射击</AK_Bullet_Ray.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Rosa.label>射击</AK_Bullet_Rosa.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Rosmontis.label>射击</AK_Bullet_Rosmontis.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Schwarz.label>射击</AK_Bullet_Schwarz.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Toddifons.label>射击</AK_Bullet_Toddifons.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Typhon.label>射击</AK_Bullet_Typhon.label>
+  
+  <!-- EN: 射击 -->
+  <AK_Bullet_Vermeil.label>射击</AK_Bullet_Vermeil.label>
+  
+  <!-- EN: rocket -->
+  <AK_Bullet_Wisadel.label>rocket</AK_Bullet_Wisadel.label>
+  
+  <!-- EN: W的榴弹发射器 -->
+  <AK_Weapon_AgentW.label>W的榴弹发射器</AK_Weapon_AgentW.label>
+  <!-- EN: 一把涂满了鲜艳涂鸦的榴弹炮，即使是在武器多到泛滥的卡兹戴尔也是新鲜玩意。\n拥有那么多把缴获的连发铳却坚持使用榴弹炮，由此可见连发铳有多难用了。 -->
+  <AK_Weapon_AgentW.description>一把涂满了鲜艳涂鸦的榴弹炮，即使是在武器多到泛滥的卡兹戴尔也是新鲜玩意。
+拥有那么多把缴获的连发铳却坚持使用榴弹炮，由此可见连发铳有多难用了。</AK_Weapon_AgentW.description>
+  <!-- EN: 发射器猛砸 -->
+  <AK_Weapon_AgentW.tools.0.label>发射器猛砸</AK_Weapon_AgentW.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_AgentW.tools.1.label>踢击</AK_Weapon_AgentW.tools.1.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_AgentW.tools.2.label>拳击</AK_Weapon_AgentW.tools.2.label>
+  <!-- EN: W的榴弹发射器 -->
+  <AK_Weapon_AgentW.verbs.Verb_Shoot.label>W的榴弹发射器</AK_Weapon_AgentW.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 四月的猎弓 -->
+  <AK_Weapon_April.label>四月的猎弓</AK_Weapon_April.label>
+  <!-- EN: 一把结实的猎弓，四月在担任猎手时经常用它猎杀野兽。\n一边听音乐一边射击真的能够打得准吗？ -->
+  <AK_Weapon_April.description>一把结实的猎弓，四月在担任猎手时经常用它猎杀野兽。
+一边听音乐一边射击真的能够打得准吗？</AK_Weapon_April.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_April.tools.0.label>弓托猛砸</AK_Weapon_April.tools.0.label>
+  <!-- EN: 四月的猎弓 -->
+  <AK_Weapon_April.verbs.Verb_Shoot.label>四月的猎弓</AK_Weapon_April.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 空弦的长弓 -->
+  <AK_Weapon_Archetto.label>空弦的长弓</AK_Weapon_Archetto.label>
+  <!-- EN: 兰登修道院常见的复合弓，修道院的非拉特兰族战士们就是用这种武器捍卫他们的信仰。\n弦有三种选择，而敌人有三种苦难。 -->
+  <AK_Weapon_Archetto.description>兰登修道院常见的复合弓，修道院的非拉特兰族战士们就是用这种武器捍卫他们的信仰。
+弦有三种选择，而敌人有三种苦难。</AK_Weapon_Archetto.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_Archetto.tools.0.label>弓托猛砸</AK_Weapon_Archetto.tools.0.label>
+  <!-- EN: 空弦的长弓 -->
+  <AK_Weapon_Archetto.verbs.Verb_Shoot.label>空弦的长弓</AK_Weapon_Archetto.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 蓝毒的手弩 -->
+  <AK_Weapon_Bluepoison.label>蓝毒的手弩</AK_Weapon_Bluepoison.label>
+  <!-- EN: 蓝毒特殊改装过的手弩，配合蓝毒的毒液能起到很大的作用。\n虽然蓝毒说不用担心，不过这个毒性...最好还是离得远点。 -->
+  <AK_Weapon_Bluepoison.description>蓝毒特殊改装过的手弩，配合蓝毒的毒液能起到很大的作用。
+虽然蓝毒说不用担心，不过这个毒性...最好还是离得远点。</AK_Weapon_Bluepoison.description>
+  <!-- EN: 弩机猛砸 -->
+  <AK_Weapon_Bluepoison.tools.0.label>弩机猛砸</AK_Weapon_Bluepoison.tools.0.label>
+  <!-- EN: 蓝毒的手弩 -->
+  <AK_Weapon_Bluepoison.verbs.Verb_Shoot.label>蓝毒的手弩</AK_Weapon_Bluepoison.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “转转” -->
+  <AK_Weapon_Caper.label>“转转”</AK_Weapon_Caper.label>
+  <!-- EN: 跃跃说，这就是她妈妈为她特地制作的玩具。她想要独一无二的玩具，但家里买不起橱窗里的玩偶，妈妈就拿工厂里的废旧零件做了这个。“没有它的话，我就只能玩烂大街的弩箭了，那多没意思了啊” -->
+  <AK_Weapon_Caper.description>跃跃说，这就是她妈妈为她特地制作的玩具。她想要独一无二的玩具，但家里买不起橱窗里的玩偶，妈妈就拿工厂里的废旧零件做了这个。“没有它的话，我就只能玩烂大街的弩箭了，那多没意思了啊”</AK_Weapon_Caper.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Caper.tools.0.label>枪托猛砸</AK_Weapon_Caper.tools.0.label>
+  <!-- EN: “转转” -->
+  <AK_Weapon_Caper.verbs.Verb_Shoot.label>“转转”</AK_Weapon_Caper.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “假日风暴” -->
+  <AK_Weapon_ChenHolungday.label>“假日风暴”</AK_Weapon_ChenHolungday.label>
+  <!-- EN: 在多索雷斯期间，龙舌兰为她提供的特制铳是偏向中距离攻击的，用拉特兰的分类来说，属于突击步枪，而在逗留多索雷斯期间的使用过程中，她认为这种进攻模式并不适合自己。于是，在经过长达一周的摸索与磨合，以及参考拉特兰干员们对铳的运用后，确定了现在的方案——近距离的霰弹枪模式，以及中远距离的轰炸攻击。 -->
+  <AK_Weapon_ChenHolungday.description>在多索雷斯期间，龙舌兰为她提供的特制铳是偏向中距离攻击的，用拉特兰的分类来说，属于突击步枪，而在逗留多索雷斯期间的使用过程中，她认为这种进攻模式并不适合自己。于是，在经过长达一周的摸索与磨合，以及参考拉特兰干员们对铳的运用后，确定了现在的方案——近距离的霰弹枪模式，以及中远距离的轰炸攻击。</AK_Weapon_ChenHolungday.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_ChenHolungday.tools.0.label>枪托猛砸</AK_Weapon_ChenHolungday.tools.0.label>
+  <!-- EN: “假日风暴” -->
+  <AK_Weapon_ChenHolungday.verbs.Verb_Shoot.label>“假日风暴”</AK_Weapon_ChenHolungday.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 埃拉托的弦弓 -->
+  <AK_Weapon_Erato.label>埃拉托的弦弓</AK_Weapon_Erato.label>
+  <!-- EN: 一把可以用作弓的大型琴，她可以弹奏出动人的乐曲，也可以弹奏出战场上催人姓名的绝命符。 -->
+  <AK_Weapon_Erato.description>一把可以用作弓的大型琴，她可以弹奏出动人的乐曲，也可以弹奏出战场上催人姓名的绝命符。</AK_Weapon_Erato.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_Erato.tools.0.label>弓托猛砸</AK_Weapon_Erato.tools.0.label>
+  <!-- EN: 埃拉托的弦弓 -->
+  <AK_Weapon_Erato.verbs.Verb_Shoot.label>埃拉托的弦弓</AK_Weapon_Erato.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 埃拉托-未讲述的故事的巨弩 -->
+  <AK_Weapon_EratoUntoldStories.label>埃拉托-未讲述的故事的巨弩</AK_Weapon_EratoUntoldStories.label>
+  <!-- EN: 一把可以用作弓的大型琴，她可以弹奏出动人的乐曲，也可以弹奏出战场上催人姓名的绝命符。 -->
+  <AK_Weapon_EratoUntoldStories.description>一把可以用作弓的大型琴，她可以弹奏出动人的乐曲，也可以弹奏出战场上催人姓名的绝命符。</AK_Weapon_EratoUntoldStories.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_EratoUntoldStories.tools.0.label>弓托猛砸</AK_Weapon_EratoUntoldStories.tools.0.label>
+  <!-- EN: 埃拉托-未讲述的故事的巨弩 -->
+  <AK_Weapon_EratoUntoldStories.verbs.Verb_Shoot.label>埃拉托-未讲述的故事的巨弩</AK_Weapon_EratoUntoldStories.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 送葬人的散射铳 -->
+  <AK_Weapon_Executor.label>送葬人的散射铳</AK_Weapon_Executor.label>
+  <!-- EN: 一把拉特兰公证所常用的散射铳，在近战中有着难以比拟的火力。\n第一时间拔出武器攻击送葬人的人远比敞开大门欢迎他的多，但送葬人总能完美完成所有的委托。 -->
+  <AK_Weapon_Executor.description>一把拉特兰公证所常用的散射铳，在近战中有着难以比拟的火力。
+第一时间拔出武器攻击送葬人的人远比敞开大门欢迎他的多，但送葬人总能完美完成所有的委托。</AK_Weapon_Executor.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Executor.tools.0.label>枪托猛砸</AK_Weapon_Executor.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Executor.tools.1.label>踢击</AK_Weapon_Executor.tools.1.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Executor.tools.2.label>拳击</AK_Weapon_Executor.tools.2.label>
+  <!-- EN: 送葬人的散射铳 -->
+  <AK_Weapon_Executor.verbs.Verb_Shoot.label>送葬人的散射铳</AK_Weapon_Executor.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 能天使的连发铳 -->
+  <AK_Weapon_Exusiai.label>能天使的连发铳</AK_Weapon_Exusiai.label>
+  <!-- EN: 一把连发铳，在萨科塔手中能够爆发出毁灭性的破坏力。\n对于常人来说就是核铳都需要很长的时间去学会如何使用，萨科塔却能轻而易举的驾驭各种稀奇古怪的铳械，这到底是怎么做到的？！ -->
+  <AK_Weapon_Exusiai.description>一把连发铳，在萨科塔手中能够爆发出毁灭性的破坏力。
+对于常人来说就是核铳都需要很长的时间去学会如何使用，萨科塔却能轻而易举的驾驭各种稀奇古怪的铳械，这到底是怎么做到的？！</AK_Weapon_Exusiai.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Exusiai.tools.0.label>枪托猛砸</AK_Weapon_Exusiai.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Exusiai.tools.1.label>踢击</AK_Weapon_Exusiai.tools.1.label>
+  
+  <!-- EN: 远牙的重弩 -->
+  <AK_Weapon_Fartooth.label>远牙的重弩</AK_Weapon_Fartooth.label>
+  <!-- EN: 由高强度材料打造的重型复合弩，和远牙较小的身材产生了巨大的反差。\n弩箭发射，伴随着凌厉的风声。 -->
+  <AK_Weapon_Fartooth.description>由高强度材料打造的重型复合弩，和远牙较小的身材产生了巨大的反差。
+弩箭发射，伴随着凌厉的风声。</AK_Weapon_Fartooth.description>
+  <!-- EN: 弩柄猛砸 -->
+  <AK_Weapon_Fartooth.tools.0.label>弩柄猛砸</AK_Weapon_Fartooth.tools.0.label>
+  <!-- EN: 远牙的重弩 -->
+  <AK_Weapon_Fartooth.verbs.Verb_Shoot.label>远牙的重弩</AK_Weapon_Fartooth.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 菲亚梅塔的长炮 -->
+  <AK_Weapon_Fiammetta.label>菲亚梅塔的长炮</AK_Weapon_Fiammetta.label>
+  <!-- EN: 一把手持长炮，拉特兰公正所标配版本。\n“你须偿还” -->
+  <AK_Weapon_Fiammetta.description>一把手持长炮，拉特兰公正所标配版本。
+“你须偿还”</AK_Weapon_Fiammetta.description>
+  <!-- EN: 炮托猛砸 -->
+  <AK_Weapon_Fiammetta.tools.0.label>炮托猛砸</AK_Weapon_Fiammetta.tools.0.label>
+  <!-- EN: 菲亚梅塔的长炮 -->
+  <AK_Weapon_Fiammetta.verbs.Verb_Shoot.label>菲亚梅塔的长炮</AK_Weapon_Fiammetta.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 菲亚梅塔-至圣誓言的长炮 -->
+  <AK_Weapon_FiammettaDivineOath.label>菲亚梅塔-至圣誓言的长炮</AK_Weapon_FiammettaDivineOath.label>
+  <!-- EN: 一把手持长炮，拉特兰公正所标配版本。\n“你须偿还” -->
+  <AK_Weapon_FiammettaDivineOath.description>一把手持长炮，拉特兰公正所标配版本。
+“你须偿还”</AK_Weapon_FiammettaDivineOath.description>
+  <!-- EN: 炮托猛砸 -->
+  <AK_Weapon_FiammettaDivineOath.tools.0.label>炮托猛砸</AK_Weapon_FiammettaDivineOath.tools.0.label>
+  <!-- EN: 菲亚梅塔-至圣誓言的长炮 -->
+  <AK_Weapon_FiammettaDivineOath.verbs.Verb_Shoot.label>菲亚梅塔-至圣誓言的长炮</AK_Weapon_FiammettaDivineOath.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 菲亚梅塔-至圣誓言的手炮 -->
+  <AK_Weapon_FiammettaDivineOathTypeB.label>菲亚梅塔-至圣誓言的手炮</AK_Weapon_FiammettaDivineOathTypeB.label>
+  <!-- EN: 一把短手炮，拉特兰公正所标配版本。\n“你须愧悔” -->
+  <AK_Weapon_FiammettaDivineOathTypeB.description>一把短手炮，拉特兰公正所标配版本。
+“你须愧悔”</AK_Weapon_FiammettaDivineOathTypeB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_FiammettaDivineOathTypeB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_FiammettaDivineOathTypeB.tools.0.label>
+  
+  <!-- EN: 菲亚梅塔的手炮 -->
+  <AK_Weapon_FiammettaTypeB.label>菲亚梅塔的手炮</AK_Weapon_FiammettaTypeB.label>
+  <!-- EN: 一把短手炮，拉特兰公正所标配版本。\n“你须愧悔” -->
+  <AK_Weapon_FiammettaTypeB.description>一把短手炮，拉特兰公正所标配版本。
+“你须愧悔”</AK_Weapon_FiammettaTypeB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_FiammettaTypeB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_FiammettaTypeB.tools.0.label>
+  
+  <!-- EN: 守林人的弩 -->
+  <AK_Weapon_Firewatch.label>守林人的弩</AK_Weapon_Firewatch.label>
+  <!-- EN: 守林人的弩，自乌萨斯的荒原而来，带有森林的气息。\n守林人的弩只会被用来复仇，但是仇恨难以阻挡时间。 -->
+  <AK_Weapon_Firewatch.description>守林人的弩，自乌萨斯的荒原而来，带有森林的气息。
+守林人的弩只会被用来复仇，但是仇恨难以阻挡时间。</AK_Weapon_Firewatch.description>
+  <!-- EN: 弩柄猛砸 -->
+  <AK_Weapon_Firewatch.tools.0.label>弩柄猛砸</AK_Weapon_Firewatch.tools.0.label>
+  <!-- EN: 守林人的弩 -->
+  <AK_Weapon_Firewatch.verbs.Verb_Shoot.label>守林人的弩</AK_Weapon_Firewatch.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 灰喉的弩 -->
+  <AK_Weapon_Greythroat.label>灰喉的弩</AK_Weapon_Greythroat.label>
+  <!-- EN: 罗德岛的制式弩，由高强度材料打造。\n每一次扎实的射击，都将带来一份永远的宁静。 -->
+  <AK_Weapon_Greythroat.description>罗德岛的制式弩，由高强度材料打造。
+每一次扎实的射击，都将带来一份永远的宁静。</AK_Weapon_Greythroat.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Greythroat.tools.0.label>枪托猛砸</AK_Weapon_Greythroat.tools.0.label>
+  <!-- EN: 灰喉的弩 -->
+  <AK_Weapon_Greythroat.verbs.Verb_Shoot.label>灰喉的弩</AK_Weapon_Greythroat.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 黑钢制式铳 -->
+  <AK_Weapon_Jessica.label>黑钢制式铳</AK_Weapon_Jessica.label>
+  <!-- EN: 黑钢常见的核铳，很多黑钢干员都很喜欢用。 -->
+  <AK_Weapon_Jessica.description>黑钢常见的核铳，很多黑钢干员都很喜欢用。</AK_Weapon_Jessica.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Jessica.tools.0.label>枪托猛砸</AK_Weapon_Jessica.tools.0.label>
+  <!-- EN: 黑钢制式铳 -->
+  <AK_Weapon_Jessica.verbs.Verb_Shoot.label>黑钢制式铳</AK_Weapon_Jessica.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 简单的弩 -->
+  <AK_Weapon_Kroos.label>简单的弩</AK_Weapon_Kroos.label>
+  <!-- EN: 简单的木弩，结实和好用是它最大的特点。 -->
+  <AK_Weapon_Kroos.description>简单的木弩，结实和好用是它最大的特点。</AK_Weapon_Kroos.description>
+  <!-- EN: 弩托猛砸 -->
+  <AK_Weapon_Kroos.tools.0.label>弩托猛砸</AK_Weapon_Kroos.tools.0.label>
+  <!-- EN: 简单的弩 -->
+  <AK_Weapon_Kroos.verbs.Verb_Shoot.label>简单的弩</AK_Weapon_Kroos.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 子月的弓 -->
+  <AK_Weapon_Lunacub.label>子月的弓</AK_Weapon_Lunacub.label>
+  <!-- EN: 子月用的大弓，看上去和部落老哥用的差不多，但是在子月手里甚至可以用来单挑狂暴的裂兽。 -->
+  <AK_Weapon_Lunacub.description>子月用的大弓，看上去和部落老哥用的差不多，但是在子月手里甚至可以用来单挑狂暴的裂兽。</AK_Weapon_Lunacub.description>
+  <!-- EN: 弩柄猛砸 -->
+  <AK_Weapon_Lunacub.tools.0.label>弩柄猛砸</AK_Weapon_Lunacub.tools.0.label>
+  <!-- EN: 猛抓 -->
+  <AK_Weapon_Lunacub.tools.1.label>猛抓</AK_Weapon_Lunacub.tools.1.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Lunacub.tools.2.label>拳击</AK_Weapon_Lunacub.tools.2.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Lunacub.tools.3.label>踢击</AK_Weapon_Lunacub.tools.3.label>
+  <!-- EN: 子月的弓 -->
+  <AK_Weapon_Lunacub.verbs.Verb_Shoot.label>子月的弓</AK_Weapon_Lunacub.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 陨星的弩炮 -->
+  <AK_Weapon_Meteorite.label>陨星的弩炮</AK_Weapon_Meteorite.label>
+  <!-- EN: 一把结构复杂的弩炮，在有丰富作战经验的战士手中能发挥出不下于铳枪的威力。\n陨星希望萨卡兹人再无苦难，即使身份，代号与手中的武器不断变化，这份信念从未变过。 -->
+  <AK_Weapon_Meteorite.description>一把结构复杂的弩炮，在有丰富作战经验的战士手中能发挥出不下于铳枪的威力。
+陨星希望萨卡兹人再无苦难，即使身份，代号与手中的武器不断变化，这份信念从未变过。</AK_Weapon_Meteorite.description>
+  <!-- EN: 弩炮猛砸 -->
+  <AK_Weapon_Meteorite.tools.0.label>弩炮猛砸</AK_Weapon_Meteorite.tools.0.label>
+  <!-- EN: 陨星的弩炮 -->
+  <AK_Weapon_Meteorite.verbs.Verb_Shoot.label>陨星的弩炮</AK_Weapon_Meteorite.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 黑色弯刀 -->
+  <AK_Weapon_Narantuya.label>黑色弯刀</AK_Weapon_Narantuya.label>
+  <!-- EN: 两把特殊的黑色弯刀，双刀能够通过特定的机关组装在一起并展开刀扇，可作为投掷武器灵活使用。工程部尚未解明制成刀刃的金属材料成分，娜仁图亚本人对武器的来历以及刃身上蚀刻纹样的含义也一无所知。她只知道这原本是父母准备等她成年再赠予她的礼物，以及，使用它们时自己施展源石技艺也会格外顺手。 -->
+  <AK_Weapon_Narantuya.description>两把特殊的黑色弯刀，双刀能够通过特定的机关组装在一起并展开刀扇，可作为投掷武器灵活使用。工程部尚未解明制成刀刃的金属材料成分，娜仁图亚本人对武器的来历以及刃身上蚀刻纹样的含义也一无所知。她只知道这原本是父母准备等她成年再赠予她的礼物，以及，使用它们时自己施展源石技艺也会格外顺手。</AK_Weapon_Narantuya.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Narantuya.tools.0.label>枪托猛砸</AK_Weapon_Narantuya.tools.0.label>
+  <!-- EN: 黑色弯刀 -->
+  <AK_Weapon_Narantuya.verbs.Verb_Shoot.label>黑色弯刀</AK_Weapon_Narantuya.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 松果的钉枪 -->
+  <AK_Weapon_Pinecone.label>松果的钉枪</AK_Weapon_Pinecone.label>
+  <!-- EN: 在泰拉世界各处的工人手上都能看见的钉枪，由电池驱动，用来钉钉子很方便。\n松果很容易忘记她的蓄电池落在哪了，每次出战前请务必提醒她一下。 -->
+  <AK_Weapon_Pinecone.description>在泰拉世界各处的工人手上都能看见的钉枪，由电池驱动，用来钉钉子很方便。
+松果很容易忘记她的蓄电池落在哪了，每次出战前请务必提醒她一下。</AK_Weapon_Pinecone.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Pinecone.tools.0.label>枪托猛砸</AK_Weapon_Pinecone.tools.0.label>
+  <!-- EN: 松果的钉枪 -->
+  <AK_Weapon_Pinecone.verbs.Verb_Shoot.label>松果的钉枪</AK_Weapon_Pinecone.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 白金的弓 -->
+  <AK_Weapon_Platinum.label>白金的弓</AK_Weapon_Platinum.label>
+  <!-- EN: 无胄盟成员常用的弓，能够无声干掉目标的暗杀利器。\n这把弓曾经因为无胄盟的驱使夺走了许多条无辜的生命。 -->
+  <AK_Weapon_Platinum.description>无胄盟成员常用的弓，能够无声干掉目标的暗杀利器。
+这把弓曾经因为无胄盟的驱使夺走了许多条无辜的生命。</AK_Weapon_Platinum.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_Platinum.tools.0.label>弓托猛砸</AK_Weapon_Platinum.tools.0.label>
+  <!-- EN: 白金的弓 -->
+  <AK_Weapon_Platinum.verbs.Verb_Shoot.label>白金的弓</AK_Weapon_Platinum.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 白金-灿阳朝露的弓 -->
+  <AK_Weapon_PlatinumShimmeringDew.label>白金-灿阳朝露的弓</AK_Weapon_PlatinumShimmeringDew.label>
+  <!-- EN: 无胄盟成员常用的弓，能够无声干掉目标的暗杀利器。\n这把弓曾经因为无胄盟的驱使夺走了许多条无辜的生命。 -->
+  <AK_Weapon_PlatinumShimmeringDew.description>无胄盟成员常用的弓，能够无声干掉目标的暗杀利器。
+这把弓曾经因为无胄盟的驱使夺走了许多条无辜的生命。</AK_Weapon_PlatinumShimmeringDew.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_PlatinumShimmeringDew.tools.0.label>弓托猛砸</AK_Weapon_PlatinumShimmeringDew.tools.0.label>
+  <!-- EN: 白金-灿阳朝露的弓 -->
+  <AK_Weapon_PlatinumShimmeringDew.verbs.Verb_Shoot.label>白金-灿阳朝露的弓</AK_Weapon_PlatinumShimmeringDew.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 鸿雪的弩 -->
+  <AK_Weapon_Pozyomka.label>鸿雪的弩</AK_Weapon_Pozyomka.label>
+  <!-- EN: 由鸿雪的打字机改造成的武器之一。\n做工精致，宛如一件艺术品。人生到处知何似，应似飞鸿踏雪泥。\n（如果可以的话请随机往鸿雪的弩上加一个艺术画） -->
+  <AK_Weapon_Pozyomka.description>由鸿雪的打字机改造成的武器之一。
+做工精致，宛如一件艺术品。人生到处知何似，应似飞鸿踏雪泥。
+（如果可以的话请随机往鸿雪的弩上加一个艺术画）</AK_Weapon_Pozyomka.description>
+  <!-- EN: 弩托猛砸 -->
+  <AK_Weapon_Pozyomka.tools.0.label>弩托猛砸</AK_Weapon_Pozyomka.tools.0.label>
+  <!-- EN: 鸿雪的弩 -->
+  <AK_Weapon_Pozyomka.verbs.Verb_Shoot.label>鸿雪的弩</AK_Weapon_Pozyomka.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 普罗旺斯的弩 -->
+  <AK_Weapon_Provence.label>普罗旺斯的弩</AK_Weapon_Provence.label>
+  <!-- EN: 天灾信使常用的弩，用以应对平常常见的威胁与小麻烦。\n天灾信使的活动充满了危险，荒野行动更是九死一生，但普罗旺斯总能安然脱险。或许是因为她真的了解荒野的法则。 -->
+  <AK_Weapon_Provence.description>天灾信使常用的弩，用以应对平常常见的威胁与小麻烦。
+天灾信使的活动充满了危险，荒野行动更是九死一生，但普罗旺斯总能安然脱险。或许是因为她真的了解荒野的法则。</AK_Weapon_Provence.description>
+  <!-- EN: 弩托猛砸 -->
+  <AK_Weapon_Provence.tools.0.label>弩托猛砸</AK_Weapon_Provence.tools.0.label>
+  <!-- EN: 普罗旺斯的弩 -->
+  <AK_Weapon_Provence.verbs.Verb_Shoot.label>普罗旺斯的弩</AK_Weapon_Provence.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 无翼弩 -->
+  <AK_Weapon_Ray.label>无翼弩</AK_Weapon_Ray.label>
+  <!-- EN: 莱伊的无翼弩,造型精简而充满力量感，摒弃了传统的翼型设计，以流线型的形态呈现。 -->
+  <AK_Weapon_Ray.description>莱伊的无翼弩,造型精简而充满力量感，摒弃了传统的翼型设计，以流线型的形态呈现。</AK_Weapon_Ray.description>
+  <!-- EN: 枪托猛砸 -->
+  <AK_Weapon_Ray.tools.0.label>枪托猛砸</AK_Weapon_Ray.tools.0.label>
+  <!-- EN: 无翼弩 -->
+  <AK_Weapon_Ray.verbs.Verb_Shoot.label>无翼弩</AK_Weapon_Ray.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 早露的攻城矛 -->
+  <AK_Weapon_Rosa.label>早露的攻城矛</AK_Weapon_Rosa.label>
+  <!-- EN: 经由罗德岛工程部改造的攻城器械，已经改装为了可以供单人使用的武器。\n很难想象一台攻城用的器械经历了怎样的事情才会出现在市内。 -->
+  <AK_Weapon_Rosa.description>经由罗德岛工程部改造的攻城器械，已经改装为了可以供单人使用的武器。
+很难想象一台攻城用的器械经历了怎样的事情才会出现在市内。</AK_Weapon_Rosa.description>
+  <!-- EN: 矛尖重击 -->
+  <AK_Weapon_Rosa.tools.0.label>矛尖重击</AK_Weapon_Rosa.tools.0.label>
+  <!-- EN: 早露的攻城矛 -->
+  <AK_Weapon_Rosa.verbs.Verb_Shoot.label>早露的攻城矛</AK_Weapon_Rosa.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 迷迭香之拥 -->
+  <AK_Weapon_RosmontisA.label>迷迭香之拥</AK_Weapon_RosmontisA.label>
+  <!-- EN: “谁来审判？” -->
+  <AK_Weapon_RosmontisA.description>“谁来审判？”</AK_Weapon_RosmontisA.description>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_RosmontisA.tools.0.label>拳击</AK_Weapon_RosmontisA.tools.0.label>
+  <!-- EN: 迷迭香之拥 -->
+  <AK_Weapon_RosmontisA.verbs.Verb_Shoot.label>迷迭香之拥</AK_Weapon_RosmontisA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 迷迭香的书 -->
+  <AK_Weapon_RosmontisB.label>迷迭香的书</AK_Weapon_RosmontisB.label>
+  <!-- EN: 迷迭香的书 -->
+  <AK_Weapon_RosmontisB.description>迷迭香的书</AK_Weapon_RosmontisB.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_RosmontisB.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_RosmontisB.tools.0.label>
+  
+  <!-- EN: 黑的弩 -->
+  <AK_Weapon_Schwarz.label>黑的弩</AK_Weapon_Schwarz.label>
+  <!-- EN: 一把弩。保养得很好，使用起来也十分便捷。\n但从上面的各种武器划痕和细小缺口中，可以窥见它曾经历过怎样的厮杀。 -->
+  <AK_Weapon_Schwarz.description>一把弩。保养得很好，使用起来也十分便捷。
+但从上面的各种武器划痕和细小缺口中，可以窥见它曾经历过怎样的厮杀。</AK_Weapon_Schwarz.description>
+  <!-- EN: 弩托猛砸 -->
+  <AK_Weapon_Schwarz.tools.0.label>弩托猛砸</AK_Weapon_Schwarz.tools.0.label>
+  <!-- EN: 黑的弩 -->
+  <AK_Weapon_Schwarz.verbs.Verb_Shoot.label>黑的弩</AK_Weapon_Schwarz.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 便携攻城弩 -->
+  <AK_Weapon_Toddifons.label>便携攻城弩</AK_Weapon_Toddifons.label>
+  <!-- EN: 一把便携攻城弩，熔泉工程爱好的杰作。搬运的时候记得注意门框 -->
+  <AK_Weapon_Toddifons.description>一把便携攻城弩，熔泉工程爱好的杰作。搬运的时候记得注意门框</AK_Weapon_Toddifons.description>
+  <!-- EN: 抓 -->
+  <AK_Weapon_Toddifons.tools.0.label>抓</AK_Weapon_Toddifons.tools.0.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Toddifons.tools.1.label>拳击</AK_Weapon_Toddifons.tools.1.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Toddifons.tools.2.label>踢击</AK_Weapon_Toddifons.tools.2.label>
+  <!-- EN: 便携攻城弩 -->
+  <AK_Weapon_Toddifons.verbs.Verb_Shoot.label>便携攻城弩</AK_Weapon_Toddifons.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 提丰的黑色巨弓 -->
+  <AK_Weapon_Typhon.label>提丰的黑色巨弓</AK_Weapon_Typhon.label>
+  <!-- EN: 沾染了灾厄与不详的弓，只有提丰能够驾驭它，千万不要尝试研究它 -->
+  <AK_Weapon_Typhon.description>沾染了灾厄与不详的弓，只有提丰能够驾驭它，千万不要尝试研究它</AK_Weapon_Typhon.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_Typhon.tools.0.label>弓托猛砸</AK_Weapon_Typhon.tools.0.label>
+  <!-- EN: 提丰的黑色巨弓 -->
+  <AK_Weapon_Typhon.verbs.Verb_Shoot.label>提丰的黑色巨弓</AK_Weapon_Typhon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 提丰_温差的黑色巨弓 -->
+  <AK_Weapon_TyphonTemperature.label>提丰_温差的黑色巨弓</AK_Weapon_TyphonTemperature.label>
+  <!-- EN: 沾染了灾厄与不详的弓，只有提丰能够驾驭它，千万不要尝试研究它 -->
+  <AK_Weapon_TyphonTemperature.description>沾染了灾厄与不详的弓，只有提丰能够驾驭它，千万不要尝试研究它</AK_Weapon_TyphonTemperature.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_TyphonTemperature.tools.0.label>弓托猛砸</AK_Weapon_TyphonTemperature.tools.0.label>
+  <!-- EN: 提丰_温差的黑色巨弓 -->
+  <AK_Weapon_TyphonTemperature.verbs.Verb_Shoot.label>提丰_温差的黑色巨弓</AK_Weapon_TyphonTemperature.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “不落” -->
+  <AK_Weapon_Vermeil.label>“不落”</AK_Weapon_Vermeil.label>
+  <!-- EN: 荒野上新树立起一面旗帜，没人知道这是谁立起来的，又是属于哪个聚落的。\n它被一根粗糙的旗杆支起，扎在土地上，风席卷着沙砾，把它扯得紧绷。 -->
+  <AK_Weapon_Vermeil.description>荒野上新树立起一面旗帜，没人知道这是谁立起来的，又是属于哪个聚落的。
+它被一根粗糙的旗杆支起，扎在土地上，风席卷着沙砾，把它扯得紧绷。</AK_Weapon_Vermeil.description>
+  <!-- EN: 弓托猛砸 -->
+  <AK_Weapon_Vermeil.tools.0.label>弓托猛砸</AK_Weapon_Vermeil.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Vermeil.tools.1.label>踢击</AK_Weapon_Vermeil.tools.1.label>
+  <!-- EN: 乱挠 -->
+  <AK_Weapon_Vermeil.tools.2.label>乱挠</AK_Weapon_Vermeil.tools.2.label>
+  <!-- EN: “不落” -->
+  <AK_Weapon_Vermeil.verbs.Verb_Shoot.label>“不落”</AK_Weapon_Vermeil.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 祖宗发射器 -->
+  <AK_Weapon_Wisadel.label>祖宗发射器</AK_Weapon_Wisadel.label>
+  <!-- EN: “哎呀，你这么乐意诅咒自己吗，我亲爱的老祖宗？”年轻的萨卡兹大笑着，“去吧，炸得更猛烈些，把那些破烂炸干净之后，我们一起——回家！” -->
+  <AK_Weapon_Wisadel.description>“哎呀，你这么乐意诅咒自己吗，我亲爱的老祖宗？”年轻的萨卡兹大笑着，“去吧，炸得更猛烈些，把那些破烂炸干净之后，我们一起——回家！”</AK_Weapon_Wisadel.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_Wisadel.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_Wisadel.tools.0.label>
+  <!-- EN: barrel -->
+  <AK_Weapon_Wisadel.tools.barrel.label>barrel</AK_Weapon_Wisadel.tools.barrel.label>
+  <!-- EN: 祖宗发射器 -->
+  <AK_Weapon_Wisadel.verbs.Verb_Shoot.label>祖宗发射器</AK_Weapon_Wisadel.verbs.Verb_Shoot.label>
+  
+</LanguageData>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 真实伤害 -->
+  <AK_AbsoluteDamageMultiplier.label>真实伤害</AK_AbsoluteDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from Absolute-type attacks for weapons made of this material. -->
+  <AK_AbsoluteDamageMultiplier.description>A multiplier on damage from Absolute-type attacks for weapons made of this material.</AK_AbsoluteDamageMultiplier.description>
+  
+  <!-- EN: 护甲 - 真实 -->
+  <AK_ArmorRating_Absolute.label>护甲 - 真实</AK_ArmorRating_Absolute.label>
+  <!-- EN: 真实伤害极为罕见,仅极少干员的技能可以造成.\n没有任何护甲可以抵御此类型伤害. -->
+  <AK_ArmorRating_Absolute.description>真实伤害极为罕见,仅极少干员的技能可以造成.
+没有任何护甲可以抵御此类型伤害.</AK_ArmorRating_Absolute.description>
+  <!-- EN: 护甲 - 真实(装甲属性) -->
+  <AK_ArmorRating_Absolute.labelForFullStatList>护甲 - 真实(装甲属性)</AK_ArmorRating_Absolute.labelForFullStatList>
+  
+  <!-- EN: 护甲 - 法术 -->
+  <AK_ArmorRating_Magic.label>护甲 - 法术</AK_ArmorRating_Magic.label>
+  <!-- EN: 对于法术类型伤害的抗性,法术伤害通常来自于术士和辅助干员.\n计算方式和原版一致. -->
+  <AK_ArmorRating_Magic.description>对于法术类型伤害的抗性,法术伤害通常来自于术士和辅助干员.
+计算方式和原版一致.</AK_ArmorRating_Magic.description>
+  <!-- EN: 护甲 - 法术(装甲属性) -->
+  <AK_ArmorRating_Magic.labelForFullStatList>护甲 - 法术(装甲属性)</AK_ArmorRating_Magic.labelForFullStatList>
+  
+  <!-- EN: 法术伤害 -->
+  <AK_MagicDamageMultiplier.label>法术伤害</AK_MagicDamageMultiplier.label>
+  <!-- EN: A multiplier on damage from Magic-type attacks for weapons made of this material. -->
+  <AK_MagicDamageMultiplier.description>A multiplier on damage from Magic-type attacks for weapons made of this material.</AK_MagicDamageMultiplier.description>
+  
+  <!-- EN: 护甲 - 真实 -->
+  <AK_StuffPower_Armor_Absolute.label>护甲 - 真实</AK_StuffPower_Armor_Absolute.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <AK_StuffPower_Armor_Absolute.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</AK_StuffPower_Armor_Absolute.description>
+  <!-- EN: 护甲 - 真实(材料倍率) -->
+  <AK_StuffPower_Armor_Absolute.labelForFullStatList>护甲 - 真实(材料倍率)</AK_StuffPower_Armor_Absolute.labelForFullStatList>
+  
+  <!-- EN: 护甲 - 法术 -->
+  <AK_StuffPower_Armor_Magic.label>护甲 - 法术</AK_StuffPower_Armor_Magic.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <AK_StuffPower_Armor_Magic.description>Armor against sharp damage like bullets, knife stabs, and animal bites.</AK_StuffPower_Armor_Magic.description>
+  <!-- EN: 护甲 - 法术(材料倍率) -->
+  <AK_StuffPower_Armor_Magic.labelForFullStatList>护甲 - 法术(材料倍率)</AK_StuffPower_Armor_Magic.labelForFullStatList>
+  
+</LanguageData>

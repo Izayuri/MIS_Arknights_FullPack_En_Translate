@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 弩箭 -->
+  <AK_Bullet_Beanstalk.label>弩箭</AK_Bullet_Beanstalk.label>
+  
+  <!-- EN: 弩箭 -->
+  <AK_Bullet_Blacknight.label>弩箭</AK_Bullet_Blacknight.label>
+  
+  <!-- EN: 投掷影镖 -->
+  <AK_Bullet_Ines.label>投掷影镖</AK_Bullet_Ines.label>
+  
+  <!-- EN: 魔法弹 -->
+  <AK_Bullet_Muelsyse.label>魔法弹</AK_Bullet_Muelsyse.label>
+  
+  <!-- EN: 维多利亚式破城矛 -->
+  <AK_Weapon_Bagpipe.label>维多利亚式破城矛</AK_Weapon_Bagpipe.label>
+  <!-- EN: 一把去掉了射弹功能的破城矛，在战斗中依旧是极度可怕的杀器。\n这样可怕的武器只有最优秀的维多利亚军人才能与之相称。 -->
+  <AK_Weapon_Bagpipe.description>一把去掉了射弹功能的破城矛，在战斗中依旧是极度可怕的杀器。
+这样可怕的武器只有最优秀的维多利亚军人才能与之相称。</AK_Weapon_Bagpipe.description>
+  <!-- EN: 矛尖捅 -->
+  <AK_Weapon_Bagpipe.tools.0.label>矛尖捅</AK_Weapon_Bagpipe.tools.0.label>
+  <!-- EN: 矛头猛击 -->
+  <AK_Weapon_Bagpipe.tools.1.label>矛头猛击</AK_Weapon_Bagpipe.tools.1.label>
+  <!-- EN: 矛尖突刺 -->
+  <AK_Weapon_Bagpipe.tools.2.label>矛尖突刺</AK_Weapon_Bagpipe.tools.2.label>
+  
+  <!-- EN: 豆苗的手弩 -->
+  <AK_Weapon_Beanstalk.label>豆苗的手弩</AK_Weapon_Beanstalk.label>
+  <!-- EN: 豆苗的手弩，上面绑着很漂亮的绿色丝带。\n哥伦比亚各大武器商店均有销售。 -->
+  <AK_Weapon_Beanstalk.description>豆苗的手弩，上面绑着很漂亮的绿色丝带。
+哥伦比亚各大武器商店均有销售。</AK_Weapon_Beanstalk.description>
+  <!-- EN: 用弩砸 -->
+  <AK_Weapon_Beanstalk.tools.0.label>用弩砸</AK_Weapon_Beanstalk.tools.0.label>
+  <!-- EN: 豆苗的手弩 -->
+  <AK_Weapon_Beanstalk.verbs.Verb_Shoot.label>豆苗的手弩</AK_Weapon_Beanstalk.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 豆苗-未完成的礼物的手弩 -->
+  <AK_Weapon_BeanstalkGiftUncompleted.label>豆苗-未完成的礼物的手弩</AK_Weapon_BeanstalkGiftUncompleted.label>
+  <!-- EN: 豆苗的手弩，上面绑着很漂亮的绿色丝带。\n哥伦比亚各大武器商店均有销售。 -->
+  <AK_Weapon_BeanstalkGiftUncompleted.description>豆苗的手弩，上面绑着很漂亮的绿色丝带。
+哥伦比亚各大武器商店均有销售。</AK_Weapon_BeanstalkGiftUncompleted.description>
+  <!-- EN: 用弩砸 -->
+  <AK_Weapon_BeanstalkGiftUncompleted.tools.0.label>用弩砸</AK_Weapon_BeanstalkGiftUncompleted.tools.0.label>
+  <!-- EN: 豆苗-未完成的礼物的手弩 -->
+  <AK_Weapon_BeanstalkGiftUncompleted.verbs.Verb_Shoot.label>豆苗-未完成的礼物的手弩</AK_Weapon_BeanstalkGiftUncompleted.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 夜半的弩 -->
+  <AK_Weapon_Blacknight.label>夜半的弩</AK_Weapon_Blacknight.label>
+  <!-- EN: 荒地猎人常用来狩猎的手弩，做功粗糙，但是手感舒适，结构也很结实。 -->
+  <AK_Weapon_Blacknight.description>荒地猎人常用来狩猎的手弩，做功粗糙，但是手感舒适，结构也很结实。</AK_Weapon_Blacknight.description>
+  <!-- EN: 用弩砸 -->
+  <AK_Weapon_Blacknight.tools.0.label>用弩砸</AK_Weapon_Blacknight.tools.0.label>
+  <!-- EN: 夜半的弩 -->
+  <AK_Weapon_Blacknight.verbs.Verb_Shoot.label>夜半的弩</AK_Weapon_Blacknight.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 谢拉格弯刀 -->
+  <AK_Weapon_Courier.label>谢拉格弯刀</AK_Weapon_Courier.label>
+  <!-- EN: 一把长弯刀，谢拉格随处可见的防身武器，轻捷便携。 -->
+  <AK_Weapon_Courier.description>一把长弯刀，谢拉格随处可见的防身武器，轻捷便携。</AK_Weapon_Courier.description>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Courier.tools.0.label>刀柄猛砸</AK_Weapon_Courier.tools.0.label>
+  <!-- EN: 刀砍 -->
+  <AK_Weapon_Courier.tools.1.label>刀砍</AK_Weapon_Courier.tools.1.label>
+  
+  <!-- EN: 罗德岛短枪 -->
+  <AK_Weapon_Fang.label>罗德岛短枪</AK_Weapon_Fang.label>
+  <!-- EN: 在战斗中，芬会充分发挥库兰塔的脚力优势，占据优势地形抢占先机。为了不影响机动力的同时兼顾一定的牵制力，芬选择了轻便的短枪作为武器。 -->
+  <AK_Weapon_Fang.description>在战斗中，芬会充分发挥库兰塔的脚力优势，占据优势地形抢占先机。为了不影响机动力的同时兼顾一定的牵制力，芬选择了轻便的短枪作为武器。</AK_Weapon_Fang.description>
+  <!-- EN: 枪捅 -->
+  <AK_Weapon_Fang.tools.0.label>枪捅</AK_Weapon_Fang.tools.0.label>
+  <!-- EN: 枪柄猛敲 -->
+  <AK_Weapon_Fang.tools.1.label>枪柄猛敲</AK_Weapon_Fang.tools.1.label>
+  <!-- EN: 枪劈 -->
+  <AK_Weapon_Fang.tools.2.label>枪劈</AK_Weapon_Fang.tools.2.label>
+  <!-- EN: 枪刺 -->
+  <AK_Weapon_Fang.tools.3.label>枪刺</AK_Weapon_Fang.tools.3.label>
+  
+  <!-- EN: 焰尾的长剑 -->
+  <AK_Weapon_Flametail.label>焰尾的长剑</AK_Weapon_Flametail.label>
+  <!-- EN: 一把卡西米尔骑士常用的长剑，焰尾骑士用它打败了很多个敌人，获得了许多场胜利。 -->
+  <AK_Weapon_Flametail.description>一把卡西米尔骑士常用的长剑，焰尾骑士用它打败了很多个敌人，获得了许多场胜利。</AK_Weapon_Flametail.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Flametail.tools.0.label>剑捅</AK_Weapon_Flametail.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Flametail.tools.1.label>剑柄猛砸</AK_Weapon_Flametail.tools.1.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Flametail.tools.2.label>剑刺</AK_Weapon_Flametail.tools.2.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Flametail.tools.3.label>剑砍</AK_Weapon_Flametail.tools.3.label>
+  
+  <!-- EN: 维多利亚骑枪 -->
+  <AK_Weapon_Grani.label>维多利亚骑枪</AK_Weapon_Grani.label>
+  <!-- EN: 维多利亚骑警卫常用的骑枪，可以折叠适应使用者的身材。 -->
+  <AK_Weapon_Grani.description>维多利亚骑警卫常用的骑枪，可以折叠适应使用者的身材。</AK_Weapon_Grani.description>
+  <!-- EN: 枪尖捅 -->
+  <AK_Weapon_Grani.tools.0.label>枪尖捅</AK_Weapon_Grani.tools.0.label>
+  <!-- EN: 枪柄猛砸 -->
+  <AK_Weapon_Grani.tools.1.label>枪柄猛砸</AK_Weapon_Grani.tools.1.label>
+  <!-- EN: 枪尖突刺 -->
+  <AK_Weapon_Grani.tools.2.label>枪尖突刺</AK_Weapon_Grani.tools.2.label>
+  <!-- EN: 枪劈 -->
+  <AK_Weapon_Grani.tools.3.label>枪劈</AK_Weapon_Grani.tools.3.label>
+  
+  <!-- EN: 影哨之刃 -->
+  <AK_Weapon_Ines.label>影哨之刃</AK_Weapon_Ines.label>
+  <!-- EN: “在别人发现之前，我会让你的尸首沉入暗影。” -->
+  <AK_Weapon_Ines.description>“在别人发现之前，我会让你的尸首沉入暗影。”</AK_Weapon_Ines.description>
+  <!-- EN: 剑托猛砸 -->
+  <AK_Weapon_Ines.tools.0.label>剑托猛砸</AK_Weapon_Ines.tools.0.label>
+  <!-- EN: 踢击 -->
+  <AK_Weapon_Ines.tools.1.label>踢击</AK_Weapon_Ines.tools.1.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Ines.tools.2.label>拳击</AK_Weapon_Ines.tools.2.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Ines.tools.3.label>剑捅</AK_Weapon_Ines.tools.3.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_Ines.tools.4.label>剑劈</AK_Weapon_Ines.tools.4.label>
+  <!-- EN: 影哨之刃 -->
+  <AK_Weapon_Ines.verbs.Verb_Shoot.label>影哨之刃</AK_Weapon_Ines.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 伊内丝的匕首 -->
+  <AK_Weapon_InesB.label>伊内丝的匕首</AK_Weapon_InesB.label>
+  <!-- EN: 伊内丝的匕首 -->
+  <AK_Weapon_InesB.description>伊内丝的匕首</AK_Weapon_InesB.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_InesB.tools.0.label>眩晕击</AK_Weapon_InesB.tools.0.label>
+  
+  <!-- EN: 流形法杖 -->
+  <AK_Weapon_MuelsyseA.label>流形法杖</AK_Weapon_MuelsyseA.label>
+  <!-- EN: 形若雨伞的法杖，能够释放出奇特的水源石技艺。 -->
+  <AK_Weapon_MuelsyseA.description>形若雨伞的法杖，能够释放出奇特的水源石技艺。</AK_Weapon_MuelsyseA.description>
+  <!-- EN: 用柄砸 -->
+  <AK_Weapon_MuelsyseA.tools.0.label>用柄砸</AK_Weapon_MuelsyseA.tools.0.label>
+  <!-- EN: 流形法杖 -->
+  <AK_Weapon_MuelsyseA.verbs.Verb_Shoot.label>流形法杖</AK_Weapon_MuelsyseA.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 缪缪的伞 -->
+  <AK_Weapon_MuelsyseB.label>缪缪的伞</AK_Weapon_MuelsyseB.label>
+  <!-- EN: 缪缪的伞 -->
+  <AK_Weapon_MuelsyseB.description>缪缪的伞</AK_Weapon_MuelsyseB.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_MuelsyseB.tools.0.label>眩晕击</AK_Weapon_MuelsyseB.tools.0.label>
+  
+  <!-- EN: 桃金娘的旗帜 -->
+  <AK_Weapon_MyrtleA.label>桃金娘的旗帜</AK_Weapon_MyrtleA.label>
+  <!-- EN: 桃金娘的旗帜，据她说是从家里带出来的桌布。\n不过这块桌布不论怎样都不会脏，可以说是个很神奇的东西。 -->
+  <AK_Weapon_MyrtleA.description>桃金娘的旗帜，据她说是从家里带出来的桌布。
+不过这块桌布不论怎样都不会脏，可以说是个很神奇的东西。</AK_Weapon_MyrtleA.description>
+  <!-- EN: 旗子猛扇 -->
+  <AK_Weapon_MyrtleA.tools.0.label>旗子猛扇</AK_Weapon_MyrtleA.tools.0.label>
+  <!-- EN: 小jiojio踢了一下（战争践踏！） -->
+  <AK_Weapon_MyrtleA.tools.jiojio.label>小jiojio踢了一下（战争践踏！）</AK_Weapon_MyrtleA.tools.jiojio.label>
+  
+  <!-- EN: 小苹果 -->
+  <AK_Weapon_MyrtleB.label>小苹果</AK_Weapon_MyrtleB.label>
+  <!-- EN: 桃金娘的苹果，内部有着及其精密的机械结构。\n据说握在手里能让人感到一种信仰。 -->
+  <AK_Weapon_MyrtleB.description>桃金娘的苹果，内部有着及其精密的机械结构。
+据说握在手里能让人感到一种信仰。</AK_Weapon_MyrtleB.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_MyrtleB.tools.0.label>眩晕击</AK_Weapon_MyrtleB.tools.0.label>
+  
+  <!-- EN: 桃金娘-夏卉的旗帜 -->
+  <AK_Weapon_MyrtleSummerFlower.label>桃金娘-夏卉的旗帜</AK_Weapon_MyrtleSummerFlower.label>
+  <!-- EN: 桃金娘的旗帜，据她说是从家里带出来的桌布。\n不过这块桌布不论怎样都不会脏，可以说是个很神奇的东西。 -->
+  <AK_Weapon_MyrtleSummerFlower.description>桃金娘的旗帜，据她说是从家里带出来的桌布。
+不过这块桌布不论怎样都不会脏，可以说是个很神奇的东西。</AK_Weapon_MyrtleSummerFlower.description>
+  <!-- EN: 旗子猛扇 -->
+  <AK_Weapon_MyrtleSummerFlower.tools.0.label>旗子猛扇</AK_Weapon_MyrtleSummerFlower.tools.0.label>
+  <!-- EN: 小jiojio踢了一下（战争践踏！） -->
+  <AK_Weapon_MyrtleSummerFlower.tools.jiojio.label>小jiojio踢了一下（战争践踏！）</AK_Weapon_MyrtleSummerFlower.tools.jiojio.label>
+  
+  <!-- EN: 拉特兰戍卫队标准制式斧枪 -->
+  <AK_Weapon_Plume.label>拉特兰戍卫队标准制式斧枪</AK_Weapon_Plume.label>
+  <!-- EN: 拉特兰戍卫队使用的斧枪，很沉重，不适合黎博利使用。 -->
+  <AK_Weapon_Plume.description>拉特兰戍卫队使用的斧枪，很沉重，不适合黎博利使用。</AK_Weapon_Plume.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_Plume.tools.0.label>眩晕击</AK_Weapon_Plume.tools.0.label>
+  <!-- EN: 枪捅 -->
+  <AK_Weapon_Plume.tools.1.label>枪捅</AK_Weapon_Plume.tools.1.label>
+  <!-- EN: 枪柄猛敲 -->
+  <AK_Weapon_Plume.tools.2.label>枪柄猛敲</AK_Weapon_Plume.tools.2.label>
+  <!-- EN: 斧劈 -->
+  <AK_Weapon_Plume.tools.3.label>斧劈</AK_Weapon_Plume.tools.3.label>
+  <!-- EN: 枪刺 -->
+  <AK_Weapon_Plume.tools.4.label>枪刺</AK_Weapon_Plume.tools.4.label>
+  
+  <!-- EN: 烈火长枪 -->
+  <AK_Weapon_Reed.label>烈火长枪</AK_Weapon_Reed.label>
+  <!-- EN: 一把焕发着生命力的长枪，能感受到其中有烈焰在奔腾。\n苇草曾经用这把枪夺走了许多人的生命，她有为这把枪上的亡魂忏悔过吗？ -->
+  <AK_Weapon_Reed.description>一把焕发着生命力的长枪，能感受到其中有烈焰在奔腾。
+苇草曾经用这把枪夺走了许多人的生命，她有为这把枪上的亡魂忏悔过吗？</AK_Weapon_Reed.description>
+  <!-- EN: 枪尖捅 -->
+  <AK_Weapon_Reed.tools.0.label>枪尖捅</AK_Weapon_Reed.tools.0.label>
+  <!-- EN: 枪柄猛砸 -->
+  <AK_Weapon_Reed.tools.1.label>枪柄猛砸</AK_Weapon_Reed.tools.1.label>
+  <!-- EN: 枪尖突刺 -->
+  <AK_Weapon_Reed.tools.2.label>枪尖突刺</AK_Weapon_Reed.tools.2.label>
+  
+  <!-- EN: 薙刀 -->
+  <AK_Weapon_Saga.label>薙刀</AK_Weapon_Saga.label>
+  <!-- EN: 一把普通的薙刀，东国常见的样式。\n嵯峨从不杀生，但是这把刀还是让人不由自主的感到害怕。 -->
+  <AK_Weapon_Saga.description>一把普通的薙刀，东国常见的样式。
+嵯峨从不杀生，但是这把刀还是让人不由自主的感到害怕。</AK_Weapon_Saga.description>
+  <!-- EN: 刀柄猛砸 -->
+  <AK_Weapon_Saga.tools.0.label>刀柄猛砸</AK_Weapon_Saga.tools.0.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_Saga.tools.1.label>刀劈</AK_Weapon_Saga.tools.1.label>
+  
+  <!-- EN: 仪仗队刺剑 -->
+  <AK_Weapon_SaileachA.label>仪仗队刺剑</AK_Weapon_SaileachA.label>
+  <!-- EN: 维多利亚仪仗队常用的刺剑，雕琢精美，剑刃锋利。\n过去用来检阅，现在用来战斗。 -->
+  <AK_Weapon_SaileachA.description>维多利亚仪仗队常用的刺剑，雕琢精美，剑刃锋利。
+过去用来检阅，现在用来战斗。</AK_Weapon_SaileachA.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_SaileachA.tools.0.label>剑捅</AK_Weapon_SaileachA.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_SaileachA.tools.1.label>剑柄猛砸</AK_Weapon_SaileachA.tools.1.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_SaileachA.tools.2.label>剑刺</AK_Weapon_SaileachA.tools.2.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_SaileachA.tools.3.label>剑劈</AK_Weapon_SaileachA.tools.3.label>
+  
+  <!-- EN: 维多利亚仪仗队军旗 -->
+  <AK_Weapon_SaileachB.label>维多利亚仪仗队军旗</AK_Weapon_SaileachB.label>
+  <!-- EN: 维多利亚仪仗队中常见的军旗，象征着维多利亚军人的荣耀。 -->
+  <AK_Weapon_SaileachB.description>维多利亚仪仗队中常见的军旗，象征着维多利亚军人的荣耀。</AK_Weapon_SaileachB.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_SaileachB.tools.0.label>眩晕击</AK_Weapon_SaileachB.tools.0.label>
+  
+  <!-- EN: 王大锤 -->
+  <AK_Weapon_Siege.label>王大锤</AK_Weapon_Siege.label>
+  <!-- EN: 推进之王的铁锤，有着碾碎前方所有困境的力量。\n这把锤子从伦蒂尼姆而来，最终也会回到它的故乡。 -->
+  <AK_Weapon_Siege.description>推进之王的铁锤，有着碾碎前方所有困境的力量。
+这把锤子从伦蒂尼姆而来，最终也会回到它的故乡。</AK_Weapon_Siege.description>
+  <!-- EN: 大锤猛砸 -->
+  <AK_Weapon_Siege.tools.0.label>大锤猛砸</AK_Weapon_Siege.tools.0.label>
+  <!-- EN: 大锤猛轰 -->
+  <AK_Weapon_Siege.tools.1.label>大锤猛轰</AK_Weapon_Siege.tools.1.label>
+  
+  <!-- EN: 源石剑 -->
+  <AK_Weapon_Texas.label>源石剑</AK_Weapon_Texas.label>
+  <!-- EN: 德克萨斯常用的长剑，从她的家族伴随她来到了企鹅物流。\n过去的生活尚未被忘却，剑上的划痕就是最好的证明。 -->
+  <AK_Weapon_Texas.description>德克萨斯常用的长剑，从她的家族伴随她来到了企鹅物流。
+过去的生活尚未被忘却，剑上的划痕就是最好的证明。</AK_Weapon_Texas.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Texas.tools.0.label>剑捅</AK_Weapon_Texas.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Texas.tools.1.label>剑柄猛砸</AK_Weapon_Texas.tools.1.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_Texas.tools.2.label>剑砍</AK_Weapon_Texas.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Texas.tools.3.label>剑刺</AK_Weapon_Texas.tools.3.label>
+  
+  <!-- EN: 黑钢国际制式斧枪 -->
+  <AK_Weapon_Vanilla.label>黑钢国际制式斧枪</AK_Weapon_Vanilla.label>
+  <!-- EN: 黑钢国际新人常用的斧枪，黑钢有规定：“武器离身者一律辞退”，不过在平时不是那么需要遵守。 -->
+  <AK_Weapon_Vanilla.description>黑钢国际新人常用的斧枪，黑钢有规定：“武器离身者一律辞退”，不过在平时不是那么需要遵守。</AK_Weapon_Vanilla.description>
+  <!-- EN: 斧柄猛砸 -->
+  <AK_Weapon_Vanilla.tools.0.label>斧柄猛砸</AK_Weapon_Vanilla.tools.0.label>
+  <!-- EN: 斧头砍 -->
+  <AK_Weapon_Vanilla.tools.1.label>斧头砍</AK_Weapon_Vanilla.tools.1.label>
+  
+  <!-- EN: 忍冬的长刀 -->
+  <AK_Weapon_VulpisfogliaW.label>忍冬的长刀</AK_Weapon_VulpisfogliaW.label>
+  <!-- EN: 一把华丽而奇特的长刀，刀上的血或许英格丽自己都说不清有多少人的。 -->
+  <AK_Weapon_VulpisfogliaW.description>一把华丽而奇特的长刀，刀上的血或许英格丽自己都说不清有多少人的。</AK_Weapon_VulpisfogliaW.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_VulpisfogliaW.tools.0.label>眩晕击</AK_Weapon_VulpisfogliaW.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_VulpisfogliaW.tools.1.label>剑柄猛砸</AK_Weapon_VulpisfogliaW.tools.1.label>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_VulpisfogliaW.tools.2.label>剑捅</AK_Weapon_VulpisfogliaW.tools.2.label>
+  <!-- EN: 剑砍 -->
+  <AK_Weapon_VulpisfogliaW.tools.3.label>剑砍</AK_Weapon_VulpisfogliaW.tools.3.label>
+  
+  <!-- EN: 野鬃骑枪 -->
+  <AK_Weapon_Wild.label>野鬃骑枪</AK_Weapon_Wild.label>
+  <!-- EN: 一把沉重的骑枪，一般人很难挥动，但是凭借着野鬃的力气和速度用起来有着意想不到的作用。 -->
+  <AK_Weapon_Wild.description>一把沉重的骑枪，一般人很难挥动，但是凭借着野鬃的力气和速度用起来有着意想不到的作用。</AK_Weapon_Wild.description>
+  <!-- EN: 枪尖捅 -->
+  <AK_Weapon_Wild.tools.0.label>枪尖捅</AK_Weapon_Wild.tools.0.label>
+  <!-- EN: 枪柄猛砸 -->
+  <AK_Weapon_Wild.tools.1.label>枪柄猛砸</AK_Weapon_Wild.tools.1.label>
+  <!-- EN: 枪尖突刺 -->
+  <AK_Weapon_Wild.tools.2.label>枪尖突刺</AK_Weapon_Wild.tools.2.label>
+  
+  <!-- EN: 略有磨损的长刀 -->
+  <AK_Weapon_Yato.label>略有磨损的长刀</AK_Weapon_Yato.label>
+  <!-- EN: 一把高强度材料打造的长刀，外表看上去略有磨损。 -->
+  <AK_Weapon_Yato.description>一把高强度材料打造的长刀，外表看上去略有磨损。</AK_Weapon_Yato.description>
+  <!-- EN: 眩晕击 -->
+  <AK_Weapon_Yato.tools.0.label>眩晕击</AK_Weapon_Yato.tools.0.label>
+  <!-- EN: 刀捅 -->
+  <AK_Weapon_Yato.tools.1.label>刀捅</AK_Weapon_Yato.tools.1.label>
+  <!-- EN: 刀柄猛敲 -->
+  <AK_Weapon_Yato.tools.2.label>刀柄猛敲</AK_Weapon_Yato.tools.2.label>
+  <!-- EN: 刀劈 -->
+  <AK_Weapon_Yato.tools.3.label>刀劈</AK_Weapon_Yato.tools.3.label>
+  <!-- EN: 刀刺 -->
+  <AK_Weapon_Yato.tools.4.label>刀刺</AK_Weapon_Yato.tools.4.label>
+  
+  <!-- EN: 凛冬的斧头 -->
+  <AK_Weapon_Zima.label>凛冬的斧头</AK_Weapon_Zima.label>
+  <!-- EN: 一把接上了一截铁管的短斧，磨损的很严重。\n斧刃处有已经难以清洗掉的血迹。 -->
+  <AK_Weapon_Zima.description>一把接上了一截铁管的短斧，磨损的很严重。
+斧刃处有已经难以清洗掉的血迹。</AK_Weapon_Zima.description>
+  <!-- EN: 斧柄猛砸 -->
+  <AK_Weapon_Zima.tools.0.label>斧柄猛砸</AK_Weapon_Zima.tools.0.label>
+  <!-- EN: 斧头乱砍 -->
+  <AK_Weapon_Zima.tools.1.label>斧头乱砍</AK_Weapon_Zima.tools.1.label>
+  
+</LanguageData>

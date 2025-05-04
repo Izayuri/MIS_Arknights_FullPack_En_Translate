@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Administrator.description>FIXMEDESC</AK_Recruit_Administrator.description>
+  <!-- EN: Administrator -->
+  <AK_Recruit_Administrator.name>Administrator</AK_Recruit_Administrator.name>
+  <!-- EN: Administrator -->
+  <AK_Recruit_Administrator.nickname>Administrator</AK_Recruit_Administrator.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Administrator.surname>罗德岛</AK_Recruit_Administrator.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_AdministratorMale.description>FIXMEDESC</AK_Recruit_AdministratorMale.description>
+  <!-- EN: Administrator -->
+  <AK_Recruit_AdministratorMale.name>Administrator</AK_Recruit_AdministratorMale.name>
+  <!-- EN: Administrator -->
+  <AK_Recruit_AdministratorMale.nickname>Administrator</AK_Recruit_AdministratorMale.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_AdministratorMale.surname>罗德岛</AK_Recruit_AdministratorMale.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Closure.description>FIXMEDESC</AK_Recruit_Closure.description>
+  <!-- EN: Closure -->
+  <AK_Recruit_Closure.name>Closure</AK_Recruit_Closure.name>
+  <!-- EN: Closure -->
+  <AK_Recruit_Closure.nickname>Closure</AK_Recruit_Closure.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Closure.surname>罗德岛</AK_Recruit_Closure.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_DukeWindermere.description>FIXMEDESC</AK_Recruit_DukeWindermere.description>
+  <!-- EN: DukeWindermere -->
+  <AK_Recruit_DukeWindermere.name>DukeWindermere</AK_Recruit_DukeWindermere.name>
+  <!-- EN: DukeWindermere -->
+  <AK_Recruit_DukeWindermere.nickname>DukeWindermere</AK_Recruit_DukeWindermere.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_DukeWindermere.surname>罗德岛</AK_Recruit_DukeWindermere.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Eblana.description>FIXMEDESC</AK_Recruit_Eblana.description>
+  <!-- EN: Eblana -->
+  <AK_Recruit_Eblana.name>Eblana</AK_Recruit_Eblana.name>
+  <!-- EN: Eblana -->
+  <AK_Recruit_Eblana.nickname>Eblana</AK_Recruit_Eblana.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Eblana.surname>罗德岛</AK_Recruit_Eblana.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_FrostNova.description>FIXMEDESC</AK_Recruit_FrostNova.description>
+  <!-- EN: FrostNova -->
+  <AK_Recruit_FrostNova.name>FrostNova</AK_Recruit_FrostNova.name>
+  <!-- EN: FrostNova -->
+  <AK_Recruit_FrostNova.nickname>FrostNova</AK_Recruit_FrostNova.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_FrostNova.surname>罗德岛</AK_Recruit_FrostNova.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Kristen.description>FIXMEDESC</AK_Recruit_Kristen.description>
+  <!-- EN: Kristen -->
+  <AK_Recruit_Kristen.name>Kristen</AK_Recruit_Kristen.name>
+  <!-- EN: Kristen -->
+  <AK_Recruit_Kristen.nickname>Kristen</AK_Recruit_Kristen.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Kristen.surname>罗德岛</AK_Recruit_Kristen.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Perlica.description>FIXMEDESC</AK_Recruit_Perlica.description>
+  <!-- EN: Perlica -->
+  <AK_Recruit_Perlica.name>Perlica</AK_Recruit_Perlica.name>
+  <!-- EN: Perlica -->
+  <AK_Recruit_Perlica.nickname>Perlica</AK_Recruit_Perlica.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Perlica.surname>罗德岛</AK_Recruit_Perlica.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_PRTS.description>FIXMEDESC</AK_Recruit_PRTS.description>
+  <!-- EN: PRTS -->
+  <AK_Recruit_PRTS.name>PRTS</AK_Recruit_PRTS.name>
+  <!-- EN: PRTS -->
+  <AK_Recruit_PRTS.nickname>PRTS</AK_Recruit_PRTS.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_PRTS.surname>罗德岛</AK_Recruit_PRTS.surname>
+  
+</LanguageData>

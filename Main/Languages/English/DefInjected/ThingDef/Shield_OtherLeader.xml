@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 予取予得 -->
+  <AKS_ShieldBelt_Eblana.label>予取予得</AKS_ShieldBelt_Eblana.label>
+  <!-- EN: 她赐予他们力量，让他们成为不死的战士，让他们为自己尽忠，现在，是收回这些力量的时候了。 -->
+  <AKS_ShieldBelt_Eblana.description>她赐予他们力量，让他们成为不死的战士，让他们为自己尽忠，现在，是收回这些力量的时候了。</AKS_ShieldBelt_Eblana.description>
+  
+  <!-- EN: 冬痕 -->
+  <AKS_ShieldBelt_FrostNova.label>冬痕</AKS_ShieldBelt_FrostNova.label>
+  <!-- EN: 你感受到衣角寒霜的余温，你感受到一片轻盈的雪花落在你的肩头，带着冬痕的寂静。 -->
+  <AKS_ShieldBelt_FrostNova.description>你感受到衣角寒霜的余温，你感受到一片轻盈的雪花落在你的肩头，带着冬痕的寂静。</AKS_ShieldBelt_FrostNova.description>
+  
+  <!-- EN: 至纯源石 -->
+  <AKS_ShieldBelt_PRTS.label>至纯源石</AKS_ShieldBelt_PRTS.label>
+  <!-- EN: 在工业中用量巨大的源石结晶，但有着较高的提取难度。是世界的主要能源类精加工产物，同时也是几乎所有源石技艺得以施展的根本。 -->
+  <AKS_ShieldBelt_PRTS.description>在工业中用量巨大的源石结晶，但有着较高的提取难度。是世界的主要能源类精加工产物，同时也是几乎所有源石技艺得以施展的根本。</AKS_ShieldBelt_PRTS.description>
+  
+</LanguageData>

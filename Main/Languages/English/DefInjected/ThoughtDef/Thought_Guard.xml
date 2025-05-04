@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 占星师 -->
+  <AK_Thought_Trait_Astesia.stages.0.label>占星师</AK_Thought_Trait_Astesia.stages.0.label>
+  <!-- EN: 从受到矿石病感染开始，星辰对我的回应已经越来越微弱了。 -->
+  <AK_Thought_Trait_Astesia.stages.0.description>从受到矿石病感染开始，星辰对我的回应已经越来越微弱了。</AK_Thought_Trait_Astesia.stages.0.description>
+  
+  <!-- EN: 热情似火 -->
+  <AK_Thought_Trait_Blaze.stages.0.label>热情似火</AK_Thought_Trait_Blaze.stages.0.label>
+  <!-- EN: 这里的温度还是太低了。 -->
+  <AK_Thought_Trait_Blaze.stages.0.description>这里的温度还是太低了。</AK_Thought_Trait_Blaze.stages.0.description>
+  
+  <!-- EN: 斩龙之剑 -->
+  <AK_Thought_Trait_Chen.stages.0.label>斩龙之剑</AK_Thought_Trait_Chen.stages.0.label>
+  <!-- EN: 也许有一天我会得到那个人的认可，在那之前…… -->
+  <AK_Thought_Trait_Chen.stages.0.description>也许有一天我会得到那个人的认可，在那之前……</AK_Thought_Trait_Chen.stages.0.description>
+  
+  <!-- EN: 知我为我 -->
+  <AK_Thought_Trait_Chongyue.stages.0.label>知我为我</AK_Thought_Trait_Chongyue.stages.0.label>
+  <!-- EN: “我是谁”......临水自照，人也好，兽也罢，山峦林烟，天边双月的倒影，看见了什么，答案便是什么。\n至于人间换尽，我们兄弟姐妹会不会重归混沌，寻找新的答案，那又是另一个问题了。 -->
+  <AK_Thought_Trait_Chongyue.stages.0.description>“我是谁”......临水自照，人也好，兽也罢，山峦林烟，天边双月的倒影，看见了什么，答案便是什么。
+至于人间换尽，我们兄弟姐妹会不会重归混沌，寻找新的答案，那又是另一个问题了。</AK_Thought_Trait_Chongyue.stages.0.description>
+  
+  <!-- EN: 朋克少女 -->
+  <AK_Thought_Trait_Dagda.stages.0.label>朋克少女</AK_Thought_Trait_Dagda.stages.0.label>
+  <!-- EN: “这件衣服是摩根选的。当然，能体现骑士风范的着装一定更适合我。\n虽然街头风有一点......也就那么一点点......帅气。” -->
+  <AK_Thought_Trait_Dagda.stages.0.description>“这件衣服是摩根选的。当然，能体现骑士风范的着装一定更适合我。
+虽然街头风有一点......也就那么一点点......帅气。”</AK_Thought_Trait_Dagda.stages.0.description>
+  
+  <!-- EN: 深海猎人 -->
+  <AK_Thought_Trait_DeepHunter.stages.0.label>深海猎人</AK_Thought_Trait_DeepHunter.stages.0.label>
+  <!-- EN: “战争。事关生命延续的战争是场没有胜利的死战，战争唯一的结果是星空下其它种群的彻底消亡。\n猎人为推迟那末日的到来而殊死战斗，不悯，不休，不悔。” -->
+  <AK_Thought_Trait_DeepHunter.stages.0.description>“战争。事关生命延续的战争是场没有胜利的死战，战争唯一的结果是星空下其它种群的彻底消亡。
+猎人为推迟那末日的到来而殊死战斗，不悯，不休，不悔。”</AK_Thought_Trait_DeepHunter.stages.0.description>
+  
+  <!-- EN: 怪胎 -->
+  <AK_Thought_Trait_Estelle.stages.0.label>怪胎</AK_Thought_Trait_Estelle.stages.0.label>
+  <!-- EN: 我这对变异的角很显眼吧，本来我以为，自己已经习惯被人观看了......果然......还是会觉得不好意思啊...... -->
+  <AK_Thought_Trait_Estelle.stages.0.description>我这对变异的角很显眼吧，本来我以为，自己已经习惯被人观看了......果然......还是会觉得不好意思啊......</AK_Thought_Trait_Estelle.stages.0.description>
+  
+  <!-- EN: 雨林的战士 -->
+  <AK_Thought_Trait_FlintSecond.stages.0.label>雨林的战士</AK_Thought_Trait_FlintSecond.stages.0.label>
+  <!-- EN: 罗德岛的人，是不是都想得太多了？ -->
+  <AK_Thought_Trait_FlintSecond.stages.0.description>罗德岛的人，是不是都想得太多了？</AK_Thought_Trait_FlintSecond.stages.0.description>
+  
+  <!-- EN: 轻浮 -->
+  <AK_Thought_Trait_Franka.stages.0.label>轻浮</AK_Thought_Trait_Franka.stages.0.label>
+  <!-- EN: 比起黑钢，这里要有趣多了。 -->
+  <AK_Thought_Trait_Franka.stages.0.description>比起黑钢，这里要有趣多了。</AK_Thought_Trait_Franka.stages.0.description>
+  
+  <!-- EN: 少年兵 -->
+  <AK_Thought_Trait_Frostleaf.stages.0.label>少年兵</AK_Thought_Trait_Frostleaf.stages.0.label>
+  <!-- EN: 直到身边的人接连逝去，我才意识到作为人去活着的可贵。很讽刺吧？ -->
+  <AK_Thought_Trait_Frostleaf.stages.0.description>直到身边的人接连逝去，我才意识到作为人去活着的可贵。很讽刺吧？</AK_Thought_Trait_Frostleaf.stages.0.description>
+  
+  <!-- EN: 审判官 -->
+  <AK_Thought_Trait_Irene.stages.0.label>审判官</AK_Thought_Trait_Irene.stages.0.label>
+  <!-- EN: 那一刻，真相像海潮一样没过我的头顶。动摇，崩溃，绝望？不，我什么都感觉不到。\n直到我又杀死了一只恐鱼......是啊，原来我战斗，是因为我想活下去。如今的伊比利亚，不也一样吗？ -->
+  <AK_Thought_Trait_Irene.stages.0.description>那一刻，真相像海潮一样没过我的头顶。动摇，崩溃，绝望？不，我什么都感觉不到。
+直到我又杀死了一只恐鱼......是啊，原来我战斗，是因为我想活下去。如今的伊比利亚，不也一样吗？</AK_Thought_Trait_Irene.stages.0.description>
+  
+  <!-- EN: 放空 -->
+  <AK_Thought_Trait_LaPluma.stages.0.label>放空</AK_Thought_Trait_LaPluma.stages.0.label>
+  <!-- EN: 唔......好像走神了。 -->
+  <AK_Thought_Trait_LaPluma.stages.0.description>唔......好像走神了。</AK_Thought_Trait_LaPluma.stages.0.description>
+  
+  <!-- EN: 优雅的侩子手 -->
+  <AK_Thought_Trait_Lappland.stages.0.label>优雅的侩子手</AK_Thought_Trait_Lappland.stages.0.label>
+  <!-- EN: 你觉得我是杀手？好啊，你当然可以随意解读我。\n我可以成为任何人，也能做任何工作，在任何时间都能干掉我想干掉的人，只要我想！ -->
+  <AK_Thought_Trait_Lappland.stages.0.description>你觉得我是杀手？好啊，你当然可以随意解读我。
+我可以成为任何人，也能做任何工作，在任何时间都能干掉我想干掉的人，只要我想！</AK_Thought_Trait_Lappland.stages.0.description>
+  
+  <!-- EN: 未照耀的荣光 -->
+  <AK_Thought_Trait_Maynar.stages.0.label>未照耀的荣光</AK_Thought_Trait_Maynar.stages.0.label>
+  <!-- EN: ...卡西米尔无权为我授勋 -->
+  <AK_Thought_Trait_Maynar.stages.0.description>...卡西米尔无权为我授勋</AK_Thought_Trait_Maynar.stages.0.description>
+  
+  <!-- EN: 小聪明 -->
+  <AK_Thought_Trait_Morgan.stages.0.label>小聪明</AK_Thought_Trait_Morgan.stages.0.label>
+  <!-- EN: “唔，这个罐头的味道不太对，是不是过期了......这样吧，带去给汉娜尝尝看。\n万一她一口气全吃了下去......那正好不浪费，是吧？” -->
+  <AK_Thought_Trait_Morgan.stages.0.description>“唔，这个罐头的味道不太对，是不是过期了......这样吧，带去给汉娜尝尝看。
+万一她一口气全吃了下去......那正好不浪费，是吧？”</AK_Thought_Trait_Morgan.stages.0.description>
+  
+  <!-- EN: 胜利女神 -->
+  <AK_Thought_Trait_Pallas.stages.0.label>胜利女神</AK_Thought_Trait_Pallas.stages.0.label>
+  <!-- EN: 保佑胜利的英雄，我将领受你们的祝福。 -->
+  <AK_Thought_Trait_Pallas.stages.0.description>保佑胜利的英雄，我将领受你们的祝福。</AK_Thought_Trait_Pallas.stages.0.description>
+  
+  <!-- EN: 侠客 -->
+  <AK_Thought_Trait_Qiubai.stages.0.label>侠客</AK_Thought_Trait_Qiubai.stages.0.label>
+  <!-- EN: 仗剑何为？不平则鸣。 -->
+  <AK_Thought_Trait_Qiubai.stages.0.description>仗剑何为？不平则鸣。</AK_Thought_Trait_Qiubai.stages.0.description>
+  
+  <!-- EN: 耀骑士 -->
+  <AK_Thought_Trait_RadiantKnight.stages.0.label>耀骑士</AK_Thought_Trait_RadiantKnight.stages.0.label>
+  <!-- EN: 所谓骑士，就是照亮整片大地的崇高者。 -->
+  <AK_Thought_Trait_RadiantKnight.stages.0.description>所谓骑士，就是照亮整片大地的崇高者。</AK_Thought_Trait_RadiantKnight.stages.0.description>
+  
+  <!-- EN: 涌潮悲歌 -->
+  <AK_Thought_Trait_Skadi.stages.0.label>涌潮悲歌</AK_Thought_Trait_Skadi.stages.0.label>
+  <!-- EN: 当你历经漫长黑暗、终于浮出海面——睁开眼睛的刹那，灿烂星空滴落眼眶、无垠波浪拂过面颊，眼泪和家的味道，都是咸的。 -->
+  <AK_Thought_Trait_Skadi.stages.0.description>当你历经漫长黑暗、终于浮出海面——睁开眼睛的刹那，灿烂星空滴落眼眶、无垠波浪拂过面颊，眼泪和家的味道，都是咸的。</AK_Thought_Trait_Skadi.stages.0.description>
+  
+  <!-- EN: 疯狂的深海猎人 -->
+  <AK_Thought_Trait_Specter.stages.0.label>疯狂的深海猎人</AK_Thought_Trait_Specter.stages.0.label>
+  <!-- EN: 如果你说我疯狂，我会认为这是对我的侮辱。但如果你说我的战斗方式疯狂......我会认为这是一种褒奖。 -->
+  <AK_Thought_Trait_Specter.stages.0.description>如果你说我疯狂，我会认为这是对我的侮辱。但如果你说我的战斗方式疯狂......我会认为这是一种褒奖。</AK_Thought_Trait_Specter.stages.0.description>
+  
+  <!-- EN: 破碎的记忆 -->
+  <AK_Thought_Trait_Surtr.stages.0.label>破碎的记忆</AK_Thought_Trait_Surtr.stages.0.label>
+  <!-- EN: 我有着各种各样的记忆，我也不知道它们是怎么来的，我也不知道哪些是真正属于我的。 -->
+  <AK_Thought_Trait_Surtr.stages.0.description>我有着各种各样的记忆，我也不知道它们是怎么来的，我也不知道哪些是真正属于我的。</AK_Thought_Trait_Surtr.stages.0.description>
+  
+  <!-- EN: 伺机而动 -->
+  <AK_Thought_Trait_Tequila.stages.0.label>伺机而动</AK_Thought_Trait_Tequila.stages.0.label>
+  <!-- EN: 上次决定帮老爹，其实是我为理清自己的想法，而最后一次向自己提问......现在，我已经有答案了。 -->
+  <AK_Thought_Trait_Tequila.stages.0.description>上次决定帮老爹，其实是我为理清自己的想法，而最后一次向自己提问......现在，我已经有答案了。</AK_Thought_Trait_Tequila.stages.0.description>
+  
+  <!-- EN: 洒脱 -->
+  <AK_Thought_Trait_Thorns.stages.0.label>洒脱</AK_Thought_Trait_Thorns.stages.0.label>
+  <!-- EN: 其他人的评价？嗯，我不太在乎。 -->
+  <AK_Thought_Trait_Thorns.stages.0.description>其他人的评价？嗯，我不太在乎。</AK_Thought_Trait_Thorns.stages.0.description>
+  
+  <!-- EN: 时尚女孩 -->
+  <AK_Thought_Trait_Utage.stages.0.label>时尚女孩</AK_Thought_Trait_Utage.stages.0.label>
+  <!-- EN: “指甲可是女孩子的魅力点之一，不好好保养怎么行。” -->
+  <AK_Thought_Trait_Utage.stages.0.description>“指甲可是女孩子的魅力点之一，不好好保养怎么行。”</AK_Thought_Trait_Utage.stages.0.description>
+  
+  <!-- EN: 鸟笼中的金丝雀 -->
+  <AK_Thought_Trait_Viviana.stages.0.label>鸟笼中的金丝雀</AK_Thought_Trait_Viviana.stages.0.label>
+  <!-- EN: 当房间里点燃一支蜡烛时，最吸引你目光的是那点烛光，而真正将你包裹的，是周遭所有器物的影子。 -->
+  <AK_Thought_Trait_Viviana.stages.0.description>当房间里点燃一支蜡烛时，最吸引你目光的是那点烛光，而真正将你包裹的，是周遭所有器物的影子。</AK_Thought_Trait_Viviana.stages.0.description>
+  
+</LanguageData>

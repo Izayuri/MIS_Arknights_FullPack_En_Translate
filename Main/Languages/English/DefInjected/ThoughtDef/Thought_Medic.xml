@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 大小姐 -->
+  <AK_Thought_Trait_CeylonSecond.stages.0.label>大小姐</AK_Thought_Trait_CeylonSecond.stages.0.label>
+  <!-- EN: 努力就会有回报，我一直这么认为，也一直是这么做的。 -->
+  <AK_Thought_Trait_CeylonSecond.stages.0.description>努力就会有回报，我一直这么认为，也一直是这么做的。</AK_Thought_Trait_CeylonSecond.stages.0.description>
+  
+  <!-- EN: 想要留住的声音 -->
+  <AK_Thought_Trait_EyjafjallaHvitAska.stages.0.label>想要留住的声音</AK_Thought_Trait_EyjafjallaHvitAska.stages.0.label>
+  <!-- EN: 真希望与大家相处的日子，能再久一点呀。 -->
+  <AK_Thought_Trait_EyjafjallaHvitAska.stages.0.description>真希望与大家相处的日子，能再久一点呀。</AK_Thought_Trait_EyjafjallaHvitAska.stages.0.description>
+  
+  <!-- EN: 生命之火 -->
+  <AK_Thought_Trait_FlameShadow.stages.0.label>生命之火</AK_Thought_Trait_FlameShadow.stages.0.label>
+  <!-- EN: 潮湿的泥土上，许多生命在挣扎。只要我的火还没有熄灭，我就一定、一定会触碰到他们。 -->
+  <AK_Thought_Trait_FlameShadow.stages.0.description>潮湿的泥土上，许多生命在挣扎。只要我的火还没有熄灭，我就一定、一定会触碰到他们。</AK_Thought_Trait_FlameShadow.stages.0.description>
+  
+  <!-- EN: 奇特却坚定的医师 -->
+  <AK_Thought_Trait_Gavial.stages.0.label>奇特却坚定的医师</AK_Thought_Trait_Gavial.stages.0.label>
+  <!-- EN: 哈？温柔可爱？那不是护士吗？我可是专业的治疗者，对治疗之外的事情没有兴趣。 -->
+  <AK_Thought_Trait_Gavial.stages.0.description>哈？温柔可爱？那不是护士吗？我可是专业的治疗者，对治疗之外的事情没有兴趣。</AK_Thought_Trait_Gavial.stages.0.description>
+  
+  <!-- EN: 旧日之影 -->
+  <AK_Thought_Trait_Kaltsit.stages.0.label>旧日之影</AK_Thought_Trait_Kaltsit.stages.0.label>
+  <!-- EN: 越是强大越是脆弱，这就是万物的道理。 -->
+  <AK_Thought_Trait_Kaltsit.stages.0.description>越是强大越是脆弱，这就是万物的道理。</AK_Thought_Trait_Kaltsit.stages.0.description>
+  
+  <!-- EN: 封闭的希望 -->
+  <AK_Thought_Trait_NightingaleSecond.stages.0.label>封闭的希望</AK_Thought_Trait_NightingaleSecond.stages.0.label>
+  <!-- EN: 为什么我会是如今这副身姿呢？为什么我要去承受这迷乱的一切呢？ -->
+  <AK_Thought_Trait_NightingaleSecond.stages.0.description>为什么我会是如今这副身姿呢？为什么我要去承受这迷乱的一切呢？</AK_Thought_Trait_NightingaleSecond.stages.0.description>
+  
+  <!-- EN: 手有余香 -->
+  <AK_Thought_Trait_Perfumer.stages.0.label>手有余香</AK_Thought_Trait_Perfumer.stages.0.label>
+  <!-- EN: 蚂蚁们的社会关系，是依靠气味来维持的吧？我觉得调香师和顾客的关系也是如此。 -->
+  <AK_Thought_Trait_Perfumer.stages.0.description>蚂蚁们的社会关系，是依靠气味来维持的吧？我觉得调香师和顾客的关系也是如此。</AK_Thought_Trait_Perfumer.stages.0.description>
+  
+  <!-- EN: 另一个声音 -->
+  <AK_Thought_Trait_Ptilopsis.stages.0.label>另一个声音</AK_Thought_Trait_Ptilopsis.stages.0.label>
+  <!-- EN: 实际上，采用这样的说话方式需要承受相当大的负担。但这是为了防止系统中枢被那个声音吞噬的必要措施。 -->
+  <AK_Thought_Trait_Ptilopsis.stages.0.description>实际上，采用这样的说话方式需要承受相当大的负担。但这是为了防止系统中枢被那个声音吞噬的必要措施。</AK_Thought_Trait_Ptilopsis.stages.0.description>
+  
+  <!-- EN: 慈悲 -->
+  <AK_Thought_Trait_Shining.stages.0.label>慈悲</AK_Thought_Trait_Shining.stages.0.label>
+  <!-- EN: ......这份寂静， 让我想起了身在故乡时的岁月。 -->
+  <AK_Thought_Trait_Shining.stages.0.description>......这份寂静， 让我想起了身在故乡时的岁月。</AK_Thought_Trait_Shining.stages.0.description>
+  
+  <!-- EN: 血先生 -->
+  <AK_Thought_Trait_WarfarinSecond.stages.0.label>血先生</AK_Thought_Trait_WarfarinSecond.stages.0.label>
+  <!-- EN: 我能不能控制吸血冲动？是不是小看我了呀！作为经受过训练的专业医生，我还是能分得清食物和病人的！ -->
+  <AK_Thought_Trait_WarfarinSecond.stages.0.description>我能不能控制吸血冲动？是不是小看我了呀！作为经受过训练的专业医生，我还是能分得清食物和病人的！</AK_Thought_Trait_WarfarinSecond.stages.0.description>
+  
+  <!-- EN: 生物性退行 -->
+  <AK_Thought_Trait_Whisperain.stages.0.label>生物性退行</AK_Thought_Trait_Whisperain.stages.0.label>
+  <!-- EN: 所有的回忆最后都会变成泡沫。\n不管是痛苦的还是喜悦的，那些不想忘记的过去，总会悄然从我身边逃离。 -->
+  <AK_Thought_Trait_Whisperain.stages.0.description>所有的回忆最后都会变成泡沫。
+不管是痛苦的还是喜悦的，那些不想忘记的过去，总会悄然从我身边逃离。</AK_Thought_Trait_Whisperain.stages.0.description>
+  
+</LanguageData>

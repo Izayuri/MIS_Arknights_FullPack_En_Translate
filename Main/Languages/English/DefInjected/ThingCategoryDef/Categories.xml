@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 明日方舟系列衣着 -->
+  <AK_Apparel.label>明日方舟系列衣着</AK_Apparel.label>
+  
+  <!-- EN: 饰品 -->
+  <AK_Apparel_Accessory.label>饰品</AK_Apparel_Accessory.label>
+  
+  <!-- EN: 术士衣着 -->
+  <AK_Apparel_Caster.label>术士衣着</AK_Apparel_Caster.label>
+  
+  <!-- EN: 重装衣着 -->
+  <AK_Apparel_Defender.label>重装衣着</AK_Apparel_Defender.label>
+  
+  <!-- EN: 近卫衣着 -->
+  <AK_Apparel_Guard.label>近卫衣着</AK_Apparel_Guard.label>
+  
+  <!-- EN: 帽子 -->
+  <AK_Apparel_Hat.label>帽子</AK_Apparel_Hat.label>
+  
+  <!-- EN: 医疗衣着 -->
+  <AK_Apparel_Medic.label>医疗衣着</AK_Apparel_Medic.label>
+  
+  <!-- EN: 领袖衣着 -->
+  <AK_Apparel_OtherLeader.label>领袖衣着</AK_Apparel_OtherLeader.label>
+  
+  <!-- EN: 整合运动衣着 -->
+  <AK_Apparel_Reunion.label>整合运动衣着</AK_Apparel_Reunion.label>
+  
+  <!-- EN: 狙击衣着 -->
+  <AK_Apparel_Sniper.label>狙击衣着</AK_Apparel_Sniper.label>
+  
+  <!-- EN: 特种衣着 -->
+  <AK_Apparel_Specialist.label>特种衣着</AK_Apparel_Specialist.label>
+  
+  <!-- EN: 辅助衣着 -->
+  <AK_Apparel_Supporter.label>辅助衣着</AK_Apparel_Supporter.label>
+  
+  <!-- EN: 先锋衣着 -->
+  <AK_Apparel_Vanguard.label>先锋衣着</AK_Apparel_Vanguard.label>
+  
+  <!-- EN: 明日方舟建筑 -->
+  <AK_Building.label>明日方舟建筑</AK_Building.label>
+  
+  <!-- EN: 食品和药品 -->
+  <AK_Eatable.label>食品和药品</AK_Eatable.label>
+  
+  <!-- EN: 源石 -->
+  <AK_ORG.label>源石</AK_ORG.label>
+  
+  <!-- EN: 明日方舟系列护盾 -->
+  <AK_ShieldBelt.label>明日方舟系列护盾</AK_ShieldBelt.label>
+  
+  <!-- EN: 明日方舟系列武器 -->
+  <AK_Weapon.label>明日方舟系列武器</AK_Weapon.label>
+  
+  <!-- EN: 术士武器 -->
+  <AK_Weapon_Caster.label>术士武器</AK_Weapon_Caster.label>
+  
+  <!-- EN: 重装武器 -->
+  <AK_Weapon_Defender.label>重装武器</AK_Weapon_Defender.label>
+  
+  <!-- EN: 近卫武器 -->
+  <AK_Weapon_Guard.label>近卫武器</AK_Weapon_Guard.label>
+  
+  <!-- EN: 医疗武器 -->
+  <AK_Weapon_Medic.label>医疗武器</AK_Weapon_Medic.label>
+  
+  <!-- EN: 领袖武器 -->
+  <AK_Weapon_OtherLeader.label>领袖武器</AK_Weapon_OtherLeader.label>
+  
+  <!-- EN: 整合运动武器 -->
+  <AK_Weapon_Reunion.label>整合运动武器</AK_Weapon_Reunion.label>
+  
+  <!-- EN: 狙击武器 -->
+  <AK_Weapon_Sniper.label>狙击武器</AK_Weapon_Sniper.label>
+  
+  <!-- EN: 特种武器 -->
+  <AK_Weapon_Specialist.label>特种武器</AK_Weapon_Specialist.label>
+  
+  <!-- EN: 辅助武器 -->
+  <AK_Weapon_Supporter.label>辅助武器</AK_Weapon_Supporter.label>
+  
+  <!-- EN: 先锋武器 -->
+  <AK_Weapon_Vanguard.label>先锋武器</AK_Weapon_Vanguard.label>
+  
+  <!-- EN: 作战记录 -->
+  <CombatRecord.label>作战记录</CombatRecord.label>
+  
+</LanguageData>

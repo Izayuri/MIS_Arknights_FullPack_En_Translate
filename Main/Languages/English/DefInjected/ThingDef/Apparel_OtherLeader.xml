@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 管理员服装 -->
+  <AK_Apparel_Administrator.label>管理员服装</AK_Apparel_Administrator.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Administrator.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Administrator.description>
+  
+  <!-- EN: 管理员服装(男) -->
+  <AK_Apparel_AdministratorMale.label>管理员服装(男)</AK_Apparel_AdministratorMale.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_AdministratorMale.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_AdministratorMale.description>
+  
+  <!-- EN: 可露希尔服装 -->
+  <AK_Apparel_Closure.label>可露希尔服装</AK_Apparel_Closure.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Closure.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Closure.description>
+  
+  <!-- EN: 温德米尔公爵服装 -->
+  <AK_Apparel_DukeWindermere.label>温德米尔公爵服装</AK_Apparel_DukeWindermere.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_DukeWindermere.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_DukeWindermere.description>
+  
+  <!-- EN: 爱布拉娜服装 -->
+  <AK_Apparel_Eblana.label>爱布拉娜服装</AK_Apparel_Eblana.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Eblana.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Eblana.description>
+  
+  <!-- EN: 霜星服装 -->
+  <AK_Apparel_FrostNova.label>霜星服装</AK_Apparel_FrostNova.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_FrostNova.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_FrostNova.description>
+  
+  <!-- EN: 克丽斯腾服装 -->
+  <AK_Apparel_Kristen.label>克丽斯腾服装</AK_Apparel_Kristen.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Kristen.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Kristen.description>
+  
+  <!-- EN: 佩丽卡服装 -->
+  <AK_Apparel_Perlica.label>佩丽卡服装</AK_Apparel_Perlica.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Perlica.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Perlica.description>
+  
+  <!-- EN: 普瑞赛斯服装 -->
+  <AK_Apparel_PRTS.label>普瑞赛斯服装</AK_Apparel_PRTS.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_PRTS.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_PRTS.description>
+  
+</LanguageData>

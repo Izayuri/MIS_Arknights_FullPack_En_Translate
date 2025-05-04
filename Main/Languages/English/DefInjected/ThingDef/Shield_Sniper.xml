@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 堇青之夜 -->
+  <AKS_ShieldBelt_ChenHolungday.label>堇青之夜</AKS_ShieldBelt_ChenHolungday.label>
+  <!-- EN: 工程部为莱在使用护盾更有效的时候，陈会毫不犹豫地去使用。这并不意味着她不再信任自己的剑术和腰间的赤霄，只是她强迫自己去理解，如果她要达成目的，那么，在不违背底线的情况下，她应当开拓自己的视野。伊改装的专用护盾腰带，能够有效防止在外勤任务中受到意外伤害，莱伊在点头示意并“嗯”了一声后便接过了它。 -->
+  <AKS_ShieldBelt_ChenHolungday.description>工程部为莱在使用护盾更有效的时候，陈会毫不犹豫地去使用。这并不意味着她不再信任自己的剑术和腰间的赤霄，只是她强迫自己去理解，如果她要达成目的，那么，在不违背底线的情况下，她应当开拓自己的视野。伊改装的专用护盾腰带，能够有效防止在外勤任务中受到意外伤害，莱伊在点头示意并“嗯”了一声后便接过了它。</AKS_ShieldBelt_ChenHolungday.description>
+  
+  <!-- EN: 巡哨伙伴·莱菈叶 -->
+  <AKS_ShieldBelt_Ray.label>巡哨伙伴·莱菈叶</AKS_ShieldBelt_Ray.label>
+  <!-- EN: 工程部为莱伊改装的专用护盾腰带，能够有效防止在外勤任务中受到意外伤害，莱伊在点头示意并“嗯”了一声后便接过了它。 -->
+  <AKS_ShieldBelt_Ray.description>工程部为莱伊改装的专用护盾腰带，能够有效防止在外勤任务中受到意外伤害，莱伊在点头示意并“嗯”了一声后便接过了它。</AKS_ShieldBelt_Ray.description>
+  
+  <!-- EN: 自然的包容 -->
+  <AKS_ShieldBelt_Typhon.label>自然的包容</AKS_ShieldBelt_Typhon.label>
+  <!-- EN: 这块小小的南方土壤上，树只能这么长，你们有这样的规矩也没办法。 -->
+  <AKS_ShieldBelt_Typhon.description>这块小小的南方土壤上，树只能这么长，你们有这样的规矩也没办法。</AKS_ShieldBelt_Typhon.description>
+  
+  <!-- EN: 死魂灵的余息 -->
+  <AKS_ShieldBelt_Wisadel.label>死魂灵的余息</AKS_ShieldBelt_Wisadel.label>
+  <!-- EN: 要是还没人管这扇门，我就自己来修了啊。喂，死魂灵，出来干活。 -->
+  <AKS_ShieldBelt_Wisadel.description>要是还没人管这扇门，我就自己来修了啊。喂，死魂灵，出来干活。</AKS_ShieldBelt_Wisadel.description>
+  
+</LanguageData>

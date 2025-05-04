@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 维多利亚国立大学源石研究专业毕业生，现作为辅助研究员在凯尔希医生的研究室内工作。\n在水系法术上颇有造诣，能够在战场上为队友提供可靠的医疗支援。 -->
+  <AK_BackStory_Ceylon_Adult.description>维多利亚国立大学源石研究专业毕业生，现作为辅助研究员在凯尔希医生的研究室内工作。
+在水系法术上颇有造诣，能够在战场上为队友提供可靠的医疗支援。</AK_BackStory_Ceylon_Adult.description>
+  <!-- EN: 学者 -->
+  <AK_BackStory_Ceylon_Adult.title>学者</AK_BackStory_Ceylon_Adult.title>
+  <!-- EN: 学者 -->
+  <AK_BackStory_Ceylon_Adult.titleShort>学者</AK_BackStory_Ceylon_Adult.titleShort>
+  
+  <!-- EN: 作为汐斯塔城主赫尔曼·道尔科斯的独女，{PAWN_nameDef}毫无疑问是含着金汤匙出生的。\n但因为{PAWN_pronoun}从小就被送往维多利亚留学，长期的独自留学生活让{PAWN_pronoun}养成了相当独立的性格，因此与大家印象中的“富家子女”形象有些偏差。 -->
+  <AK_BackStory_Ceylon_Child.description>作为汐斯塔城主赫尔曼·道尔科斯的独女，{PAWN_nameDef}毫无疑问是含着金汤匙出生的。
+但因为{PAWN_pronoun}从小就被送往维多利亚留学，长期的独自留学生活让{PAWN_pronoun}养成了相当独立的性格，因此与大家印象中的“富家子女”形象有些偏差。</AK_BackStory_Ceylon_Child.description>
+  <!-- EN: 汐斯塔大小姐 -->
+  <AK_BackStory_Ceylon_Child.title>汐斯塔大小姐</AK_BackStory_Ceylon_Child.title>
+  <!-- EN: 大小姐 -->
+  <AK_BackStory_Ceylon_Child.titleShort>大小姐</AK_BackStory_Ceylon_Child.titleShort>
+  
+  <!-- EN: 苇草，驻留罗德岛的维多利亚南部办事处期间，曾提出撤离申请，近期再次成功与罗德岛建立联络。目前正以深池名义带领小股部队在维多利亚境内活动，以救助被暴力胁迫的塔拉人为主要行动目标。 -->
+  <AK_BackStory_FlameShadow_Adult.description>苇草，驻留罗德岛的维多利亚南部办事处期间，曾提出撤离申请，近期再次成功与罗德岛建立联络。目前正以深池名义带领小股部队在维多利亚境内活动，以救助被暴力胁迫的塔拉人为主要行动目标。</AK_BackStory_FlameShadow_Adult.description>
+  <!-- EN: 苇草 -->
+  <AK_BackStory_FlameShadow_Adult.title>苇草</AK_BackStory_FlameShadow_Adult.title>
+  <!-- EN: 苇草 -->
+  <AK_BackStory_FlameShadow_Adult.titleShort>苇草</AK_BackStory_FlameShadow_Adult.titleShort>
+  
+  <!-- EN: 作为血统高贵的德拉克，苇草自幼接受着高等教育，但是在其中也根植着塔拉人对维多利亚的仇恨。 -->
+  <AK_BackStory_FlameShadow_Child.description>作为血统高贵的德拉克，苇草自幼接受着高等教育，但是在其中也根植着塔拉人对维多利亚的仇恨。</AK_BackStory_FlameShadow_Child.description>
+  <!-- EN: 维多利亚的德拉克 -->
+  <AK_BackStory_FlameShadow_Child.title>维多利亚的德拉克</AK_BackStory_FlameShadow_Child.title>
+  <!-- EN: 维多利亚的德拉克 -->
+  <AK_BackStory_FlameShadow_Child.titleShort>维多利亚的德拉克</AK_BackStory_FlameShadow_Child.titleShort>
+  
+  <!-- EN: 在觉醒了治疗法术天赋后，{PAWN_nameDef}毅然选择了以救死扶伤为己任。\n在一次救援行动中，{PAWN_pronoun}不幸感染了矿石病，于是离开了萨尔贡的雨林，到罗德岛进行治疗。 -->
+  <AK_BackStory_Gavial_Adult.description>在觉醒了治疗法术天赋后，{PAWN_nameDef}毅然选择了以救死扶伤为己任。
+在一次救援行动中，{PAWN_pronoun}不幸感染了矿石病，于是离开了萨尔贡的雨林，到罗德岛进行治疗。</AK_BackStory_Gavial_Adult.description>
+  <!-- EN: 医生 -->
+  <AK_BackStory_Gavial_Adult.title>医生</AK_BackStory_Gavial_Adult.title>
+  <!-- EN: 医生 -->
+  <AK_BackStory_Gavial_Adult.titleShort>医生</AK_BackStory_Gavial_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}生长于萨尔贡深处的雨林部落中，小时候的{PAWN_pronoun}与同一地区的另一个部落的森蚺干员结下了深厚的“友谊”。\n{PAWN_pronoun}曾经是自己部族数一数二的战士。 -->
+  <AK_BackStory_Gavial_Child.description>{PAWN_nameDef}生长于萨尔贡深处的雨林部落中，小时候的{PAWN_pronoun}与同一地区的另一个部落的森蚺干员结下了深厚的“友谊”。
+{PAWN_pronoun}曾经是自己部族数一数二的战士。</AK_BackStory_Gavial_Child.description>
+  <!-- EN: 部族最强壮的孩子 -->
+  <AK_BackStory_Gavial_Child.title>部族最强壮的孩子</AK_BackStory_Gavial_Child.title>
+  <!-- EN: 最强壮的孩子 -->
+  <AK_BackStory_Gavial_Child.titleShort>最强壮的孩子</AK_BackStory_Gavial_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，罗德岛高层管理人员之一，罗德岛医疗项目领头人。在冶金工业、社会学、源石技艺、考古学、历史系谱学、经济学、植物学、地质学等领域皆拥有渊博学识。于罗德岛部分行动中作为医务人员提供医学理论协助与应急医疗器械，同时也作为罗德岛战略指挥系统的重要组成人员活跃在各项目中。 -->
+  <AK_BackStory_Kaltsit_Adult.description>{PAWN_nameDef}，罗德岛高层管理人员之一，罗德岛医疗项目领头人。在冶金工业、社会学、源石技艺、考古学、历史系谱学、经济学、植物学、地质学等领域皆拥有渊博学识。于罗德岛部分行动中作为医务人员提供医学理论协助与应急医疗器械，同时也作为罗德岛战略指挥系统的重要组成人员活跃在各项目中。</AK_BackStory_Kaltsit_Adult.description>
+  <!-- EN: 罗德岛领导人 -->
+  <AK_BackStory_Kaltsit_Adult.title>罗德岛领导人</AK_BackStory_Kaltsit_Adult.title>
+  <!-- EN: 老山猫 -->
+  <AK_BackStory_Kaltsit_Adult.titleShort>老山猫</AK_BackStory_Kaltsit_Adult.titleShort>
+  
+  <!-- EN: 缥缈的行途歌谣，摇曳在时间长河中。\n找寻答案而去的风，已道不清来时的路。 -->
+  <AK_BackStory_Kaltsit_Child.description>缥缈的行途歌谣，摇曳在时间长河中。
+找寻答案而去的风，已道不清来时的路。</AK_BackStory_Kaltsit_Child.description>
+  <!-- EN: 旧日之影 -->
+  <AK_BackStory_Kaltsit_Child.title>旧日之影</AK_BackStory_Kaltsit_Child.title>
+  <!-- EN: 旧日之影 -->
+  <AK_BackStory_Kaltsit_Child.titleShort>旧日之影</AK_BackStory_Kaltsit_Child.titleShort>
+  
+  <!-- EN: 但{PAWN_nameDef}决定反抗{PAWN_pronoun}父母的安排，为此{PAWN_pronoun}加入了直面天灾的一线救援组织。尽管陌生的环境，不保暖的睡袋，不合口味的饭菜，这都会让{PAWN_pronoun}在夜晚偷偷流泪想念家乡。\n但{PAWN_pronoun}也从未想过放弃这份工作 -->
+  <AK_BackStory_Mulberry_Adult.description>但{PAWN_nameDef}决定反抗{PAWN_pronoun}父母的安排，为此{PAWN_pronoun}加入了直面天灾的一线救援组织。尽管陌生的环境，不保暖的睡袋，不合口味的饭菜，这都会让{PAWN_pronoun}在夜晚偷偷流泪想念家乡。
+但{PAWN_pronoun}也从未想过放弃这份工作</AK_BackStory_Mulberry_Adult.description>
+  <!-- EN: 救援队医生 -->
+  <AK_BackStory_Mulberry_Adult.title>救援队医生</AK_BackStory_Mulberry_Adult.title>
+  <!-- EN: 医生 -->
+  <AK_BackStory_Mulberry_Adult.titleShort>医生</AK_BackStory_Mulberry_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}在炎国的传统家庭里长大，作为年龄最小的那一个女孩，{PAWN_possessive}人生被父母一眼就能望到头地安排好了。 -->
+  <AK_BackStory_Mulberry_Child.description>{PAWN_nameDef}在炎国的传统家庭里长大，作为年龄最小的那一个女孩，{PAWN_possessive}人生被父母一眼就能望到头地安排好了。</AK_BackStory_Mulberry_Child.description>
+  <!-- EN: 普通的学生 -->
+  <AK_BackStory_Mulberry_Child.title>普通的学生</AK_BackStory_Mulberry_Child.title>
+  <!-- EN: 学生 -->
+  <AK_BackStory_Mulberry_Child.titleShort>学生</AK_BackStory_Mulberry_Child.titleShort>
+  
+  <!-- EN: 其好友哈默妮的矿石病感染皆因两人在某次探险中{PAWN_nameDef}失误的行为所导致。但{PAWN_pronoun}并未详细描述探险的详细过程以及哈默妮感染的原因。\n为了为自己的好友取得治疗机会，{PAWN_pronoun}主动加入罗德岛。 -->
+  <AK_BackStory_Myrrh_Adult.description>其好友哈默妮的矿石病感染皆因两人在某次探险中{PAWN_nameDef}失误的行为所导致。但{PAWN_pronoun}并未详细描述探险的详细过程以及哈默妮感染的原因。
+为了为自己的好友取得治疗机会，{PAWN_pronoun}主动加入罗德岛。</AK_BackStory_Myrrh_Adult.description>
+  <!-- EN: 愧疚的朋友 -->
+  <AK_BackStory_Myrrh_Adult.title>愧疚的朋友</AK_BackStory_Myrrh_Adult.title>
+  <!-- EN: 愧疚的朋友 -->
+  <AK_BackStory_Myrrh_Adult.titleShort>愧疚的朋友</AK_BackStory_Myrrh_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}与朋友哈默妮两人均来自某缺乏国家控制力保障的地带，而该地带具有严格的守密原则，避免任何可能的情报泄露，导致该地区被外人发现。基于这种情况，对该份资料的调查目前处于搁置状态。 -->
+  <AK_BackStory_Myrrh_Child.description>{PAWN_nameDef}与朋友哈默妮两人均来自某缺乏国家控制力保障的地带，而该地带具有严格的守密原则，避免任何可能的情报泄露，导致该地区被外人发现。基于这种情况，对该份资料的调查目前处于搁置状态。</AK_BackStory_Myrrh_Child.description>
+  <!-- EN: 来自未知 -->
+  <AK_BackStory_Myrrh_Child.title>来自未知</AK_BackStory_Myrrh_Child.title>
+  <!-- EN: 来自未知 -->
+  <AK_BackStory_Myrrh_Child.titleShort>来自未知</AK_BackStory_Myrrh_Child.titleShort>
+  
+  <!-- EN: 闪灵最后救出了{PAWN_nameDef}并让{PAWN_pronoun}加入了使徒，但{PAWN_possessive}精神从未真正离开监禁{PAWN_possessive}地方；\n{PAWN_pronoun}常感到监禁与封闭，是因为自己还身在牢笼之中。 -->
+  <AK_BackStory_Nightingale_Adult.description>闪灵最后救出了{PAWN_nameDef}并让{PAWN_pronoun}加入了使徒，但{PAWN_possessive}精神从未真正离开监禁{PAWN_possessive}地方；
+{PAWN_pronoun}常感到监禁与封闭，是因为自己还身在牢笼之中。</AK_BackStory_Nightingale_Adult.description>
+  <!-- EN: 使徒 -->
+  <AK_BackStory_Nightingale_Adult.title>使徒</AK_BackStory_Nightingale_Adult.title>
+  <!-- EN: 使徒 -->
+  <AK_BackStory_Nightingale_Adult.titleShort>使徒</AK_BackStory_Nightingale_Adult.titleShort>
+  
+  <!-- EN: 闪灵说，{PAWN_nameDef}小姐是一场战争的牺牲品，而这场战争是一场内战，一场……间的内战。 -->
+  <AK_BackStory_Nightingale_Child.description>闪灵说，{PAWN_nameDef}小姐是一场战争的牺牲品，而这场战争是一场内战，一场……间的内战。</AK_BackStory_Nightingale_Child.description>
+  <!-- EN: 牺牲品 -->
+  <AK_BackStory_Nightingale_Child.title>牺牲品</AK_BackStory_Nightingale_Child.title>
+  <!-- EN: 牺牲品 -->
+  <AK_BackStory_Nightingale_Child.titleShort>牺牲品</AK_BackStory_Nightingale_Child.titleShort>
+  
+  <!-- EN: 她正在观察他人的生活，她也在找寻自己的生活。愿与你同行，共同寻找生活的真谛。 -->
+  <AK_BackStory_Papyrus_Adult.description>她正在观察他人的生活，她也在找寻自己的生活。愿与你同行，共同寻找生活的真谛。</AK_BackStory_Papyrus_Adult.description>
+  <!-- EN: 旅者 -->
+  <AK_BackStory_Papyrus_Adult.title>旅者</AK_BackStory_Papyrus_Adult.title>
+  <!-- EN: 旅者 -->
+  <AK_BackStory_Papyrus_Adult.titleShort>旅者</AK_BackStory_Papyrus_Adult.titleShort>
+  
+  <!-- EN: 从学校毕业后，阿娜特便作为法尔贾万达巴德博物馆的代理馆长兢兢业业地管理着博物馆。 -->
+  <AK_BackStory_Papyrus_Child.description>从学校毕业后，阿娜特便作为法尔贾万达巴德博物馆的代理馆长兢兢业业地管理着博物馆。</AK_BackStory_Papyrus_Child.description>
+  <!-- EN: 代理馆长 -->
+  <AK_BackStory_Papyrus_Child.title>代理馆长</AK_BackStory_Papyrus_Child.title>
+  <!-- EN: 馆长 -->
+  <AK_BackStory_Papyrus_Child.titleShort>馆长</AK_BackStory_Papyrus_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}热爱自然，喜欢植物、花香和阳光，选择调香师作为职业正是对这份热爱的回应。\n在最初的阶段，较少亲自体验劳动与工作的莱娜吃了许多苦头，调香的学习和实践均遭遇了一段时间的低谷。但出身大家的{PAWN_pronoun}凭借长久养成的骄傲和自信，将本应沉浸于沮丧于沮丧中的情绪化为了自身前进的行动力，以惊人的毅力熬过了最艰难的时期。 -->
+  <AK_BackStory_Perfumer_Adult.description>{PAWN_nameDef}热爱自然，喜欢植物、花香和阳光，选择调香师作为职业正是对这份热爱的回应。
+在最初的阶段，较少亲自体验劳动与工作的莱娜吃了许多苦头，调香的学习和实践均遭遇了一段时间的低谷。但出身大家的{PAWN_pronoun}凭借长久养成的骄傲和自信，将本应沉浸于沮丧于沮丧中的情绪化为了自身前进的行动力，以惊人的毅力熬过了最艰难的时期。</AK_BackStory_Perfumer_Adult.description>
+  <!-- EN: 调香师 -->
+  <AK_BackStory_Perfumer_Adult.title>调香师</AK_BackStory_Perfumer_Adult.title>
+  <!-- EN: 调香师 -->
+  <AK_BackStory_Perfumer_Adult.titleShort>调香师</AK_BackStory_Perfumer_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}成长于一个兴旺发达的家族，不必为生计发愁，这样的家庭环境使得{PAWN_pronoun}可以投身自己的兴趣中。 -->
+  <AK_BackStory_Perfumer_Child.description>{PAWN_nameDef}成长于一个兴旺发达的家族，不必为生计发愁，这样的家庭环境使得{PAWN_pronoun}可以投身自己的兴趣中。</AK_BackStory_Perfumer_Child.description>
+  <!-- EN: 富家子女 -->
+  <AK_BackStory_Perfumer_Child.title>富家子女</AK_BackStory_Perfumer_Child.title>
+  <!-- EN: 富家子女 -->
+  <AK_BackStory_Perfumer_Child.titleShort>富家子女</AK_BackStory_Perfumer_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，真名乔伊斯，前莱茵生命研究人员，曾经同意了作为莱茵生命实验的人肉计算载体，用以研究源石的信息储存能力。然而实验中途出现问题，导致{PAWN_possessive}大脑受了损伤，{PAWN_pronoun}也因此染上了矿石病。为了维持{PAWN_possessive}生命，{PAWN_possessive}脑内植入了芯片。 -->
+  <AK_BackStory_Ptilopsis_Adult.description>{PAWN_nameDef}，真名乔伊斯，前莱茵生命研究人员，曾经同意了作为莱茵生命实验的人肉计算载体，用以研究源石的信息储存能力。然而实验中途出现问题，导致{PAWN_possessive}大脑受了损伤，{PAWN_pronoun}也因此染上了矿石病。为了维持{PAWN_possessive}生命，{PAWN_possessive}脑内植入了芯片。</AK_BackStory_Ptilopsis_Adult.description>
+  <!-- EN: 人肉计算载体 -->
+  <AK_BackStory_Ptilopsis_Adult.title>人肉计算载体</AK_BackStory_Ptilopsis_Adult.title>
+  <!-- EN: 计算载体 -->
+  <AK_BackStory_Ptilopsis_Adult.titleShort>计算载体</AK_BackStory_Ptilopsis_Adult.titleShort>
+  
+  <!-- EN: 干员{PAWN_nameDef}，出身于一个非常单纯的小乡村，临近河流，以水质清澈闻名。曾与某位罗德岛干员一同解决了一起当地恶性排污事件，自此之后，{PAWN_pronoun}便在家乡小有名气，成为了街坊邻居口中的小红人。而也正是这次事件的发生，令{PAWN_pronoun}感到个人力量的不足之处，萌生了向外走的想法，并开始尝试与罗德岛进行接触。 -->
+  <AK_BackStory_Purestream_Child.description>干员{PAWN_nameDef}，出身于一个非常单纯的小乡村，临近河流，以水质清澈闻名。曾与某位罗德岛干员一同解决了一起当地恶性排污事件，自此之后，{PAWN_pronoun}便在家乡小有名气，成为了街坊邻居口中的小红人。而也正是这次事件的发生，令{PAWN_pronoun}感到个人力量的不足之处，萌生了向外走的想法，并开始尝试与罗德岛进行接触。</AK_BackStory_Purestream_Child.description>
+  <!-- EN: 天真的炎国孩子 -->
+  <AK_BackStory_Purestream_Child.title>天真的炎国孩子</AK_BackStory_Purestream_Child.title>
+  <!-- EN: 炎国孩子 -->
+  <AK_BackStory_Purestream_Child.titleShort>炎国孩子</AK_BackStory_Purestream_Child.titleShort>
+  
+  <!-- EN: ‘赦罪师’……？为什么会提到这个名字……对不起，这个话题我不能继续下去…… -->
+  <AK_BackStory_Shining_Adult.description>‘赦罪师’……？为什么会提到这个名字……对不起，这个话题我不能继续下去……</AK_BackStory_Shining_Adult.description>
+  <!-- EN: 赦罪师 -->
+  <AK_BackStory_Shining_Adult.title>赦罪师</AK_BackStory_Shining_Adult.title>
+  <!-- EN: 赦罪师 -->
+  <AK_BackStory_Shining_Adult.titleShort>赦罪师</AK_BackStory_Shining_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}和曾经隶属于莱茵生命的干员塞雷娅共同进行过一项以伊芙利特为实验对象的实验，实验失败后导致了「炎魔事件」的爆发。塞雷娅在镇压实验对象后投身于罗德岛，在{PAWN_pronoun}来到罗德岛后二人也常常由于理念不合而争吵。 -->
+  <AK_BackStory_Silence_Adult.description>{PAWN_nameDef}和曾经隶属于莱茵生命的干员塞雷娅共同进行过一项以伊芙利特为实验对象的实验，实验失败后导致了「炎魔事件」的爆发。塞雷娅在镇压实验对象后投身于罗德岛，在{PAWN_pronoun}来到罗德岛后二人也常常由于理念不合而争吵。</AK_BackStory_Silence_Adult.description>
+  <!-- EN: 莱茵生命研究员 -->
+  <AK_BackStory_Silence_Adult.title>莱茵生命研究员</AK_BackStory_Silence_Adult.title>
+  <!-- EN: 研究员 -->
+  <AK_BackStory_Silence_Adult.titleShort>研究员</AK_BackStory_Silence_Adult.titleShort>
+  
+  <!-- EN: 在学生时代，{PAWN_nameDef}跟随导师前往莱茵生命参观，拥有无限拓展可能的莱茵生命深深地吸引了{PAWN_possessive}目光，在顺利完成自己的学业后，{PAWN_pronoun}如愿以偿地进入莱茵生命公司就职。在源石技艺领域拥有不凡天赋的{PAWN_pronoun}，很快就得到机会，参与了多项重要源石与临床医疗相关的项目。 -->
+  <AK_BackStory_Silence_Child.description>在学生时代，{PAWN_nameDef}跟随导师前往莱茵生命参观，拥有无限拓展可能的莱茵生命深深地吸引了{PAWN_possessive}目光，在顺利完成自己的学业后，{PAWN_pronoun}如愿以偿地进入莱茵生命公司就职。在源石技艺领域拥有不凡天赋的{PAWN_pronoun}，很快就得到机会，参与了多项重要源石与临床医疗相关的项目。</AK_BackStory_Silence_Child.description>
+  <!-- EN: 努力的学者 -->
+  <AK_BackStory_Silence_Child.title>努力的学者</AK_BackStory_Silence_Child.title>
+  <!-- EN: 学者 -->
+  <AK_BackStory_Silence_Child.titleShort>学者</AK_BackStory_Silence_Child.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}，正式入职前为叙拉古帕勒莫市立医科学院毕业生。具备基础医疗方面的充足学识。\n现于罗德岛担任医疗干员，是总部后勤医疗体系内的坚实力量。 -->
+  <AK_BackStory_Sussurro_Adult.description>{PAWN_nameDef}，正式入职前为叙拉古帕勒莫市立医科学院毕业生。具备基础医疗方面的充足学识。
+现于罗德岛担任医疗干员，是总部后勤医疗体系内的坚实力量。</AK_BackStory_Sussurro_Adult.description>
+  <!-- EN: 罗德岛医疗干员 -->
+  <AK_BackStory_Sussurro_Adult.title>罗德岛医疗干员</AK_BackStory_Sussurro_Adult.title>
+  <!-- EN: 医疗干员 -->
+  <AK_BackStory_Sussurro_Adult.titleShort>医疗干员</AK_BackStory_Sussurro_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}出生于叙拉古某大型都市一个普通家庭中。其父母皆为普通市民，{PAWN_pronoun}是他们第三个孩子。\n父母希望{PAWN_pronoun}成为一个安静，听话的孩子，但是在照顾幺妹的过程中，{PAWN_pronoun}逐渐形成了这种敢说敢做的性格。 -->
+  <AK_BackStory_Sussurro_Child.description>{PAWN_nameDef}出生于叙拉古某大型都市一个普通家庭中。其父母皆为普通市民，{PAWN_pronoun}是他们第三个孩子。
+父母希望{PAWN_pronoun}成为一个安静，听话的孩子，但是在照顾幺妹的过程中，{PAWN_pronoun}逐渐形成了这种敢说敢做的性格。</AK_BackStory_Sussurro_Child.description>
+  <!-- EN: 敢说敢做的孩子 -->
+  <AK_BackStory_Sussurro_Child.title>敢说敢做的孩子</AK_BackStory_Sussurro_Child.title>
+  <!-- EN: 敢说敢做的孩子 -->
+  <AK_BackStory_Sussurro_Child.titleShort>敢说敢做的孩子</AK_BackStory_Sussurro_Child.titleShort>
+  
+  <!-- EN: 在{PAWN_nameDef}生活的小镇被血魔大君的仪式彻底摧毁后，被救出的刺玫加入了伦蒂尼姆自救军，并在后者的牵线搭桥下加入了罗德岛，伦蒂尼姆事件结束之后，玛格达尔主动申请回到维多利亚重建家乡，并担任当地罗德岛办事处的联络员。 -->
+  <AK_BackStory_Vendela_Adult.description>在{PAWN_nameDef}生活的小镇被血魔大君的仪式彻底摧毁后，被救出的刺玫加入了伦蒂尼姆自救军，并在后者的牵线搭桥下加入了罗德岛，伦蒂尼姆事件结束之后，玛格达尔主动申请回到维多利亚重建家乡，并担任当地罗德岛办事处的联络员。</AK_BackStory_Vendela_Adult.description>
+  <!-- EN: 灾难幸存者 -->
+  <AK_BackStory_Vendela_Adult.title>灾难幸存者</AK_BackStory_Vendela_Adult.title>
+  <!-- EN: 灾难幸存者 -->
+  <AK_BackStory_Vendela_Adult.titleShort>灾难幸存者</AK_BackStory_Vendela_Adult.titleShort>
+  
+  <!-- EN: {PAWN_nameDef}家族时代都在一家小镇经营着一家花店和卧室，那里生活惬意，{PAWN_nameDef}最喜欢的事情就是在阳光下的下午独自小憩。\n直到整座小镇被血魔大君的仪式彻底摧毁。 -->
+  <AK_BackStory_Vendela_Child.description>{PAWN_nameDef}家族时代都在一家小镇经营着一家花店和卧室，那里生活惬意，{PAWN_nameDef}最喜欢的事情就是在阳光下的下午独自小憩。
+直到整座小镇被血魔大君的仪式彻底摧毁。</AK_BackStory_Vendela_Child.description>
+  <!-- EN: 花店店长 -->
+  <AK_BackStory_Vendela_Child.title>花店店长</AK_BackStory_Vendela_Child.title>
+  <!-- EN: 花店店长 -->
+  <AK_BackStory_Vendela_Child.titleShort>花店店长</AK_BackStory_Vendela_Child.titleShort>
+  
+  <!-- EN: 外表弱不禁风，难以让人升起尊敬之心的血魔女性，实质上作为元老，在罗德岛中拥有最老的资历。\n本人并不介意他人不将自己当做前辈对待，但决不允许有人在接受治疗时不听从自己的命令。\n年龄虽然不是需要避讳的话题，不过从{PAWN_pronoun}口中吐出的数字总让人觉得难以置信。 -->
+  <AK_BackStory_Warfarin_Adult.description>外表弱不禁风，难以让人升起尊敬之心的血魔女性，实质上作为元老，在罗德岛中拥有最老的资历。
+本人并不介意他人不将自己当做前辈对待，但决不允许有人在接受治疗时不听从自己的命令。
+年龄虽然不是需要避讳的话题，不过从{PAWN_pronoun}口中吐出的数字总让人觉得难以置信。</AK_BackStory_Warfarin_Adult.description>
+  <!-- EN: 罗德岛元老 -->
+  <AK_BackStory_Warfarin_Adult.title>罗德岛元老</AK_BackStory_Warfarin_Adult.title>
+  <!-- EN: 元老 -->
+  <AK_BackStory_Warfarin_Adult.titleShort>元老</AK_BackStory_Warfarin_Adult.titleShort>
+  
+  <!-- EN: 即使在经常被妖魔化的萨卡兹中，血魔也是最恶名远扬的一支。\n它们在黑夜中穿行，以他人的血液为食，杀人如麻，无恶不作……诸如此类。\n不过大多数干员都知道，{PAWN_nameDef}不是这样的人。 -->
+  <AK_BackStory_Warfarin_Child.description>即使在经常被妖魔化的萨卡兹中，血魔也是最恶名远扬的一支。
+它们在黑夜中穿行，以他人的血液为食，杀人如麻，无恶不作……诸如此类。
+不过大多数干员都知道，{PAWN_nameDef}不是这样的人。</AK_BackStory_Warfarin_Child.description>
+  <!-- EN: 血魔 -->
+  <AK_BackStory_Warfarin_Child.title>血魔</AK_BackStory_Warfarin_Child.title>
+  <!-- EN: 血魔 -->
+  <AK_BackStory_Warfarin_Child.titleShort>血魔</AK_BackStory_Warfarin_Child.titleShort>
+  
+  <!-- EN: 伊比利亚出身的巡游医生{PAWN_nameDef}，很少于同一地点长期停留，在卡西米尔与萨米等地区均有留下行动记录。 -->
+  <AK_BackStory_Whisperain_Adult.description>伊比利亚出身的巡游医生{PAWN_nameDef}，很少于同一地点长期停留，在卡西米尔与萨米等地区均有留下行动记录。</AK_BackStory_Whisperain_Adult.description>
+  <!-- EN: 巡游医师 -->
+  <AK_BackStory_Whisperain_Adult.title>巡游医师</AK_BackStory_Whisperain_Adult.title>
+  <!-- EN: 医师 -->
+  <AK_BackStory_Whisperain_Adult.titleShort>医师</AK_BackStory_Whisperain_Adult.titleShort>
+  
+  <!-- EN: 无数张褪色老旧的票根是证明{PAWN_pronoun}过去存在的方式。 -->
+  <AK_BackStory_Whisperain_Child.description>无数张褪色老旧的票根是证明{PAWN_pronoun}过去存在的方式。</AK_BackStory_Whisperain_Child.description>
+  <!-- EN: 无数次重生 -->
+  <AK_BackStory_Whisperain_Child.title>无数次重生</AK_BackStory_Whisperain_Child.title>
+  <!-- EN: 无数次重生 -->
+  <AK_BackStory_Whisperain_Child.titleShort>无数次重生</AK_BackStory_Whisperain_Child.titleShort>
+  
+</LanguageData>

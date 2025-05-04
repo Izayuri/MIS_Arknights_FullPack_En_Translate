@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Ashlock.description>FIXME</AK_Recruit_Ashlock.description>
+  <!-- EN: Ashlock -->
+  <AK_Recruit_Ashlock.name>Ashlock</AK_Recruit_Ashlock.name>
+  <!-- EN: Ashlock -->
+  <AK_Recruit_Ashlock.nickname>Ashlock</AK_Recruit_Ashlock.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Ashlock.surname>罗德岛</AK_Recruit_Ashlock.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Aurora.description>FIXME</AK_Recruit_Aurora.description>
+  <!-- EN: Aurora -->
+  <AK_Recruit_Aurora.name>Aurora</AK_Recruit_Aurora.name>
+  <!-- EN: Aurora -->
+  <AK_Recruit_Aurora.nickname>Aurora</AK_Recruit_Aurora.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Aurora.surname>罗德岛</AK_Recruit_Aurora.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Beagle.description>FIXMEDESC</AK_Recruit_Beagle.description>
+  <!-- EN: Beagle -->
+  <AK_Recruit_Beagle.name>Beagle</AK_Recruit_Beagle.name>
+  <!-- EN: Beagle -->
+  <AK_Recruit_Beagle.nickname>Beagle</AK_Recruit_Beagle.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Beagle.surname>罗德岛</AK_Recruit_Beagle.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Blemishine.description>FIXME</AK_Recruit_Blemishine.description>
+  <!-- EN: Blemishine -->
+  <AK_Recruit_Blemishine.name>Blemishine</AK_Recruit_Blemishine.name>
+  <!-- EN: Blemishine -->
+  <AK_Recruit_Blemishine.nickname>Blemishine</AK_Recruit_Blemishine.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Blemishine.surname>罗德岛</AK_Recruit_Blemishine.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Croissant.description>FIXME</AK_Recruit_Croissant.description>
+  <!-- EN: Croissant -->
+  <AK_Recruit_Croissant.name>Croissant</AK_Recruit_Croissant.name>
+  <!-- EN: Croissant -->
+  <AK_Recruit_Croissant.nickname>Croissant</AK_Recruit_Croissant.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Croissant.surname>罗德岛</AK_Recruit_Croissant.surname>
+  
+  <!-- EN: Yeah, it's time to get sturdy. Real sturdy.\nCuora, Defender Operator of Rhodes Island, will provide reliable defense for the squad. -->
+  <AK_Recruit_Cuora.description>Yeah, it's time to get sturdy. Real sturdy.
+Cuora, Defender Operator of Rhodes Island, will provide reliable defense for the squad.</AK_Recruit_Cuora.description>
+  <!-- EN: Cuora -->
+  <AK_Recruit_Cuora.name>Cuora</AK_Recruit_Cuora.name>
+  <!-- EN: Cuora -->
+  <AK_Recruit_Cuora.nickname>Cuora</AK_Recruit_Cuora.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Cuora.surname>罗德岛</AK_Recruit_Cuora.surname>
+  
+  <!-- EN: She prefers to use machines to solve her problems instead of using her fists.\nEunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironhide.' -->
+  <AK_Recruit_Eunectes.description>She prefers to use machines to solve her problems instead of using her fists.
+Eunectes, Gavial's rival, steps onto the battlefield along with 'Irritable Ironhide.'</AK_Recruit_Eunectes.description>
+  <!-- EN: Eunectes -->
+  <AK_Recruit_Eunectes.name>Eunectes</AK_Recruit_Eunectes.name>
+  <!-- EN: Eunectes -->
+  <AK_Recruit_Eunectes.nickname>Eunectes</AK_Recruit_Eunectes.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Eunectes.surname>罗德岛</AK_Recruit_Eunectes.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Gummy.description>FIXME</AK_Recruit_Gummy.description>
+  <!-- EN: Gummy -->
+  <AK_Recruit_Gummy.name>Gummy</AK_Recruit_Gummy.name>
+  <!-- EN: Gummy -->
+  <AK_Recruit_Gummy.nickname>Gummy</AK_Recruit_Gummy.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Gummy.surname>罗德岛</AK_Recruit_Gummy.surname>
+  
+  <!-- EN: FIXME -->
+  <AK_Recruit_Horn.description>FIXME</AK_Recruit_Horn.description>
+  <!-- EN: Horn -->
+  <AK_Recruit_Horn.name>Horn</AK_Recruit_Horn.name>
+  <!-- EN: Horn -->
+  <AK_Recruit_Horn.nickname>Horn</AK_Recruit_Horn.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Horn.surname>罗德岛</AK_Recruit_Horn.surname>
+  
+  <!-- EN: Stand by her side when you are scared. It really helps.\nHoshiguma, member of the Special Service of Lungmen Guard Department, is awaiting your orders. -->
+  <AK_Recruit_Hoshiguma.description>Stand by her side when you are scared. It really helps.
+Hoshiguma, member of the Special Service of Lungmen Guard Department, is awaiting your orders.</AK_Recruit_Hoshiguma.description>
+  <!-- EN: Hoshiguma -->
+  <AK_Recruit_Hoshiguma.name>Hoshiguma</AK_Recruit_Hoshiguma.name>
+  <!-- EN: Hoshiguma -->
+  <AK_Recruit_Hoshiguma.nickname>Hoshiguma</AK_Recruit_Hoshiguma.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Hoshiguma.surname>罗德岛</AK_Recruit_Hoshiguma.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Liberated.description>FIXMEDESC</AK_Recruit_Liberated.description>
+  <!-- EN: Liberated -->
+  <AK_Recruit_Liberated.name>Liberated</AK_Recruit_Liberated.name>
+  <!-- EN: Liberated -->
+  <AK_Recruit_Liberated.nickname>Liberated</AK_Recruit_Liberated.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Liberated.surname>罗德岛</AK_Recruit_Liberated.surname>
+  
+  <!-- EN: Her spear-like lightning will pierce all enemies in front of her.\nLiskarm, Defender Operator of B.P.R.S. of Blacksteel, possesses both a solid shield and a sharp spear. -->
+  <AK_Recruit_Liskarm.description>Her spear-like lightning will pierce all enemies in front of her.
+Liskarm, Defender Operator of B.P.R.S. of Blacksteel, possesses both a solid shield and a sharp spear.</AK_Recruit_Liskarm.description>
+  <!-- EN: Liskarm -->
+  <AK_Recruit_Liskarm.name>Liskarm</AK_Recruit_Liskarm.name>
+  <!-- EN: Liskarm -->
+  <AK_Recruit_Liskarm.nickname>Liskarm</AK_Recruit_Liskarm.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Liskarm.surname>罗德岛</AK_Recruit_Liskarm.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Matterhorn.description>FIXMEDESC</AK_Recruit_Matterhorn.description>
+  <!-- EN: Matterhorn -->
+  <AK_Recruit_Matterhorn.name>Matterhorn</AK_Recruit_Matterhorn.name>
+  <!-- EN: Matterhorn -->
+  <AK_Recruit_Matterhorn.nickname>Matterhorn</AK_Recruit_Matterhorn.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Matterhorn.surname>罗德岛</AK_Recruit_Matterhorn.surname>
+  
+  <!-- EN: Many people are astonished by her true appearance, and we're all no different.\nMudrock, Sarkaz mercenary, old friend of the fertile soil and stone. -->
+  <AK_Recruit_Mudrock.description>Many people are astonished by her true appearance, and we're all no different.
+Mudrock, Sarkaz mercenary, old friend of the fertile soil and stone.</AK_Recruit_Mudrock.description>
+  <!-- EN: Mudrock -->
+  <AK_Recruit_Mudrock.name>Mudrock</AK_Recruit_Mudrock.name>
+  <!-- EN: Mudrock -->
+  <AK_Recruit_Mudrock.nickname>Mudrock</AK_Recruit_Mudrock.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Mudrock.surname>罗德岛</AK_Recruit_Mudrock.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Nearl.description>FIXMEDESC</AK_Recruit_Nearl.description>
+  <!-- EN: Nearl -->
+  <AK_Recruit_Nearl.name>Nearl</AK_Recruit_Nearl.name>
+  <!-- EN: Nearl -->
+  <AK_Recruit_Nearl.nickname>Nearl</AK_Recruit_Nearl.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Nearl.surname>罗德岛</AK_Recruit_Nearl.surname>
+  
+  <!-- EN: Always in the middle of where the excitement is.\nNian, a mysterious visitor from the faraway land of Yen, is willing to provide a little bit of assistance. -->
+  <AK_Recruit_Nian.description>Always in the middle of where the excitement is.
+Nian, a mysterious visitor from the faraway land of Yen, is willing to provide a little bit of assistance.</AK_Recruit_Nian.description>
+  <!-- EN: Nian -->
+  <AK_Recruit_Nian.name>Nian</AK_Recruit_Nian.name>
+  <!-- EN: Nian -->
+  <AK_Recruit_Nian.nickname>Nian</AK_Recruit_Nian.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Nian.surname>罗德岛</AK_Recruit_Nian.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Penance.description>FIXMEDESC</AK_Recruit_Penance.description>
+  <!-- EN: Penance -->
+  <AK_Recruit_Penance.name>Penance</AK_Recruit_Penance.name>
+  <!-- EN: Penance -->
+  <AK_Recruit_Penance.nickname>Penance</AK_Recruit_Penance.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Penance.surname>罗德岛</AK_Recruit_Penance.surname>
+  
+  <!-- EN: Diamond is more flexible than she is.\nSaria, former researcher of Rhine Lab, will serve as a core part of the squad's defense and healing unit on the battlefield. -->
+  <AK_Recruit_Saria.description>Diamond is more flexible than she is.
+Saria, former researcher of Rhine Lab, will serve as a core part of the squad's defense and healing unit on the battlefield.</AK_Recruit_Saria.description>
+  <!-- EN: Saria -->
+  <AK_Recruit_Saria.name>Saria</AK_Recruit_Saria.name>
+  <!-- EN: Saria -->
+  <AK_Recruit_Saria.nickname>Saria</AK_Recruit_Saria.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Saria.surname>罗德岛</AK_Recruit_Saria.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Shu.description>FIXMEDESC</AK_Recruit_Shu.description>
+  <!-- EN: Shu -->
+  <AK_Recruit_Shu.name>Shu</AK_Recruit_Shu.name>
+  <!-- EN: Shu -->
+  <AK_Recruit_Shu.nickname>Shu</AK_Recruit_Shu.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Shu.surname>罗德岛</AK_Recruit_Shu.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Vulcan.description>FIXMEDESC</AK_Recruit_Vulcan.description>
+  <!-- EN: Vulcan -->
+  <AK_Recruit_Vulcan.name>Vulcan</AK_Recruit_Vulcan.name>
+  <!-- EN: Vulcan -->
+  <AK_Recruit_Vulcan.nickname>Vulcan</AK_Recruit_Vulcan.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Vulcan.surname>罗德岛</AK_Recruit_Vulcan.surname>
+  
+  <!-- EN: FIXMEDESC -->
+  <AK_Recruit_Yu.description>FIXMEDESC</AK_Recruit_Yu.description>
+  <!-- EN: Yu -->
+  <AK_Recruit_Yu.name>Yu</AK_Recruit_Yu.name>
+  <!-- EN: Yu -->
+  <AK_Recruit_Yu.nickname>Yu</AK_Recruit_Yu.nickname>
+  <!-- EN: 罗德岛 -->
+  <AK_Recruit_Yu.surname>罗德岛</AK_Recruit_Yu.surname>
+  
+</LanguageData>

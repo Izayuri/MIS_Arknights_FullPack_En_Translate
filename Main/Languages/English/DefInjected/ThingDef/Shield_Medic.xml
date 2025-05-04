@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Mon3tr -->
+  <AKS_ShieldBelt_Kaltsit.label>Mon3tr</AKS_ShieldBelt_Kaltsit.label>
+  <!-- EN: “Mon3tr和我会保护所有人的” -->
+  <AKS_ShieldBelt_Kaltsit.description>“Mon3tr和我会保护所有人的”</AKS_ShieldBelt_Kaltsit.description>
+  
+  <!-- EN: 白恶魔的庇护 -->
+  <AKS_ShieldBelt_Nightingale.label>白恶魔的庇护</AKS_ShieldBelt_Nightingale.label>
+  <!-- EN: 于睡梦中，她是否也会成为一只自由的飞鸟呢？ -->
+  <AKS_ShieldBelt_Nightingale.description>于睡梦中，她是否也会成为一只自由的飞鸟呢？</AKS_ShieldBelt_Nightingale.description>
+  
+  <!-- EN: 白恶魔的庇护 -->
+  <AKS_ShieldBelt_NightingaleElegy.label>白恶魔的庇护</AKS_ShieldBelt_NightingaleElegy.label>
+  <!-- EN: 于睡梦中，她是否也会成为一只自由的飞鸟呢？ -->
+  <AKS_ShieldBelt_NightingaleElegy.description>于睡梦中，她是否也会成为一只自由的飞鸟呢？</AKS_ShieldBelt_NightingaleElegy.description>
+  
+  <!-- EN: 黑恶魔的庇护 -->
+  <AKS_ShieldBelt_Shining.label>黑恶魔的庇护</AKS_ShieldBelt_Shining.label>
+  <!-- EN: 无论繁荣，还是灭亡。 -->
+  <AKS_ShieldBelt_Shining.description>无论繁荣，还是灭亡。</AKS_ShieldBelt_Shining.description>
+  
+  <!-- EN: 黑恶魔的庇护-静谧午夜 -->
+  <AKS_ShieldBelt_ShiningSilentNight.label>黑恶魔的庇护-静谧午夜</AKS_ShieldBelt_ShiningSilentNight.label>
+  <!-- EN: 无论繁荣，还是灭亡。 -->
+  <AKS_ShieldBelt_ShiningSilentNight.description>无论繁荣，还是灭亡。</AKS_ShieldBelt_ShiningSilentNight.description>
+  
+</LanguageData>

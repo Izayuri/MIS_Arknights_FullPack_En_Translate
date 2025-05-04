@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 基础作战记录 -->
+  <AK_Item_BasicCombatRecord.label>基础作战记录</AK_Item_BasicCombatRecord.label>
+  <!-- EN: 随机一项技能+1000经验 -->
+  <AK_Item_BasicCombatRecord.description>随机一项技能+1000经验</AK_Item_BasicCombatRecord.description>
+  <!-- EN: 使用作战记录 -->
+  <AK_Item_BasicCombatRecord.comps.CompUsable.useLabel>使用作战记录</AK_Item_BasicCombatRecord.comps.CompUsable.useLabel>
+  
+  <!-- EN: 中级作战记录 -->
+  <AK_Item_IntermediateCombatRecord.label>中级作战记录</AK_Item_IntermediateCombatRecord.label>
+  <!-- EN: 获得2000对应技能经验,若殖民者1火和2火技能总数不多于5,将对应技能设置为1火(杰西卡与涤火杰西卡不受限制) -->
+  <AK_Item_IntermediateCombatRecord.description>获得2000对应技能经验,若殖民者1火和2火技能总数不多于5,将对应技能设置为1火(杰西卡与涤火杰西卡不受限制)</AK_Item_IntermediateCombatRecord.description>
+  <!-- EN: 使用作战记录 -->
+  <AK_Item_IntermediateCombatRecord.comps.CompUsable.useLabel>使用作战记录</AK_Item_IntermediateCombatRecord.comps.CompUsable.useLabel>
+  
+  <!-- EN: 初级作战记录 -->
+  <AK_Item_JuniorCombatRecord.label>初级作战记录</AK_Item_JuniorCombatRecord.label>
+  <!-- EN: 获得1000对应技能经验 -->
+  <AK_Item_JuniorCombatRecord.description>获得1000对应技能经验</AK_Item_JuniorCombatRecord.description>
+  <!-- EN: 使用作战记录 -->
+  <AK_Item_JuniorCombatRecord.comps.CompUsable.useLabel>使用作战记录</AK_Item_JuniorCombatRecord.comps.CompUsable.useLabel>
+  
+  <!-- EN: 高级作战记录 -->
+  <AK_Item_SeniorCombatRecord.label>高级作战记录</AK_Item_SeniorCombatRecord.label>
+  <!-- EN: 获得4000对应技能经验,若殖民者2火技能总数不多于3,将对应技能设置为2火(杰西卡与涤火杰西卡不受限制) -->
+  <AK_Item_SeniorCombatRecord.description>获得4000对应技能经验,若殖民者2火技能总数不多于3,将对应技能设置为2火(杰西卡与涤火杰西卡不受限制)</AK_Item_SeniorCombatRecord.description>
+  <!-- EN: 使用作战记录 -->
+  <AK_Item_SeniorCombatRecord.comps.CompUsable.useLabel>使用作战记录</AK_Item_SeniorCombatRecord.comps.CompUsable.useLabel>
+  
+</LanguageData>

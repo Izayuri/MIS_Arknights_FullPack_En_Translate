@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_FlameShadow.label>法术射击</AK_Bullet_FlameShadow.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Kaltsit.label>法术射击</AK_Bullet_Kaltsit.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Medic_Common.label>法术射击</AK_Bullet_Medic_Common.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Nightingale.label>法术射击</AK_Bullet_Nightingale.label>
+  
+  <!-- EN: 法术射击 -->
+  <AK_Bullet_Vendela.label>法术射击</AK_Bullet_Vendela.label>
+  
+  <!-- EN: 湖畔漫步者 -->
+  <AK_Weapon_Ceylon.label>湖畔漫步者</AK_Weapon_Ceylon.label>
+  <!-- EN: 锡兰的伞，握在手中感觉十分潮湿，但是脱手又感觉没有任何水，难道这也是源石技艺？ -->
+  <AK_Weapon_Ceylon.description>锡兰的伞，握在手中感觉十分潮湿，但是脱手又感觉没有任何水，难道这也是源石技艺？</AK_Weapon_Ceylon.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Ceylon.tools.0.label>法杖猛砸</AK_Weapon_Ceylon.tools.0.label>
+  <!-- EN: 湖畔漫步者 -->
+  <AK_Weapon_Ceylon.verbs.Verb_Shoot.label>湖畔漫步者</AK_Weapon_Ceylon.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 纯烬艾雅法拉的法杖 -->
+  <AK_Weapon_EyjafjallaHvitAska.label>纯烬艾雅法拉的法杖</AK_Weapon_EyjafjallaHvitAska.label>
+  <!-- EN: 此干员的惯用武器。 -->
+  <AK_Weapon_EyjafjallaHvitAska.description>此干员的惯用武器。</AK_Weapon_EyjafjallaHvitAska.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_EyjafjallaHvitAska.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_EyjafjallaHvitAska.tools.0.label>
+  <!-- EN: 纯烬艾雅法拉的法杖 -->
+  <AK_Weapon_EyjafjallaHvitAska.verbs.Verb_Shoot.label>纯烬艾雅法拉的法杖</AK_Weapon_EyjafjallaHvitAska.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 纯烬艾雅法拉-远行前的野餐的法杖 -->
+  <AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.label>纯烬艾雅法拉-远行前的野餐的法杖</AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.label>
+  <!-- EN: 此干员的惯用武器。 -->
+  <AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.description>此干员的惯用武器。</AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.tools.0.label>
+  <!-- EN: 纯烬艾雅法拉-远行前的野餐的法杖 -->
+  <AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.verbs.Verb_Shoot.label>纯烬艾雅法拉-远行前的野餐的法杖</AK_Weapon_EyjafjallaHvitAskaPicnicBeforeLongTrip.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 焰影法杖 -->
+  <AK_Weapon_FlameShadow.label>焰影法杖</AK_Weapon_FlameShadow.label>
+  <!-- EN: 她似乎为自己能放下那柄旧枪而感到解脱。 -->
+  <AK_Weapon_FlameShadow.description>她似乎为自己能放下那柄旧枪而感到解脱。</AK_Weapon_FlameShadow.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_FlameShadow.tools.0.label>法杖猛击</AK_Weapon_FlameShadow.tools.0.label>
+  <!-- EN: 焰影法杖 -->
+  <AK_Weapon_FlameShadow.verbs.Verb_Shoot.label>焰影法杖</AK_Weapon_FlameShadow.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 焰影苇草_博物的法杖 -->
+  <AK_Weapon_FlameShadowCurator.label>焰影苇草_博物的法杖</AK_Weapon_FlameShadowCurator.label>
+  <!-- EN: 她似乎为自己能放下那柄旧枪而感到解脱。 -->
+  <AK_Weapon_FlameShadowCurator.description>她似乎为自己能放下那柄旧枪而感到解脱。</AK_Weapon_FlameShadowCurator.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_FlameShadowCurator.tools.0.label>法杖猛击</AK_Weapon_FlameShadowCurator.tools.0.label>
+  <!-- EN: 焰影苇草_博物的法杖 -->
+  <AK_Weapon_FlameShadowCurator.verbs.Verb_Shoot.label>焰影苇草_博物的法杖</AK_Weapon_FlameShadowCurator.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 焰影苇草_夏卉的法杖 -->
+  <AK_Weapon_FlameSummerFlower.label>焰影苇草_夏卉的法杖</AK_Weapon_FlameSummerFlower.label>
+  <!-- EN: 她似乎为自己能放下那柄旧枪而感到解脱。 -->
+  <AK_Weapon_FlameSummerFlower.description>她似乎为自己能放下那柄旧枪而感到解脱。</AK_Weapon_FlameSummerFlower.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_FlameSummerFlower.tools.0.label>法杖猛击</AK_Weapon_FlameSummerFlower.tools.0.label>
+  <!-- EN: 焰影苇草_夏卉的法杖 -->
+  <AK_Weapon_FlameSummerFlower.verbs.Verb_Shoot.label>焰影苇草_夏卉的法杖</AK_Weapon_FlameSummerFlower.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 嘉维尔法杖 -->
+  <AK_Weapon_Gavial.label>嘉维尔法杖</AK_Weapon_Gavial.label>
+  <!-- EN: 嘉维尔的法杖，比起治人的法术更像是敲人的武器。\n“你们老家的术士都是拿这东西治病的？” -->
+  <AK_Weapon_Gavial.description>嘉维尔的法杖，比起治人的法术更像是敲人的武器。
+“你们老家的术士都是拿这东西治病的？”</AK_Weapon_Gavial.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Gavial.tools.0.label>法杖猛砸</AK_Weapon_Gavial.tools.0.label>
+  <!-- EN: 拳击 -->
+  <AK_Weapon_Gavial.tools.1.label>拳击</AK_Weapon_Gavial.tools.1.label>
+  <!-- EN: 法杖重击 -->
+  <AK_Weapon_Gavial.tools.2.label>法杖重击</AK_Weapon_Gavial.tools.2.label>
+  <!-- EN: 嘉维尔法杖 -->
+  <AK_Weapon_Gavial.verbs.Verb_Shoot.label>嘉维尔法杖</AK_Weapon_Gavial.verbs.Verb_Shoot.label>
+  
+  <!-- EN: MON2TR -->
+  <AK_Weapon_Kaltsit.label>MON2TR</AK_Weapon_Kaltsit.label>
+  <!-- EN: 凯尔希的医疗铳，看上去没什么特别的，但是其实全罗德岛也找不出第二把，凯尔希不会任何法术，也没有高超的武术，但是没有一个敌人敢对她掉以轻心。 -->
+  <AK_Weapon_Kaltsit.description>凯尔希的医疗铳，看上去没什么特别的，但是其实全罗德岛也找不出第二把，凯尔希不会任何法术，也没有高超的武术，但是没有一个敌人敢对她掉以轻心。</AK_Weapon_Kaltsit.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Kaltsit.tools.0.label>法杖敲击</AK_Weapon_Kaltsit.tools.0.label>
+  <!-- EN: MON2TR -->
+  <AK_Weapon_Kaltsit.verbs.Verb_Shoot.label>MON2TR</AK_Weapon_Kaltsit.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 祈福法杖 -->
+  <AK_Weapon_Mulberry.label>祈福法杖</AK_Weapon_Mulberry.label>
+  <!-- EN: 桑葚的法杖，上面的令牌用炎国某地的方言写了大量的祈福语，香火的气息若有若无。 -->
+  <AK_Weapon_Mulberry.description>桑葚的法杖，上面的令牌用炎国某地的方言写了大量的祈福语，香火的气息若有若无。</AK_Weapon_Mulberry.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Mulberry.tools.0.label>法杖猛砸</AK_Weapon_Mulberry.tools.0.label>
+  <!-- EN: 祈福法杖 -->
+  <AK_Weapon_Mulberry.verbs.Verb_Shoot.label>祈福法杖</AK_Weapon_Mulberry.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 末药 -->
+  <AK_Weapon_Myrrh.label>末药</AK_Weapon_Myrrh.label>
+  <!-- EN: 末药手工制作的药剂，经过对各种成分的精准计算和特殊的用材，效果比普通的草药好得多。\n但是苦味也比草药更加难以忍受 -->
+  <AK_Weapon_Myrrh.description>末药手工制作的药剂，经过对各种成分的精准计算和特殊的用材，效果比普通的草药好得多。
+但是苦味也比草药更加难以忍受</AK_Weapon_Myrrh.description>
+  <!-- EN: 扑打 -->
+  <AK_Weapon_Myrrh.tools.0.label>扑打</AK_Weapon_Myrrh.tools.0.label>
+  <!-- EN: 末药 -->
+  <AK_Weapon_Myrrh.verbs.Verb_Shoot.label>末药</AK_Weapon_Myrrh.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 封闭的希望 -->
+  <AK_Weapon_Nightingale.label>封闭的希望</AK_Weapon_Nightingale.label>
+  <!-- EN: 夜莺的法杖，笼中的蓝色光芒如同丽兹被封闭的希望。 -->
+  <AK_Weapon_Nightingale.description>夜莺的法杖，笼中的蓝色光芒如同丽兹被封闭的希望。</AK_Weapon_Nightingale.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_Nightingale.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_Nightingale.tools.0.label>
+  <!-- EN: 封闭的希望 -->
+  <AK_Weapon_Nightingale.verbs.Verb_Shoot.label>封闭的希望</AK_Weapon_Nightingale.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 挽歌-封闭的希望 -->
+  <AK_Weapon_NightingaleElegy.label>挽歌-封闭的希望</AK_Weapon_NightingaleElegy.label>
+  <!-- EN: 夜莺的法杖，笼中的蓝色光芒如同丽兹被封闭的希望。 -->
+  <AK_Weapon_NightingaleElegy.description>夜莺的法杖，笼中的蓝色光芒如同丽兹被封闭的希望。</AK_Weapon_NightingaleElegy.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_NightingaleElegy.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_NightingaleElegy.tools.0.label>
+  <!-- EN: 挽歌-封闭的希望 -->
+  <AK_Weapon_NightingaleElegy.verbs.Verb_Shoot.label>挽歌-封闭的希望</AK_Weapon_NightingaleElegy.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 挽歌-错位巡礼的希望 -->
+  <AK_Weapon_NightingaleIakhuOfFlows.label>挽歌-错位巡礼的希望</AK_Weapon_NightingaleIakhuOfFlows.label>
+  <!-- EN: 夜莺的法杖，笼中的蓝色光芒如同丽兹被封闭的希望。 -->
+  <AK_Weapon_NightingaleIakhuOfFlows.description>夜莺的法杖，笼中的蓝色光芒如同丽兹被封闭的希望。</AK_Weapon_NightingaleIakhuOfFlows.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_NightingaleIakhuOfFlows.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_NightingaleIakhuOfFlows.tools.0.label>
+  <!-- EN: 挽歌-错位巡礼的希望 -->
+  <AK_Weapon_NightingaleIakhuOfFlows.verbs.Verb_Shoot.label>挽歌-错位巡礼的希望</AK_Weapon_NightingaleIakhuOfFlows.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 莎草的法杖 -->
+  <AK_Weapon_Papyrus.label>莎草的法杖</AK_Weapon_Papyrus.label>
+  <!-- EN: Fixme -->
+  <AK_Weapon_Papyrus.description>Fixme</AK_Weapon_Papyrus.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Papyrus.tools.0.label>法杖敲击</AK_Weapon_Papyrus.tools.0.label>
+  <!-- EN: 莎草的法杖 -->
+  <AK_Weapon_Papyrus.verbs.Verb_Shoot.label>莎草的法杖</AK_Weapon_Papyrus.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 调香师的法杖 -->
+  <AK_Weapon_Perfumer.label>调香师的法杖</AK_Weapon_Perfumer.label>
+  <!-- EN: 调香师的治疗法杖，依旧散发着微微的清香。\n据说莱娜的技艺精湛到能用拖把施法，只不过没人见过。 -->
+  <AK_Weapon_Perfumer.description>调香师的治疗法杖，依旧散发着微微的清香。
+据说莱娜的技艺精湛到能用拖把施法，只不过没人见过。</AK_Weapon_Perfumer.description>
+  <!-- EN: 法杖敲击 -->
+  <AK_Weapon_Perfumer.tools.0.label>法杖敲击</AK_Weapon_Perfumer.tools.0.label>
+  <!-- EN: 调香师的法杖 -->
+  <AK_Weapon_Perfumer.verbs.Verb_Shoot.label>调香师的法杖</AK_Weapon_Perfumer.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 莱茵医疗辅助单元 -->
+  <AK_Weapon_Ptilopsis.label>莱茵医疗辅助单元</AK_Weapon_Ptilopsis.label>
+  <!-- EN: 白面鸮的法杖，莱茵生命制式设计，结合了莱茵生命的尖端科技进行了诸多改造。\n杜绝感情因素对施展治疗法术有益。 -->
+  <AK_Weapon_Ptilopsis.description>白面鸮的法杖，莱茵生命制式设计，结合了莱茵生命的尖端科技进行了诸多改造。
+杜绝感情因素对施展治疗法术有益。</AK_Weapon_Ptilopsis.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Ptilopsis.tools.0.label>法杖猛砸</AK_Weapon_Ptilopsis.tools.0.label>
+  <!-- EN: 莱茵医疗辅助单元 -->
+  <AK_Weapon_Ptilopsis.verbs.Verb_Shoot.label>莱茵医疗辅助单元</AK_Weapon_Ptilopsis.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “江河之韵” -->
+  <AK_Weapon_Purestream.label>“江河之韵”</AK_Weapon_Purestream.label>
+  <!-- EN: 清流的法杖，泊泊清流从中涌出。\n有传言说清流就是用它净水的。 -->
+  <AK_Weapon_Purestream.description>清流的法杖，泊泊清流从中涌出。
+有传言说清流就是用它净水的。</AK_Weapon_Purestream.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Purestream.tools.0.label>法杖猛砸</AK_Weapon_Purestream.tools.0.label>
+  <!-- EN: “江河之韵” -->
+  <AK_Weapon_Purestream.verbs.Verb_Shoot.label>“江河之韵”</AK_Weapon_Purestream.verbs.Verb_Shoot.label>
+  
+  <!-- EN: “教条” -->
+  <AK_Weapon_Shining.label>“教条”</AK_Weapon_Shining.label>
+  <!-- EN: 闪灵的剑，收入鞘中可以当作法杖使用。\n赦罪师的利刃出鞘时，昼夜都可被斩断 -->
+  <AK_Weapon_Shining.description>闪灵的剑，收入鞘中可以当作法杖使用。
+赦罪师的利刃出鞘时，昼夜都可被斩断</AK_Weapon_Shining.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_Shining.tools.0.label>剑捅</AK_Weapon_Shining.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_Shining.tools.1.label>剑柄猛砸</AK_Weapon_Shining.tools.1.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_Shining.tools.2.label>剑劈</AK_Weapon_Shining.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_Shining.tools.3.label>剑刺</AK_Weapon_Shining.tools.3.label>
+  <!-- EN: “教条” -->
+  <AK_Weapon_Shining.verbs.Verb_Shoot.label>“教条”</AK_Weapon_Shining.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 静谧午夜-“教条” -->
+  <AK_Weapon_ShiningSilentNight.label>静谧午夜-“教条”</AK_Weapon_ShiningSilentNight.label>
+  <!-- EN: 闪灵的剑，收入鞘中可以当作法杖使用。\n赦罪师的利刃出鞘时，昼夜都可被斩断 -->
+  <AK_Weapon_ShiningSilentNight.description>闪灵的剑，收入鞘中可以当作法杖使用。
+赦罪师的利刃出鞘时，昼夜都可被斩断</AK_Weapon_ShiningSilentNight.description>
+  <!-- EN: 剑捅 -->
+  <AK_Weapon_ShiningSilentNight.tools.0.label>剑捅</AK_Weapon_ShiningSilentNight.tools.0.label>
+  <!-- EN: 剑柄猛砸 -->
+  <AK_Weapon_ShiningSilentNight.tools.1.label>剑柄猛砸</AK_Weapon_ShiningSilentNight.tools.1.label>
+  <!-- EN: 剑劈 -->
+  <AK_Weapon_ShiningSilentNight.tools.2.label>剑劈</AK_Weapon_ShiningSilentNight.tools.2.label>
+  <!-- EN: 剑刺 -->
+  <AK_Weapon_ShiningSilentNight.tools.3.label>剑刺</AK_Weapon_ShiningSilentNight.tools.3.label>
+  <!-- EN: 静谧午夜-“教条” -->
+  <AK_Weapon_ShiningSilentNight.verbs.Verb_Shoot.label>静谧午夜-“教条”</AK_Weapon_ShiningSilentNight.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 药瓶 -->
+  <AK_Weapon_Silence.label>药瓶</AK_Weapon_Silence.label>
+  <!-- EN: 经过医疗部精细调配比例生产出的化学药品，针对作战需求进行了特化改装能符合战场急救需求。 -->
+  <AK_Weapon_Silence.description>经过医疗部精细调配比例生产出的化学药品，针对作战需求进行了特化改装能符合战场急救需求。</AK_Weapon_Silence.description>
+  <!-- EN: 扑打 -->
+  <AK_Weapon_Silence.tools.0.label>扑打</AK_Weapon_Silence.tools.0.label>
+  <!-- EN: 药瓶 -->
+  <AK_Weapon_Silence.verbs.Verb_Shoot.label>药瓶</AK_Weapon_Silence.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 标准治疗单元 -->
+  <AK_Weapon_Sussurro.label>标准治疗单元</AK_Weapon_Sussurro.label>
+  <!-- EN: 罗德岛制式医疗法杖，顶部置有源石法术增幅模块，能配合使用者发挥出更强大的治疗法术。\n使用时如有任何不适请将情况立刻递交至医疗部。 -->
+  <AK_Weapon_Sussurro.description>罗德岛制式医疗法杖，顶部置有源石法术增幅模块，能配合使用者发挥出更强大的治疗法术。
+使用时如有任何不适请将情况立刻递交至医疗部。</AK_Weapon_Sussurro.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Sussurro.tools.0.label>法杖猛砸</AK_Weapon_Sussurro.tools.0.label>
+  <!-- EN: 标准治疗单元 -->
+  <AK_Weapon_Sussurro.verbs.Verb_Shoot.label>标准治疗单元</AK_Weapon_Sussurro.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 刺玫之杖 -->
+  <AK_Weapon_Vendela.label>刺玫之杖</AK_Weapon_Vendela.label>
+  <!-- EN: 刺玫的法杖，过往已逝，她能攥住的并不多。 -->
+  <AK_Weapon_Vendela.description>刺玫的法杖，过往已逝，她能攥住的并不多。</AK_Weapon_Vendela.description>
+  <!-- EN: 法杖猛击 -->
+  <AK_Weapon_Vendela.tools.0.label>法杖猛击</AK_Weapon_Vendela.tools.0.label>
+  <!-- EN: 刺玫之杖 -->
+  <AK_Weapon_Vendela.verbs.Verb_Shoot.label>刺玫之杖</AK_Weapon_Vendela.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 血魔法杖 -->
+  <AK_Weapon_Warfarin.label>血魔法杖</AK_Weapon_Warfarin.label>
+  <!-- EN: 华法林的法杖，上面挂着一袋红色液体，有种令人着魔的感觉。\n粘稠而富有光泽的红色在袋子中缓缓地改变着形态。 -->
+  <AK_Weapon_Warfarin.description>华法林的法杖，上面挂着一袋红色液体，有种令人着魔的感觉。
+粘稠而富有光泽的红色在袋子中缓缓地改变着形态。</AK_Weapon_Warfarin.description>
+  <!-- EN: 法杖猛砸 -->
+  <AK_Weapon_Warfarin.tools.0.label>法杖猛砸</AK_Weapon_Warfarin.tools.0.label>
+  <!-- EN: 血魔法杖 -->
+  <AK_Weapon_Warfarin.verbs.Verb_Shoot.label>血魔法杖</AK_Weapon_Warfarin.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 絮雨的伞 -->
+  <AK_Weapon_Whisperain.label>絮雨的伞</AK_Weapon_Whisperain.label>
+  <!-- EN: 如同在屋下避雨的旅人。 -->
+  <AK_Weapon_Whisperain.description>如同在屋下避雨的旅人。</AK_Weapon_Whisperain.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_Whisperain.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_Whisperain.tools.0.label>
+  <!-- EN: 絮雨的伞 -->
+  <AK_Weapon_Whisperain.verbs.Verb_Shoot.label>絮雨的伞</AK_Weapon_Whisperain.verbs.Verb_Shoot.label>
+  
+  <!-- EN: 絮雨-幽邃隐修的提灯 -->
+  <AK_Weapon_WhisperainPrioryOfAbyss.label>絮雨-幽邃隐修的提灯</AK_Weapon_WhisperainPrioryOfAbyss.label>
+  <!-- EN: 如同在屋下避雨的旅人。 -->
+  <AK_Weapon_WhisperainPrioryOfAbyss.description>如同在屋下避雨的旅人。</AK_Weapon_WhisperainPrioryOfAbyss.description>
+  <!-- EN: 基础打击(只有此种攻击方式意味着此武器暂未完成) -->
+  <AK_Weapon_WhisperainPrioryOfAbyss.tools.0.label>基础打击(只有此种攻击方式意味着此武器暂未完成)</AK_Weapon_WhisperainPrioryOfAbyss.tools.0.label>
+  <!-- EN: 絮雨-幽邃隐修的提灯 -->
+  <AK_Weapon_WhisperainPrioryOfAbyss.verbs.Verb_Shoot.label>絮雨-幽邃隐修的提灯</AK_Weapon_WhisperainPrioryOfAbyss.verbs.Verb_Shoot.label>
+  
+</LanguageData>

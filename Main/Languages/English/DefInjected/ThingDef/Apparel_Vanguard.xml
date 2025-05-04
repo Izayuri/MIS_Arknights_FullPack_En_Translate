@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: 风笛的服装 -->
+  <AK_Apparel_Bagpipe.label>风笛的服装</AK_Apparel_Bagpipe.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Bagpipe.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Bagpipe.description>
+  
+  <!-- EN: 豆苗服装 -->
+  <AK_Apparel_Beanstalk.label>豆苗服装</AK_Apparel_Beanstalk.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Beanstalk.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Beanstalk.description>
+  
+  <!-- EN: 豆苗-未完成的礼物 -->
+  <AK_Apparel_BeanstalkGiftUncompleted.label>豆苗-未完成的礼物</AK_Apparel_BeanstalkGiftUncompleted.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_BeanstalkGiftUncompleted.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_BeanstalkGiftUncompleted.description>
+  
+  <!-- EN: 夜半服装 -->
+  <AK_Apparel_Blacknight.label>夜半服装</AK_Apparel_Blacknight.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Blacknight.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Blacknight.description>
+  
+  <!-- EN: 讯使服装 -->
+  <AK_Apparel_Courier.label>讯使服装</AK_Apparel_Courier.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Courier.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Courier.description>
+  
+  <!-- EN: 芬服装 -->
+  <AK_Apparel_Fang.label>芬服装</AK_Apparel_Fang.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Fang.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Fang.description>
+  
+  <!-- EN: 焰尾服装 -->
+  <AK_Apparel_Flametail.label>焰尾服装</AK_Apparel_Flametail.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Flametail.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Flametail.description>
+  
+  <!-- EN: 格拉尼服装 -->
+  <AK_Apparel_Grani.label>格拉尼服装</AK_Apparel_Grani.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Grani.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Grani.description>
+  
+  <!-- EN: 伊内丝服装 -->
+  <AK_Apparel_Ines.label>伊内丝服装</AK_Apparel_Ines.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Ines.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Ines.description>
+  
+  <!-- EN: 缪尔赛思服装 -->
+  <AK_Apparel_Muelsyse.label>缪尔赛思服装</AK_Apparel_Muelsyse.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Muelsyse.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Muelsyse.description>
+  
+  <!-- EN: 桃金娘服装 -->
+  <AK_Apparel_Myrtle.label>桃金娘服装</AK_Apparel_Myrtle.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Myrtle.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Myrtle.description>
+  
+  <!-- EN: 桃金娘-夏卉 -->
+  <AK_Apparel_MyrtleSummerFlower.label>桃金娘-夏卉</AK_Apparel_MyrtleSummerFlower.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_MyrtleSummerFlower.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_MyrtleSummerFlower.description>
+  
+  <!-- EN: 翎羽服装 -->
+  <AK_Apparel_Plume.label>翎羽服装</AK_Apparel_Plume.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Plume.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Plume.description>
+  
+  <!-- EN: 苇草的服装 -->
+  <AK_Apparel_Reed.label>苇草的服装</AK_Apparel_Reed.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Reed.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Reed.description>
+  
+  <!-- EN: 嵯峨的服装 -->
+  <AK_Apparel_Saga.label>嵯峨的服装</AK_Apparel_Saga.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Saga.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Saga.description>
+  
+  <!-- EN: 琴柳服装 -->
+  <AK_Apparel_Saileach.label>琴柳服装</AK_Apparel_Saileach.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Saileach.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Saileach.description>
+  
+  <!-- EN: 推进之王的服装 -->
+  <AK_Apparel_Siege.label>推进之王的服装</AK_Apparel_Siege.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Siege.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Siege.description>
+  
+  <!-- EN: 德克萨斯的服装 -->
+  <AK_Apparel_Texas.label>德克萨斯的服装</AK_Apparel_Texas.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Texas.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Texas.description>
+  
+  <!-- EN: 香草的服装 -->
+  <AK_Apparel_Vanilla.label>香草的服装</AK_Apparel_Vanilla.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Vanilla.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Vanilla.description>
+  
+  <!-- EN: 忍冬服装 -->
+  <AK_Apparel_Vulpisfoglia.label>忍冬服装</AK_Apparel_Vulpisfoglia.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Vulpisfoglia.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Vulpisfoglia.description>
+  
+  <!-- EN: 野鬃服装 -->
+  <AK_Apparel_Wild.label>野鬃服装</AK_Apparel_Wild.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Wild.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Wild.description>
+  
+  <!-- EN: 夜刀服装 -->
+  <AK_Apparel_Yato.label>夜刀服装</AK_Apparel_Yato.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Yato.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Yato.description>
+  
+  <!-- EN: 凛冬服装 -->
+  <AK_Apparel_Zima.label>凛冬服装</AK_Apparel_Zima.label>
+  <!-- EN: 干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。 -->
+  <AK_Apparel_Zima.description>干员平时最常穿着的服装。虽然不一定比制服更实用，但是一定是干员最舒适的搭配之一。</AK_Apparel_Zima.description>
+  
+</LanguageData>
