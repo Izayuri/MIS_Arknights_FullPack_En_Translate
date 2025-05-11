@@ -23,7 +23,7 @@
   <AK_Recruit_Absinthe.name>TODO</AK_Recruit_Absinthe.name>
   <!-- EN: Absinthe -->
   <AK_Recruit_Absinthe.nickname>Zoya</AK_Recruit_Absinthe.nickname>
-  <!-- EN: 罗德岛 -->
+  <!-- EN: Rhodes Island -->
   <AK_Recruit_Absinthe.surname>Caster</AK_Recruit_Absinthe.surname>
     
  Instructions:
@@ -31,11 +31,11 @@
  Title: Either a faction they belong to or an ideology. Keep it short, ie. "U.S.S.G. Member" or "Scion of Sui"
  TitleShort: Operator's specific class. Guardian, Charger, so on.
  
-   <!-- EN: 在切尔诺伯格事件爆发后，{PAWN_nameDef}同当地的一小队警官共同行动。但是伴随着资源的耗尽，最后只剩下了{PAWN_nameDef}的一人\n{PAWN_nameDef}的双亲已经被确认离世，再被救援队救下后，{PAWN_nameDef}便加入了罗德岛。 -->
+   <!-- EN: When the Chernobyl crisis broke out, {PAWN_nameDef} acted with a small team of local police officers. However, by the time their supplies ran dry, only {PAWN_nameDef} remained.\n{PAWN_nameDef}'s parents have been confirmed to have passed away. When she was rescued by Rhodes Island's rescue team, {PAWN_nameDef} was in a terrible mental state. She went through a period of rehabilitation, after which she joined Rhodes Island as an Operator. -->
   <AK_BackStory_Absinthe_Child.baseDesc>When the Chernobyl incident broke out, {PAWN_nameDef} acted with a small team of local police officers, including her father. However, when supplies ran out, only {PAWN_nameDef} remained.\n{PAWN_nameDef}'s parents have been confirmed to have passed away. After being rescued by the rescue team, {PAWN_nameDef} joined Rhode Island after a period of rehabilitation.</AK_BackStory_Absinthe_Child.baseDesc>
-  <!-- EN: 切尔诺伯格事件幸存者 -->
+  <!-- EN: The Lucky Survivor of the Chernobog Crisis -->
   <AK_BackStory_Absinthe_Child.title>Ursus Survivor</AK_BackStory_Absinthe_Child.title>
-  <!-- EN: 幸存者 -->
+  <!-- EN: The Lucky Survivor -->
   <AK_BackStory_Absinthe_Child.titleShort>Core</AK_BackStory_Absinthe_Child.titleShort>
  
  Instructions:
@@ -43,9 +43,9 @@
  Description: Lore snippet about what makes them special. Past experiences, explanation of what the module does, so on.
  Effect: In game effect of what the trait does. Can help shape what you're writing.
  
- <!-- EN: 执法者 -->
+ <!-- EN: Enforcer -->
   <AK_Trait_Absinthe.degreeDatas.0.label>Ursus Lawman</AK_Trait_Absinthe.degreeDatas.0.label>
-  <!-- EN: 切尔诺伯格的灾难永远的改变了{PAWN_nameDef}，{PAWN_pronoun}总是尝试保护别人，但是又不知道为什么，这些都需要{PAWN_pronoun}自己回答。 -->
+  <!-- EN: The Chernobog crisis changed {PAWN_nameDef} forever. She constantly tries to protect others, often without understanding why she does. However, these are questions that {PAWN_nameDef} must find the answers for herself. -->
   <AK_Trait_Absinthe.degreeDatas.0.description>The Chernobyl disaster changed {PAWN_nameDef} forever. {PAWN_pronoun} always tries to protect others, unsure as to why. {PAWN_pronoun} will not fail them.</AK_Trait_Absinthe.degreeDatas.0.description>
   Effect:
   -Permanent mood effect -10
@@ -57,9 +57,9 @@
  Label: Name of affliction/thought process/state of mind
  Description: Characters thoughts about their life/situation
  
-	  <!-- EN: 执法者 -->
+	  <!-- EN: Enforcer -->
   <AK_Thought_Trait_Absinthe.stages.0.label>Chernobog PTSD</AK_Thought_Trait_Absinthe.stages.0.label>
-  <!-- EN: 谁要我的保护？我能保护谁？自那场动乱以来，我就一直在问自己...... -->
+  <!-- EN: Who needs my protection? Who can I protect? I've been asking myself, since that nightmare... -->
   <AK_Thought_Trait_Absinthe.stages.0.description>Who can I protect? Who even wants my protection?</AK_Thought_Trait_Absinthe.stages.0.description>
   
   
@@ -67,7 +67,7 @@
  Label: The weapon's name, if you wish to change it.
  Description: A physical description of the Operator's weapon, or where it comes from, or whatever.
  
-  <!-- EN: 铳形法杖 -->
+  <!-- EN: "Khranitel" Series Service Revolver -->
   <AK_Weapon_Absinthe.label>Absinthe's Weapon</AK_Weapon_Absinthe.label>
-  <!-- EN: This is the test in the Chinese file. -->
+  <!-- EN: A repurposed Ursian service revolver, now a catalyst for Absinthe to use to channel her Arts. The "Khranitel" line of revolvers is considered an antique, even for Chernobog, but Absinthe has never, ever entertained the thought of replacing her weapon. -->
   <AK_Weapon_Absinthe.description>A repurposed Ursus police service revolver, acting as a catalyst for Absinthe to channel her Arts.</AK_Weapon_Absinthe.description>
