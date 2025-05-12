@@ -2,47 +2,46 @@
 <LanguageData>
   
   <!-- EN: 在切尔诺伯格事件爆发后，{PAWN_nameDef}同当地的一小队警官共同行动。但是伴随着资源的耗尽，最后只剩下了{PAWN_nameDef}的一人。\n{PAWN_nameDef}的双亲已经被确认离世，再被救援队救下后，{PAWN_nameDef}便加入了罗德岛。 -->
-  <AK_BackStory_Absinthe_Child.description>When the Chernobyl incident broke out, {PAWN_nameDef} acted with a small team of local police officers, including her father. However, when supplies ran out, only {PAWN_nameDef} remained.\n{PAWN_nameDef}'s parents have been confirmed to have passed away. After being rescued by the rescue team, {PAWN_nameDef} joined Rhode Island after a period of rehabilitation.</AK_BackStory_Absinthe_Child.description>
+  <AK_BackStory_Absinthe_Child.description>When the Chernobyl incident broke out, Zoya acted with a small team of local police officers. However, by the time their supplies ran dry, only {PAWN_pronoun} remained.\n{PAWN_possessive} parents have been confirmed to have passed away. When {PAWN_pronoun} was rescued by Rhodes Island's rescue team, Zoya was in a terrible mental state. {PAWN_pronoun} went through a period of rehabilitation, after which {PAWN_pronoun} joined Rhodes Island as an Operator.</AK_BackStory_Absinthe_Child.description>
   <!-- EN: 切尔诺伯格事件幸存者 -->
-  <AK_BackStory_Absinthe_Child.title>Chernobog Survivor</AK_BackStory_Absinthe_Child.title>
+  <AK_BackStory_Absinthe_Child.title>Lucky Survivor/AK_BackStory_Absinthe_Child.title>
   <!-- EN: 幸存者 -->
   <AK_BackStory_Absinthe_Child.titleShort>Core</AK_BackStory_Absinthe_Child.titleShort>
   
   <!-- EN: 罗德岛的公开领袖，在内部拥有最高执行权。 -->
-  <AK_BackStory_Amiya_Child.description>Not much is known about her earlier life, but {PAWN_nameDef} is the current public leader of Rhode Island and that's all that matters now.</AK_BackStory_Amiya_Child.description>
+  <AK_BackStory_Amiya_Child.description>Not much is known about {PAWN_possessive} earlier life, but in the eyes of the public, {PAWN_pronoun} is the current leader of Rhodes Island, and that's all that matters now.</AK_BackStory_Amiya_Child.description>
   <!-- EN: 罗德岛领导人 -->
-  <AK_BackStory_Amiya_Child.title>R.I. Leadership</AK_BackStory_Amiya_Child.title>
+  <AK_BackStory_Amiya_Child.title>Leader of R.I.</AK_BackStory_Amiya_Child.title>
   <!-- EN: 领导人 -->
   <AK_BackStory_Amiya_Child.titleShort>Core</AK_BackStory_Amiya_Child.titleShort>
   
   <!-- EN: 莱茵生命能量科研究员，{PAWN_nameDef}。在罗德岛驻留期间则使用其原名作为代号以示区分。\n使用自制法杖以极具特色的源石技艺制衡敌人，但比起前线作战，本人更希望在后方承接专业研究及器械维护方面的工作。 -->
-  <AK_BackStory_Astgenne_Adult.description>After earning two Ph.D. degrees, {PAWN_nameDef} found employment in Rhine Lab. However, an Originium leak caused {PAWN_pronoun} to contract Oripathy along with {PAWN_pronoun} twin. The pair have come to Rhode Island for treatment. </AK_BackStory_Astgenne_Adult.description>
+  <AK_BackStory_Astgenne_Adult.description>After earning two PhD degrees, {PAWN_nameDef} found employment in Rhine Lab. However, an Originium leak caused {PAWN_possessive} to contract Oripathy along with {PAWN_possessive} twin sister, Astesia. The pair has since come to Rhodes Island for treatment. </AK_BackStory_Astgenne_Adult.description>
   <!-- EN: 莱茵生命能量科研究员 -->
-  <AK_BackStory_Astgenne_Adult.title>Rhine Lab</AK_BackStory_Astgenne_Adult.title>
+  <AK_BackStory_Astgenne_Adult.title>R.L. Energy Staff</AK_BackStory_Astgenne_Adult.title>
   <!-- EN: 能量科研究员 -->
-  <AK_BackStory_Astgenne_Adult.titleShort>Core</AK_BackStory_Astgenne_Adult.titleShort>
+  <AK_BackStory_Astgenne_Adult.titleShort>Chain</AK_BackStory_Astgenne_Adult.titleShort>
   
   <!-- EN: 作为星极的妹妹，{PAWN_nameDef}本来应该成为和{PAWN_pronoun}姐姐一样优秀的星相学家。\n但{PAWN_pronoun}最后选择了被家人视为歪门邪道的科学，并因此最后脱离了家庭。 -->
-  <AK_BackStory_Astgenne_Child.description>The younger of sister of Astesia, {PAWN_nameDef} was pressured into studying astrology. This caused a schism, forcing {PAWN_nameDef} to leave home.。</AK_BackStory_Astgenne_Child.description>
+  <AK_BackStory_Astgenne_Child.description>Astesia's younger twin sister, {PAWN_nameDef} was pressured by {PAWN_possessive} parents into studying astrology over {PAWN_possessive} preferred field of science. This created a schism between {PAWN_possessive} and {PAWN_possessive} family, and {PAWN_pronoun} soon left home to pursue {PAWN_possessive} studies alone.</AK_BackStory_Astgenne_Child.description>
   <!-- EN: 倔强的孩子 -->
   <AK_BackStory_Astgenne_Child.title>Stubborn Child</AK_BackStory_Astgenne_Child.title>
   <!-- EN: 倔强的孩子 -->
-  <AK_BackStory_Astgenne_Child.titleShort>Core</AK_BackStory_Astgenne_Child.titleShort>
+  <AK_BackStory_Astgenne_Child.titleShort>Chain</AK_BackStory_Astgenne_Child.titleShort>
   
   <!-- EN: {PAWN_nameDef}小姐联系罗德岛，是为了寻找先其一步离开部族，外出游历的姐姐。\n来自黄沙中的孩子还没有各种为人处世的经验。 -->
-  <AK_BackStory_Beeswax_Child.description>Miss {PAWN_nameDef} contacted Rhodes Island in order to find a blood relative who had left the tribe first on a journey.\n The child from the deserts has no experience of the outside world.</AK_BackStory_Beeswax_Child.description>
+  <AK_BackStory_Beeswax_Child.description>Miss Ankhesena contacted Rhodes Island and asked to board the ship in order to find a blood relative who had left their tribe to embark on a journey.\nAs a child of the desert, {PAWN_pronoun} remains naive about the outside world.</AK_BackStory_Beeswax_Child.description>
   <!-- EN: 寻亲的孩子 -->
-  <AK_BackStory_Beeswax_Child.title>寻亲的孩子</AK_BackStory_Beeswax_Child.title>
+  <AK_BackStory_Beeswax_Child.title>Seeker</AK_BackStory_Beeswax_Child.title>
   <!-- EN: 寻亲的孩子 -->
-  <AK_BackStory_Beeswax_Child.titleShort>寻亲的孩子</AK_BackStory_Beeswax_Child.titleShort>
+  <AK_BackStory_Beeswax_Child.titleShort>Phalanx</AK_BackStory_Beeswax_Child.titleShort>
   
   <!-- EN: {PAWN_nameDef}原本在成年后离开家乡在大地上四处游学。\n但是在{PAWN_possessive}最后一站，{PAWN_pronoun}无意间发现了当地小伯爵的感染者身份，因此被扣留并临时担任他的侍卫。 -->
-  <AK_BackStory_Carnelian_Adult.description>{PAWN_nameDef}原本在成年后离开家乡在大地上四处游学。
-但是在{PAWN_possessive}最后一站，{PAWN_pronoun}无意间发现了当地小伯爵的感染者身份，因此被扣留并临时担任他的侍卫。</AK_BackStory_Carnelian_Adult.description>
+  <AK_BackStory_Carnelian_Adult.description>When {PAWN_nameDef} came of age, {PAWN_pronoun} intended to leave {PAWN_possessive} homeland to study abroad. However, at {PAWN_possessive} last stop in Leithanien, {PAWN_pronoun} bumped into a young Count Hohenlohe, and accidentally discovered he was an Infected. {PAWN_pronoun} was then detained... and has since been employed by the Hyacinth Count to discreetly help him with his infection.</AK_BackStory_Carnelian_Adult.description>
   <!-- EN: 游学者 -->
-  <AK_BackStory_Carnelian_Adult.title>游学者</AK_BackStory_Carnelian_Adult.title>
+  <AK_BackStory_Carnelian_Adult.title>Itinerant Scholar</AK_BackStory_Carnelian_Adult.title>
   <!-- EN: 游学者 -->
-  <AK_BackStory_Carnelian_Adult.titleShort>游学者</AK_BackStory_Carnelian_Adult.titleShort>
+  <AK_BackStory_Carnelian_Adult.titleShort>Phalanx</AK_BackStory_Carnelian_Adult.titleShort>
   
   <!-- EN: {PAWN_nameDef}出身萨尔贡深处不受王酋管辖的某个古老部族。\n那个遥远部族的种种习俗不得而知，但{PAWN_possessive}部族似乎并不像其他的那样盲目排斥外来物。 -->
   <AK_BackStory_Carnelian_Child.description>{PAWN_nameDef}出身萨尔贡深处不受王酋管辖的某个古老部族。
