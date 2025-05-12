@@ -2,7 +2,7 @@
 <LanguageData>
   
   <!-- EN: 在切尔诺伯格事件爆发后，{PAWN_nameDef}同当地的一小队警官共同行动。但是伴随着资源的耗尽，最后只剩下了{PAWN_nameDef}的一人。\n{PAWN_nameDef}的双亲已经被确认离世，再被救援队救下后，{PAWN_nameDef}便加入了罗德岛。 -->
-  <AK_BackStory_Absinthe_Child.description>When the Chernobog incident broke out, {PAWN_nameDef} acted with a small team of local police officers, including her father. However, when supplies ran out, only {PAWN_nameDef} remained.\n{PAWN_nameDef}'s parents have been confirmed to have passed away. After being rescued, {PAWN_nameDef} joined Rhodes Island after a period of rehabilitation.</AK_BackStory_Absinthe_Child.description>
+  <AK_BackStory_Absinthe_Child.description>When the Chernobyl incident broke out, {PAWN_nameDef} acted with a small team of local police officers, including her father. However, when supplies ran out, only {PAWN_nameDef} remained.\n{PAWN_nameDef}'s parents have been confirmed to have passed away. After being rescued by the rescue team, {PAWN_nameDef} joined Rhode Island after a period of rehabilitation.</AK_BackStory_Absinthe_Child.description>
   <!-- EN: 切尔诺伯格事件幸存者 -->
   <AK_BackStory_Absinthe_Child.title>Chernobog Survivor</AK_BackStory_Absinthe_Child.title>
   <!-- EN: 幸存者 -->
