@@ -2,9 +2,9 @@
 <LanguageData>
   
   <!-- EN: 执法者 -->
-  <AK_Trait_Absinthe.degreeDatas.0.label>执法者</AK_Trait_Absinthe.degreeDatas.0.label>
+  <AK_Trait_Absinthe.degreeDatas.0.label>Harrowed</AK_Trait_Absinthe.degreeDatas.0.label>
   <!-- EN: 切尔诺伯格的灾难永远的改变了{PAWN_nameDef}，{PAWN_pronoun}总是尝试保护别人，但是又不知道为什么，这些都需要{PAWN_pronoun}自己回答。 -->
-  <AK_Trait_Absinthe.degreeDatas.0.description>切尔诺伯格的灾难永远的改变了{PAWN_nameDef}，{PAWN_pronoun}总是尝试保护别人，但是又不知道为什么，这些都需要{PAWN_pronoun}自己回答。</AK_Trait_Absinthe.degreeDatas.0.description>
+  <AK_Trait_Absinthe.degreeDatas.0.description> The Chernobyl disaster changed {PAWN_nameDef} forever. {PAWN_pronoun} always tries to protect others, but she doesn't know why. These are all questions that {PAWN_pronoun} needs to answer herself. </AK_Trait_Absinthe.degreeDatas.0.description>
   
   <!-- EN: 救世的魔王 -->
   <AK_Trait_Amiya.degreeDatas.0.label>救世的魔王</AK_Trait_Amiya.degreeDatas.0.label>
