@@ -2,8 +2,8 @@
 <LanguageData>
   
   <!-- EN: 理发 -->
-  <AKA_Ability_Goldenglow_HairCut.label>理发</AKA_Ability_Goldenglow_HairCut.label>
+  <AKA_Ability_Goldenglow_HairCut.label>Hair-do Redo</AKA_Ability_Goldenglow_HairCut.label>
   <!-- EN: 随机改变目标发型。”祝你生日快乐！“ -->
-  <AKA_Ability_Goldenglow_HairCut.description>随机改变目标发型。”祝你生日快乐！“</AKA_Ability_Goldenglow_HairCut.description>
+  <AKA_Ability_Goldenglow_HairCut.description>Randomly generates a new hairstyle. Includes Operator Hairstyles. Do not use.</AKA_Ability_Goldenglow_HairCut.description>
   
 </LanguageData>
