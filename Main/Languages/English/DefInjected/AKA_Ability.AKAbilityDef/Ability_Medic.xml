@@ -2,13 +2,13 @@
 <LanguageData>
   
   <!-- EN: 治疗 -->
-  <AKA_Ability_BaseHeal.label>治疗</AKA_Ability_BaseHeal.label>
+  <AKA_Ability_BaseHeal.label>Medical Aid</AKA_Ability_BaseHeal.label>
   <!-- EN: 每位医疗干员都掌握的，非常基础的伤口处理。 -->
-  <AKA_Ability_BaseHeal.description>每位医疗干员都掌握的，非常基础的伤口处理。</AKA_Ability_BaseHeal.description>
+  <AKA_Ability_BaseHeal.description>Heals one stage of an injury.</AKA_Ability_BaseHeal.description>
   
   <!-- EN: 再生 -->
-  <AKA_Ability_Regrow.label>再生</AKA_Ability_Regrow.label>
+  <AKA_Ability_Regrow.label>Regeneration</AKA_Ability_Regrow.label>
   <!-- EN: 每位医疗干员都掌握的，非常基础的伤口处理。 -->
-  <AKA_Ability_Regrow.description>每位医疗干员都掌握的，非常基础的伤口处理。</AKA_Ability_Regrow.description>
+  <AKA_Ability_Regrow.description>Very quickly heals all minor injuries.</AKA_Ability_Regrow.description>
   
 </LanguageData>
